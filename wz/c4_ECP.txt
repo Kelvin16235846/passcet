@@ -1,0 +1,13641 @@
+onion
+ n.洋葱，洋葱头
+[ˈʌnjən]
+style 
+ n.风格；文体；式样
+[stail]
+naughty 
+ a.顽皮的，淘气的
+[ˈnɔːti]
+nucleus 
+ n.核，核心；(原子)核
+[ˈnjuːkliəs]
+past 
+ a.过去的 n.过去
+[pɑːst]
+track 
+ n.行踪；路径；轨道
+[træk]
+through 
+ prep.穿过 ad.从头到尾
+[θruː]
+control 
+ vt.控制，克制 n.控制
+[kənˈtrəul]
+somewhere 
+ ad.在某处 n.某地
+[ˈsʌm(h)weə]
+role 
+ n.角色，作用，任务
+[rəul]
+pour 
+ vt.灌，倒 vi.倾泻
+[pɔː(r)]
+approve 
+ vt.赞成，称许；批准
+[əˈpruːv]
+suit 
+ n.起拆，诉讼 vt.适合
+[sjuːt]
+substantial 
+ a.物质的；坚固的
+[səbˈstæn∫əl]
+swan 
+ n.天鹅
+[swɔn]
+candle 
+ n.蜡烛；烛形物；烛光
+[ˈkændl]
+ghost 
+ n.鬼，灵魂；鬼魂
+[gəust]
+alter 
+ vt.改变，变更；改做
+[ˈɔːltə]
+risk 
+ n.风险，危险，冒险
+[risk]
+dollar 
+ n.元(货币单位)
+[ˈdɔlə]
+brandy 
+ n.白兰地酒
+[ˈbrændi]
+investigate 
+ vt.&vi.调查
+[inˈvestigeit]
+film 
+ n.影片；胶卷；薄层
+[film]
+extend 
+ vt.延长；扩大；致
+[iksˈtend]
+enter 
+ vt.走进，进入；参加
+[ˈentə]
+journey 
+ n.旅行，旅程 n.旅行
+[ˈdʒəːni]
+deliver 
+ vt.投递，送交；发表
+[diˈlivə]
+chairman 
+ n.主席；议长，会长
+[ˈt∫eəmən]
+clerk 
+ n.店员；办事员，职员
+[klərk]
+nobody 
+ pron.谁也不；无人
+[ˈnəubədi]
+adapt 
+ vt.使适应；改编
+[əˈdæpt]
+fruitful 
+ a.多产的；肥沃的
+[ˈfruːtful]
+brain 
+ n.脑，脑髓；脑力
+[brein]
+waste 
+ n.浪费；废物；垃圾
+[weist]
+detail 
+ n.细节；枝节；零件
+[diˈteil]
+trend 
+ vi.伸向；倾向 n.倾向
+[trend]
+circumstance 
+ n.情况，条件；境遇
+[ˈsəːkəmstəns]
+intention 
+ n.意图，意向，目的
+[inˈten∫ən]
+Marxist 
+ a.马克思主义的
+[ˈmɑːksist]
+emerge 
+ vi.出现，涌现；冒出
+[iˈməːdʒ]
+waterfall 
+ n.瀑布
+[ˈwɔːtəfɔːl]
+shore 
+ n.滨，岸
+[∫ɔː]
+tennis 
+ n.网球，网球运动
+[ˈtenis]
+consciousness 
+ n.意识,觉悟;知觉
+[ˈkɔn∫əsnis]
+amuse 
+ vt.逗…乐；给…娱乐
+[əˈmjuːz]
+shopping 
+ n.买东西，购物
+[ˈ∫ɔpiŋ]
+attack 
+ vt.&vi.&n.攻击，进攻
+[əˈtæk]
+hobby 
+ n.业余爱好，癖好
+[ˈhɔbi]
+contact 
+ vt.使接触；与…联系
+[ˈkɔntækt]
+attitude 
+ n.态度，看法；姿势
+[ˈætitjuːd]
+gain 
+ vt.获得；增加 n.增进
+[gein]
+measurement 
+ n.衡量,测量；尺寸
+[ˈmeʒəmənt]
+robot 
+ n.机器人；自动机
+[ˈrəubɔt]
+drum 
+ n.鼓；鼓状物，圆桶
+[drʌm]
+outwards 
+ ad.向外，往海外
+[ˈautwədz]
+housewife 
+ n.家庭主妇
+[ˈhauswaif]
+disagree 
+ vi.有分歧；不一致
+[ˌdisəˈgriː]
+property 
+ n.财产，资产；性质
+[ˈprɔpəti]
+rational 
+ a.理性的；出于理性的
+[ˈræ∫ənl]
+primary 
+ a.最初的；基本的
+[ˈpraiməri]
+trouble 
+ n.烦恼；困难 vi.烦恼
+[ˈtrʌbl]
+sting 
+ vt.刺；刺痛 vi.&n.刺
+[stiŋ]
+breathe 
+ vi.呼吸 vt.呼吸
+[briːð]
+yawn 
+ vi.打呵欠 n.呵欠
+[jɔːn]
+screw 
+ n.螺旋，螺丝 vt.拧紧
+[skruː]
+headline 
+ n.大字标题；新闻提要
+[ˈhedlain]
+maintenance 
+ n.维持，保持；维修
+[ˈmeintinəns]
+elementary 
+ a.基本的；初级的
+[ˌeliˈmentəri]
+access 
+ n.接近；通道，入口
+[ˈækses]
+neglect 
+ vt.忽视，忽略；疏忽
+[niˈglekt]
+jewel 
+ n.宝石；宝石饰物
+[ˈdʒuːəl]
+careful 
+ a.仔细的；细致的
+[ˈkeəful]
+indeed 
+ ad.真正地；确实
+[inˈdiːd]
+fluid 
+ n.流体，液体
+[ˈflu(ː)id]
+kettle 
+ n.水壶，水锅
+[ˈketl]
+frequently 
+ ad.时常，常常
+[ˈfriːkwənt]
+direct 
+ a.直接的；直率的
+[diˈrekt]
+couple 
+ n.夫妇；(一)对；几个
+[ˈkʌpl]
+lonely 
+ a.孤独的；荒凉的
+[ˈləunli]
+wonderful 
+ a.惊人的；极好的
+[ˈwʌndəful]
+publish 
+ vt.公布；发表；出版
+[ˈpʌbli∫]
+peaceful 
+ a.和平的；安静的
+[ˈpiːsful]
+struggle 
+ n.&vi.斗争，奋斗
+[ˈstrʌgl]
+sweep 
+ vt.扫；刮起；扫过
+[swiːp]
+war 
+ n.战争；冲突，斗争
+[wɔː]
+fasten 
+ vt.扎牢，扣住
+[fæ sn]
+up 
+ ad.向上；起床，起来
+[ʌp]
+electrical 
+ a.电的，电气科学的
+[iˈlektrik(ə)l]
+lightning 
+n.闪电，闪电放电
+[ˈlaitniŋ]
+influence 
+ n.影响；势力 vt.影响
+[ˈinfluəns]
+chew 
+ vt.咀嚼，嚼碎
+[t∫uː]
+cow 
+ n.母牛，奶牛；母兽
+[kau]
+whilst 
+ conj.&n.当…的时候
+[wailst]
+pail 
+ n.桶，提桶
+[peil]
+historical 
+ a.历史的，有关历史的
+[hisˈtɔrikəl]
+tissue 
+ n.薄绢；薄纸；组织
+[ˈtisjuː]
+sixteen 
+ num.十六，十六个
+[ˈsiksˈtiːn]
+journalist 
+ n.记者，新闻工作者
+[ˈdʒəːnəlist]
+elbow 
+ n.肘，肘部；弯管
+[ˈelbəu]
+weep 
+ vi.哭泣，流泪
+[wiːp]
+detect 
+ vt.察觉，发觉；侦察
+[diˈtekt]
+slice 
+ n.薄片，切片；部分
+[slais]
+eager 
+ a.渴望的，热切的
+[ˈiːgə]
+leather 
+ n.皮革；皮革制品
+[ˈleðə]
+nephew 
+ n.侄子，外甥
+[ˈnevjuː]
+fuel 
+ n.燃料 vt.给…加燃料
+[fjuəl]
+division 
+ n.分，分配；除法
+[diˈviʒən]
+calculation 
+ n.计算，计算结果
+[ˌkælkjuˈlei∫ən]
+tramp 
+ n.流浪者，游民
+[træmp]
+prevent 
+ vt.预防，防止；阻止
+[priˈvent]
+financial 
+ a.财政的，金融的
+[faiˈnæn∫əl]
+noisy 
+ a.嘈杂的；喧闹的
+[ˈnɔizi]
+shear 
+ vt.剪；剥夺 vi.剪
+[∫iə]
+candidate 
+ n.候选人；投考者
+[ˈkændidit]
+upset 
+ vt.弄翻，打翻，倾覆
+[ʌpˈset]
+proceed 
+ vi.进行；继续进行
+[prəˈsiːd]
+shop 
+ n.商店，店铺；车间
+[∫ɔp]
+harmful 
+ a.有害的
+[ˈhɑːmful]
+kid 
+ n.小孩，儿童，少年
+[kid]
+press 
+ vt.压，按，揿；催促
+[pres]
+conclude 
+ vt.推断出；结束
+[kənˈkluːd]
+uncomfortable 
+ a.不舒服的；不自在的
+[ʌnˈkʌmfətəbl]
+sake 
+ n.缘故，理由
+[seik]
+gramme 
+ n.克(重量单位)
+[græm]
+convince 
+ vt.使确信，使信服
+[kənˈvins]
+ahead 
+ ad.在前；向前；提前
+[əˈhed]
+vacation 
+ n.假期，休假
+[veiˈkei∫ən]
+expect 
+ vt.预料，预期；等待
+[iksˈpekt]
+discourage 
+ vt.使泄气，使灰心
+[disˈkʌridʒ]
+rubbish 
+ n.垃圾，废物；废话
+[ˈrʌbi∫]
+symbol 
+ n.象征；符号，记号
+[ˈsimbəl]
+European 
+ a.欧洲的 n.欧洲人
+[ˌjuərəˈpi(ː)ən]
+sprinkle 
+ n.洒，撒；小雨
+[ˈspriŋkl]
+cafeteria 
+ n.自助食堂
+[ˈkæfiˈtiəriə]
+western 
+ a.西方的，西部的
+[ˈwestən]
+agony 
+ n.极度痛苦
+[ˈægəni]
+coward 
+ n.懦夫；胆怯者
+[ˈkauəd]
+respective 
+ ad. 各自的，各个的
+[risˈpektiv]
+place 
+ n.地方，地点；住所
+[pleis]
+grocer 
+ n.食品商；杂货商
+[ˈgrəusə]
+radiation 
+ n.放/发射；辐射能
+[ˌreidiˈei∫ən]
+successful 
+ a.成功的，结果良好的
+[səkˈsesful]
+oppose 
+ vt.反对；反抗
+[əˈpəuz]
+attend 
+ vt.出席；照顾，护理
+[əˈtend]
+thirty 
+ num.三十，三十个
+[ˈθəːti]
+revenge 
+ vt.替…报仇 n.报仇
+[riˈvendʒ]
+register 
+ n.&vt.登记，注册
+[ˈredʒistə]
+hint 
+ n.暗示，示意；建议
+[hint]
+scale 
+ n.天平，磅秤，秤
+[skeil]
+command 
+ vt.命令，指挥；控制
+[kəˈmɑːnd]
+science 
+ n.科学，科学研究
+[ˈsaiəns]
+friction 
+ n.摩擦，摩擦力
+[ˈfrik∫ən]
+trumpet 
+ n.喇叭，小号
+[ˈtrʌmpit]
+interpreter 
+ n.译员，口译者
+[inˈtəːpritə]
+box 
+ n.箱，盒；包箱
+[bɔks]
+sing 
+ vi.&vt.唱，演唱
+[siŋ]
+namely 
+ ad.即，也就是
+[ˈneimli]
+plot 
+ n.小块土地 vt.密谋
+[plɔt]
+writing 
+ n.书写，写；著作
+[ˈraitiŋ]
+station 
+ n.站，台，所，局
+[ˈstei∫ən]
+contradiction 
+ n.矛盾，不一致；否认
+[ˌkɔntrəˈdik∫ən]
+severe 
+ a.严格的；严厉的
+[siˈviə]
+receiver 
+ n.收受者，收件人
+[riˈsiːvə]
+report 
+ vt.&vi.报告；汇报
+[riˈpɔːt]
+gardener 
+ n.园丁，花匠
+[ˈgɑːdnə(r)]
+clothes 
+ n.衣服，服装；被褥
+[kləuðz]
+ton 
+ n.吨；大量
+[tʌn]
+good 
+ a.好的；有本事的
+[gud]
+mountain 
+ n.山，山岳；山脉
+[ˈmauntin]
+acre 
+ n.英亩(=6.07 亩)
+[ˈeikə]
+gunpowder 
+ n.黑色火药；有烟火药
+[ˈgʌnpaudə(r)]
+consequence 
+ n.结果，后果
+[ˈkɔnsikwəns]
+punctual 
+ a.严守时刻的；准时的
+[ˈpʌŋktjuəl]
+glove 
+ n.手套
+[glʌv]
+literary 
+ a.文学(上)的
+[ˈlitərəri]
+pan 
+ n.平底锅，盘子
+[pæn]
+can 
+ n.罐头，听头；容器
+[kæn]
+Japan 
+ n.日本，日本国
+[dʒəˈpæn]
+grape 
+ n.葡萄；葡萄藤
+[greip]
+poem 
+ n.诗，韵文，诗体文
+[ˈpəuim]
+Fahrenheit 
+ n.华氏温度计
+[ˈfærənhait]
+too 
+ ad.也，还；太，过分
+[tuː]
+realize 
+ vt.实现；认识到
+[ˈriəlaiz]
+width 
+ n.宽阔，广阔；宽度
+[widθ]
+fine 
+ n.罚金，罚款
+[fain]
+vessel 
+ n.容器；船，飞船；管
+[ˈvesl]
+psychological 
+ a.心理(学)的
+[ˌsaikəˈlɔdʒikəl]
+minority 
+ n.少数；少数民族
+[maiˈnɔriti]
+reading 
+ n.读，阅读；读书
+[ˈriːdiŋ]
+spend 
+ vt.用钱，花费；度过
+[spend]
+understand 
+ vt.懂；获悉 vi.懂得
+[ˌʌndəˈstænd]
+elect 
+ vt.选举，推选；选择
+[iˈlekt]
+pile 
+ n.堆 vt.堆叠，累积
+[pail]
+beg 
+ vt.&vi.乞求；请求
+[beg]
+execute 
+ vt.将…处死；实施
+[ˈeksikjuːt]
+flu 
+ n.流行性感冒
+[fluː]
+wolf 
+ n.狼
+[wulf]
+least 
+ a.最少的 ad.最少
+[liːst]
+Spanish 
+ a.西班牙的 n.西班牙人
+[ˈspæni∫]
+stimulate 
+ vt.刺激，激励，激发
+[ˈstimjuleit]
+widespread 
+ a.分布广/普遍的
+[ˈwaidspred]
+diary 
+ n.日记，日记簿
+[ˈdaiəri]
+broom 
+ n.扫帚
+[bruːm]
+whip 
+ vt.鞭笞；搅打 n.鞭子
+[(h)wip]
+effect 
+ n.结果；效果，效力
+[iˈfekt]
+relevant 
+ a.有关的，贴切的
+[ˈrelivənt]
+clock 
+ n.钟，仪表
+[klɔk]
+task 
+ n.任务，工作，作业
+[tɑːsk]
+fertilizer 
+ n.肥料
+[ˈfəːtiˌlaizə]
+junior 
+ a.年少的 n.晚辈
+[ˈdʒuːnjə]
+department 
+ n.部,司,局,处,系
+[diˈpɑːtmənt]
+version 
+ n.译文；说法；改写本
+[ˈvəː∫(ə)n; (US) ˈvərʒn]
+industrial 
+ a.工业的；产业的
+[inˈdʌstriəl]
+silly 
+ a.傻的，愚蠢的
+[ˈsili]
+gasp 
+ vi.气喘，喘息
+[gɑːsp]
+construct 
+ vt.建造；建设；构筑
+[kənˈstrʌkt]
+forbid 
+ vt.禁止，不许；阻止
+[fəˈbid]
+granddaughter 
+ n.孙女，外孙女
+[ˈgrændɔːtə(r)]
+summary 
+ n.摘要，概要，一览
+[ˈsʌməri]
+everywhere 
+ ad.到处，处处
+[ˈevriweə(r)]
+process 
+ n.过程；工序 vt.加工
+[prəˈses]
+commonly 
+ ad.普通地，一般地
+[ˈkɔmənli]
+probable 
+ a.或有的；大概的
+[ˈprɔbəbl]
+pierce 
+ vt.剌穿 vi.穿入
+[piəs]
+autumn 
+ n.秋，秋季
+[ˈɔːtəm]
+fever 
+ n.发热，发烧；狂热
+[ˈfiːvə]
+mirror 
+ n.镜子 vt.反映，反射
+[ˈmirə]
+brighten 
+ vt.使发光；使快活
+[ˈbraitn]
+humorous 
+ a.富于幽默的，诙谐的
+[ˈhjuːmərəs]
+quite 
+ ad.完全；相当；的确
+[kwait]
+weaken 
+ vt.削弱 vi.变弱
+[ˈwiːkən]
+derive 
+ vt.取得 vi.起源
+[diˈraiv]
+organism 
+ n.生物体；有机体
+[ˈɔːgənizəm]
+intermediate 
+ a.中间/级的
+[ˌintəˈmiːdjət]
+broad 
+ a.宽的，阔的；广泛的
+[brɔːd]
+pick 
+ n.镐，鹤嘴锄
+[pik]
+senate 
+ n.参议院，上院
+[ˈsenit]
+aural 
+ a.耳的，听觉的
+[ˈɔːrəl]
+length 
+ n.长，长度；一段
+[leŋθ]
+fence 
+ n.栅栏
+[fens]
+berry 
+ n.浆果(如草莓等)
+[ˈberi]
+follow 
+ vt.跟随；结果是
+[ˈfɔləu]
+weld 
+ vt.&n.焊接，熔接
+[weld]
+keeper 
+ n.看护人；饲养员
+[ˈkiːpə]
+mask 
+ n.面具；伪装 vt.掩饰
+[mɑːsk]
+completely 
+ ad.十分，完全地
+[kəmˈpliːtli]
+empty 
+ a.空的；空洞的
+[ˈempti]
+utter 
+ a.完全的，彻底的
+[ˈʌtə]
+permanently 
+ ad.永久/持久地
+[ˈpəːməntli]
+oriental 
+ a.东方的；东方国家的
+[ˌɔ(ː)riˈentl]
+establishment 
+ n.建立,设/确立
+[isˈtæbli∫mənt]
+pig 
+ n.猪，小猪，野猪
+[pig]
+agriculture 
+ n.农业，农艺；农学
+[ˈægrikʌlt∫ə]
+hasty 
+ a.急速的；仓促的
+[ˈheisti]
+tremble 
+ vi.发抖，哆嗦；摇动
+[ˈtrembl]
+grandmother 
+ n.祖母，外祖母
+[ˈgrændˌmʌðə]
+oral 
+ a.口头的；口的
+[ˈɔːrəl]
+perspective 
+ n.透视;远景;观点
+[pəˈspektiv]
+football 
+ n.足球比赛；足球
+[ˈfutbɔːl]
+joke 
+ n.笑话 vi.说笑话
+[dʒəuk]
+thought 
+ n.思想；思维；想法
+[θɔːt]
+formula 
+ n.公式，式
+[ˈfɔːmjulə]
+want 
+ vt.要 n.需要；缺乏
+[wɔnt]
+tradition 
+ n.传统，惯例
+[trəˈdi∫ən]
+China 
+ n.中国
+[ˈt∫ainə]
+score 
+ n.得分，比数，成绩
+[skɔː]
+bless 
+ vt.为…祝福
+[bles]
+with 
+ prep.和…一起；具有
+[wið]
+regret 
+ vt.懊悔；抱歉 n.懊悔
+[riˈgret]
+box 
+ vi.拳击，打拳
+[bɔks]
+groan 
+ vi.哼，呻吟 n.呻吟
+[grəun]
+hall 
+ n.门厅；过道；会堂
+[hɔːl]
+scratch 
+ vt.&vi.&n.搔；抓
+[skræt∫]
+Tuesday 
+ n.星期二
+[ˈtjuːzdi]
+examination 
+ n.考试；检/细查
+[igˌzæmiˈnei∫ən]
+efficiency 
+ n.效率；功效，效能
+[iˈfi∫ənsi]
+approximate 
+ a.近似的 vt.近似
+[əˈprɔksimeit]
+engineer 
+ n.工程师，技师
+[ˌendʒiˈniə]
+lap 
+ n.膝部；一圈
+[læp]
+scholar 
+ n.学者(尤指文学方面)
+[ˈskɔlə]
+squirrel 
+ n.松鼠
+[ˈskwirəl]
+thermometer 
+ n.温度计，寒暑表
+[θəˈmɔmitə(r)]
+express 
+ vt.表示 n.快车，快递
+[iksˈpres]
+humid 
+ a.湿的，湿气重的
+[ˈhjuːmid]
+interest 
+ n.兴趣；利益；利息
+[ˈintrist]
+temporary 
+ a.暂时的，临时的
+[ˈtempərəri]
+throw 
+ vt.投，掷，抛，扔
+[θrəu]
+last 
+ vi.持续，持久；耐久
+[lɑːst]
+composition 
+ n.构成；作品；写作
+[kɔmpəˈzi∫ən]
+compute 
+ vt.计算，估计，估算
+[kəmˈpjuːt]
+besides 
+ ad.而且 prep.除…之外
+[biˈsaidz]
+bore 
+ vt.使厌烦；钻，挖
+[bɔː]
+edge 
+ n.边缘，边；刀口
+[edʒ]
+crime 
+ n.罪，罪行；犯罪
+[kraim]
+herd 
+ n.兽群，牧群 vt.放牧
+[həːd]
+surroundings 
+ n.周围的事物,环境
+[səˈraundiŋz]
+probability 
+ n.可能性；概率
+[ˌprɔbəˈbiliti]
+content 
+ a.满意的，满足的
+[kənˈtent]
+pension 
+ n.抚恤金，年金
+[ˈpen∫ən]
+dinner 
+ n.正餐，主餐；宴会
+[ˈdinə]
+accept 
+ vt.vi.接受；同意
+[əkˈsept]
+rather 
+ ad.宁可，宁愿；相当
+[ˈrɑːðə]
+warm 
+ a.温暖的；热烈的
+[wɔːm]
+eventually 
+ ad.终于；最后
+[iˈventjuəli]
+particularly 
+ ad.特别,尤其,格外
+[pəˈtikjuləli]
+human 
+ a.人的，人类的 n.人
+[ˈhjuːmən]
+stocking 
+ n.长(统)袜
+[ˈstɔkiŋ]
+socialist 
+ a.社会主义的
+[ˈsəu∫əlist]
+bar 
+ n.酒吧间；条，杆；栅
+[bɑː(r)]
+soldier 
+ n.(陆军)士兵，军人
+[ˈsəuldʒə]
+compile 
+ vt.编辑，编制，搜集
+[kəmˈpail]
+win 
+ vi.获胜，赢 vt.赢得
+[win]
+language 
+ n.语言，语言课程
+[ˈlæŋgwidʒ]
+witness 
+ n.证据；证人 vt.目击
+[ˈwitnis]
+hasten 
+ vt.催促 vi.赶紧
+[ˈheisn]
+reproduce 
+ vt.&vi.繁殖，生殖
+[ˌriːprəˈdjuːs]
+belt 
+ n.带，腰带；皮带；区
+[belt]
+feeble 
+ a.虚弱的；微弱的
+[ˈfiːbl]
+distribution 
+ n.分发/配；分布
+[ˌdistriˈbjuː∫ən]
+ruler 
+ n.统治者；尺，直尺
+[ˈruːlə]
+insurance 
+ n.保险；保险费
+[inˈ∫uərəns]
+bucket 
+ n.水桶；吊桶；铲斗
+[ˈbʌkit]
+live 
+ vi.居住；活 a.活的
+[liv]
+forest 
+ n.森林；森林地带
+[ˈfɔrist]
+clarify 
+ vt.澄清，阐明
+[ˈklærifai]
+policy 
+ n.政策，方针
+[ˈpɔlisi]
+readily 
+ ad.乐意地；无困难地
+[ˈredili]
+here 
+ ad.这里；向这里
+[hiə]
+novel 
+ n.小说 a.新的
+[ˈnɔvəl]
+anyone 
+ pron.任何人
+[ˈeniwʌn]
+enthusiastic 
+ a.热情的，热心的
+[inθjuːziˈæstik]
+obvious 
+ a.明显的，显而易见的
+[ˈɔbviəs]
+theory 
+ n.理论；学说；意见
+[ˈθiəri]
+wife 
+ n.妻子
+[waif]
+hospital 
+ n.医院
+[ˈhɔspitl]
+great 
+ a.大的；伟大的
+[greit]
+roll 
+ vi.&vt.滚动；转动
+[rəul]
+volcano 
+ n.火山
+[vɔlˈkeinəu]
+shake 
+ vt.摇，使震动 n.摇动
+[∫eik]
+personnel 
+ n.全体人员，全体职员
+[ˌpəːsəˈnel]
+flower 
+ n.花，花卉；开花
+[ˈflauə]
+appearance 
+ n.出现，来到；外观
+[əˈpiərəns]
+partly 
+ ad.部分地，不完全地
+[ˈpɑːtli]
+boundary 
+ n.分界线，办界
+[ˈbaundəri]
+your 
+ pron.你的，你们的
+[jɔː]
+blind 
+ a.瞎的；盲目的
+[blaind]
+enthusiasm 
+ n.热情/心，热忱
+[inˈθjuːziæzəm]
+withstand 
+ vt.抵挡，反抗
+[wiðˈstænd]
+holiday 
+ n.假日，节日；假期
+[ˈhɔlidei]
+eagle 
+ n.鹰
+[ˈiːgl]
+immediately 
+ ad.立即；直接地
+[iˈmiːdjətli]
+objective 
+ a.客观的；无偏见的
+[əbˈdʒektiv]
+carriage 
+ n.客车厢；四轮马车
+[ˈkæridʒ]
+make 
+ vt.使；做，制造
+[meik]
+comparison 
+ n.比较，对照；比似
+[kəmˈpærisn]
+jet 
+ n.喷气式飞机；喷嘴
+[dʒet]
+goose 
+ n.鹅，雌鹅
+[guːs]
+tyre 
+ n.轮胎，车胎
+[ˈtaiə]
+fatal 
+ a.致命的；命运的
+[ˈfeitl]
+merit 
+ n.长处，优点；功过
+[ˈmerit]
+exposure 
+ n.暴露；揭露；曝光
+[iksˈpəuʒə]
+season 
+ n.季，季节，时节
+[ˈsiːzn]
+specific 
+ a.特有的；具体的
+[spiˈsifik]
+undergo 
+ vt.经历，经受，忍受
+[ˌʌndəˈgəu]
+pass 
+ vt.经过；通过；度过
+[pɑːs]
+ground 
+ n.地；场地；根据
+[graund]
+bottle 
+ n.瓶，酒瓶；一瓶
+[ˈbɔtl]
+semester 
+ n.半年；学期，半学年
+[siˈmestə]
+translation 
+ n.翻译；译文/本
+[trænsˈlei∫ən]
+butcher 
+ n.屠夫；屠杀者
+[ˈbut∫ə]
+work 
+ n.工作；职业 vi.工作
+[wəːk]
+abnormal 
+ a.不正常的；变态的
+[æbˈnɔːməl]
+museum 
+ n.博物馆；展览馆
+[mju(ː)ˈziəm]
+even 
+ ad.甚至；甚至更，还
+[ˈiːvən]
+percent 
+ n.百分之…
+[pəˈsent]
+yell 
+ vi.叫喊
+[jel]
+asia 
+ n.亚洲
+[ˈei∫ə]
+print 
+ vt.印刷 n.印刷；正片
+[print]
+object 
+ vi.反对；抱反感
+[ˈɔbdʒikt]
+carrier 
+ n.运输工具；运载工具
+[ˈkæriə]
+household 
+ n.家庭，户；家务
+[ˈhaushəuld]
+ocean 
+ n.海洋；洋
+[ˈəu∫ən]
+director 
+ n.指导者；理事；导演
+[diˈrektə]
+corporation 
+ n.公司，企业；社团
+[ˌkɔːpəˈrei∫ən]
+assess 
+ vt.对(财产等)估价
+[əˈses]
+lever 
+ n.杆，杠杆；控制杆
+[ˈliːvə]
+supplement 
+ n.&vt.增补，补充
+[ˈsʌplimənt]
+village 
+ n.乡村，村庄
+[ˈvilidʒ]
+introduce 
+ vt.介绍；引进，传入
+[ˌintrəˈdjuːs]
+correct 
+ a.正确的 vt.纠正
+[kəˈrekt]
+april 
+ n.四月
+[ˈeiprəl]
+opening 
+ a.开始的 n.开始
+[ˈəupniŋ]
+treatment 
+ n.待遇；治疗，疗法
+[ˈtriːtmənt]
+fabric 
+ n.织物，纺织品；结构
+[ˈfæbrik]
+foreigner 
+ n.外国人
+[ˈfɔrinə]
+elevator 
+ n.电梯；升降机
+[ˈeliveitə]
+haircut 
+ n.理发
+[ˈheəkʌt]
+eighteen 
+ num.十八，十八个
+[ˈeiˈtiːn]
+soccer 
+ n.英式足球
+[ˈsɔkə]
+turnip 
+ n.萝卜，芜菁
+[ˈtəːnip]
+arrival 
+ n.到达；到来；到达者
+[əˈraivəl]
+equal 
+ a.相等的；平等的
+[ˈiːkwəl]
+widow 
+ n.寡妇
+[ˈwidəu]
+advice 
+ n.劝告；忠告；意见
+[ədˈvais]
+speciality 
+ n.专业，特长；特产
+[ˌspe∫iˈæliti]
+emergency 
+ n.紧急情况，突然事件
+[iˈməːdʒnsi]
+concert 
+ n.音乐会，演奏会
+[ˈkɔnsət]
+somebody 
+ pron.某人，有人
+[ˈsʌmbədi]
+compose 
+ vt.组成，构成；创作
+[kəmˈpəuz]
+British 
+ a.不列颠的，英联邦的
+[ˈbriti∫]
+entertain 
+ vt.使欢乐；招待
+[ˌentəˈtein]
+parent 
+ n.父亲，母亲，双亲
+[ˈpeərənt]
+half 
+ n.半，一半 a.一半的
+[hɑːf]
+mathematical 
+ a.数学(上)的
+[ˌmæθiˈmætikəl]
+precious 
+ a.珍贵的，宝贵的
+[ˈpre∫əs]
+again 
+ ad.又一次；而且
+[əˈgein]
+mood 
+ n.心情，情绪；语气
+[muːd]
+enemy 
+ n.敌人；仇敌；敌兵
+[ˈenimi]
+mission 
+ n.使命，任务；使团
+[ˈmi∫ən]
+newly 
+ ad.新近，最近
+[ˈnjuːli]
+inhabitant 
+ n.居民，住户
+[inˈhæbitənt]
+achieve 
+ vt.完成，实现；达到
+[əˈt∫iːv]
+prisoner 
+ n.囚犯
+[ˈpriznə]
+impatient 
+ a.不耐烦的，急躁的
+[imˈpei∫ənt]
+post 
+ n.柱，桩，杆 vt.贴出
+[pəust]
+crude 
+ a.简陋的；天然的
+[kruːd]
+sir 
+ n.先生，阁下；…爵士
+[səː(r)]
+funny 
+ a.古怪的；滑稽的
+[ˈfʌni]
+writer 
+ n.作者，作家，文学家
+[ˈraitə]
+nose 
+ n.鼻子；突出部分
+[nəuz]
+resemble 
+ vt.像，类似
+[riˈzembl]
+cycle 
+ n 自行车，循环
+[ˈsaikl]
+nurse 
+ n.保姆；护士 vt.看护
+[nəːs]
+kindness 
+ n.仁慈，好意
+[ˈkaindnis]
+draft 
+ n.草稿；汇票 vt.起草
+[drɑːft]
+surely 
+ a.确实；稳当地
+[ˈ∫uəli]
+executive 
+ a.执行的 n.执行者
+[igˈzekjutiv]
+care 
+ vi.关心，介意 n.小心
+[keə]
+multiple 
+ a.复合的；并联的
+[ˈmʌltipl]
+sole 
+ a.单独的，唯一的
+[səul]
+button 
+ n.扣子；按钮 vt.扣紧
+[ˈbʌtn]
+ash 
+ n.灰，灰末；骨灰
+[æ∫]
+count 
+ vt.计算 vi.数，计数
+[kaunt]
+timetable 
+ n.时间表，时刻表
+[ˈtaimteib(ə)l]
+service 
+ n.服务；行政部门
+[ˈsəːvis]
+seed 
+ n.种(子)，籽，萌芽
+[siːd]
+majority 
+ n.多数，大多数
+[məˈdʒɔriti]
+enormous 
+ a.巨大的，庞大的
+[iˈnɔːməs]
+ornament 
+ n.装饰物；装饰
+[ˈɔːnəmənt]
+insect 
+ n.昆虫，虫
+[ˈinsekt]
+correction 
+ n.改正，纠正，修改
+[kəˈrek∫ən]
+various 
+ a.各种各样的，不同的
+[ˈveəriəs]
+injure 
+ vt.伤害，损害，损伤
+[ˈindʒə]
+essential 
+ a.必要的，本质的
+[iˈsen∫əl]
+giant 
+ n.巨人；巨物
+[ˈdʒaiənt]
+skate 
+ n.冰鞋；滑冰 vi.滑冰
+[skeit]
+resident 
+ a.居住的 n.居民
+[ˈrezidənt]
+radius 
+ n.半径
+[ˈreidjəs]
+centre 
+ n.中心；中枢 vt.集中
+[ˈsentə]
+set 
+ vt.放；安置 vi.落
+[set]
+split 
+ vt.劈开 vi.被劈开
+[split]
+justice 
+ n.正义，公正；司法
+[ˈdʒʌstis]
+indefinite 
+ a.不明确的；不定的
+[inˈdefinit]
+sorrow 
+ n.悲痛，悲哀，悲伤
+[ˈsɔrəu]
+heroic 
+ a.英雄的；英勇的
+[hiˈrəuik]
+learn 
+ vi.&vt.学，学习
+[ləːn]
+death 
+ n.死，死亡；灭亡
+[deθ]
+rural 
+ a.农村的，田园的
+[ˈruər(ə)l]
+seven 
+ num.七，七个(人或物) 
+[ˈsevən]
+fish 
+ n.鱼，鱼肉 vi.钓鱼
+[fi∫]
+affect 
+ vt.影响；感动
+[əˈfekt]
+auto 
+ n.(口语)汽车
+[ˈɔːtəu]
+differ 
+ vi.不同，相异
+[ˈdifə]
+system 
+ n.系统，体系；制度
+[ˈsistəm]
+speed 
+ n.快；速率 vi.快行
+[spiːd]
+angry 
+ a.愤怒的，生气的
+[ˈæŋgri]
+digest 
+ vt.消化；领会 n.文摘
+[daiˈdʒest]
+glide 
+ vi.滑动；消逝 n.滑行
+[glaid]
+shepherd 
+ n.牧羊人，羊倌
+[ˈ∫epəd]
+westward 
+ a.向西的 ad.向西
+[ˈwestwəd]
+optimistic 
+ a.乐观/乐观主义的
+[ˌɔptiˈmistik]
+problem 
+ n.问题；习题，问题
+[ˈprɔbləm]
+strain 
+ vt.拉紧 vi.尽力
+[strein]
+double 
+ a.两倍的；双的
+[ˈdʌbl]
+cross 
+ vt.穿过；使交叉
+[krɔs]
+civilize 
+ vt.使文明；教育
+[ˈsivilaiz]
+bold 
+ a.大胆的；冒失的
+[bəuld]
+preparation 
+ n.准/预备；制备
+[ˌprepəˈrei∫ən]
+silver 
+ n.银；银子；银器
+[ˈsilvə]
+plunge 
+ vt.使投入；使陷入
+[plʌndʒ]
+blade 
+ n.刀刃，刀片；叶片
+[bleid]
+fashion 
+ n.样子，方式；风尚
+[ˈfæ∫ən]
+cup 
+ n.杯子；(一)杯；奖杯
+[kʌp]
+resign 
+ vt.放弃 vi.辞职
+[riˈzain]
+avenue 
+ n.林荫道，道路；大街
+[ˈævinjuː]
+hedge 
+ n.篱笆，树篱；障碍物
+[hedʒ]
+nuclear 
+ a.原子核的；核心的
+[ˈnjuːkliə]
+awake 
+ a.醒着的 vt.唤醒
+[əˈweik]
+recommendation 
+ n.推荐，介绍；劝告
+[ˌrekəmenˈdei∫ən]
+voice 
+ n.说话声；意见；语态
+[vɔis]
+southeast 
+ n.东南 a.位于东南的
+[ˈsauθˈiːst]
+shift 
+ vt.替换，转移 n.转换
+[∫ift]
+born 
+ a.天生的；出生的
+[bɔːn]
+chill 
+ vt.使变冷 n.寒冷
+[t∫il]
+chance 
+ n.机会，机遇；可能性
+[t∫ɑːns]
+cargo 
+ n.船货，货物
+[ˈkɑːgəu]
+about 
+ prep.关于；在…周围
+[ˈəbaut]
+characteristic 
+ a.特有的 n.特性
+[ˌkæriktəˈristik]
+repent 
+ vi.悔悟，悔改 vt.后悔
+[riˈpent]
+australian 
+ a.澳大利亚的
+[ɔsˈtreiliən]
+critic 
+ n.批评家，爱挑剔的人
+[ˈkritik]
+emotion 
+ n.情感，感情；激动
+[iˈməu∫ən]
+layer 
+ n.层，层次；铺设者
+[ˈleiə]
+sulphur 
+ n.硫(磺)，硫黄
+[ˈsʌlfə]
+ditch 
+ n.沟，沟渠，渠道
+[dit∫]
+peninsula 
+ n.半岛
+[piˈninsjulə]
+replace 
+ vt.把…放回；取代
+[ri(ː)ˈpleis]
+bell 
+ n.钟，铃，门铃；钟声
+[bel]
+before 
+ prep.在…以前；向…
+[biˈfɔː]
+dynamic 
+ a.有活力的；动力的
+[daiˈnæmik]
+terminal 
+ a.末端的 n.末端
+[ˈtəːminl]
+Mister 
+ n.先生
+[ˈmistə]
+till 
+ prep.conj.直到…为止
+[til]
+gracious 
+ a.有礼貌的；仁慈的
+[ˈgrei∫əs]
+heavily 
+ ad.重重地；大量地
+[ˈhevili]
+neat 
+ a.整洁的；熟练的
+[niːt]
+his 
+ pron.他的，他的东西
+[hiz]
+wisdom 
+ n.智慧，才智；名言
+[ˈwizdəm]
+whoever 
+ pron.谁；无论谁
+[huːˈevə(r)]
+soul 
+ n.灵魂；精神；人
+[səul]
+associate 
+ vi.交往 n.伙伴，同事
+[əˈsəu∫ieit]
+correspondent 
+ n.通信者;通讯员
+[ˌkɔrisˈpɔndənt]
+nor 
+ conj.也不；不
+[nɔː]
+bet 
+ vt.&vi.&n.打赌
+[bet]
+fashionable 
+ a.流行的，时髦的
+[ˈfæ∫ənəbl]
+mad 
+ a.发疯的；恼火的
+[mæd]
+puppet 
+ n.木偶，玩偶；傀儡
+[ˈpʌpit]
+vary 
+ vt.改变；使多样化
+[ˈveəri]
+forget 
+ vt.忘记，遗忘
+[fəˈget]
+election 
+ n.选举，选择权；当选
+[iˈlek∫(ə)n]
+boss 
+ n.老板，上司 vt.指挥
+[bɔs]
+counter 
+ n.柜台；计数器
+[ˈkauntə]
+vapour 
+ n.汽，蒸气
+[ˈveipə]
+import 
+ vt.&n.输入，进口
+[imˈpɔːt]
+arouse 
+ vt.引起，唤起；唤醒
+[əˈrauz]
+venture 
+ n.&vi.冒险 vt.敢于
+[ˈvent∫ə]
+frequent 
+ a.时常发生的；经常的
+[ˈfriːkwənt]
+liberty 
+ n.自由；释放；许可
+[ˈlibəti]
+pride 
+ n.骄傲；自豪 vt.自夸
+[praid]
+change 
+ n.改变，变化；零钱
+[t∫eindʒ]
+northeast 
+ n.东北 a.位于东北的
+[ˈnɔːθˈiːst]
+volume 
+ n.卷，册；容积；音量
+[ˈvɔljuːm]
+operator 
+ n.操作人员，接线员
+[ˈɔpəreitə]
+rob 
+ vt.&vi.抢劫；劫掠
+[rɔb]
+nice 
+ a.美好的，令人愉快的
+[nais]
+tick 
+ n.滴答声；记号
+[tik]
+vanity 
+ n.虚荣心，虚夸
+[ˈvæniti]
+coat 
+ n.外套，上衣；表皮
+[kəut]
+clay 
+ n.粘土，泥土；肉体
+[klei]
+smoke 
+ n.烟；抽烟 vi.冒烟
+[sməuk]
+southwest 
+ n.西南 a.西南的
+[ˈsauθˈwest]
+in 
+ prep.在…里 ad.进，入
+[in]
+glass 
+ n.玻璃；玻璃杯
+[glɑːs]
+standpoint 
+ n.立场，观点
+[ˈstændpɔint]
+sunshine 
+ n.(直射)日光，阳光
+[ˈsʌn∫ain]
+conservative 
+ a.保守的 n.保守的人
+[kənˈsəːvətiv]
+safe 
+ n.保险箱
+[seif]
+her 
+ pron.(宾格)她；她的
+[həː]
+target 
+ n.靶，标的；目标
+[ˈtɑːgit]
+mislead 
+ vt.使误入岐途
+[misˈliːd]
+authority 
+ n.当局，官方；权力
+[ɔːˈθɔriti]
+bath 
+ n.浴，洗澡；浴缸
+[bɑːθ]
+mug 
+ n.大杯
+[mʌg]
+unbearable 
+ a.难堪的，忍受不了的
+[ʌnˈbeərəbl]
+bicycle 
+ n.自行车，脚踏车
+[ˈbaisikl]
+conservation 
+ n.保存，保护；守恒
+[ˌkɔnsə(ː)ˈvei∫ən]
+state 
+ n.状态；国家；州
+[steit]
+turning 
+ n.旋转；变向；转弯处
+[ˈtəːniŋ]
+dangerous 
+ a.危险的，不安全的
+[ˈdeindʒrəs]
+optical 
+ a.眼的；光学的
+[ˈɔptikəl]
+sun 
+ n.太阳，日
+[sʌn]
+tame 
+ a.驯服的；顺从的
+[teim]
+policeman 
+ n.警察
+[pəˈliːsmən]
+frighten 
+ vt.使惊恐，吓唬
+[ˈfraitn]
+hear 
+ vt.听见；审讯；听说
+[hiə]
+bathroom 
+ n.浴室；盥洗室
+[ˈbɑːθruːm]
+digital 
+ a.数字的，计数的
+[ˈdidʒitl]
+sympathize 
+ vi.同情/感，共鸣
+[ˈsimpəθaiz]
+description 
+ n.描写，形容；种类
+[disˈkrip∫ən]
+solemn 
+ a.庄严的；隆重的
+[ˈsɔləm]
+below 
+ prep.在…下面(以下)
+[biˈləu]
+pie 
+ n.(西点)馅饼
+[pai]
+distant 
+ a.在远处的，疏远的
+[ˈdistənt]
+dust 
+ n.尘土，灰尘
+[dʌst]
+away 
+ ad.离开，远离；…去
+[əˈwei]
+God 
+ n.神，神像；上帝
+[gɔd]
+deceit 
+ n.欺骗，欺诈
+[diˈsiːt]
+lord 
+ n.贵族；上帝，基督
+[lɔːd]
+intelligence 
+ n.智力；理解力；情报
+[inˈtelidʒəns]
+unjust 
+ a.非正义的；不公平的
+[ˈʌnˈdʒʌst]
+town 
+ n.镇，市镇，城镇
+[taun]
+drive 
+ vt.驾驶；打入；驱
+[draiv]
+glue 
+ n.胶，胶水 vt.胶合
+[gluː]
+Bible 
+ n.基督教《圣经》
+[ˈbaibl]
+matter 
+ n.事情；物质 vi.要紧
+[ˈmætə]
+reflect 
+ vt.反射；反映；思考
+[riˈflekt]
+evaluate 
+ vt.评价，估…的价
+[iˈvæljueit]
+fry 
+ vt.油煎，油炸，油炒
+[frai]
+pinch 
+ vt.捏，拧，掐掉
+[pint∫]
+surname 
+ n.姓
+[ˈsəːneim]
+unexpected 
+ a.想不到的，意外的
+[ˈʌniksˈpektid]
+dissatisfy 
+ vi.使不满，使不平
+[ˈdisˈsætisfai]
+variety 
+ n.多样化；种类；变种
+[vəˈraiəti]
+harvest 
+ n.收获，收成 vt.收割
+[ˈhɑːvist]
+refute 
+ vt.驳斥，反驳，驳倒
+[riˈfjuːt]
+usage 
+ n.使用，对待；惯用法
+[ˈjuːsidʒ]
+gulf 
+ n.海湾
+[gʌlf]
+link 
+ vt.有环连接 n.环
+[liŋk]
+umbrella 
+ n.伞，雨伞
+[ʌmˈbrelə]
+shame 
+ n.羞耻，羞愧；羞辱
+[∫eim]
+land 
+ n.陆地；土地 vi.上岸
+[lænd]
+afraid 
+ a.害怕的；担心的
+[əˈfreid]
+paper 
+ n.纸；官方文件；文章
+[ˈpeipə]
+fond 
+ a.喜爱的；溺爱的
+[fɔnd]
+variation 
+ n.变化，变动；变异
+[ˌveəriˈei∫ən]
+ending 
+ n.结尾，结局；死亡
+[ˈendiŋ]
+bank 
+ n.银行；库；岩，堤
+[bæŋk]
+project 
+ n.方案，工程 vi.伸出
+[ˈprɔdʒekt]
+predict 
+ v.预言，预告，预测
+[priˈdikt]
+tale 
+ n.故事，传说
+[teil]
+craft 
+ n.工艺；手艺，行业
+[krɑːft]
+imprison 
+ vt.关押，监禁；限制
+[imˈprizn]
+confident 
+ n.确信的，自信的
+[ˈkɔnfidənt]
+mechanical 
+ a.机械的；力学的
+[miˈkænikl]
+information 
+ n.消息，信息；通知
+[ˌinfəˈmei∫ən]
+cultivate 
+ vt.耕；种植；培养
+[ˈkʌltiveit]
+prior 
+ a.在先的；优先的
+[ˈpraiə]
+bathe 
+ vt.给…洗澡；弄湿
+[beið]
+agency 
+ n.经办；代理；代理处
+[ˈeidʒənsi]
+wild 
+ a.野生的；野蛮的
+[waild]
+prejudice 
+ n.偏见，成见
+[ˈpredʒudis]
+dispute 
+ vi.争论，争执 n.争论
+[disˈpjuːt]
+triangle 
+ n.三角(形)
+[ˈtraiæŋgl]
+protect 
+ vt.保护，保卫，警戒
+[prəˈtekt]
+poverty 
+ n.贫穷，贫困
+[ˈpɔvəti]
+many 
+ a.许多的 pron.许多人
+[ˈmeni]
+oppress 
+ vt.压迫，压制；压抑
+[əˈpres]
+confidence 
+ n.信任；信赖；信心
+[ˈkɔnfidəns]
+invention 
+ n.发明，创造；捏造
+[inˈven∫ən]
+valley 
+ n.(山)谷，溪谷；流域
+[ˈvæli]
+exist 
+ vi.存在；生存，生活
+[igˈzist]
+downward 
+ a.向下的 ad.向下地
+[ˈdaunwəd]
+flight 
+ n.航班；飞行；逃跑
+[flait]
+dwelling 
+ n.住处，寓所
+[ˈdweliŋ]
+editor 
+ n.编辑，编者，校订者
+[ˈeditə]
+duck 
+ n.鸭，雌鸭；鸭肉
+[dʌk]
+cloud 
+ n.云；云状物；阴影
+[klaud]
+although 
+ conj.尽管，虽然
+[ɔːlˈðəu]
+omit 
+ vt.省略，省去；遗漏
+[əuˈmit]
+seat 
+ n.座；座部 vt.使坐下
+[siːt]
+recollect 
+ vt.回忆，追忆，想起
+[ˌrekəˈlekt]
+otherwise 
+ ad.另外；要不然
+[ˈʌðəwaiz]
+infect 
+ vt.传染；感染
+[inˈfekt]
+credit 
+ n.信用贷款；信用
+[ˈkredit]
+noun 
+ n.名词
+[naun]
+add 
+ vt.添加，附加，掺加
+[æd]
+provided 
+ conj.以…为条件
+[prəːˈvaidid]
+apply 
+ vt.应用，实施，使用
+[əˈplai]
+avoid 
+ vt.避免，躲开；撤消
+[əˈvɔid]
+valuable 
+ a.值钱的；有价值的
+[ˈvæljuəbl]
+sphere 
+ n.球，圆体；范围
+[sfiə]
+Britain 
+ n.不列颠，英国
+[ˈbritən]
+curious 
+ a.好奇的；稀奇古怪的
+[ˈkjuəriəs]
+copy 
+ n.抄件 vt.抄写，复制
+[ˈkɔpi]
+sober 
+ a.清醒的；适度的
+[ˈsəubə]
+unkind 
+ a.不仁慈的，不和善的
+[ʌnˈkaind]
+instantly 
+ ad.立即，即刻
+[ˈinstəntli]
+refuse 
+ vt.拒绝 vt.拒绝
+[riˈfjuːz]
+Christian 
+ n.基督教徒；信徒
+[ˈkristjən]
+typist 
+ n.打字员
+[ˈtaipist]
+imitate 
+ vt.模仿，仿效；仿制
+[ˈimiteit]
+physical 
+ a.物质的；物理的
+[ˈfizikəl]
+charming 
+ a.迷人的，可爱的
+[ˈt∫ɑːmiŋ]
+handwriting 
+ n.笔迹，手迹，书法
+[ˈhændˌraitiŋ]
+than 
+ conj.(比较级)比
+[ðæn]
+photographic 
+ a.摄影的，摄影用的
+[fəutəˈgræfik]
+constitution 
+ n.章程;体质;构造
+[ˌkɔnstiˈtjuː∫ən]
+illustrate 
+ vt.(用图等)说明
+[ˈiləstreit]
+obtain 
+ vt.获得，得到，买到
+[əbˈtein]
+point 
+ n.点；要点；细目；分
+[pɔint]
+resolve 
+ vt.解决；决心 n.决心
+[riˈzɔlv]
+tomato 
+ n.番茄，西红柿
+[təˈmɑːtəu]
+religious 
+ a.宗教的；虔诚的
+[riˈlidʒəs]
+petrol 
+ n.(英)汽油
+[ˈpetrəl]
+slowly 
+ ad.慢慢地
+[ˈsləuli]
+accessory 
+ n.同谋，从犯；附件
+[ækˈsesəri]
+banner 
+ n.旗，旗帜，横幅
+[ˈbænə]
+miserable 
+ a.痛苦的，悲惨的
+[ˈmizərəbl]
+concerning 
+ prep.关于
+[kənˈsəːniŋ]
+participate 
+ vi.参与/加；分享
+[pɑːˈtisipeit]
+retain 
+ vt.保持，保留，保有
+[riˈtein]
+headquarters 
+ n.司令部；总部
+[ˈhedˌkwɔːtəz]
+divorce 
+ n.离婚，离异 vi.离婚
+[diˈvɔːs]
+myself 
+ pron.我自己；我亲自
+[maiˈself]
+swim 
+ vi.游，游泳；眼花
+[swim]
+conquest 
+ n.攻取，征服；克服
+[ˈkɔŋkwest]
+riddle 
+ n.谜，谜语
+[ˈridl]
+uneasy 
+ a.心神不安的，忧虑的
+[ʌnˈiːzi]
+scarce 
+ a.缺乏的；希有的
+[skeəs]
+status 
+ n.地位，身分
+[ˈsteitəs]
+isolate 
+ vt.使隔离，使孤立
+[ˈaisəleit]
+appetite 
+ n.食欲，胃口；欲望
+[ˈæpitait]
+multiply 
+ vt.使增加；乘
+[ˈmʌltipli]
+distribute 
+ vt.分发，分送；分布
+[disˈtribju(ː)t]
+play 
+ vi.玩，游戏；演奏
+[plei]
+champion 
+ n.冠军，得胜者
+[ˈt∫æmpjən]
+niece 
+ n.侄女，外甥女
+[niːs]
+mechanic 
+ n.技工，机械，机修工
+[miˈkænik]
+enjoy 
+ vt.享受；欣赏，喜爱
+[inˈdʒɔi]
+ski 
+ n.滑橇 vi.滑雪
+[skiː]
+open 
+ a.开的；开放的 vt.开
+[ˈəupən]
+love 
+ vt.爱，喜欢 n.爱
+[lʌv]
+stone 
+ n.石，石头；宝石
+[stəun]
+activity 
+ n.活动；活力；行动
+[ækˈtiviti]
+measure 
+ vt.量，测量 n.分量
+[ˈmeʒə]
+sex 
+ n.性别，性
+[seks]
+horizon 
+ n.地平线；眼界，见识
+[həˈraizn]
+during 
+ prep.在…期间
+[ˈdjuəriŋ]
+above 
+ prep.在…上面；高于
+[əˈbʌv]
+to 
+ prep.到，向，达到
+[tuː]
+radioactive 
+ a.放射性的
+[ˈreidiəuˈæktiv]
+vague 
+ a.模糊的，含糊的
+[veig]
+rely 
+ vi.依赖，依靠；信赖
+[riˈlai]
+anxiety 
+ n.焦虑，忧虑；渴望
+[æŋˈzaiəti]
+waggon 
+ n.四轮运货马车
+[ˈwægən]
+silk 
+ n.蚕丝，丝，丝织品
+[silk]
+fourth 
+ num.第四，四分之一
+[fɔːθ]
+shriek 
+ vi.尖声喊叫 n.尖叫声
+[∫riːk]
+kitchen 
+ n.厨房，灶间
+[ˈkit∫in]
+cell 
+ n.细胞；小房间
+[sel]
+bronze 
+ n.青铜；青铜制品
+[brɔnz]
+reporter 
+ n.记者，通讯员
+[riˈpɔːtə]
+clean 
+ a.清洁的；纯洁的
+[kliːn]
+fog 
+ n.雾；烟雾，尘雾
+[fɔg]
+prepare 
+ vt.&vi.准备，预备
+[priˈpeə]
+inherit 
+ vt.继承(传统等)
+[inˈherit]
+local 
+ a.地方的；局部的
+[ˈləukəl]
+grip 
+ vt.握紧，抓牢 n.紧握
+[grip]
+fifth 
+ num.第五 n.五分之一
+[fifθ]
+famous 
+ a.著名的，出名的
+[ˈfeiməs]
+establish 
+ vt.建立，设立；确立
+[isˈtæbli∫]
+carbon 
+ n.碳
+[ˈkɑːbən]
+bosom 
+ n.胸，胸部；内心
+[ˈbuzəm]
+extensive 
+ a.广阔的；广泛的
+[iksˈtensiv]
+foreign 
+ a.外国的；外来的
+[ˈfɔrin]
+drunk 
+ a.醉的；陶醉的
+[drʌŋk]
+fox 
+ n.狐狸；狡猾的人
+[fɔːks]
+regarding 
+ prep.关于
+[riˈgɑːdiŋ]
+midday 
+ n.正午，中午
+[ˈmiddei]
+lace 
+ n.鞋带，系带；花边
+[leis]
+behalf 
+ n.利益，维护，支持
+[biˈhɑːf]
+sincere 
+ a.真诚的；真挚的
+[sinˈsiə]
+finger 
+ n.手指；指状物
+[ˈfiŋgə]
+bitterly 
+ ad.苦苦地；悲痛地
+[ˈbitəli]
+precision 
+ n.精确，精密，精密度
+[priˈsiʒən]
+knee 
+ n.膝，膝盖，膝关节
+[niː]
+singular 
+ a.单一的；非凡的
+[ˈsiŋgjulə]
+see 
+ vt.看见；遇见；看出
+[siː]
+movie 
+ n.电影；电影院
+[ˈmuːvi]
+pardon 
+ n.原谅；赦免 vt.原谅
+[ˈpɑːdn]
+stain 
+ vt.沾污；给…着色
+[stein]
+wall 
+ n.墙，壁，围墙，城墙
+[wɔːl]
+cheek 
+ n.面颊，脸蛋
+[t∫iːk]
+wise 
+ a.有智慧的，聪明的
+[waiz]
+pen 
+ n.钢笔，自来水笔
+[pen]
+birthday 
+ n.生日，诞生的日期
+[ˈbəːθdei]
+sometimes 
+ ad.不时，有时
+[ˈsʌmtaimz]
+disaster 
+ n.灾难，灾祸；天灾
+[diˈzɑːstə]
+skim 
+ vt.掠过，擦过；略读
+[skim]
+slip 
+ vi.滑跤；滑落；溜
+[slip]
+remove 
+ vt.移动，搬开；脱掉
+[riˈmuːv]
+microscope 
+ n.显微镜
+[ˈmaikrəskəup]
+sunny 
+ a.阳光充足的；快活的
+[ˈsʌni]
+deposit 
+ vt.使沉淀；存放
+[diˈpɔzit]
+needle 
+ n.针，缝补，编织针
+[ˈniːdl]
+application 
+ n.请求，申请；施用
+[ˌæpliˈkei∫ən]
+peep 
+ vi.(从缝隙中)偷看
+[piːp]
+however 
+ ad.然而；不管怎样
+[hauˈevə]
+tendency 
+ n.趋向，趋势，倾向
+[ˈtendənsi]
+no 
+ ad.不；并不 a.没有
+[nəu]
+critical 
+ a.决定性的；批评的
+[ˈkritikəl]
+slope 
+ n.倾斜；斜面 vi.倾斜
+[sləup]
+office 
+ n.办公室；处，局，社
+[ˈɔfis]
+startle 
+ vt.使大吃一惊 n.吃惊
+[ˈstɑːtl]
+magazine 
+ n.杂志，期刊
+[ˌmægəˈziːn]
+mild 
+ a.和缓的；温柔的
+[maild]
+drown 
+ vi.淹死，溺死
+[draun]
+possess 
+ vt.占用，拥有(财产)
+[pəˈzes]
+leaf 
+ n.叶，叶子
+[liːf]
+satisfy 
+ vt.满足；使满意
+[ˈsætisfai]
+arrest 
+ vt.逮捕，拘留；阻止
+[əˈrest]
+blend 
+ vt.&vi.&n.混和
+[blend]
+recite 
+ vt.&vi.背诵，朗诵
+[riˈsait]
+survey 
+ vt.俯瞰；检查；测量
+[səːˈvei]
+rubber 
+ n.橡皮(擦子)；橡胶
+[ˈrʌbə]
+Europe 
+ n.欧洲
+[ˈjuərəp]
+job 
+ n.职业；工作；零活
+[dʒɔb]
+spare 
+ vt.节约 a.多余的
+[speə]
+realm 
+ n.王国，国土；领域
+[relm]
+distance 
+ n.距离，间距；远处
+[ˈdistəns]
+meanwhile 
+ ad.同时，当时
+[ˈminhwail]
+bull 
+ n.公牛；雄的象
+[bul]
+reverse 
+ vt.颠倒，翻转 n.背面
+[riˈvəːs]
+atomic 
+ a.原子的；原子能的
+[əˈtɔmik]
+combine 
+ vt.使结合；兼有
+[kəmˈbain]
+include 
+ vt.包括，包含
+[inˈ kluːd]
+belong 
+ vi.属于，附属
+[biˈlɔŋ]
+gray 
+ a.灰色的 n.灰色
+[grei]
+suggest 
+ vt.建议；暗示，启发
+[səˈdʒest]
+bear 
+ n.熊；粗鲁的人
+[beə]
+X-ray 
+ n.X 射线，X 光
+[ˈeksˈrei]
+healthy 
+ a.健康的；有益健康的
+[ˈhelθi]
+path 
+ n.路，小道；道路
+[pɑːθ]
+lecture 
+ n.&vi.演讲，讲课
+[ˈlekt∫ə]
+interior 
+ a.内的；内地的 n.内部
+[inˈtiəriə]
+unique 
+ a.唯一的，独一无二的
+[juːˈniːk]
+pudding 
+ n.布丁
+[ˈpudiŋ]
+down 
+ ad.向下，在下面
+[daun]
+accordance 
+ n.一致；和谐；授予
+[əˈkɔːdəns]
+crew 
+ n.全体船员
+[kruː]
+civilization 
+ n.文明，文化；开化
+[sivəliˈzei∫ən]
+convention 
+ n.习俗，惯例；公约
+[kənˈven∫ən]
+ashamed 
+ a.惭愧(的)；羞耻(的)
+[əˈ∫eimd]
+lid 
+ n.盖子，盖，囊盖
+[lid]
+already 
+ ad.早已，已经
+[ɔːlˈredi]
+living 
+ a.活的 n.生活，生计
+[ˈliviŋ]
+though 
+ conj.虽然 ad.可是
+[ðəu]
+plenty 
+ n.丰富，充足，大量
+[ˈplenti]
+famine 
+ n.饥荒；严重的缺乏
+[ˈfæmin]
+candy 
+ n.糖果；砂糖结晶
+[ˈkændi]
+billion 
+ num.万亿(英)
+[ˈbiljən]
+liquid 
+ n.液体 a.液体的
+[ˈlikwid]
+tan 
+ n.棕褐色 a.棕黄色的
+[tæn]
+penny 
+ n.(英)便士；(美)分
+[ˈpeni]
+farm 
+ n.农场，农庄；饲养场
+[fɑːm]
+accompany 
+ vt.陪伴，陪同；伴随
+[əˈkʌmpəni]
+dialect 
+ n.方言，土语，地方话
+[ˈdaiəlekt]
+deny 
+ vt.否定；拒绝相信
+[diˈnai]
+strange 
+ a.陌生的；奇怪的
+[streindʒ]
+pebble 
+ n.卵石，细砾
+[ˈpebl]
+ancient 
+ a.古代的，古老的
+[ˈein∫ənt]
+voyage 
+ n.&vi.航海，航空
+[ˈvɔiidʒ]
+remain 
+ vi.剩下，余留；保持
+[riˈmein]
+core 
+ n.果实的心，核心
+[kɔː]
+squeeze 
+ vt.&vi.榨，挤；压榨
+[skwiːz]
+expectation 
+ n.期待/望，预期
+[ˌekspekˈtei∫ən]
+as 
+ conj.当…的时候
+[æz]
+swamp 
+ n.沼泽，沼泽地
+[swɔmp]
+suppose 
+ vt.猜想；假定；让
+[səˈpəuz]
+racket 
+ n.球拍
+[ˈrækit]
+cut 
+ vt.切，割，剪；减少
+[kʌt]
+ring 
+ n.环形物(如圈、环等)
+[riŋ]
+aluminium 
+ n.铝
+[ˌæljuːˈminjəm]
+stock 
+ n.原料；库存品；股本
+[stɔk]
+quick 
+ a.快的；敏捷的
+[kwik]
+where 
+ ad.在哪里 pron.哪里
+[(h)weə]
+study 
+ n.学习，研究 vt.学
+[ˈstʌdi]
+hide 
+ vt.把…藏起来；隐瞒
+[haid]
+defend 
+ vt.保卫，防守
+[diˈfend]
+carrot 
+ n.胡罗卜
+[ˈkærət]
+leap 
+ vi.跳，跃 n.跳跃
+[liːp]
+perceive 
+ vt.察觉，发觉；理解
+[pəˈsiːv]
+reliable 
+ a.可靠的，可信赖的
+[riˈlaiəbl]
+addition 
+ n.加，加法；附加物
+[əˈdi∫ən]
+cost 
+ n.价格，代价；成本
+[kɔst]
+economy 
+ n.经济；节约，节省
+[i(ː)ˈkɔnəmi]
+cave 
+ n.山洞，洞穴，窑洞
+[keiv]
+Christmas 
+ n.圣诞节
+[ˈkrisməs]
+image 
+ n.像；形象；映象
+[ˈimidʒ]
+ambulance 
+ n.救护车；野战医院
+[ˈæmbjuləns]
+red 
+ a.红色的 n.红色
+[red]
+idea 
+ n.想法；思想；意见
+[aiˈdiə]
+expert 
+ n.专家 a.熟练的
+[ˈekspəːt]
+male 
+ a.男的，雄的 n.男子
+[meil]
+plane 
+ n.平面；飞机
+[plein]
+doubtless 
+ ad.无疑地；很可能
+[ˈdautlis]
+fall 
+ vi.落下；跌倒；陷落
+[fɔːl]
+snowstorm 
+ n.雪暴，暴风雪
+[ˈsnəustɔːm]
+celebrate 
+ vt.庆祝；歌颂，赞美
+[ˈselibreit]
+weary 
+ a.疲倦的 vt.使疲乏
+[ˈwiəri]
+salad 
+ n.色拉；莴苣，生菜
+[ˈsæləd]
+author 
+ n.作者，作家
+[ˈɔːθə]
+cigarette 
+ n.香烟，纸烟，卷烟
+[sigəˈret]
+true 
+ a.真的；忠实的
+[truː]
+population 
+ n.人口；全体居民
+[ˌpɔpjuˈlei∫ən]
+example 
+ n.例子，实例；模范
+[igˈzɑːmpl]
+alone 
+ a.单独的 ad.单独地
+[əˈləun]
+whose 
+ pron.谁的；哪个人的
+[huːz]
+easy 
+ a.容易的；安逸的
+[ˈiːzi]
+another 
+ a.再一个的；别的
+[əˈnʌðə]
+peel 
+ vt.剥(皮)，削(皮)
+[piːl]
+desire 
+ vt.相望；要求 n.愿望
+[diˈzaiə]
+behind 
+ prep.在…后面
+[biˈhaind]
+lime 
+ n.石灰
+[laim]
+grocery 
+ n.食品杂货店
+[ˈgrəusəri]
+special 
+ a.特殊的；专门的
+[ˈspe∫əl]
+character 
+ n.性格；特性；角色
+[ˈkæriktə]
+ninety 
+ num.九十，九十个
+[ˈnainti]
+Marxism 
+ n.马克思主义
+[ˈmɑːksiz(ə)m]
+grow 
+ vi.生长；变得；增长
+[grəu]
+stream 
+ n.河；流 vi.&vt.流
+[striːm]
+faith 
+ n.信任，信心；信仰
+[feiθ]
+club 
+ n.俱乐部，夜总会
+[klʌb]
+know 
+ vt.知道；认识；通晓
+[nəu]
+filter 
+ vt.过滤 n.滤纸
+[ˈfiltə]
+feature 
+ n.特征，特色；面貌
+[ˈfiːt∫ə]
+royal 
+ a.王的；皇家的
+[ˈrɔiəl]
+unite 
+ vi.联合 vt.使联合
+[ju(ː)ˈnait]
+crowd 
+ n.群；大众；一伙人
+[kraud]
+thin 
+ a.薄的；淡的 vi.变薄
+[θin]
+harsh 
+ a.严厉的；刺耳的
+[hɑː∫]
+require 
+ vt.需要；要求，命令
+[riˈkwaiə]
+ripe 
+ a.熟的；时机成熟的
+[raip]
+locate 
+ vt.探明，找出，查出
+[ləuˈkeit]
+minus 
+ a.负的 prep.减(去)
+[ˈmainəs]
+interrupt 
+ vt.打断，打扰；中止
+[ˌintəˈrʌpt]
+sponsor 
+ n.发起者 vt.发起
+[ˈspɔnsə]
+poetry 
+ n.诗，诗歌，诗作
+[ˈpəuitri]
+shock 
+ n.冲击；震惊 vi.震动
+[∫ɔk]
+delicate 
+ a.纤细的；易碎的
+[ˈdelikit]
+patch 
+ n.补钉；碎片 vt.补缀
+[pæt∫]
+shilling 
+ n.先令
+[ˈ∫iliŋ]
+aloud 
+ ad.出声地，大声地
+[əˈlaud]
+steer 
+ vt.&vi.驾驶
+[stiə]
+Friday 
+ n.星期五
+[ˈfraidi]
+independence 
+ n.独立,自主/立
+[ˌindiˈpendəns]
+pulse 
+ n.脉搏；脉冲，脉动
+[pʌls]
+broken 
+ a.被打碎的，骨折的
+[ˈbrəukən]
+bike 
+ n.自行车 vi.骑自行车
+[baik]
+farther 
+ ad.更远地 a.更远的
+[ˈfɑːðə]
+material 
+ n.材料；素材 a.物质的
+[məˈtiəriəl]
+halt 
+ vi.停止；立定 n.停住
+[hɔːlt]
+equation 
+ n.方程(式)；等式
+[iˈkwei∫ən]
+fifty 
+ num.五十，五十个
+[ˈfifti]
+seller 
+ n.卖者；行销货
+[ˈselə]
+origin 
+ n.起源，由来；出身
+[ˈɔridʒin]
+mouse 
+ n.鼠，耗子
+[maus]
+Portuguese 
+ n.葡萄牙人/语
+[ˌpɔːtjuˈgiːz]
+afternoon 
+ n.下午，午后
+[ˈɑːftəˈnuːn]
+jacket 
+ n.短上衣，茄克衫
+[ˈdʒækit]
+produce 
+ vt.生产；产生；展现
+[prəˈdjuːs]
+kilogram 
+ n.千克，公斤
+[ˈkiləgræm]
+store 
+ n.贮藏；贮存品；商店
+[stɔː]
+reap 
+ vt.&vi.收割，收获
+[riːp]
+pillow 
+ n.枕头
+[ˈpiləu]
+gloomy 
+ a.黑暗的；令人沮丧的
+[ˈgluːmi]
+senior 
+ a.年少的；地位较高的
+[ˈsiːnjə]
+recorder 
+ n.记录者；录音机
+[riˈkɔːdə]
+rent 
+ n.租金，租 vi.出租
+[rent]
+revolution 
+ n.革命；旋转，绕转
+[ˌrevəˈluː∫ən]
+share 
+ n.份；份额；股份
+[∫eə]
+unhappy 
+ a.不幸福的，不快乐的
+[ʌnˈhæpi]
+twenty 
+ num.二十，二十个
+[ˈtwenti]
+rotten 
+ a.腐烂的，发臭的
+[ˈrɔtn]
+carve 
+ vt.刻，雕刻；切开
+[kɑːv]
+instruct
+ vt.教；指示；通知
+[ inˈstrʌkt]
+fortunate 
+ a.幸运的，侥幸的
+[ˈfɔːt∫ənit]
+reed 
+ n.芦苇，芦杆，芦丛
+[riːd]
+africa 
+ n.非洲
+[ˈæfrikə]
+concept 
+ n.概念，观念，设想
+[ˈkɔnsept]
+suspect 
+ vt.怀疑 vi.疑心
+[səsˈpekt]
+furthermore 
+ ad.而且，此外
+[fəːðəˈmɔː(r)]
+name 
+ n.名字；名誉 vt.说出
+[neim]
+vote 
+ n.选举，投票，表决
+[vəut]
+habitual 
+ a.习惯性的，惯常的
+[həˈbitjuəl]
+displease 
+ vt.使不愉快，使生气
+[disˈpliːz]
+Japanese 
+ a.日本的 n.日本人
+[dʒæpəˈniːz]
+security 
+ n.安全，安全感
+[siˈkjuəriti]
+vase 
+ n.瓶，花瓶
+[veis]
+shady 
+ a.成荫的，阴凉的
+[ˈ∫eidi]
+fame 
+ n.名声，名望
+[feim]
+stripe 
+ n.条纹，条子
+[straip]
+countryside 
+ n.乡下，农村
+[ˈkʌntrisaid]
+battle 
+ n.战役；斗争 vi.作战
+[ˈbætl]
+being 
+ n.存在；生物；生命
+[ˈbiːiŋ]
+embarrass 
+ vt.使窘迫，使为难
+[imˈbærəs]
+bound 
+ a.一定的；有义务的
+[baund]
+content 
+ n.内容，目录；容量
+[kənˈtent]
+Canada 
+ n.加拿大
+[ˈkænədə]
+surprise 
+ vt.使惊奇；突然袭击
+[səˈpraiz]
+officer 
+ n.官员；干事；军官
+[ˈɔfisə]
+pastime 
+ n.消遣，娱乐
+[ˈpɑːstaim]
+rub 
+ vt.摩擦，擦 vi.摩擦
+[rʌb]
+trousers 
+ n.裤子，长裤
+[ˈtrauzəz]
+practise 
+ vt.练习，实习，训练
+[ˈpræktis]
+success 
+ n.成功，成就，胜利
+[səkˈses]
+specially 
+ ad.专门地，特别地
+[ˈspe∫əli]
+steal 
+ vt.偷，窍取
+[stiːl]
+dose 
+ n.剂量，用量；一剂
+[dəus]
+hi 
+ ini.嗨(表示问候等)
+[hai]
+largely 
+ ad.大部分；大量地
+[ˈlɑːdʒli]
+basically 
+ ad.基本上
+[ˈbeisikəli]
+close 
+ vt.关，闭；结束
+[kləuz]
+gesture 
+ n.姿势，手势；姿态
+[ˈdʒest∫ə]
+dictation 
+ n.口授笔录，听写
+[dikˈtei∫ən]
+atmospheric 
+ a.大气的;大气层的
+[ˌætməsˈferik]
+describe 
+ vt.形容；描写，描绘
+[disˈkraib]
+space 
+ n.空间；场地；空白
+[speis]
+following 
+ a.接着的；下列的
+[ˈfɔləuiŋ]
+disturb 
+ vt.打扰，扰乱；弄乱
+[disˈtəːb]
+father-in-law 
+ n.岳父；公公
+[ˈfɑːðərinlɔː]
+small 
+ a.小的，少的；小型的
+[smɔːl]
+rabbit 
+ n.兔子，野兔
+[ˈræbit]
+read 
+ vt.读，看懂 vi.读
+[riːd]
+familiar 
+ a.熟悉的；冒昧的
+[fəˈmiljə]
+meadow 
+ n.草地，牧草地
+[ˈmedəu]
+repeat 
+ vt.重说，重做 n.重复
+[riˈpiːt]
+maths 
+ n.(英)数学
+[mæθs]
+bond 
+ n.联结，联系；公债
+[bɔnd]
+announcer 
+ n.宣告者；播音员
+[əˈnaunsə]
+wire 
+ n.金属线；电缆；电信
+[ˈwaiə]
+rich 
+ a.富的，丰富的
+[rit∫]
+reader 
+ n.读者；读物，读本
+[ˈriːdə]
+regulation 
+ n.规则/章；管理
+[regjuˈlei∫ən]
+youthful 
+ a.年轻的，青年的
+[ˈjuːθful]
+chair 
+ n.椅子；主席
+[t∫eə]
+offend 
+ vt.冒犯 vi.犯过错
+[əˈfend]
+little 
+ a.小的；少；幼小的
+[ˈlitl]
+contrary 
+ a.相反的 n.相反
+[ˈkɔntrəri]
+top 
+ n.顶；首位 a.顶的
+[tɔp]
+analysis 
+ n.分析，分解，解析
+[əˈnælisis]
+large 
+ a.大的；巨大的
+[lɑːdʒ]
+rejoice 
+ vi.欣喜，高兴
+[riˈdʒɔis]
+these 
+ a.&pron.这些
+[ðiːz]
+chess 
+ n.棋；国际象棋
+[t∫es]
+greenhouse 
+ n.温室，玻璃暖房
+[ˈgriːnhaus]
+widely 
+ ad.广，广泛
+[ˈwaidli]
+recent 
+ a.新近的，最近的
+[ˈriːsnt]
+native 
+ a.本土的 n.本地人
+[ˈneitiv]
+find 
+ vt.找到；发觉；找出
+[faind]
+miracle 
+ n.奇迹，令人惊奇的人
+[ˈmirəkl]
+weather 
+ n.天气
+[ˈweðə]
+taste 
+ vt.尝；尝到 n.味觉
+[teist]
+mushroom 
+ n.蘑菇，菌类植物
+[ˈmʌ∫rum]
+firm 
+ n.商行，商号，公司
+[fəːm]
+beginner 
+ n.初学者，生手
+[biˈginə]
+wander 
+ vi.漫游；迷路；离题
+[ˈwɔndə]
+harden 
+ vt.使变硬 vi.变硬
+[ˈhɑːdn]
+hardship 
+ n.艰难，困苦
+[ˈhɑːdˌ∫ip]
+chemist 
+ n.化学家；药剂师
+[ˈkemist]
+assemble 
+ vt.集合，召集；装配
+[əˈsembl]
+soon 
+ ad.不久；早，快
+[suːn]
+evening 
+ n.傍晚，黄昏，晚上
+[ˈiːvniŋ]
+nod 
+ vt.点(头)；点头表示
+[nɔd]
+our 
+ pron.我们的
+[ˈauə]
+fool 
+ n.蠢人，傻子 vt.欺骗
+[fuːl]
+manager
+ n.经理，管理人
+[ ˈmænidʒə]
+reform 
+ vt.&n.改革，改良
+[riˈfɔːm]
+sauce 
+ n.调味汁，酱汁
+[sɔːs]
+lane 
+ n.(乡间)小路；跑道
+[lein]
+stewardess 
+ n.空中小姐，女乘务员
+[ˈstjuːədis]
+loan 
+ n.贷款；暂借 vt.借出
+[ləun]
+teenager 
+ n.青少年
+[ˈtiːnˌeidʒə]
+smog 
+ n.烟雾
+[smɔg]
+difference 
+ n.差别；差；分歧
+[ˈdifərəns]
+ounce 
+ n.盎司，英两
+[auns]
+huge 
+ a.巨大的，庞大的
+[hjuːdʒ]
+worthless 
+ a.无价值的，无用的
+[ˈwəːθlis]
+touch 
+ vt.触摸；触动 n.触
+[tʌt∫]
+review 
+ vt.再检查 n.复习
+[riˈvjuː]
+earn 
+ vt.赚得，挣得；获得
+[əːn]
+roast 
+ vt.&vi.烤，炙，烘
+[rəust]
+smile 
+ vi.微笑 n.微笑，笑容
+[smail]
+sin 
+ n.罪，罪孽 vi.犯罪
+[sin]
+custom 
+ n.习惯，风俗；海关
+[ˈkʌstəm]
+sword 
+ n.剑，刀
+[sɔːd]
+hell 
+ n.地狱；极大的痛苦
+[hel]
+movement 
+ n.动作,活动;移动
+[ˈmuːvmənt]
+clear 
+ a.清晰的 vt.清除
+[kliə]
+ten 
+ num.十，十个
+[ten]
+removal 
+ n.移动；迁移；除掉
+[riˈmuːvəl]
+progress 
+ n.前进，进展；进步
+[ˈprəugres]
+scan 
+ vt.细看；浏览；扫描
+[skæn]
+distinguish 
+ vt.区别，辨别，认别
+[disˈtiŋgwi∫]
+stamp 
+ n.戳子；邮票；标志
+[stæmp]
+envy 
+ vt.&n.妒忌；羡慕
+[ˈenvi]
+lively 
+ a.活泼的；逼真的
+[ˈlaivli]
+run 
+ vi.跑，奔；行驶；流
+[rʌn]
+bow 
+ n.弓；蝴蝶结；鞠躬
+[bau]
+bitter 
+ a.痛苦的；严寒的
+[ˈbitə]
+do 
+ aux.v. vt.做，干，办
+[duː]
+prevail 
+ vi.胜，优胜；流行
+[priˈveil]
+rapidly 
+ ad.迅速地
+[ˈræpidli]
+battery 
+ n.电池；一套，一组
+[ˈbætəri]
+profession 
+ n.职业
+[prəˈfe∫ən]
+bay 
+ n.湾；山脉中的凹处
+[bei]
+sleep 
+ n.睡眠 vi.睡 vt.睡
+[sliːp]
+output 
+ n.产量；输出量；输出
+[ˈautput]
+i.e. 
+ (=that is)那就是，即
+[ˈaiˈiː]
+mistress 
+ n.女主人；夫人
+[ˈmistris]
+intelligent 
+ a.聪明的；理智的
+[inˈtelidʒənt]
+wholly 
+ ad.完全地，全部
+[ˈhəuli]
+self 
+ n.自我，自己
+[self]
+stranger 
+ n.陌生人；新来者
+[ˈstreindʒə]
+gap 
+ n.缺口；间隔；差距
+[gæp]
+internal 
+ a.内的；国内的
+[inˈtəːnl]
+background 
+ n.背景，后景，经历
+[ˈbækgraund]
+ink 
+ n.墨水，油墨
+[iŋk]
+merry 
+ a.欢乐的，愉快的
+[ˈmeri]
+relax 
+ vt.使松弛 vi.松弛
+[riˈlæks]
+heroine 
+ n.女主角；女英雄
+[ˈherəuin]
+exclaim 
+ vi.呼喊；惊叫
+[iksˈkleim]
+might 
+ v.aux.可能，会，也许
+[mait]
+district 
+ n.区；地区，区域
+[ˈdistrikt]
+miss 
+ n.小姐
+[mis]
+lodge 
+ vi.暂住，借宿，投宿
+[lɔdʒ]
+precaution 
+ n.预防；警惕
+[priˈkɔː∫ən]
+socialism 
+ n.社会主义
+[ˈsəu∫əlizəm]
+calculate 
+ vt.计算；估计；计划
+[ˈkælkjuleit]
+glare 
+ vi.瞪眼 n.瞪眼
+[gleə]
+depart 
+ vi.离开，起程；出发
+[diˈpɑːt]
+veil 
+ n.面纱，面罩；遮蔽物
+[veil]
+triumph 
+ n.凯旋；胜利 vi.成功
+[ˈtraiəmf]
+actor 
+ n.男演员；演剧的人
+[ˈæktə]
+November 
+ n.十一月
+[nəuˈvembə]
+beloved 
+ a.为…的爱的 n.爱人
+[biˈlʌvid]
+belief 
+ n.信任，相信；信念
+[biˈliːf]
+salesman 
+ n.售货员，推销员
+[ˈseilzmən]
+justify 
+ vt.证明…是正当的
+[ˈdʒʌstifai]
+challenge 
+ n.挑战；要求，需要
+[ˈt∫ælindʒ]
+ignore 
+ vt.不顾，不理，忽视
+[igˈnɔː]
+color 
+ n.颜色，彩色；颜料
+[ˈkʌlə]
+treasure 
+ n.财富；珍宝 vt.珍视
+[ˈtreʒə]
+catch 
+ vt.捉住；赶上；领会
+[kæt∫]
+muscle 
+ n.肌肉，肌；体力
+[ˈmʌsl]
+fortunately 
+ ad.幸运地，幸亏
+[ˈfɔːt∫ənətli]
+naked 
+ a.裸体的；无遮敝的
+[ˈneikid]
+transformation 
+ n.变化；改造；转变
+[ˌtrænsfəˈmei∫ən]
+lighten 
+ vt.照亮，使明亮
+[ˈlaitn]
+lately 
+ ad.最近，不久前
+[ˈleitli]
+oar 
+ n.浆，橹
+[ɔə]
+tea 
+ n.茶；茶叶；茶树
+[tiː]
+everyone 
+ pron.每人，人人
+[ˈevriwʌn]
+ready 
+ a.准备好的；愿意的
+[ˈredi]
+desirable 
+ a.值得相望的；可取的
+[diˈzaiərəbl]
+atom 
+ n.原子；微粒；微量
+[ˈætəm]
+king 
+ n.国王，君主
+[kiŋ]
+sensible 
+ a.感觉得到的；明智的
+[ˈsensəbl]
+jaw 
+ n.颌，颚
+[dʒɔː]
+always 
+ ad.总是，一直；永远
+[ˈɔːlweiz]
+sorry 
+ a.难过的；对不起的
+[ˈsɔri]
+manufacture 
+ vt.制造 n.制造；产品
+[ˌmænjuˈfækt∫ə]
+tube 
+ n.管；电子管，显像管
+[ˈtjuːb]
+duration 
+ n.持续，持久
+[djuəˈrei∫ən]
+headache 
+ n.头痛；头痛的事
+[ˈhedeik]
+weekday 
+ n.周日，工作日
+[ˈwiːkdei]
+article 
+ n.文章；条款；物品
+[ˈɑːtikl]
+moral 
+ a.道德的；合乎道德的
+[ˈmɔrəl]
+cent 
+ n.分；分币；百
+[sent]
+region 
+ n.地区，地带；领域
+[ˈriːdʒən]
+sigh 
+ n.&vi.叹气，叹息
+[sai]
+feeling 
+ n.感情；感觉，知觉
+[ˈfiːliŋ]
+nowadays 
+ ad.现今，现在
+[ˈnauədeiz]
+him 
+ pron.(宾格)他
+[him]
+prefer 
+ vt.宁可，宁愿
+[priˈfəː]
+throne 
+ n.宝座，御座；王位
+[θrəun]
+politics 
+ n.政治，政治学；政纲
+[ˈpɔlitiks]
+devise 
+ vt.设计，发明
+[diˈvaiz]
+compound 
+ n.化合物；复合词
+[ˈkɔmpaund]
+consideration 
+ n.考虑，思考；体贴
+[kənsidəˈrei∫ən]
+consider 
+ vt.认为；考虑；关心
+[kənˈsidə]
+distress 
+ n.忧虑，悲伤；不幸
+[disˈtres]
+pull 
+ vt.拉，拖；拉，拉力
+[pul]
+attentive 
+ a.注意的；有礼貌的
+[əˈtentiv]
+quote 
+ vt.引用，引证；报价
+[kwəut]
+meat 
+ n.肉
+[miːt]
+failure 
+ n.失败；失败的人
+[ˈfeiljə]
+call 
+ vt.把…叫做；叫，喊
+[kɔːl]
+pillar 
+ n.柱，柱子；栋梁
+[ˈpilə]
+lovely 
+ a.可爱的；令人愉快的
+[ˈlʌvli]
+porch 
+ n.门廊，入口处
+[pɔːt∫]
+must 
+ v.aux.必须；必然要
+[mʌst]
+airline 
+ n.航空公司；航线
+[ˈeəlain]
+castle 
+ n.城堡；巨大建筑物
+[ˈkæsl]
+juice 
+ n.(水果等)汁，液
+[dʒuːs]
+sustain 
+ vt.支撑；供养；忍受
+[səsˈtein]
+basin 
+ n.盆，洗脸盆；盆地
+[ˈbeisn]
+metal 
+ n.金属，金属制品
+[ˈmetl]
+transmit 
+ vt.传送，传达；发射
+[trænzˈmit]
+bury 
+ vt.埋葬，葬；埋藏
+[ˈberi]
+passage 
+ n.通过；通路，通道
+[ˈpæsidʒ]
+retire 
+ vi.退下；引退；就寝
+[riˈtaiə]
+leader 
+ n.领袖，领导人；首领
+[ˈliːdə]
+uncover 
+ vt.揭开…的盖子
+[ʌnˈkʌvə]
+those 
+ pron.那些
+[ðəuz]
+throat 
+ n.咽喉，喉咙；嗓音
+[θrəut]
+soup 
+ n.汤
+[suːp]
+affection 
+ n.慈爱，爱；爱慕
+[əˈfek∫ən]
+advance 
+ vi.前进；提高 n.进展
+[ədˈvɑːns]
+tap 
+ vt.&vi.&n.轻叩
+[tæp]
+occur 
+ vi.发生；出现，存在
+[əˈkəː]
+document 
+ n.公文，文件；证件
+[ˈdɔkjumənt]
+spill 
+ vt.使溢出 vi.溢出
+[spil]
+wealth 
+ n.财富，财产；丰富
+[welθ]
+sixty 
+ num.六十，六十个
+[ˈsiksti]
+lest 
+ conj.惟恐，以免
+[lest]
+toast 
+ n.烤面包 vt.烘，烤
+[təust]
+classroom 
+ n.教室，课堂
+[ˈklɑːsrum]
+rack 
+ n.搁物架；行李架
+[ræk]
+stiff 
+ a.硬的；僵直的
+[stif]
+sure 
+ a.确信的；确实的
+[∫uə]
+marvelous 
+ a.奇迹般的；了不起的
+[ˈmɑːvəl]
+supper 
+ n.晚饭，晚餐
+[ˈsʌpə]
+scarf 
+ n.围巾，头巾；领带
+[skɑːf]
+interfere 
+ vi.干涉，干预；妨碍
+[ˌintəˈfiə]
+steadily 
+ ad.稳定地，不变地
+[ˈstedili]
+county 
+ n.英国的郡，美国的县
+[ˈkaunti]
+rehearsal 
+ n.排练，排演；练习
+[riˈhəːsəl]
+industry 
+ n.工业，产业；勤劳
+[ˈindəstri]
+increasingly 
+ ad.日益，越来越多地
+[inˈkriːsiŋli]
+cash 
+ n.现金，现款
+[kæ∫]
+oneself 
+ pron.自己；亲自
+[wʌnˈself]
+wake 
+ vi.醒，醒来 vt.唤醒
+[weik]
+member 
+ n.成员，会员
+[ˈmembə]
+emotional 
+ a.感情的，情绪的
+[iˈməu∫ənl]
+phenomenon 
+ n.现象
+[fiˈnɔminən]
+deceive 
+ vt.欺骗，蒙蔽，行骗
+[diˈsiːv]
+aware 
+ a.知道的，意识到的
+[əˈweə]
+indirect 
+ a.间接的；不坦率的
+[ˌindiˈrekt]
+noble 
+ a.贵族的；高尚的
+[ˈnəub(ə)l]
+manner 
+ n.方式；态度；礼貌
+[ˈmænə]
+brisk 
+ a.活泼的；清新的
+[brisk]
+despite 
+ prep.不管，不顾
+[disˈpait]
+step 
+ n.(脚)步；步骤 vi.走
+[step]
+lover 
+ n.爱好者；情人；情侣
+[ˈlʌvə]
+assign 
+ vt.指派；分配；指定
+[əˈsain]
+shot 
+ n.发射；弹丸；射门
+[∫ɔt]
+stem 
+ n.茎，(树)干 vi.起源
+[stem]
+violence 
+ n.猛烈，激烈；暴力
+[ˈvaiələns]
+underline 
+ vt.划线于…之下
+[ˌʌndəˈlain]
+materialism 
+ n.唯物主义
+[məˈtiəriəlizəm]
+relation 
+ n.关系，联系；家属
+[riˈlei∫ən]
+revise 
+ vt.修订，校订；修改
+[riˈvaiz]
+screen 
+ n.屏；屏幕 vt.掩蔽
+[skriːn]
+idle 
+ a.空闲的；懒散的
+[ˈaidl]
+view 
+ n.看；视力；风景
+[vjuː]
+country 
+ n.国家，国土；农村
+[ˈkʌntri]
+entire 
+ a.全部的，整个的
+[inˈtaiə]
+interval 
+ n.间隔；休息；间距
+[ˈintəvəl]
+properly 
+ ad.适当地；彻底地
+[ˈprɔpəli]
+prove 
+ vt.证明 vi.结果是
+[pruːv]
+bit 
+ n.一点，一些，小片
+[bit]
+dry 
+ a.干的，干燥的
+[drai]
+sick 
+ a.有病的；恶心的
+[sik]
+steep 
+ a.险峻的，陡峭的
+[stiːp]
+exhibit 
+ vt.显示；陈列，展览
+[igˈzibit]
+essay 
+ n.短文，散文，小品文
+[ˈesei]
+centimetre 
+ n.公分，厘米
+[ˈsentiˌmiːtə]
+reference 
+ n.参考；出处；提及
+[ˈrefrəns]
+religion 
+ n.宗教；宗教信仰
+[riˈlidʒən]
+explanation 
+ n.解释,说明;辩解
+[ˌekspləˈnei∫ən]
+collective 
+ a.集体的；集合性的
+[kəˈlektiv]
+favour 
+ n.好感；赞同；恩惠
+[ˈfeivə]
+sand 
+ n.沙，沙子；沙滩
+[sænd]
+hold 
+ vt.拿住；掌握；拥有
+[həuld]
+gas 
+ n.煤气；气体；汽油
+[gæs]
+textbook 
+ n.课本，教科书
+[ˈtekstbuk]
+tune 
+ n.调子；和谐 vt.调谐
+[tjuːn]
+pleasure 
+ n.愉快，快乐；乐事
+[ˈpleʒə]
+adjective 
+ n.形容词 a.形容词的
+[ˈædʒiktiv]
+arrange 
+ vt.筹备；整理；调解
+[əˈreindʒ]
+able 
+ a.有能力的；出色的
+[ˈeibl]
+nine 
+ num.九，九个
+[nain]
+horror 
+ n.恐怖；战栗；憎恶
+[ˈhɔrə]
+thickness 
+ n.厚(度)；密(度)
+[ˈθiknis]
+linen 
+ n.亚麻布；亚麻织物
+[ˈlinin]
+just 
+ ad.刚才；只是；正好
+[dʒʌst]
+beside 
+ prep.在…旁边
+[biˈsaid]
+French 
+ a.法国的 n.法国人
+[frent∫]
+by 
+ prep.在…旁；被，由
+[bai]
+cry 
+ vi.哭，哭泣；叫喊
+[krai]
+geometry 
+ n.几何，几何学
+[dʒiˈɔmitri]
+storm 
+ n.风暴；暴(风)雨
+[stɔːm]
+indifferent 
+ a.冷漠的；不积极的
+[inˈdifərənt]
+attain 
+ vt.达到，获得，完成
+[əˈtein]
+loop 
+ n.圈，环，环孔
+[luːp]
+tree 
+ n.树
+[triː]
+mysterious 
+ a.神秘的；难以理解的
+[misˈtiəriəs]
+abundant 
+ a.丰富的；大量的
+[əˈbʌndənt]
+threaten 
+ vt.&vi.威胁，恐吓
+[ˈθretn]
+wave 
+ n.波；波涛 vi.波动
+[weiv]
+absent 
+ a.不在场的；缺乏的
+[ˈæbsənt]
+ampere 
+ n.安培
+[ˈæmpiər]
+outer 
+ a.外部的，外面的
+[ˈautə]
+inn 
+ n.小旅店；小酒店
+[in]
+hatred 
+ n.憎恶，憎恨，仇恨
+[ˈheitrid]
+bush 
+ n.灌木，灌木丛，矮树
+[bu∫]
+general 
+ a.总的；一般的 n.将军
+[ˈdʒenərəl]
+complain 
+ vi.抱怨，拆苦；控告
+[kəmˈplein]
+gum 
+ n.口香糖；树胶
+[gʌm]
+bomb 
+ n.炸弹 vt.轰炸
+[bɔm]
+fulfil 
+ vt.履行；满足；完成
+[fulˈfil]
+define 
+ vt.给…下定义；限定
+[diˈfain]
+dishonor 
+ n.不光彩；丢脸的人
+[disˈɔnə]
+prison 
+ n.监狱，监禁
+[ˈprizn]
+margin 
+ n.页边的空白；边缘
+[ˈmɑːdʒin]
+monument 
+ n.纪念碑；纪念馆
+[ˈmɔnjumənt]
+repeatedly 
+ ad.重复地；一再
+[riˈpiːtidli]
+hamburger 
+ n.汉堡包，牛肉饼
+[ˈhæmbəːgə]
+technician 
+ n.技术员，技师
+[tekˈni∫(ə)n]
+highway 
+ n.公路；大路
+[ˈhaiwei]
+barrier 
+ n.栅栏，屏障；障碍
+[ˈbæriə]
+overseas 
+ ad.海外 a.在海外的
+[ˈəuvəˈsiːz]
+imagine 
+ vt.想象，设想；料想
+[iˈmædʒin]
+busy 
+ a.忙的，繁忙的
+[ˈbizi]
+over 
+ prep.在…上方；超过
+[ˈəuvə]
+yearly 
+ a.每年的 ad.一年一度
+[ˈjəːli]
+manage 
+ vt.管理；设法；对付
+[ˈmænidʒ]
+respond 
+ vi.作答；响应
+[risˈpɔnd]
+assignment 
+ n.任务，指定的作业
+[əˈsainmənt]
+disgust 
+ n.厌恶，憎恶
+[disˈgʌst]
+guard 
+ vt.守卫；看守 n.卫兵
+[gɑːd]
+let 
+ vt.允许，让；使
+[let]
+perfectly 
+ ad.很，完全
+[ˈpəːfiktli]
+Latin 
+ a.拉丁的 n.拉丁语
+[ˈlætin]
+match 
+ n.比赛，竞赛；对手
+[mæt∫]
+ride 
+ vi.&n.骑马，乘车
+[raid]
+beneath 
+ prep.在…下方
+[biˈniːθ]
+lantern 
+ n.提灯，灯笼
+[ˈlæntən]
+cat 
+ n.猫，猫科，猫皮
+[kæt]
+sway 
+ vi.摇动 vt.摇；摇动
+[swei]
+submerge 
+ vt.浸没 vi.潜入水中
+[səbˈməːdʒ]
+escape 
+ vi.逃跑；逸出 n.逃跑
+[isˈkeip]
+outdoor 
+ a.户外的，室外的
+[ˈautdɔː]
+fate 
+ n.命运，天数
+[feit]
+utility 
+ n.效用，有用，实用
+[juːˈtiliti]
+practically 
+ ad.实际上；几乎
+[ˈpræktikəli]
+sign 
+ n.符号；招牌 n.签名
+[sain]
+swarm 
+ n.一大群 vi.密集
+[swɔːm]
+complicated 
+ a.复杂的，难懂的
+[ˈkɔmplikeitid]
+much 
+ ad.非常，很 a.许多的
+[mʌt∫]
+cassette 
+ n.盒式录音带；盒子
+[kɑːˈset]
+scrape 
+ vt.&vi.&n.刮，擦
+[skreip]
+explore 
+ vt.&vi.探险，探索
+[iksˈplɔː]
+american 
+ a.美洲的 n.美国人
+[əˈmerikən]
+doctor 
+ n.医生，医师；博士
+[ˈdɔktə]
+proud 
+ a.骄傲的；自豪的
+[praud]
+gravity 
+ n.重力，引力；严重性
+[ˈgræviti]
+fancy 
+ n.想象力；设想；爱好
+[ˈfænsi]
+productive 
+ a.生产的；丰饶的
+[prəˈdʌktiv]
+eliminate 
+ vt.消灭，消除，排除
+[iˈlimineit]
+brim 
+ n.边，边缘；帽沿
+[brim]
+evolve 
+ vt.使进化；使发展
+[iˈvɔlv]
+input 
+ n.输入；投入的资金
+[ˈinput]
+wet 
+ a.湿的；下雨的
+[wet]
+early 
+ ad.早 a.早的，早期的
+[ˈəːli]
+magic 
+ n.魔法，巫术；戏法
+[ˈmædʒik]
+beggar 
+ n.乞丐，穷人
+[ˈbegə]
+solid 
+ a.固体的 n.固体
+[ˈsɔlid]
+proportional 
+ a.比例/相称的
+[prəˈpɔː∫ənl]
+annual 
+ a.每年的 n.年报
+[ˈænjuəl]
+accumulate 
+ vt.积累 vi.堆积
+[əˈkjuːmjuleit]
+descend 
+ vi.下来，下降；下倾
+[diˈsend]
+researcher 
+ n.调查者；探究者
+[riˈsəːt∫ə(r)]
+via 
+ prep.经过；通过
+[ˈvaiə]
+cousin 
+ n.堂(或表)兄弟(姐妹)
+[ˈkʌzn]
+seldom 
+ ad.很少，不常，难得
+[ˈseldəm]
+value 
+ n.价值；价格 vt.评价
+[ˈvæljuː]
+butter 
+ n.黄油；奶油
+[ˈbʌtə]
+sideways 
+ ad.斜着，斜向一边地
+[ˈsaidweiz]
+necessary 
+ a.必要的；必然的
+[ˈnesəseri]
+interpretation 
+ n.解释；口译
+[inˌtəːpriˈtei∫ən]
+apart 
+ ad.相隔；分开；除去
+[əˈpɑːt]
+gradually 
+ ad.逐渐地，逐步地
+[ˈgrædjuəli]
+disk 
+ n.圆盘，唱片；磁盘
+[disk]
+vanish 
+ vi.突然不见，消失
+[ˈvæni∫]
+consist 
+ vi.由…组成；在于
+[kənˈsist]
+anyway 
+ ad.无论如何
+[ˈeniwei]
+kilometer 
+ n.千米，公里
+[ˈkiləmiːtə]
+grade 
+ vt.给…分等级 n.等级
+[greid]
+sunrise 
+ n.日出(时分)
+[ˈsʌnraiz]
+indication 
+ n.指示;表示；表明
+[ˌindiˈkei∫ən]
+flash 
+ n.闪光 vi.闪，闪烁
+[flæ∫]
+identical 
+ a.完全相同的；同一的
+[aiˈdentikəl]
+accuse 
+ vt.指责；归咎于
+[əˈkjuːz]
+vivid 
+ a.鲜艳的；生动的
+[ˈvivid]
+bureau 
+ n.局，司，处；社，所
+[bjuəˈrəu]
+trim 
+ a.整齐的 vt.使整齐
+[trim]
+locomotive 
+ n.火车头，机车
+[ˌləukəˈməutiv]
+pacific 
+ a.和平的 n.太平洋
+[pəˈsifik]
+adverb 
+ n.副词
+[ˈædvəːb]
+graph 
+ n.(曲线)图，图表
+[grɑːf]
+admire 
+ vt.钦佩，羡慕，赞赏
+[ədˈmaiə]
+grateful 
+ a.感激的；令人愉快的
+[ˈgreitful]
+exactly 
+ ad.确切地；恰恰正是
+[igˈzæktli]
+gross 
+ a.总的；严重的
+[grəus]
+church 
+ n.教堂，礼拜堂；教会
+[t∫əːt∫]
+mail 
+ n.邮件 vt.邮寄
+[meil]
+hundred 
+, num.百，百个 n.许多
+[ˈhʌndrid]
+medal 
+ n.奖章，勋章，纪念章
+[ˈmedl]
+most 
+ a.最多的 ad.最，很
+[məust]
+other 
+ a.另外的；其余的
+[ˈʌðə]
+while 
+ conj.当…的时候；而
+[(h)wail]
+later 
+ ad.后来；过一会儿
+[ˈleitə]
+hurt 
+ vt.使受伤；使痛心
+[həːt]
+March 
+ n.三月
+[mɑːt∫]
+duty 
+ n.职责；责任；税
+[ˈdjuːti]
+occupation 
+ n.占领/据；职业
+[ˌɔkjuˈpei∫ən]
+handkerchief 
+ n.手帕
+[ˈhæŋkət∫iːf]
+classical 
+ a.古典的；经典的
+[ˈklæsikəl]
+relief 
+ n.减轻；救济；援救
+[riˈliːf]
+postpone 
+ vt.延迟，推迟，延缓
+[pəustˈpəun]
+word 
+ n.词；话；消息；语言
+[wəːd]
+us 
+ pron.(宾格)我们
+[ʌs]
+palace 
+ n.宫，宫殿
+[ˈpælis]
+criticism 
+ n.批评；批判；评论
+[ˈkritisiz(ə)m]
+snake 
+ n.蛇
+[sneik]
+pioneer 
+ n.拓荒者；先驱者
+[ˌpaiəˈniə]
+tomorrow 
+ ad.在明天 n.明天
+[təˈmɔrəu]
+zebra 
+ n.斑马
+[ˈziːbrə]
+curve 
+ n.曲线；弯 vt.弄弯
+[kəːv]
+garden 
+ n.花园，菜园；公园
+[ˈgɑːdn]
+sit 
+ vi.坐，就坐 vt.使坐
+[sit]
+official 
+ a.官员的；官方的
+[əˈfi∫əl]
+parcel 
+ n.包裹，小包，邮包
+[ˈpɑːsl]
+platform 
+ n.平台；站台；讲台
+[ˈplætfɔːm]
+fade 
+ vi.褪色；逐渐消失
+[feid]
+luxury 
+ n.奢侈，奢华；奢侈品
+[ˈlʌk∫əri]
+tag 
+ n.附加语；标签
+[tæg]
+topic 
+ n.题目，论题，话题
+[ˈtɔpik]
+snow 
+ n.雪 vi.下雪
+[snəu]
+lag 
+ vi.走得慢 n.落后
+[læg]
+moment 
+ n.片刻，瞬间，时刻
+[ˈməumənt]
+conceal 
+ vt.把…隐藏起来
+[kənˈsiːl]
+offer 
+ vt.提供；提出 n.提供
+[ˈɔfə]
+lucky 
+ a.幸运的；吉祥的
+[ˈlʌki]
+invent 
+ vt.发明，创造；捏造
+[inˈvent]
+talent 
+ n.天才；才能；人才
+[ˈtælənt]
+okay 
+ (缩作 OK)a.&ad.对，好
+[əuˈkei]
+greeting 
+ n.问候，招呼，致敬
+[ˈgriːtiŋ]
+learned 
+ a.有学问的；学术上的
+[ˈləːnid]
+rod 
+ n.杆，竿，棒
+[rɔd]
+reject 
+ vt.拒绝；丢掉；驳回
+[riˈdʒekt]
+federal 
+ a.联邦的；联盟的
+[ˈfedərəl]
+uncertain 
+ a.无常的；不确定的
+[ʌnˈsəːtn]
+France 
+ n.法国，法兰西
+[frɑːns]
+cheque 
+ n.支票
+[t∫ek]
+surgeon 
+ n.外科医师；军医
+[ˈsəːdʒən]
+fortune 
+ n.命运，运气；财产
+[ˈfɔːt∫ən]
+ceremony 
+ n.典礼，仪式；礼节
+[ˈseriməni]
+cheap 
+ a.廉价的；劣质的
+[t∫iːp]
+frown 
+ vi.皱眉，蹙额
+[fraun]
+rouse 
+ vt.唤醒，唤起；惊起
+[rauz]
+license 
+ n.许可；执照 vt.准许
+[ˈlaisəns]
+blackboard 
+ n.黑板
+[ˈblækbɔːd]
+selection 
+ n.选择，挑选；精选物
+[siˈlek∫ən]
+anybody 
+ prep.任何人
+[ˈeniˌbɔdi]
+nearby 
+ a.附近的 ad.在附近
+[ˈniəbai]
+competition 
+ n.竞争，比赛
+[kɔmpiˈti∫ən]
+ridiculous 
+ a.荒谬的，可笑的
+[riˈdikjuləs]
+afterward 
+ ad.后来，以后
+[ˈɑːftəwəd]
+stomach 
+ n.胃；肚子；食欲
+[ˈstʌmək]
+microphone 
+ n.话筒，麦克风
+[ˈmaikrəfəun]
+explode 
+ vt.使爆炸 vi.爆炸
+[iksˈpləud]
+satisfactory 
+ a.令人满意的,良好的
+[ˌsætisˈfæktəri]
+diligent 
+ a.勤勉的，勤奋的
+[ˈdilidʒənt]
+float 
+ vi.漂浮 vt.使漂浮
+[fləut]
+backward 
+ a.向后的；倒的 ad.倒
+[ˈbækwəd]
+mental 
+ a.智力的；精神的
+[ˈmentl]
+management 
+ n.管理；经营，处理
+[ˈmænidʒmənt]
+stupid 
+ a.愚蠢的；感觉迟钝的
+[ˈstjuːpid]
+handsome 
+ a.英俊的；相当大的
+[ˈhænsəm]
+handle 
+ n.柄，把手 vt.拿，触
+[ˈhændl]
+previously 
+ ad.先前，预先
+[ˈpriːvjuːsli]
+anything 
+ pron.任何事物；一切
+[ˈeniθiŋ]
+palm 
+ n.手掌，手心；掌状物
+[pɑːm]
+environment 
+ n.环境，外界；围绕
+[inˈvaiərənmənt]
+influential 
+ a.有影响的；有权势的
+[ˌinfluˈen∫əl]
+piece 
+ n.碎片，块 vt.拼合
+[piːs]
+disposal 
+ n.丢掉，处理，销毁
+[disˈpəuzəl]
+timid 
+ a.胆怯的；羞怯的
+[ˈtimid]
+cease 
+ vi.&vi.&n.停止，停息
+[siːs]
+portion 
+ n.一部分；一分
+[ˈpɔː∫ən]
+loudspeaker 
+ n.扬声器，喇叭
+[ˈlaudˈspiːkə]
+feed 
+ vt.喂(养) vi.吃饲料
+[fiːd]
+whistle 
+ n.口哨 vi.吹口哨
+[(h)wisl]
+deer 
+ n.鹿
+[diə]
+acute 
+ a.尖的，锐的；敏锐的
+[əˈkjuːt]
+upward 
+ a.向上的，上升的
+[ˈʌpwəd]
+asian 
+ a.亚洲的 n.亚洲人
+[ˈei∫ən]
+purify 
+ vt.使纯净，使洁净
+[ˈpjuərifai]
+test 
+ n.&vt.试验；检验
+[test]
+pane 
+ n.窗格玻璃
+[pein]
+communist 
+ n.共产党员
+[ˈkɔmjunist]
+hurry 
+ vi.赶紧 vt.催促
+[ˈhʌri]
+sickness 
+ n.疾病
+[ˈsiknis]
+conflict 
+ n.争论；冲突；斗争
+[ˈkɔnflikt]
+coffee 
+ n.咖啡，咖啡茶
+[ˈkɔfi]
+himself 
+ pron.他自己；他亲自
+[himˈself]
+knock 
+ vi.&vt.&n.敲，击，打
+[nɔk]
+painting 
+ n.油画；绘画；着色
+[ˈpeintiŋ]
+emperor 
+ n.皇帝
+[ˈempərə]
+common 
+ a.普通的；共同的
+[ˈkɔmən]
+troublesome 
+ a.令人烦恼的；麻烦的
+[ˈtrʌblsəm]
+prosperity 
+ n.繁荣；昌盛，兴旺
+[prɔsˈperiti]
+compromise 
+ n.妥协，和解
+[ˈkɔmprəmaiz]
+found 
+ vt.创立，创办；建立
+[faund]
+lawn 
+ n.草地，草坪，草场
+[lɔːn]
+passive 
+ a.被动的；消极的
+[ˈpæsiv]
+educate 
+ vt.教育；培养；训练
+[ˈedju(ː)keit]
+nap 
+ n.小睡，打盹，瞌睡
+[næp]
+brook 
+ n.小河，溪流
+[bruk]
+might 
+ n.力量，威力，能力
+[mait]
+west 
+ n.西；西洋 a.西方的
+[west]
+peak 
+ n.山顶，巅 a.最高的
+[piːk]
+wood 
+ n.树林，森林；木头
+[wud]
+asleep 
+ a.睡着的，睡熟的
+[əˈsliːp]
+bind 
+ vt.捆绑；包扎；装钉
+[baind]
+astronaut 
+ n.宇宙航行员，宇航员
+[ˈæstrənɔːt]
+waterproof 
+ a.不透水/防水的
+[ˈwɔːtəpruːf]
+delay 
+ vt.推迟；耽搁；延误
+[diˈlei]
+kite 
+ n.风筝
+[kait]
+notice 
+ vt.注意 n.通知；注意
+[ˈnəutis]
+inspection 
+ n.检查，审查；检阅
+[inˈspek∫ən]
+expose 
+ vt.使暴露；揭露
+[iksˈpəuz]
+wedding 
+ n.婚礼
+[ˈwediŋ]
+side 
+ n.边，旁边；一方
+[said]
+twice 
+ ad.两次，两倍
+[twais]
+underground 
+ a.地下的；秘密的
+[ˈʌndəgraund]
+curse 
+ n.诅咒，咒骂；天谴
+[kəːs]
+data 
+ n.数据; 资料
+[ˈdeitə]
+inefficient 
+ a.效率低的，无能的
+[ˌiniˈfi∫ənt]
+daylight 
+ n.白昼，日光；黎明
+[ˈdeilait]
+prince 
+ n.王子，亲王
+[prins]
+thorn 
+ n.刺，棘；荆棘；蒺藜
+[θɔːn]
+nail 
+ n.钉；指甲 vt.钉
+[neil]
+opponent 
+ n.对手,敌手;对抗者
+[əˈpəunənt]
+comment 
+ n.评论，意见；注释
+[ˈkɔment]
+estimate 
+ vt.估计，评价 n.估计
+[ˈestimeit]
+casual 
+ a.偶然的；随便的
+[ˈkæʒuəl]
+cord 
+ n.细绳，粗线，索
+[kɔːd]
+across 
+ prep.横过；在…对面
+[əˈkrɔs]
+courage 
+ n.勇气，胆量，胆识
+[ˈkʌridʒ]
+gentleman 
+ n.绅士；有教养的人
+[ˈdʒentlmən]
+grind 
+ vt.磨(碎)；磨快
+[graind]
+machine 
+ n.机器；机械
+[məˈ∫iːn]
+receive 
+ vt.收到；得到；接待
+[riˈsiːv]
+perhaps 
+ ad.也许，可能，多半
+[pəˈhæps]
+qualify 
+ vt.使具有资格
+[ˈkwɔlifai]
+powder 
+ n.粉末；药粉；火药
+[ˈpaudə]
+raise 
+ vt.举起；引起；提高
+[reiz]
+permission 
+ n.允许，许可，同意
+[pə(ː)ˈmi∫ən]
+transport 
+ vt.运输 n.运输
+[trænsˈpɔːt]
+advertisement 
+ n.广告；公告；登广告
+[ədˈvəːtismənt]
+clearly 
+ ad.明白地，清晰地
+[ˈkliəli]
+republic 
+ n.共和国，共和政体
+[riˈpʌblik]
+laugh 
+ vi.笑，发笑 n.笑
+[lɑːf]
+cloak 
+ n.斗篷；覆盖(物)
+[kləuk]
+itself 
+ pron.它自己；自身
+[itˈself]
+hotel 
+ n.旅馆
+[həuˈtel]
+vocabulary 
+ n.词汇表;词汇，语汇
+[vəˈkæbjuləri]
+captive 
+ n.俘虏，被监禁的人
+[ˈkæptiv]
+strict 
+ a.严格的；严谨的
+[strikt]
+conversely 
+ ad.相反地
+[ˈkɔnvəːsli]
+disable 
+ vt.使无能，使伤残
+[disˈeibl]
+dialog 
+ n.对话，对白
+[ˈdaiəlɔg]
+seventh 
+ num.第七；七分之一
+[ˈsevənθ]
+limited 
+ a.有限的
+[ˈlimitid]
+friend 
+ n.朋友，友人
+[frend]
+Monday 
+ n.星期一
+[ˈmʌndei]
+pear 
+ n.梨子，梨树
+[peə]
+arm 
+ n.臂；臂状物；武器
+[ɑːm]
+secondary 
+ a.第二的；次要的
+[ˈsekəndəri]
+outside 
+ n.外部；外表 a.外部的
+[ˈautˈsaid]
+infinite 
+ a.无限的；无数的
+[ˈinfinit]
+collapse 
+ vi.倒坍；崩溃，瓦解
+[kəˈlæps]
+instrument 
+ n.仪器;工具；乐器
+[ˈinstrumənt]
+introduction 
+ n.介绍；引进；引言
+[ˌintrəˈdʌk∫ən]
+wrist 
+ n.腕，腕关节
+[rist]
+polite 
+ a.有礼貌的；有教养的
+[pəˈlait]
+tooth 
+ n.牙齿
+[tuːθ]
+mineral 
+ n.矿物 a.矿物的
+[ˈminərəl]
+pavement 
+ n.(英)人行道
+[ˈpeivmənt]
+every 
+ a.每一的；每隔…的
+[ˈevri]
+dip 
+ vt.浸，蘸 vi.浸一浸
+[dip]
+inhabit 
+ vt.居住于，栖息于
+[inˈhæbit]
+string 
+ n.线，细绳；一串
+[striŋ]
+after 
+ prep.在…以后；次于
+[ˈɑːftə]
+childhood 
+ n.童年，幼年；早期
+[ˈt∫aildhud]
+square 
+ n.正方形；广场
+[skweə]
+neutral 
+ a.中立的；中性的
+[ˈnjuːtrəl]
+pollution 
+ n.污染
+[pəˈluː∫(ə)n]
+easily 
+ ad.容易地；舒适的
+[ˈiːzili]
+sail 
+ n.帆；船 vi.航行
+[seil]
+something 
+ pron.某事，某物
+[ˈsʌmθiŋ]
+indignant 
+ a.愤慨的，义愤的
+[inˈdignənt]
+motive 
+ n.动机，目的
+[ˈməutiv]
+stick 
+ n.棍，棒 vt.刺；粘贴
+[stik]
+base 
+ n.基础，底层；基地
+[beis]
+lifetime 
+ n.一生，终身
+[ˈlaiftaim]
+traitor 
+ n.叛徒，卖国贼
+[ˈtreitə]
+few 
+ a.很少的；少数的
+[fjuː]
+short 
+ a.短的；短期的
+[∫ɔːt]
+brand 
+ n.商品；烙印 vt.铭刻
+[brænd]
+hare 
+ n.野兔
+[heə]
+object 
+ n.物，物体；目的
+[ˈɔbdʒikt]
+clumsy 
+ a.笨拙的；愚笨的
+[ˈklʌmzi]
+install 
+ vt.安装，设置
+[inˈstɔːl]
+lab 
+ n.实验室，研究室
+[læb]
+literature 
+ n.文学；文献
+[ˈlitərit∫ə]
+tight 
+ a.紧的；紧身的
+[tait]
+miner 
+ n.矿工
+[ˈmainə]
+drop 
+ vt.使落下；降低
+[drɔp]
+sandwich 
+ n.三明治 vt.夹入
+[ˈsænwidʒ]
+zeal 
+ n.热心，热情，热忱
+[ziːl]
+punishment 
+ n.罚，惩罚，处罚
+[ˈpʌni∫mənt]
+cheese 
+ n.乳酪，干酪
+[t∫iːz]
+delete 
+ vt.删除；擦掉
+[diˈliːt]
+interruption 
+ n.中断，打断；障碍物
+[ˌintəˈrʌp∫ən]
+especially 
+ ad.特别，尤其，格外
+[isˈpe∫əli]
+likewise 
+ ad.同样地；也，又
+[ˈlaikˌwaiz]
+mortal 
+ a.终有一死的；致死的
+[ˈmɔːtl]
+theirs 
+ pron.他(她)们的东西
+[ðeəz]
+inspect 
+ vt.检查，审查；检阅
+[inˈspekt]
+canoe 
+ n.独木舟，皮艇，划子
+[kəˈnuː]
+patient 
+ a.忍耐的 n.病人
+[ˈpei∫ənt]
+college 
+ n.学院；大学
+[ˈkɔlidʒ]
+orphan 
+ n.孤儿
+[ˈɔːfən]
+potential 
+ a.潜在的 n.潜力
+[pəˈten∫(ə)l]
+cherry 
+ n.樱桃；樱桃树
+[ˈt∫eri]
+sight 
+ n.视力；见；情景
+[sait]
+cattle 
+ n.牛；牲口，家畜
+[ˈkætl]
+restless 
+ a.不安定的，焦虑的
+[ˈrestlis]
+greedy 
+ a.贪吃的；贪婪的
+[ˈgriːdi]
+floor 
+ n.地板；楼层
+[flɔə]
+host 
+ n.主人；东道主
+[həust]
+Sunday 
+ n.星期日，礼拜日
+[ˈsʌndi]
+seek 
+ vt.寻找，探索；试图
+[siːk]
+dense 
+ a.密集的；浓厚的
+[dens]
+it 
+ pron.这，那，它
+[it]
+expansion 
+ n.扩大，扩充；扩张
+[iksˈpæn∫ən]
+so 
+ ad.这样；这么；非常
+[səu]
+mate 
+ n.伙伴，同事；配偶
+[meit]
+pipeline 
+ n.管道，管线
+[ˈpaipˌlain]
+export 
+ vt.输出，出口；运走
+[ˈekspɔːt]
+reflexion 
+ n.反射；映象；反映
+[riˈflek∫ən]
+experiment 
+ n.实验；试验
+[iksˈperimənt]
+remark 
+ vt.&vi.&n.评论，谈论
+[riˈmɑːk]
+exception 
+ n.例外，除外
+[ikˈsep∫ən]
+sad 
+ a.悲哀的，令人悲痛的
+[sæd]
+mankind 
+ n.人类
+[mænˈkaind]
+imaginary 
+ a.想象中的，假想的
+[iˈmædʒinəri]
+brief 
+ a.简短的；短暂的
+[briːf]
+current 
+ a.当前的；通用的
+[ˈkʌrənt]
+select 
+ vt.&vi.选择，挑选
+[siˈlekt]
+definite 
+ a.明确的；肯定的
+[ˈdefinit]
+association 
+ n.协会,团体；联合
+[əˌsəusiˈei∫ən]
+save 
+ vt.救；节省；储蓄
+[seiv]
+reply 
+ vi.&n.回答，答复
+[riˈplai]
+thing 
+ n.物；用品；事；情况
+[θiŋ]
+implication 
+ n.含义，暗示，暗指
+[ˌimpliˈkei∫ən]
+vertical 
+ a.垂直的，竖式的
+[ˈvəːtik(ə)l]
+rust 
+ n.锈 vi.生锈，氧化
+[rʌst]
+guess 
+ vt.&vi.&n.猜测，推测
+[ges]
+dairy 
+ n.牛奶场；乳制品
+[ˈdeəri]
+birth 
+ n.分娩，出生；出身
+[bəːθ]
+meantime 
+ n.其时/间 ad.当时
+[ˈmiːnˈtaim]
+become 
+ vi.变成；成为，变得
+[biˈkʌm]
+travel 
+ vi.&vi.&n.旅行
+[ˈtrævl]
+promote 
+ vt.促进，发扬；提升
+[prəˈməut]
+glad 
+ a.高兴的；乐意的
+[glæd]
+significant 
+ n.有意义/重要的
+[sigˈnifikənt]
+trial 
+ n.试，试验；审判
+[ˈtraiəl]
+anywhere 
+ ad.在什么地方
+[ˈeniweə]
+perform 
+ vt.履行，执行；演出
+[pəˈfɔːm]
+drawer 
+ n.抽屉
+[ˈdrɔːə]
+mist 
+ n.薄雾
+[mist]
+people 
+ n.人民，民族；人
+[ˈpiːpl]
+circular 
+ a.圆的；循环的
+[ˈsəːkjulə]
+paragraph 
+ n.(文章的)段，节
+[ˈpærəgrɑːf]
+unnecessary 
+ a.不必要的，多余的
+[ʌnˈnesisəri]
+retell 
+ vt.再讲，重述，复述
+[ˈriːˈtel]
+die 
+ vi.死，死亡；灭亡
+[dai]
+factory 
+ n.工厂，制造厂
+[ˈfæktəri]
+interpret 
+ vt.解释，说明；口译
+[inˈtəːprit]
+December 
+ n.十二月
+[diˈsembə]
+switch 
+ n.开关；转换 vt.转换
+[swit∫]
+could 
+ aux.v.(can 的过去式)
+[kud]
+sour 
+ a.酸的；脾气坏的
+[ˈsauə]
+lessen 
+ vt.减少，减轻；缩小
+[ˈlesn]
+freedom 
+ n.自由；自主
+[ˈfriːdəm]
+enlarge 
+ vt.扩大，扩展；放大
+[inˈlɑːdʒ]
+utmost 
+ a.最远的 n.极限
+[ˈʌtməust]
+dash 
+ vt.使猛撞；溅 n.猛冲
+[dæ∫]
+fill 
+ vt.装满，盛满；占满
+[fil]
+stay 
+ vi.停留；住 n.逗留
+[stei]
+superficial 
+ a.表面的；肤浅的
+[sjuːpəˈfi∫əl]
+conventional 
+ a.普通的；习惯的
+[kənˈven∫ənl]
+springtime 
+ n.春季，春天
+[ˈspriŋtaim]
+son 
+ n.儿子
+[sʌn]
+crash 
+ vi.碰撞，坠落 n.碰撞
+[kræ∫]
+resistant 
+ a.抵抗的，反抗的
+[riˈzistənt]
+food 
+ n.食物，食品，养料
+[fuːd]
+somehow 
+ ad.由于某种原因
+[ˈsʌmhau]
+goat 
+ n.山羊
+[gəut]
+tolerance 
+ n.忍受，容忍；公差
+[ˈtɔlərəns]
+wrap 
+ vt.裹，包，捆 n.披肩
+[ræp]
+merchant 
+ n.商人；零售商
+[ˈməːt∫ənt]
+mainly 
+ ad.主要地，大体上
+[ˈmeinli]
+usual 
+ a.通常的；平常的
+[ˈjuːʒuəl]
+Russian 
+ a.俄罗斯的 n.俄国人
+[ˈrʌ∫ən]
+operate 
+ vi.操作；施行手术
+[ˈɔpəreit]
+judgement 
+ n.意见；审判；判断
+[ˈdʒʌdʒmənt]
+motivate 
+ vt.促动；激励，激发
+[ˈməutiveit]
+refresh 
+ vt.使清新 vi.恢复精神
+[riˈfre∫]
+anyhow 
+ ad.无论如何
+[ˈenihau]
+bridge 
+ n.桥，桥梁；桥牌
+[bridʒ]
+convenient 
+ a.便利的；近便的
+[kənˈviːnjənt]
+child 
+ n.小孩，儿童；儿子
+[t∫aild]
+desert 
+ n.沙漠 vt.离弃；擅离
+[diˈzəːt]
+whisper 
+ vt.低声地讲 vi.低语
+[ˈ(h)wispə]
+company 
+ n.公司，商号；同伴
+[ˈkʌmpəni]
+pain 
+ n.痛，疼痛；辛苦
+[pein]
+beyond 
+ prep.在…的那边
+[biˈjɔnd]
+badminton 
+ n.羽毛球
+[ˈbædmintən]
+elimination 
+ n.消灭，排除，消除
+[iˌlimiˈnei∫ən]
+suspicion 
+ n.怀疑，疑心，猜疑
+[səsˈpi∫ən]
+coin 
+ n.硬币；铸造(硬币)
+[kɔin]
+coarse 
+ a.粗的，粗糙的
+[kɔːs]
+rate 
+ n.比率；速度；价格
+[reit]
+radiate 
+ vi.发射光线；辐射
+[ˈreidieit]
+pursue 
+ vt.追赶，追踪；进行
+[pəˈsjuː]
+mother 
+ n.母亲，妈妈
+[ˈmʌðə]
+employer 
+ n.雇佣者，雇主
+[imˈplɔiə]
+spider 
+ n.蜘蛛
+[ˈspaidə]
+northwest 
+ n.西北 a.位于西北的
+[ˈnɔːθˈwest]
+forecast 
+ n.预测，预报 vt.预示
+[ˈfɔːkɑːst]
+gun 
+ n.枪，炮，手枪
+[gʌn]
+tailor 
+ n.裁缝 vt.裁制衣服
+[ˈteilə]
+grandfather 
+ n.祖父；外祖父
+[ˈgrændˌfɑːðə]
+mouth 
+ n.嘴，口，口腔
+[mauθ]
+act 
+ vi.行动；见效 n.行为
+[ækt]
+Wednesday 
+ n.星期三
+[ˈwenzdei]
+grand 
+ a.宏伟的；重大的
+[grænd]
+thirst 
+ n.渴，口渴；渴望
+[θəːst]
+package 
+ n.包裹，包，捆
+[ˈpækidʒ]
+communism 
+ n.共产主义
+[ˈkɔmjunizəm]
+increase 
+ vt.&vi.&n.增加
+[inˈkriːs]
+reputation 
+ n.名誉/声；好名声
+[ˌrepju(ː)ˈtei∫ən]
+turkey 
+ n.火鸡；火鸡肉
+[ˈtəːki]
+someone 
+ pron.某人，有人
+[ˈsʌmwʌn]
+achievement 
+ n.完成；成就/绩
+[əˈt∫iːvmənt]
+queer 
+ a.奇怪的，古怪的
+[kwiə]
+warn 
+ vt.警告 vi.发生警告
+[wɔːn]
+would 
+ aux.v.将；愿；总是
+[wud]
+nothing 
+ n.没有东西 ad.毫不
+[ˈnʌθiŋ]
+transformer 
+ n.变压/转换器
+[trænsˈfɔːmə(r)]
+sheep 
+ n.羊，绵羊
+[∫iːp]
+deal 
+ n.买卖；待遇 vt.给予
+[diːl]
+hire 
+ vt.租借 n.租用，雇用
+[ˈhaiə]
+insert 
+ vt.插入; 嵌入; 登载
+[inˈsəːt]
+rear 
+ n.后部，后面；背面
+[riə]
+interesting 
+ a.有趣的，引人入胜的
+[ˈintristiŋ]
+puff 
+ n.(一)喷，(一)吹
+[pʌf]
+span 
+ n.跨距；一段时间
+[spæn]
+invisible 
+ a.看不见的，无形的
+[inˈvizəbl]
+reserve 
+ vt.储备，保留；预定
+[riˈzəːv]
+era 
+ n.时代，年代；纪元
+[ˈiərə]
+deaf 
+ a.聋的；不愿听的
+[def]
+near 
+ ad.近，接近 a.近的
+[niə]
+clasp 
+ n.扣子，钩子；别针
+[klɑːsp]
+pack 
+ vt.捆扎；挤满 n.包
+[pæk]
+oak 
+ n.栎属植物；栎木
+[əuk]
+lead 
+ n.铅，铅制品
+[liːd]
+similarly 
+ ad.类似地，相似地
+[ˈsimiləli]
+bake 
+ vt.烤，烘，焙；烧硬
+[beik]
+visual 
+ a.看的；看得见的
+[ˈvizjuəl]
+shall 
+ aux.v.将要；必须；应
+[∫æl]
+commit 
+ vt.犯(错误);干(坏事) 
+[kəˈmit]
+skilled 
+ a.有技能的，熟练的
+[skild]
+instance 
+ n.例子，实例，事例
+[ˈinstəns]
+joyful 
+ a.十分喜悦的，快乐的
+[ˈdʒɔiful]
+stoop 
+ vi.俯身；弯身 n.弯腰
+[stuːp]
+depth 
+ n.深度；深厚；深处
+[depθ]
+fear 
+ n.害怕；担心 vt.害怕
+[fiə]
+victim 
+ n.牺牲者，受害者
+[ˈviktim]
+frontier 
+ n.边境；边疆；新领域
+[ˈfrʌntjə]
+group 
+ n.小组，群 vi.聚集
+[gruːp]
+face 
+ n.脸；表面；外表
+[feis]
+inexpensive 
+ a.花费不多的,廉价的
+[ˌiniksˈpensiv]
+sore 
+ a.痛的；恼火的 n.疮
+[sɔ]
+think 
+ vt.想；想要；认为
+[θiŋk]
+port 
+ n.港，港口
+[pɔːt]
+suitable 
+ a.合适的；适宜的
+[ˈsjuːtəbl]
+cunning 
+ a.狡猾的，狡诈的
+[ˈkʌniŋ]
+conversation 
+ n.会话,非正式会谈
+[ˌkɔnvəˈsei∫ən]
+fleet 
+ n.舰队；船队，机群
+[fliːt]
+shiver 
+ vi.颤抖，哆嗦 n.冷颤
+[ˈ∫ivə]
+external 
+ a.外部的，外面的
+[eksˈtəːnl]
+withdraw 
+ vt.收回；撤回 vi.撤退
+[wiðˈdrɔː]
+protest 
+ vt.&vi.&n.抗议
+[prəˈtest]
+laser 
+ n.激光
+[ˈleizə]
+marriage 
+ n.结婚，婚姻；婚礼
+[ˈmæridʒ]
+globe 
+ n.地球，世界；地界仪
+[gləub]
+mud 
+ n.软泥，泥浆
+[mʌd]
+overnight 
+ ad.一夜；突然
+[ˈəuvəˈnait]
+under 
+ prep.在…下面；低于.
+[ˈʌndə]
+dying 
+ a.垂死的；临终的
+[ˈdaiiŋ]
+layout 
+ n.布局，安排，设计
+[ˈleiˌaut]
+quit 
+ vt.离开，退出；停止
+[kwit]
+blank 
+ a.空白的 n.空白
+[blæŋk]
+round 
+ a.圆的 n.兜圈；一轮
+[raund]
+scene 
+ n.发生地点；道具
+[siːn]
+brood 
+ n.同窝幼鸟 vt.孵(蛋)
+[bruːd]
+oblige 
+ vt.迫使；施恩惠于
+[əˈblaidʒ]
+aunt 
+ n.伯母，婶母，姑母
+[ɑːnt]
+admission 
+ n.允许进入；承认
+[ədˈmi∫ən]
+lift 
+ vt.提起，提高 n.电梯
+[lift]
+tomb 
+ n.坟，冢
+[tuːm]
+yellow 
+ a.黄(色)的 n.黄(色)
+[ˈjeləu]
+meal 
+ n.膳食，一餐
+[miːl]
+condition 
+ n.状况，状态；环境
+[kənˈdi∫ən]
+fetch 
+ vt.拿来；请来，接去
+[fet∫]
+straw 
+ n.稻草，麦杆吸管
+[strɔː]
+reality 
+ n.现实；真实
+[ri(ː)ˈæliti]
+southern 
+ a.南方的，南部的
+[ˈsʌðən]
+almost 
+ ad.几乎，差不多
+[ˈɔːlməust]
+appear 
+ vi.出现；来到；似乎
+[əˈpiə]
+golf 
+ n.高尔夫球
+[gɔlf]
+additional 
+ a.附加的，追加的
+[əˈdi∫ənl]
+government 
+ n.政府；治理；政治
+[ˈgʌvənmənt]
+help 
+ vt.帮助；援助 n.帮手
+[help]
+vacuum 
+ n.真空；真空吸尘器
+[ˈvækjuəm]
+Saturday 
+ n.星期六
+[ˈsætədi]
+static 
+ a.静的；静态的
+[ˈstætik]
+worse 
+ a.更坏的 ad.更坏
+[wəːs]
+slide 
+ vi.滑 vt.使滑动 n.滑
+[slaid]
+ear 
+ n.耳朵；听力，听觉
+[iə]
+destruction 
+ n.破坏，毁灭，消灭
+[disˈtrʌk∫ən]
+uniform 
+ a.一样的 n.制服
+[ˈjuːnifɔːm]
+lightly 
+ ad.轻轻地，轻松地
+[ˈlaitli]
+they 
+ pron.(主格)他(她)们
+[ðei]
+gradual 
+ a.逐渐的；渐进的
+[ˈgrædjuəl]
+stress 
+ n.压力；重音 vt.着重
+[stres]
+flesh 
+ n.肉，肌肉；肉体
+[fle∫]
+pair 
+ n.一对 vi.成对，配对
+[peə]
+zone 
+ n.地区，区域，范围
+[zəun]
+gently 
+ ad.有礼貌地；柔和地
+[ˈdʒentli]
+sadness 
+ n.悲痛，悲哀
+[ˈsædnis]
+evaporate 
+ vt.使蒸发 vi.蒸发
+[iˈvæpəreit]
+relieve 
+ vt.减轻，解除；救济
+[riˈliːv]
+fairly 
+ ad.相当；公平地
+[ˈfeəli]
+trap 
+ n.陷阱；诡计 vt.诱骗
+[træp]
+lens 
+ n.透镜，镜片；镜头
+[lenz]
+accuracy 
+ n.准确(性)；准确度
+[ˈækjurəsi]
+pretty 
+ a.漂亮的，标致的
+[ˈpriti]
+diameter 
+ n.直径
+[daiˈæmitə]
+shirt 
+ n.(男式)衬衫
+[∫əːt]
+illness 
+ n.病，疾病
+[ˈilnis]
+principal 
+ a.主要的 n.负责人
+[ˈprinsip(ə)l]
+governor 
+ n.州长；主管人员
+[ˈgʌvənə]
+classmate 
+ n.同班同学
+[ˈklɑːsmeit]
+hour 
+ n.小时；时间，时刻
+[ˈauə]
+accordingly 
+ ad.因此，所以；照着
+[əˈkɔːdiŋli]
+rebellion 
+ n.造反；叛乱；反抗
+[riˈbeljən]
+oh 
+ int.嗬，哦，唉呀
+[əu]
+affair 
+ n.事情，事件；事务
+[əˈfeə]
+stiffen 
+ vt.使硬；使僵硬
+[ˈstifn]
+reign 
+ n.君主统治；支配
+[rein]
+sudden 
+ a.突然的，意外的
+[ˈsʌdn]
+dark 
+ a.暗的；黑色的
+[dɑːk]
+sponge 
+ n.海绵
+[spʌndʒ]
+systematic(al) 
+ a.有系统/计划的
+[ˌsistiˈmætik]
+terrible 
+ a.可怕的；极度的
+[ˈterəbl]
+pleasant 
+ a.令人愉快的，舒适的
+[ˈplezənt]
+happy 
+ a.快乐的；幸福的
+[ˈhæpi]
+troop 
+ n.军队；一群，大量
+[truːp]
+sunlight 
+ n.日光，阳光
+[ˈsʌnlait]
+supreme 
+ a.最高的；最大的
+[sjuːˈpriːm]
+May 
+ n.五月
+[mei]
+net 
+ n.网，网状物；通信网
+[net]
+mercury 
+ n.水银，汞
+[ˈməːkjuri]
+pork 
+ n.猪肉
+[pɔːk]
+likely 
+ a.可能的 ad.很可能
+[ˈlaikli]
+borrow 
+ vt.借，借用，借人
+[ˈbɔrəu]
+fee 
+ n.费，酬金；赏金
+[fiː]
+widen 
+ vt.加宽 vi.变宽
+[ˈwaidn]
+rider 
+ n.骑马的人；乘车的人
+[ˈraidə]
+truth 
+ n.真理；真实；真实性
+[truːθ]
+adventure 
+ n.冒险；惊险活动
+[ədˈvent∫ə]
+hopeful 
+ a.有希望的
+[ˈhəupful]
+difficulty 
+ a.困难；难事；困境
+[ˈdifikəlti]
+why 
+ ad.为什么
+[(h)wai]
+abandon 
+ vt.丢弃；放弃，抛弃
+[əˈbændən]
+booth 
+ n.货摊；公用电话亭
+[buːθ]
+spelling 
+ n.拼字，拼法，拼写法
+[ˈspeliŋ]
+slight 
+ a.细长的；轻微的
+[slait]
+provision 
+ n.供应；预备；存粮
+[prəˈviʒən]
+decorate 
+ vt.装饰，装璜，修饰
+[ˈdekəreit]
+cricket 
+ n.板球；蟋蟀
+[ˈkrikit]
+extraordinary 
+ a.非同寻常的，特别的
+[ikˈstrɔːdəneri]
+drain 
+ vt.排去；放水 n.耗竭
+[drein]
+motor 
+ n.发动机；机动车
+[ˈməutə]
+considerate 
+ a.考虑周到的；体谅的
+[kənˈsidərit]
+quarrel 
+ n.争吵，吵架，口角
+[ˈkwɔrəl]
+insist 
+ vi.坚持；坚持要求
+[inˈsist]
+separately 
+ ad.分离地
+[ˈsepərətli]
+journal 
+ n.日报，杂志；日志
+[ˈdʒəːnl]
+downstairs 
+ ad.在楼下 a.楼下的
+[daunˈsteəz]
+lamp 
+ n.灯
+[læmp]
+twelfth 
+ num.第十二
+[twelfθ]
+liver 
+ n.肝；肝脏
+[ˈlivə]
+smart 
+ a.巧妙的；洒脱的
+[smɑːt]
+criminal 
+ n.犯人，罪犯，刑事犯
+[ˈkriminl]
+ridge 
+ n.脊；岭，山脉；垄
+[ridʒ]
+statue 
+ n.塑像，雕像，铸像
+[ˈstæt∫uː]
+vital 
+ a.生命的；有生命力的
+[ˈvaitl]
+density 
+ n.密集，稠密；密度
+[ˈdensiti]
+meter 
+ n.计量器，计，表
+[ˈmiːtə]
+stroke 
+ n.打，击；鸣声；中风
+[strəuk]
+sweet 
+ a.甜的；愉快的
+[swiːt]
+infer 
+ vt.推论，推断；猜想
+[inˈfəː]
+aviation 
+ n.航空，航空学
+[ˌeiviˈei∫ən]
+request 
+ n.&v.请求，要求
+[riˈkwest]
+strength 
+ n.力，力量，力气
+[streŋθ]
+forth 
+ ad.向前；向外，往外
+[fɔːθ]
+atlantic 
+ a.大西洋的 n.大西洋
+[ətˈlæntik]
+address 
+ n.地址；演说；谈吐
+[əˈdres]
+alive 
+ a.活着的；活跃的
+[əˈlaiv]
+ill 
+ a.有病的；坏的 ad.坏
+[il]
+wrong 
+ a.错误的 ad.错，不对
+[rɔŋ]
+investigation 
+ n.调查，调查研究
+[inˌvestiˈgei∫ən]
+dive 
+ vi.跳水；潜水；俯冲
+[daiv]
+phrase 
+ n.短语；习惯用语
+[freiz]
+outlet 
+ n.出口，出路；排遣
+[ˈautlet]
+restraint 
+ n.抑制；遏制；克制
+[risˈtreint]
+fare 
+ n.车费，船费，票价
+[feə]
+thirdly 
+ ad.第三
+[ˈθəːdli]
+watch 
+ vt.&vi.观看 n.手表
+[wɔt∫]
+gay 
+ a.快乐的；鲜明的
+[gei]
+scholarship 
+ n.学业成绩；奖学金
+[ˈskɔlə∫ip]
+social 
+ a.社会的；社交的
+[ˈsəu∫əl]
+white 
+ a.白的 n.白色
+[(h)wait]
+directly 
+ ad.直接地；立即
+[diˈrektli]
+conquer 
+ vt.征服，战胜；破除
+[ˈkɔŋkə]
+corn 
+ n.谷物；(英)小麦
+[kɔːn]
+foolish 
+ a.愚蠢的；鲁莽的
+[ˈfuːli∫]
+design 
+ vt.设计 n.设计；图样
+[diˈzain]
+ultimate 
+ a.最后的，最终的
+[ˈʌltimit]
+prompt 
+ a.及时的 vt.敦促
+[prɔmpt]
+jolly 
+ a.快活的；令人高兴的
+[ˈdʒɔli]
+utilize 
+ vt.利用
+[juːˈtilaiz]
+draw 
+ vt.画，划；拖；拨出
+[drɔː]
+family 
+ n.家，家庭；家族
+[ˈfæmili]
+or 
+ conj.或，或者；即
+[ɔː(r)]
+component 
+ n.组成部分；分；组件
+[kəmˈpəunənt]
+stab 
+ vt.&vi.&n.刺，戳
+[stæb]
+horizontal 
+ a.地平的；水平的
+[ˌhɔriˈzɔntl]
+torch 
+ n.火炬，火把；手电筒
+[tɔːt∫]
+operational 
+ a.操作上的；可使用的
+[ˌɔpəˈrei∫ənl]
+peach 
+ n.桃子，桃树
+[piːt∫]
+awfully 
+ ad.令人畏惧的；很
+[ˈɔːfuli]
+concentrate 
+ vt.集中；聚集；浓缩
+[ˈkɔnsentreit]
+pronunciation 
+ n.发音(法)
+[prəˌnʌnsiˈei∫ən]
+plantation 
+ n.种植园；栽植
+[plænˈtei∫ən]
+comparative 
+ a.比较的，相对的
+[kəmˈpærətiv]
+glow 
+ n.白热光 vi.发白热光
+[gləu]
+lunch 
+ n.午餐，(美)便餐
+[lʌnt∫]
+deed 
+ n.行为；功绩；契约
+[diːd]
+definition 
+ n.定义，释义；定界
+[ˌdefiˈni∫ən]
+useful 
+ a.有用的，有益的
+[ˈjuːsful]
+English 
+ n.英语 a.英国人的
+[ˈiŋgli∫]
+none 
+ pron.没有人 ad.毫不
+[nʌn]
+diagram 
+ n.图解，图表，简图
+[ˈdaiəgræm]
+crazy 
+ a.疯狂的，荒唐的
+[ˈkreizi]
+obstacle 
+ n.障碍，障碍物，妨害
+[ˈɔbstəkl]
+kill 
+ vi.杀死；扼杀；消磨
+[kil]
+simply 
+ ad.简单地；朴素地
+[ˈsimpli]
+future 
+ n.将来，未来；前途
+[ˈfjuːt∫ə]
+trace 
+ n.痕迹；丝毫 vt.跟踪
+[treis]
+letter 
+ n.信；证书；字母
+[ˈletə]
+attract 
+ vt.吸引；引起，诱惑
+[əˈtrækt]
+orchestra 
+ n.管弦乐队
+[ˈɔːkistrə]
+plough 
+ n.犁 vt.&vi.犁，耕
+[plau]
+stony 
+ a.多石的；冷酷的
+[ˈstəuni]
+helmet 
+ n.头盔，钢盔
+[ˈhelmit]
+window 
+ n.窗子，窗户，窗口
+[ˈwindəu]
+wine 
+ n.葡萄酒，果酒
+[wain]
+due 
+ a.预期的；应给的
+[djuː]
+distinction 
+ n.差别，不同，区分
+[disˈtiŋk∫ən]
+basic 
+ a.基本的，基础的
+[ˈbeisik]
+gang 
+ n.一帮，一伙
+[gæŋ]
+romantic 
+ a.浪漫的；传奇的
+[rəˈmæntik]
+separate 
+ a.分离的；个别的
+[ˈsepəreit]
+abstract 
+ a.抽象的 n.摘要
+[ˈæbstrækt]
+commission 
+ n.委任状；委员会
+[kəˈmi∫ən]
+viewpoint 
+ n.观点，看法，见解
+[ˈvjuːˌpɔint]
+overtake 
+ vt.追上，赶上；压倒
+[ˈəuvəˈteik]
+shortly 
+ ad.立刻；简短地
+[ˈ∫ɔːtli]
+assistant 
+ n.助手，助理；助教
+[əˈsistənt]
+grace 
+ n.优美，文雅；雅致
+[greis]
+bottom 
+ n.底，底部，根基
+[ˈbɔtəm]
+crystal 
+ n.水晶，结晶体；晶粒
+[ˈkristl]
+super 
+ a.极好的，超级的
+[ˈsjuːpə]
+player 
+ n.游戏的人；比赛者
+[ˈpleiə]
+connect 
+ vt.连接，连结；联系
+[kəˈnekt]
+partner 
+ n.伙伴；搭挡；配偶
+[ˈpɑːtnə]
+number 
+ n.数，数字；号码
+[ˈnʌmbə]
+rare 
+ a.稀薄的；稀有的
+[reə]
+tail 
+ n.尾巴；末尾部分
+[teil]
+lesson 
+ n.功课，课；课程
+[ˈlesn]
+extension 
+ n.延长部分；伸展
+[iksˈten∫ən]
+blanket 
+ n.毛毯，毯子，羊毛毯
+[ˈblæŋkit]
+tired 
+ a.疲劳的；厌倦的
+[ˈtaiəd]
+jewish 
+ a.犹太人的
+[ˈdʒu(ː)i∫]
+bunch 
+ n.束，球，串；一群
+[bʌnt∫]
+anchor 
+ n.锚 vi.抛锚，停泊
+[ˈæŋkə]
+worm 
+ n.虫，蠕虫
+[wəːm]
+dress 
+ n.女服，童装；服装
+[dres]
+steamer 
+ n.轮船，汽船
+[ˈstiːmə]
+January 
+ n.一月
+[ˈdʒænjuəri]
+convenience 
+ n.便利,方便；厕所
+[kənˈviːnjəns]
+rotate 
+ vi.旋转 vt.使旋转
+[rəuˈteit]
+urge 
+ vt.推进；催促 n.冲动
+[əːdʒ]
+Chinese 
+ a.中国的 n.中国人
+[ˈt∫aiˈniːz]
+gate 
+ n.大门；篱笆门
+[geit]
+anticipate 
+ vt.预料，预期，期望
+[ænˈtisipeit]
+statistical 
+ a.统计的，统计学的
+[stəˈtistikəl]
+scheme 
+ n.计划，规划；诡计
+[skiːm]
+overlook 
+ vt.眺望；看漏；放任
+[ˌəuvəˈluk]
+robber 
+ n.强盗，盗贼
+[ˈrɔbə]
+release 
+ vt.释放；放松；发表
+[riˈliːs]
+knob 
+ n.门把，拉手；旋纽
+[nɔb]
+far 
+ a.远的 ad.远，遥远
+[fɑː]
+tower 
+ n.塔 vi.屹立，高耸
+[ˈtauə]
+tool 
+ n.工具，器具，用具
+[tuːl]
+heap 
+ n.(一)堆；大量
+[hiːp]
+burden 
+ n.担子，重担；装载量
+[ˈbəːdn]
+disguise 
+ vi.隐瞒，掩埋 n.假装
+[disˈgaiz]
+form 
+ n.形式；形状 vt.形成
+[fɔːm]
+subway
+ n.地道；地下铁路
+[ ˈsʌbwei]
+competent 
+ a.有能力的；应该做的
+[ˈkɔmpitənt]
+period 
+ n.时期；学时；句号
+[ˈpiəriəd]
+hat 
+ n.帽子(一般指有边的)
+[hæt]
+resume 
+ vt.恢复；重新开始
+[riˈzjuːm]
+middle 
+ n.中部 a.中部的
+[ˈmidl]
+pin 
+ n.针，饰针 n.别住
+[pin]
+plant 
+ n.植物；工厂 vt.栽种
+[plɑːnt]
+sympathetic 
+ a.同情的；和谐的
+[ˌsimpəˈθetik]
+monkey 
+ n.猴子，猿
+[mʌŋki]
+crown 
+ n.王冠，冕；花冠
+[kraun]
+lamb 
+ n.羔羊，小羊；羔羊肉
+[læm]
+determination 
+ n.决心/定;确定
+[ditəːmiˈnei∫(ə)n]
+grandson 
+ n.孙子，外孙子
+[ˈgrændsʌn]
+stormy 
+ a.有暴风雨的；激烈的
+[ˈstɔːmi]
+gymnasium 
+ n.体育馆，健身房
+[dʒimˈneiziəm]
+pot 
+ n.锅，壶，罐，盆
+[pɔt]
+allow 
+ vt.允许，准许；任
+[əˈlau]
+exterior 
+ a.外部的；对外的
+[eksˈtiəriə]
+pine 
+ n.松树，松木
+[pain]
+wireless 
+ a.不用电线的，无线的
+[ˈwaiəlis]
+goal 
+ n.球门；得分；目的
+[gəul]
+seventy 
+ num.七十，七十个
+[ˈsevənti]
+surrender 
+ vt.交出 vi.投降
+[səˈrendə]
+steel 
+ n.钢，钢铁
+[stiːl]
+dependent 
+ a.依靠的，依赖的
+[diˈpendənt]
+bruise 
+ n.青肿，伤痕；擦伤
+[bruːz]
+garage 
+ n.车库；加油站
+[gə rɑː(d)ʒ]
+artist 
+ n.艺术家，美术家
+[ˈɑːtist]
+picture 
+ n.画，图片 vt.画
+[ˈpikt∫ə]
+enable 
+ vt.使能够，使可能
+[iˈneibl]
+pound 
+ n.磅；英磅
+[paund]
+drill 
+ n.钻头；操练 vi.钻孔
+[dril]
+vibration 
+ n.颤动，振动；摆动
+[vaiˈbrei∫ən]
+water 
+ n.水 vt.使湿，灌溉
+[ˈwɔːtə]
+pump 
+ n.泵 vt.用抽机抽
+[pʌmp]
+rotation 
+ n.旋转，转动；循环
+[rəuˈtei∫ən]
+wooden 
+ a.木制的；呆板的
+[ˈwudn]
+equality 
+ n.等同，平等；相等
+[i(ː)ˈkwɔliti]
+advisable 
+ n.明智的；可取的
+[ədˈvaizəbl]
+principle 
+ n.原则，原理；主义
+[ˈprinsəpl]
+understanding 
+ n.理解；理解力；协定
+[ˌʌndəˈstændiŋ]
+farewell 
+ int.再会 n.告别
+[ˈfeəˈwel]
+spiritual 
+ a.精神的，心灵的
+[ˈspiritjuəl]
+regularly 
+ ad.有规律地
+[ˈregjuləli]
+Indian 
+ a.印度的 n.印度人
+[ˈindjən]
+tear 
+ n.眼泪，泪珠
+[tiə]
+India 
+ n.印度
+[ˈindjə]
+dance 
+ vi.跳舞；摇晃 n.舞
+[ˈdɑːns]
+particular 
+ a.特殊的；特定的
+[pəˈtikjulə]
+hot 
+ a.热的；刺激的；辣的
+[hɔt]
+landlord 
+ n.地主；房东，店主
+[ˈlændlɔːd]
+portable 
+ a.轻便的；手提的
+[ˈpɔːtəbl]
+immediate 
+ a.立即的；直接的
+[iˈmiːdjət]
+cold 
+ a.冷的；冷淡的 n.冷
+[kəuld]
+academy 
+ n.私立中学；专科院校
+[əˈkædəmi]
+darling 
+ n.亲爱的人；宠儿
+[ˈdɑːliŋ]
+charge 
+ vt.索价；控告 n.费用
+[t∫ɑːdʒ]
+comfort 
+ n.舒适；安慰 vt.安慰
+[ˈkʌmfət]
+brute 
+ n.禽兽，畜生
+[bruːt]
+guidance 
+ n.引导，指导，领导
+[ˈgaidəns]
+finance 
+ n.财政，金融；财源
+[faiˈnæns]
+efficient 
+ a.效率高的，有能力的
+[iˈfi∫ənt]
+depress 
+ vt.使沮丧；按下
+[diˈpres]
+issue 
+ n.问题；发行 vt.发行
+[ˈisjuː]
+never 
+ ad.永不，决不；不
+[ˈnevə]
+exhaust 
+ vt.使筋疲力尽；用尽
+[igˈzɔːst]
+unconscious 
+ a.不省人事的
+[ʌnˈkɔn∫əs]
+preposition 
+ n.前置词，介词
+[ˌprepəˈzi∫ən]
+gallon 
+ n.加仑
+[ˈgælən]
+settlement 
+ n.解决；殖民(地)
+[ˈsetlmənt]
+building 
+ n.建筑物，大楼；建筑
+[ˈbildiŋ]
+century 
+ n.世纪，百年
+[ˈsent∫uri]
+if 
+ conj.假如，如果
+[if]
+peasant 
+ n.农民
+[ˈpezənt]
+instinct 
+ n.本能；直觉；生性
+[ˈinstiŋkt]
+sink 
+ vi.下沉；下垂；降低
+[siŋk]
+union 
+ n.联合；团结；协会
+[ˈjuːnjən]
+twelve 
+ num.十二，十二个
+[twelv]
+else 
+ ad.其它，另外 a.别的
+[els]
+degree 
+ n.程度；度；学位
+[diˈgriː]
+statesman 
+ n.政治家，国务活动家
+[ˈsteitsmən]
+rusty 
+ a.生锈的；变迟钝的
+[ˈrʌsti]
+automobile 
+ n.汽车，机动车
+[ˌɔːtəˈməubil]
+unlucky 
+ a.不幸的；不吉的
+[ʌnˈlʌki]
+hence 
+ ad.因此，所以；今后
+[hens]
+signature 
+ n.署名，签字，签名
+[ˈsignit∫ə]
+afford 
+ vt.担负得起…；提供
+[əˈfɔːd]
+plain 
+ n.平原 a.清楚的
+[plein]
+metric 
+ a.公制的，米制的
+[ˈmetrik]
+pond 
+ n.池塘
+[pɔnd]
+program 
+ n.节目单；大纲；程序
+[ˈprəugræm]
+rarely 
+ ad.很少，难得
+[ˈreəli]
+conscience 
+ n.良心，道德心
+[ˈkɔn∫əns]
+video 
+ a.电视的 n.电视
+[ˈvidiəu]
+lip 
+ n.嘴唇
+[lip]
+honourable 
+ a.诚实的；光荣的
+[ˈɔnərəbl]
+damp 
+ a.潮湿的，有湿气的
+[dæmp]
+consistent 
+ a.坚持的，一贯的
+[kənˈsistənt]
+minor 
+ a.较小的；较次要的
+[ˈmainə]
+undergraduate 
+ n.大学肆业生
+[ˌʌndəˈgrædjuit]
+method 
+ n.方法，办法；教学法
+[ˈmeθəd]
+automatic 
+ a.自动的；机械的
+[ˌɔːtəˈmætik]
+indicate 
+ vt.标示，表示；表明
+[ˈindikeit]
+border 
+ n.边，边缘；边界
+[ˈbɔːdə]
+rein 
+ n.缰绳 vi.驾驭，控制
+[rein]
+expression 
+ n.词句；表达；表情
+[iksˈpre∫ən]
+inward 
+ a.里面的 ad.向内
+[ˈinwəd]
+earnest 
+ a.认真的，诚恳的
+[ˈəːnist]
+lack 
+ vi.&vi.&n.缺乏，不足
+[læk]
+thirteen 
+ num.十三，十三个
+[ˈθəːˈtiːn]
+knowledge 
+ n.知识，学识；知道
+[ˈnɔlidʒ]
+physics 
+ n.物理学
+[ˈfiziks]
+sleeve 
+ n.袖子，袖套
+[sliːv]
+criticize 
+ vt.批评；评论；非难
+[ˈkritisaiz]
+intend 
+ vt.想要，打算；意指
+[inˈtend]
+optional 
+ a.可以任意选择的
+[ˈɔp∫ənəl]
+outcome 
+ n.结果，后果，成果
+[ˈautkʌm]
+low 
+ a.低的，矮的；低下的
+[ləu]
+raw 
+ a.未煮过的；未加工的
+[rɔː]
+difficult 
+ a.困难的；难对付的
+[ˈdifikəlt]
+location 
+ n.位置，场所
+[ləuˈkei∫ən]
+stretch 
+ vt.伸展 vi.伸 n.伸展
+[stret∫]
+apparent 
+ a.表面上的；明显的
+[əˈpærənt]
+flock 
+ n.羊群，群；大量
+[flɔk]
+plug 
+ n.塞子；插头 vt.塞
+[plʌg]
+unstable 
+ a.不稳固的；不稳定的
+[ˈʌnˈsteibl]
+wavelength 
+ n.波长
+[ˈweivleŋθ]
+picnic 
+ n.郊游，野餐 vi.野餐
+[ˈpiknik]
+parallel 
+ a.平行的；相同的
+[ˈpærəlel]
+heart 
+ n.心，内心；勇气
+[hɑːt]
+scent 
+ n.气味，香味；香水
+[sent]
+responsibility 
+ n.责任(心)；职责
+[risˌpɔnsəˈbiliti]
+apartment 
+ n.一套公寓房间
+[əˈpɑːtmənt]
+flexible 
+ a.易弯曲的；灵活的
+[ˈfleksəbl]
+of 
+ prep.…的；由于
+[ɔːf]
+inventor 
+ n.发明者；发明家
+[inˈventə(r)]
+confirm 
+ vt.证实，肯定；批准
+[kənˈfəːm]
+exam 
+ n.考试；检查，细查
+[igˈzæm]
+superior 
+ a.较高的；优越的
+[sjuːˈpiəriə]
+devote 
+ vt.将…奉献，致力于
+[diˈvəut]
+product 
+ n.产品，产物；(乘)积
+[ˈprɔdəkt]
+plentiful 
+ a.丰富的，富裕的
+[ˈplentiful]
+oil 
+ n.油；石油 vt.加油于
+[ɔil]
+refrigerator 
+ n.冰箱，冷藏库
+[riˈfridʒəreitə]
+cable 
+ n.缆，索；电缆；电报
+[ˈkeibl]
+shower 
+ n.阵雨；(一)阵；淋浴
+[ˈ∫auə]
+carpet 
+ n.地毯，毡毯，毛毯
+[ˈkɑːpit]
+Roman 
+ n.古罗马人 a.罗马的
+[ˈrəumən]
+transparent 
+ a.透明的;易识破的
+[trænsˈpeərənt]
+code 
+ n.准则；法典；代码
+[kəud]
+noon 
+ n.正午，中午
+[nuːn]
+hawk 
+ n.鹰，隼
+[hɔːk]
+waken 
+ vi.醒来 vt.弄醒
+[ˈweikən]
+uncle 
+ n.伯父，叔父，舅父
+[ˈʌŋkl]
+discussion 
+ n.讨论，谈论；论述
+[disˈkʌ∫ən]
+distinct 
+ a.与其他不同的
+[disˈtiŋkt]
+dump 
+ vt.倾卸，倾倒；倾销
+[dʌmp]
+poet 
+ n.诗人
+[ˈpəuit]
+owl 
+ n.猫头鹰，枭
+[aul]
+indispensable 
+ a.必不可少的，必需的
+[ˌindisˈpensəbl]
+normal 
+ a.正常的，普通的
+[ˈnɔːməl]
+apple 
+ n.苹果，苹果树
+[ˈæpl]
+loaf 
+ n.一条面包，一个面包
+[ləuf]
+organ 
+ n.器官；机构；管风琴
+[ˈɔːgən]
+specimen 
+ n.样本，标本，样品
+[ˈspesimin]
+slave 
+ n.奴隶；苦工
+[sleiv]
+seaport 
+ n.海港，港市
+[ˈsiːpɔːt]
+shy 
+ a.易受惊的；害羞的
+[∫ai]
+contribute 
+ vt.捐献，捐助；投稿
+[kənˈtribjuːt]
+resistance 
+ n.抵抗/制；抵抗力
+[riˈzistəns]
+person 
+ n.人；人身；本人
+[ˈpəːsn]
+liquor 
+ n.酒；溶液，液剂
+[ˈlikə]
+transistor 
+ n.晶体管
+[trænˈsistə]
+really 
+ ad.真正地；实在
+[ˈriəli]
+fortnight 
+ n.两星期，十四天
+[ˈfɔːtnait]
+yesterday 
+ n.&ad.昨天，昨日
+[ˈjestədi]
+rake 
+ n.耙子 vi.耙；搜索
+[reik]
+faculty 
+ n.才能，能力；系，科
+[ˈfækəlti]
+burn 
+ vi.烧，燃烧 n.烧伤
+[bəːn]
+tip 
+ n.梢，末端，尖，尖端
+[tip]
+repetition 
+ n.重复，反复
+[ˌrepiˈti∫ən]
+wound 
+ n.创伤，伤 vt.使受伤
+[wuːnd]
+shelf 
+ n.搁板，架子
+[∫elf]
+tub 
+ n.桶，盆，浴缸，浴盆
+[tʌb]
+pilot 
+ n.领航员；飞行员
+[ˈpailət]
+aspect 
+ n.方面；样子，外表
+[ˈæspekt]
+root 
+ n.根，根子 vi.生根
+[ruːt]
+panda 
+ n.小猫熊；猫熊
+[ˈpændə]
+coast 
+ n.海岸，海滨(地区)
+[kəust]
+join 
+ vt.参加；连接
+[dʒɔin]
+best 
+ a.最好的；最大的
+[best]
+disappear 
+ vi.不见，失踪；消失
+[ˌdisəˈpiə]
+shed 
+ vt.流出；散发；脱落
+[∫ed]
+society 
+ n.社会；团体；社交界
+[səˈsaiəti]
+innocent 
+ a.清白的，幼稚的
+[ˈinəsnt]
+sacred 
+ a.上帝的；神圣的
+[ˈseikrid]
+lick 
+ vt.舔；舔吃
+[lik]
+mosquito 
+ n.蚊子
+[məsˈkiːtəu]
+quickly 
+ ad.快，迅速
+[ˈkwikli]
+sock 
+ n.短袜
+[sɔk]
+five 
+ num.五，五个，第五
+[faiv]
+despise 
+ vt.鄙视，蔑视
+[disˈpaiz]
+mixture 
+ n.混合；混合物
+[ˈmikst∫ə]
+ultimately 
+ ad.最终，最后
+[ˈʌltimətli]
+upwards 
+ ad.趋向上升；以上
+[ˈʌpwədz]
+precise 
+ a.精确的，准确的
+[priˈsais]
+considerable 
+ a.相当大的;重要的
+[kənˈsidərəbl]
+patience 
+ n.忍耐，容忍，耐心
+[ˈpei∫əns]
+passion 
+ n.激情，热情；爱好
+[ˈpæ∫ən]
+steady 
+ a.稳固的 vt.使稳定
+[ˈstedi]
+decrease 
+ vi.&n.减少，减少
+[diːˈkriːs]
+container 
+ n.容器；集装箱
+[kənˈteinə]
+identify 
+ vt.认出，识别，鉴定
+[aiˈdentifai]
+classify 
+ vt.把…分类
+[ˈklæsifai]
+this 
+ a.这；今 pron.这
+[ðis]
+important 
+ a.重要的；有势力的
+[imˈpɔːtənt]
+impression 
+ n.印；印象；印记
+[imˈpre∫ən]
+pitch 
+ vt.投，掷 vi.投掷
+[pit∫]
+absolute 
+ a.绝对的；纯粹的
+[ˈæbsəluːt]
+outward 
+ a.外面的；向外的
+[ˈautwəd]
+dye 
+ vt.染 n.染料；染色
+[dai]
+sharpen 
+ vt.削尖，使敏锐
+[ˈ∫ɑːpən]
+among 
+ prep.在…之中
+[əˈmʌŋ]
+disclose 
+ vt.揭开，揭发；透露
+[disˈkləuz]
+boat 
+ n.小船，艇；渔船
+[bəut]
+staircase 
+ n.楼梯，楼梯间
+[ˈsteəkeis]
+answer 
+ vt.回答；响应；适应
+[ˈɑːnsə]
+provide 
+ vt.提供；装备，供给
+[prəˈvaid]
+direction 
+ n.方向，方位；指导
+[diˈrek∫ən]
+spaceship 
+ n.航天飞船
+[ˈspeis∫ip]
+chase 
+ n.追逐，追赶，追求
+[t∫eis]
+curtain 
+ n.帘，窗帘；幕(布)
+[ˈkəːtən]
+eat 
+ vt.吃，喝 vi.吃饭
+[iːt]
+imagination 
+ n.想象(力)；空想
+[iˌmædʒiˈnei∫ən]
+tropical 
+ a.热带的
+[ˈtrɔpikl]
+instead 
+ ad.代替，顶替；反而
+[inˈsted]
+cinema 
+ n.电影院；电影，影片
+[ˈsinimə]
+saw 
+ n.锯子 vt.锯，锯开
+[sɔː]
+underneath 
+ ad.在下面，在底下
+[ˌʌndəˈniːθ]
+reaction 
+ n.反应；反作用
+[ri(ː)ˈæk∫ən]
+invest 
+ vt.投资；投入
+[inˈvest]
+tonight 
+ ad.在今夜 n.今夜
+[təˈnait]
+upon 
+ prep.在…上；在…旁
+[əˈpɔn]
+earthquake 
+ n.地震；大震荡
+[ˈəːθkweik]
+useless 
+ a.无用的，无价值的
+[ˈjuːslis]
+hard 
+ a.硬的；困难的
+[hɑːd]
+scope 
+ n.范围；余地，机会
+[skəup]
+solve 
+ vt.解答，解释，解决
+[sɔlv]
+rule 
+ n.统治；规定；习惯
+[ruːl]
+envelope 
+ n.信封；封套；封皮
+[ˈenviləup]
+heel 
+ n.脚后跟，踵，后跟
+[hiːl]
+opposite 
+ a.对面的 n.对立物
+[ˈɔpəzit]
+recover 
+ vt.重新获得；挽回
+[riˈkʌvə]
+thumb 
+ n.(大)拇指
+[θʌm]
+neither 
+ a.(两者)都不的
+[ˈniːðə]
+representative 
+ a.代表性的 n.代表
+[ˌrepriˈzentətiv]
+unknown 
+ a.不知道的；未知的
+[ˈʌnˈnəun]
+reward 
+ n.报答；报酬 vt.报答
+[riˈwɔːd]
+desk 
+ n.书桌，办公桌
+[desk]
+erect 
+ vt.建造；使竖立
+[iˈrekt]
+tribe 
+ n.部落，宗族
+[traib]
+but 
+ conj.但是，可是
+[bʌt]
+perfume 
+ n.香味，芳香；香料
+[ˈpəːfjuːm]
+conversion 
+ n.转变，转化；改变
+[kənˈvəː∫ən]
+persist 
+ vi.坚持，固执；持续
+[pə(ː)ˈsist]
+hook 
+ n.钩，挂钩 vt.钩住
+[huk]
+germ 
+ n.微生物，细菌，幼芽
+[dʒəːm]
+bleed 
+ vi.出血，流血；泌脂
+[bliːd]
+artificial 
+ a.人工的；娇揉造作的
+[ˌɑːtiˈfi∫əl]
+come 
+ vi.来，来到；出现
+[kʌm]
+rough 
+ a.表面不平的；粗略的
+[rʌf]
+unless 
+ conj.除非，如果不
+[ʌnˈles]
+closely 
+ ad.紧密地，接近地
+[ˈkləuzli]
+polish 
+ vt.磨光；使优美
+[ˈpɔli∫]
+hay 
+ n.干草
+[hei]
+worst 
+ a.最坏的 ad.最坏地
+[wəːst]
+prime 
+ a.首要的 n.春，青春
+[praim]
+bright 
+ a.明亮的；聪明的
+[brait]
+mean 
+ vt.作…解释；意指
+[miːn]
+thrive 
+ vi.兴旺，繁荣，旺盛
+[θraiv]
+crow 
+ n.鸦，乌鸦 vi.啼
+[krəu]
+boot 
+ n.靴子，长统靴
+[buːt]
+rail 
+ n.横条，横杆；铁轨
+[reil]
+upstairs 
+ ad.在楼上 a.楼上的
+[ˈʌpˈsteəz]
+liberate 
+ vt.解放；释放
+[ˈlibəreit]
+sharply 
+ ad.锐利地，敏锐地
+[ˈ∫ɑːpli]
+electric 
+ a.电的，电动的
+[iˈlektrik]
+rebel 
+ vi.造反 n.造反者
+[ˈrebəl]
+hateful 
+ a.可恨的，可恶的
+[ˈheitful]
+dare 
+ vt.&aux.v.敢；竟敢
+[deə]
+fundamental 
+ a.基础的，基本的
+[ˌfʌndəˈmentl]
+pencil 
+ n.铅笔
+[ˈpensl]
+month 
+ n.月，月份
+[mʌnθ]
+computer 
+ n.计算机，电脑
+[kəmˈpjuːtə]
+into 
+ prep.进，入；进入到
+[ˈintu]
+animal 
+ n.动物，兽 a.动物的
+[ˈæniməl]
+comb 
+ n.梳子 vt.梳理
+[kəum]
+term 
+ n.期；学期；条件；词
+[təːm]
+first 
+ num.第一 ad.最初
+[fəːst]
+minute 
+ n.分，分钟；一会儿
+[ˈminit]
+preserve 
+ vt.保护；保存；腌渍
+[priˈzəːv]
+dirt 
+ n.尘，土；污物，污垢
+[dəːt]
+veteran 
+ n.老兵，老手
+[ˈvetərən]
+shade 
+ n.荫；遮光物 vi.荫蔽
+[∫eid]
+perfect 
+ a.完美的；完全的
+[ˈpəːfikt]
+comprehensive 
+ a.广泛的；理解的
+[ˌkɔmpriˈhensiv]
+occasional 
+ a.偶然的；临时的
+[əˈkeiʒənəl]
+philosopher 
+ n.哲学家
+[fiˈlɔsəfə]
+apparatus 
+ n.器械，仪器；器官
+[ˌæpəˈreitəs]
+pollute 
+ vt.弄脏，污染，沾污
+[pəˈluːt]
+mainland 
+ n.大陆
+[ˈmeinlənd,-lænd]
+primitive 
+ a.原始的；粗糙的
+[ˈprimitiv]
+procession 
+ n.队伍，行列
+[prəˈse∫(ə)n]
+the 
+ art.(定冠词)这，那
+[ðə]
+proof 
+ n.证据；证明；校样
+[pruːf]
+nineteen 
+ num.十九，十九个
+[ˈnainˈtiːn]
+successfully 
+ ad.成功地
+[səkˈsesfuli]
+impact 
+ n.影响，作用；冲击
+[ˈimpækt]
+observe 
+ vt.遵守；看到；说
+[əbˈzəːv]
+overtime 
+ a.超时的，加班的
+[ˈəuvətaim]
+wicked 
+ a.坏的；令人厌恶的
+[ˈwikid]
+explosion 
+ n.爆炸，爆发，炸裂
+[iksˈpləuʒən]
+owner 
+ n.物主，所有人
+[ˈəunə]
+key 
+ n.钥匙；键；答案
+[kiː]
+education 
+ n.教育;训导;教育学
+[ˌedju(ː)ˈkei∫ən]
+swallow 
+ n.燕子
+[ˈswɔləu]
+saucer 
+ n.茶托，浅碟
+[ˈsɔːsə]
+series 
+ n.连续，系列；丛书
+[ˈsiəriːz]
+panel 
+ n.专门小组；面，板
+[ˈpænl]
+abroad 
+ ad.(在)国外；到处
+[əˈbrɔːd]
+certainly 
+ ad.一定，必定；当然
+[ˈsəːtənli]
+beard 
+ n.胡须，络腮胡子
+[biəd]
+whisky 
+ n.威士忌酒
+[ˈ(h)wiski]
+airplane 
+ n.飞机
+[ˈeəˌplein]
+unlikely 
+ a.未必的，未必可能的
+[ʌnˈlaikli]
+suck 
+ vt.吸，吮，啜；吸收
+[sʌk]
+tax 
+ n.税，税款；负担
+[tæks]
+worship 
+ n.礼拜；崇拜 vt.崇拜
+[ˈwəː∫ip]
+temperature 
+ n.温度；体温
+[ˈtemprit∫ə(r)]
+turn 
+ vt.转；翻 vi.转动
+[təːn]
+agreement 
+ n.协定，协议；同意
+[əˈgriːmənt]
+helicopter 
+ n.直升机
+[ˈhelikɔptə]
+defence 
+ n.防御；防务；辩护
+[diˈfens]
+missing 
+ a.缺掉的，失去的
+[ˈmisiŋ]
+restrain 
+ vt.抑制，遏制；限制
+[risˈtrein]
+eight 
+ num.八，八个，第八
+[eit]
+fragment 
+ n.碎片，破片，碎块
+[ˈfrægmənt]
+rage 
+ n.(一阵)狂怒，盛怒
+[reidʒ]
+February 
+ n.二月
+[ˈfebruəri]
+hand 
+ n.手；人手；指针
+[hænd]
+manufacturer 
+ n.制造商/厂
+[ˌmænjuˈfækt∫ərə]
+lose 
+ vt.失去；迷失；输掉
+[luːz]
+disappoint 
+ vt.使失望，使受挫折
+[ˌdisəˈpɔint]
+desperate 
+ a.拼死的；绝望的
+[ˈdespərit]
+breeze 
+ n.微风，和风
+[briːz]
+roughly 
+ ad.粗糙地，粗略地
+[ˈrʌfli]
+carpenter 
+ n.木工，木匠
+[ˈkɑːpintə]
+blaze 
+ n.火；闪光 vi.燃烧
+[bleiz]
+fable 
+ n.寓言；虚构的故事
+[ˈfeibl]
+second 
+ num.第二 a.二等的
+[ˈsekənd]
+pitch 
+ n.沥青
+[pit∫]
+reason 
+ n.理由；理性 vi.推理
+[ˈriːzn]
+terror 
+ n.恐怖，惊骇
+[ˈterə]
+committee 
+ n.委员会；全体委员
+[kəˈmiti]
+calculator 
+ n.计算器，计算者
+[ˈkælkjuleitə]
+comfortable 
+ a.舒适的，安慰的
+[ˈkʌmfətəbl]
+sensitive 
+ a.敏感的；灵敏的
+[ˈsensitiv]
+which 
+ pron.哪一个 a.哪一个
+[(h)wit∫]
+hollow 
+ a.空的；空洞的
+[ˈhɔləu]
+forward 
+ ad.向前；今后，往后
+[ˈfɔːwəd]
+parliament 
+ n.议会，国会
+[ˈpɑːləmənt]
+loud 
+ a.响亮的；吵闹的
+[laud]
+exaggerate 
+ vt.&vi.夸大，夸张
+[igˈzædʒəreit]
+spread 
+ vt.伸开；传播 n.传播
+[spred]
+communicate 
+ vi.通讯;传达;传播
+[kəˈmjuːnikeit]
+exciting 
+ a.令人兴奋的
+[ikˈsaitiŋ]
+seventeen 
+ num.十七，十七个
+[ˈsevənˈtiːn]
+scientist 
+ n.(自然)科学家
+[ˈsaiəntist]
+hen 
+ n.母鸡，雌禽
+[hen]
+handful 
+ n.一把；少数，一小撮
+[ˈhændful]
+research 
+ n.&vi.调查，探究
+[riˈsəːt∫]
+microcomputer 
+ n.微型计算机，微机
+[ˈmaikrəukəmpjuːtə(r)]
+dawn 
+ n.黎明；开端 vi.破晓
+[dɔːn]
+only 
+ ad.只，仅仅 a.唯一的
+[ˈəunli]
+regular 
+ a.规则的；整齐的
+[ˈregjulə]
+list 
+ n.表，目录 n.列举
+[list]
+hers 
+ pron.她的(所有物)
+[həːz]
+generation 
+ n.一代(人)；产生
+[ˌdʒenəˈrei∫ən]
+acceptable 
+ a.可接受/合意的
+[əkˈseptəbl]
+weight 
+ n.重；砝码；重担
+[weit]
+vain 
+ a.徒劳的；自负的
+[vein]
+verify 
+ vt.证实，查证；证明
+[ˈverifai]
+shallow 
+ a.浅的；浅薄的
+[ˈ∫æləu]
+October 
+ n.十月
+[ɔkˈtəubə]
+specify 
+ vi.指定，详细说明
+[ˈspesifai]
+wing 
+ n.翼，翅膀，翅
+[wiŋ]
+long 
+ a.长的；远的 ad.长久
+[lɔŋ]
+lean 
+ vi.倾斜，屈身；靠
+[liːn]
+technical 
+ a.技术的，工艺的
+[ˈteknikəl]
+industrialize 
+ vt.使工业化
+[inˈdʌstriəlaiz]
+regardless 
+ ad.不顾一切地
+[riˈgɑːdlis]
+magnet 
+ n.磁铁，磁石，磁体
+[ˈmægnit]
+chest 
+ n.胸腔，胸膛；箱子
+[t∫est]
+rush 
+ vi.冲，奔 vt.催促
+[rʌ∫]
+intensity 
+ n.强烈，剧烈；强度
+[inˈtensiti]
+appliance 
+ n.用具，器具，器械
+[əˈplaiəns]
+democracy 
+ n.民主，民主制
+[diˈmɔkrəsi]
+dirty 
+ a.脏的；下流的
+[ˈdəːti]
+professor 
+ n.教授
+[prəˈfesə]
+bullet 
+ n.枪弹，子弹，弹丸
+[ˈbulit]
+decent 
+ a.正派的；体面的
+[ˈdiːsnt]
+passenger 
+ n.乘客,旅客,过路人
+[ˈpæsindʒə]
+tempt 
+ vt.引诱，诱惑；吸引
+[tempt]
+normally 
+ ad.通常，正常地
+[ˈnɔːməli]
+drawing 
+ n.图画，素描；绘图
+[ˈdrɔːiŋ]
+cellar 
+ n.地窑，地下室
+[ˈselə]
+egg 
+ n.蛋，鸡蛋，卵
+[eg]
+extra 
+ a.额外的 ad.特别地
+[ˈekstrə]
+specialize 
+ vi.成为…专家；专攻
+[ˈspe∫əlaiz]
+everything 
+ pron.每件事，事事
+[ˈevriθiŋ]
+succession 
+ n.连续；继任，继承
+[səkˈse∫ən]
+cause 
+ n.原因，理由；事业
+[kɔːz]
+ideal 
+ a.理想的；观念的
+[aiˈdiəl]
+around 
+ prep.在…周围
+[əˈraund]
+blow 
+ vi.吹，吹动；吹响
+[bləu]
+exceed 
+ vt.超过，胜过；超出
+[ikˈsiːd]
+misunderstand 
+ vt.误解/会,曲解
+[ˈmisʌndəˈstænd]
+tablet 
+ n.碑，匾；药片
+[ˈtæblit]
+me 
+ pron.(宾格)我
+[miː]
+accustomed 
+ a.惯常的；习惯的
+[əˈkʌstəmd]
+hungry 
+ a.饥饿的；渴望的
+[ˈhʌŋgri]
+structure 
+ n.结构；构造 vt.建造
+[ˈstrʌkt∫ə]
+timber 
+ n.木材，木料
+[ˈtimbə]
+trail 
+ n.痕迹；小径 vt.跟踪
+[treil]
+pronounce 
+ vt.发…的音；宣布
+[prəˈnauns]
+winner 
+ n.获胜者，优胜者
+[ˈwinə]
+remedy 
+ n.&vt.治疗；补救
+[ˈremidi]
+off 
+ ad.(离)开；(停)止
+[ɔːf]
+plaster 
+ n.灰泥；硬膏；熟石膏
+[ˈplɑːstə]
+spontaneous 
+ a.自发/本能的
+[spɔnˈteiniəs]
+aeroplane 
+ n.飞机
+[ˈeərəplein]
+honesty 
+ n.诚实，正直
+[ˈɔnisti]
+pale 
+ a.苍白的；浅的
+[peil]
+combination 
+ n.结合,联合;化合
+[ˌkɔmbiˈnei∫ən]
+necessity 
+ n.必要性；必然性
+[niˈsesiti]
+pluck 
+ vt.采，摘；拉下 n.拉
+[plʌk]
+forgive 
+ vt.原谅，饶恕，宽恕
+[fəˈgiv]
+toss 
+ vt.&vi.扔，抛，掷
+[tɔːs]
+declare 
+ vt.断言；声明；表明
+[diˈkleə]
+importance 
+ n.重要；重要性
+[imˈpɔːtəns]
+reflection 
+ n.反射；映象；反映
+[riˈflek∫ən]
+keyboard 
+ n.键盘
+[ˈkiːbɔːd]
+tourist 
+ n.旅游者，观光者
+[ˈtuərist]
+horse 
+ n.马；马科动物
+[hɔːs]
+bounce 
+ vi.反跳，弹起；跳起
+[bauns]
+tray 
+ n.(浅)盘，托盘，碟
+[trei]
+hillside 
+ n.(小山)山腰，山坡
+[ˈhilsaid]
+slightly 
+ ad.稍微，有点
+[ˈslaitli]
+danger 
+ n.危险；危险事物
+[ˈdeindʒə]
+court 
+ n.法院，法庭；庭院
+[kɔːt]
+settle 
+ vt.安排；安放；调停
+[ˈsetl]
+gallery 
+ n.长廊，游廊；画廊
+[ˈgæləri]
+mention 
+ vt.&n.提及，说起
+[ˈmen∫ən]
+organize 
+ vt.组织，编组
+[ˈɔːgənaiz]
+razor 
+ n.剃刀
+[ˈreizə]
+bite 
+ vt.咬，叮，螫；剌穿
+[bait]
+artistic 
+ a.艺术的；艺术家的
+[ɑːˈtistik]
+liable 
+ a.易于…的；可能的
+[ˈlaiəbl]
+brother 
+ n.兄弟；同事，同胞
+[ˈbrʌðə]
+bark 
+ n.吠叫声 vi.吠，叫
+[bɑːk]
+theatre 
+ n.戏院；戏剧；教室
+[ˈθiətə(r)]
+numerous 
+ a.为数众多的；许多
+[ˈnjuːmərəs]
+grammar 
+ n.语法；语法书
+[ˈgræmə]
+income 
+ n.收入；收益；进款
+[ˈinkəm]
+everybody 
+ pron.每人，人人
+[ˈevribɔdi]
+table 
+ n.桌子；餐桌；项目表
+[ˈteibl]
+occurrence 
+ n.发生，出现；事件
+[əˈkʌrəns]
+examine 
+ vt.检查，仔细观察
+[igˈzæmin]
+porridge 
+ n.粥，麦片粥
+[ˈpɔridʒ]
+begin 
+ vi.开始 vt.开始
+[biˈgin]
+subsequent 
+ a.随后的，后来的
+[ˈsʌbsikwənt]
+formation 
+ n.形成；构成；形成物
+[fɔːˈmei∫ən]
+choke 
+ vt.使窒息；塞满
+[t∫əuk]
+tin 
+ n.锡；罐头
+[tin]
+unwilling 
+ a.不愿意的
+[ˈʌnˈwiliŋ]
+imply 
+ vt.暗示，意指
+[imˈplai]
+unsatisfactory 
+ a.不能令人满意的
+[ˈʌnsætisˈfæktəri]
+quiz 
+ n.小型考试，测验
+[kwiz]
+protein 
+ n.蛋白质，朊
+[ˈprəutiːn]
+manly 
+ a.男子气概的，果断的
+[ˈmænli]
+schedule 
+ n.时间表；计划表
+[ˈskedʒjul]
+original 
+ a.最初的；新颖的
+[əˈridʒənəl]
+scream 
+ vi.尖叫；呼啸
+[skriːm]
+adequate 
+ a.足够的；可以胜任的
+[ˈædikwit]
+impressive 
+ a.给人印象深刻的
+[imˈpresiv]
+ours 
+ pron.我们的
+[ˈauəz]
+puzzle 
+ n.难题；谜 vi.使迷惑
+[ˈpʌzl]
+pill 
+ n.药丸，丸剂
+[pil]
+blood 
+ n.血，血液；血统
+[blʌd]
+waist 
+ n.腰，腰部
+[weist]
+repair 
+ vt.&n.修理，修补
+[riˈpeə]
+strawberry 
+ n.草莓
+[ˈstrɔːbəri]
+remind 
+ vt.提醒，使想起
+[riˈmaind]
+thirsty 
+ a.渴的；渴望的
+[ˈθəːsti]
+sale 
+ n.卖；拍卖；销售额
+[seil]
+reach 
+ vt.抵达；伸出 vi.达到
+[riːt∫]
+appropriate 
+ a.适当的，恰当的
+[əˈprəupriit]
+tone 
+ n.音；腔调；声调
+[təun]
+life 
+ n.生命；一生；寿命
+[laif]
+typhoon 
+ n.台风
+[taiˈfuːn]
+kingdom 
+ n.王国；领域，界
+[ˈkiŋdəm]
+chalk 
+ n.白垩；粉笔
+[t∫ɔːk]
+private 
+ a.私人的；私下的
+[ˈpraivit]
+spacecraft 
+ n.航天器，宇宙飞船
+[ˈspeiskrɑːft]
+preference 
+ n.偏爱，优先(权)
+[ˈprefərəns]
+have 
+ v.aux.已经 vt.有；吃
+[hæv]
+bulb 
+ n.电灯泡；球状物
+[bʌlb]
+cushion 
+ n.垫子，坐垫，靠垫
+[ˈku∫ən]
+focus 
+ vi.聚焦，注视 n.焦点
+[ˈfəukəs]
+dish 
+ n.碟，盘子；菜肴
+[di∫]
+you 
+ pron.你，你们
+[juː]
+youth 
+ n.青春；青年们；青年
+[juːθ]
+lemon 
+ n.柠檬，柠檬树
+[ˈlemən]
+write 
+ vt.书写；写 vi.写
+[rait]
+lieutenant 
+ n.陆军中尉；副职官员
+[ljuːˈtenənt]
+stake 
+ n.桩；赌金；奖品
+[steik]
+tremendous 
+ a.极大的，非常的
+[triˈmendəs]
+pet 
+ n.爱畜；宠儿 a.宠爱的
+[pet]
+spectacle 
+ n.光景，景象；眼镜
+[ˈspektəkl]
+confusion 
+ n.混乱；骚乱；混淆
+[kənˈfjuːʒən]
+shut 
+ vt.关上，闭上，关闭
+[∫ʌt]
+nowhere 
+ ad.任何地方都不
+[ˈnəuhweə]
+fibre 
+ n.纤维，纤维质
+[ˈfaibə]
+spark 
+ n.火花，火星
+[spɑːk]
+progressive 
+ a.进步/向前进的
+[prəˈgresiv]
+sometime 
+ ad.在某一时候；从前
+[ˈsʌmtaim]
+conference 
+ n.会议，讨论会
+[ˈkɔnfərəns]
+trifle 
+ n.小事，琐事；少许
+[ˈtraifl]
+argue 
+ vi.争论，争辩，辩论
+[ˈɑːgjuː]
+natural 
+ a.自然界的；天然的
+[ˈnæt∫ərəl]
+career 
+ n.生涯，职业，经历
+[kəˈriə]
+deck 
+ n.甲板；舱面；层面
+[dek]
+pocket 
+ n.衣袋 n.袖珍的
+[ˈpɔkit]
+along 
+ prep.沿着 ad.向前
+[əˈlɔŋ]
+scorn 
+ n.轻蔑；嘲笑 vt.轻蔑
+[skɔːn]
+sea 
+ n.海，海洋
+[siː]
+ensure 
+ vt.保证；保护；赋予
+[inˈ∫uər]
+injury 
+ n.损害，伤害；受伤处
+[ˈindʒəri]
+unity 
+ n.单一；统一；团结
+[ˈjuːniti]
+house 
+ n.房屋，住宅；商号
+[haus]
+drought 
+ n.旱灾，干旱
+[draut]
+indoors 
+ ad.在室内，在屋里
+[ˈinˈdɔːz]
+reluctant 
+ a.不愿的，勉强的
+[riˈlʌktənt]
+horsepower 
+ n.马力
+[ˈhɔːsˌpauə]
+tender 
+ a.嫩的；脆弱的
+[ˈtendə]
+should 
+ aux.v.将；万一；就
+[∫ud]
+deadly 
+ a.致命的，死一般的
+[ˈdedli]
+rotary 
+ a.旋转的，转动的
+[ˈrəutəri]
+dig 
+ vt.掘，挖；采掘
+[dig]
+seriously 
+ ad.严肃地，认真地
+[ˈsiəriəsli]
+harness 
+ vt.治理 n.马具，挽具
+[ˈhɑːnis]
+board 
+ n.板 vt.上(船、车等)
+[bɔːd]
+shadow 
+ n.阴影，阴，影子
+[ˈ∫ædəu]
+automation 
+ n.自动，自动化
+[ɔːtəˈmei∫ən]
+route 
+ n.路，路线，路程
+[ruːt]
+moan 
+ n.呻吟声 vi.呻吟
+[məun]
+leading 
+ a.指导的；最主要的
+[ˈliːdiŋ]
+upper 
+ a.上面的；地位较高的
+[ˈʌpə]
+neck 
+ n.颈，脖子
+[nek]
+ease 
+ n.容易，舒适 vt.缓和
+[iːz]
+primarily 
+ ad.首先；主要地
+[ˈpraimərili]
+continent 
+ n.大陆；陆地；洲
+[ˈkɔntinənt]
+collection 
+ n.搜集，收集；收藏品
+[kəˈlek∫ən]
+actual 
+ a.实际的；现行的
+[ˈæktjuəl]
+Greek 
+ a.希腊的 n.希腊人
+[griːk]
+wealthy 
+ a.富的，富裕的
+[ˈwelθi]
+idiom 
+ n.习语，成语
+[ˈidiəm]
+question 
+ n.发问；问题；疑问
+[ˈkwest∫ən]
+inspire 
+ vt.鼓舞；给…以灵感
+[inˈspaiə]
+cathedral 
+ n.总教堂；大教堂
+[kəˈθiːdrəl]
+time 
+ n.时间；时机；次，回
+[taim]
+awkward 
+ a.笨拙的；尴尬的
+[ˈɔːkwəd]
+serve 
+ vt.为…服务；招待
+[səːv]
+stage 
+ n.舞台；戏剧；阶段
+[steidʒ]
+festival 
+ n.节日；音乐节
+[ˈfestəvəl]
+monthly 
+ a.每月的 ad.每月
+[ˈmʌnθli]
+sufficiently 
+ ad.足够地，充分地
+[səˈfi∫əntli]
+oˈclock 
+ ad.…点钟
+[əˈklɔk]
+astonish 
+ vt.使惊讶，使吃惊
+[əsˈtɔni∫]
+amplify 
+ vt.放大，增强；扩大
+[ˈæmplifai]
+medium 
+ n.媒质；中间 a.中等的
+[ˈmiːdjəm]
+fiction 
+ n.小说；虚构，杜撰
+[ˈfik∫ən]
+ship 
+ n.(大)船，海船，舰
+[∫ip]
+legal 
+ a.法律的；合法的
+[ˈliːgəl]
+congratulate 
+ vt.祝贺,向…道喜
+[kənˈgrætjuleit]
+continue 
+ vt.继续，连续；延伸
+[kənˈtinjuː]
+file 
+ n.档案 vt.把…归档
+[fail]
+transform 
+ vt.改变/造；变换
+[trænsˈfɔːm]
+sandy 
+ n.沙的，含沙的
+[ˈsændi]
+beer 
+ n.啤酒
+[biə]
+cake 
+ n.饼，糕，蛋糕
+[keik]
+dispose 
+ vi.去掉，丢掉；销毁
+[disˈpəuz]
+unit 
+ n.单位；单元；部件
+[ˈjuːnit]
+chop 
+ vt.砍，劈；切细 vi.砍
+[t∫ɔp]
+take 
+ vt.拿；抓；拿走；吃
+[teik]
+engine 
+ n.发动机，引擎；机车
+[ˈendʒin]
+handy 
+ a.手边的；便于使用的
+[ˈhændi]
+soluble 
+a.可溶的；可以解决的
+[ˈsɔljubl]
+defeat 
+ vt.战胜，击败；挫败
+[diˈfiːt]
+comprehension 
+ n.理解，理解力；领悟
+[ˌkɔmpriˈhen∫ən]
+improve 
+ vt.使更好 vi.改善
+[imˈpruːv]
+reliability 
+ n.可靠性
+[riˌlaiəˈbiliti]
+disease 
+ n.病，疾病；病害
+[diˈziːz]
+cruel 
+ a.残忍的，残酷的
+[ˈkruəl]
+nature 
+ n.大自然；本性；性质
+[ˈneit∫ə]
+art 
+ n.艺术，美术；技术
+[ɑːt]
+bean 
+ n.豆，蚕豆
+[biːn]
+minimum 
+ n.最小量 a.最小的
+[ˈminiməm]
+eye 
+ n.眼睛；眼力；鉴赏力
+[ai]
+community 
+ n.社区；社会；公社
+[kəˈmjuːniti]
+experience 
+ n.经验，感受；经历
+[iksˈpiəriəns]
+payment 
+ n.支付，支付的款项
+[ˈpeimənt]
+opinion 
+ n.意见，看法，主张
+[əˈpinjən]
+trick 
+ n.诡计；窍门 vt.哄骗
+[trik]
+complicate 
+ vt.使复杂；使陷入
+[ˈkɔmplikeit]
+enclose 
+ vt.围住，圈起；附上
+[inˈkləuz]
+positive 
+ a.确定的；积极的
+[ˈpɔzətiv]
+funeral 
+ n.葬礼，丧礼，丧葬
+[ˈfjuːnərəl]
+violent 
+ a.猛烈的；狂暴的
+[ˈvaiələnt]
+sightseeing 
+ n.观光，游览
+[ˈsaitsiːiŋ]
+please 
+ vt.使高兴，请 vi.满意
+[pliːz]
+compress 
+ vt.压紧，压缩
+[kəmˈpres]
+greet 
+ vt.问候，招呼；反应
+[griːt]
+south 
+ n.南，南方 a.南方的
+[sauθ]
+dot 
+ n.点，圆点 vt.打点于
+[dɔt]
+tiger 
+ n.虎
+[ˈtaigə]
+dumb 
+ a.哑的；无言的
+[dʌm]
+tuition 
+ n.教，教诲；学费
+[tjuːˈi∫ən]
+splendid 
+ a.壮丽的；显著的
+[ˈsplendid]
+hair 
+ n.头发，毛发；毛
+[heə]
+ribbon 
+ n.缎带，丝带；带
+[ˈribən]
+surprising 
+ a.惊人/出人意外的
+[səˈpraiziŋ]
+magnificent 
+ n.壮丽的；华丽的
+[mægˈnifisnt]
+observation 
+ n.注意；观察(力)
+[ˌəbzəːˈvei∫ən]
+clue 
+ n.线索，暗示，提示
+[kluː]
+gasoline 
+ n.(美)汽油
+[ˈgæsəliːn]
+friendship 
+ n.友谊，友好
+[ˈfrend∫ip]
+pace 
+ n.步，步速 vi.踱步
+[peis]
+undertaking 
+ n.任务，事业；许诺
+[ˌʌndəˈteikiŋ]
+roar 
+ vi.吼叫；呼喊 n.吼
+[rɔː]
+swing 
+ vi.摇摆；回转 n.摇摆
+[swiŋ]
+fruit 
+ n.水果；果实；成果
+[fruːt]
+balloon 
+ n.气球，玩具气球
+[bəˈluːn]
+fight 
+ vi.打(仗)；斗争
+[fait]
+dormitory 
+ n.集体寝室；宿舍
+[ˈdɔːmitri]
+legend 
+ n.传说，传奇
+[ˈledʒənd]
+grant 
+ n.授给物 vt.授予
+[grɑːnt]
+highly 
+ ad.高度地，很，非常
+[ˈhaili]
+sleepy 
+ a.想睡的；寂静的
+[ˈsliːpi]
+crush 
+ vt.压碎，碾碎；镇压
+[krʌ∫]
+measurable 
+ a.可测量的
+[ˈmeʒərəbl]
+auxiliary 
+ a.辅助的；附属的
+[ɔːgˈziljəri]
+brass 
+ n.黄铜；黄铜器
+[brɑːs]
+roller 
+ n.滚柱，滚筒，滚轴
+[ˈrəulə]
+accustom 
+ vt.使习惯
+[əˈkʌstəm]
+owe 
+ vt.欠；应把…归功于
+[əu]
+claim 
+ vt.声称，主张；索取
+[kleim]
+flat 
+ a.平的，扁平的
+[flæt]
+sweater 
+ n.厚运动衫，毛线衫
+[ˈswetə]
+velvet 
+ n.丝绒，天鹅绒
+[ˈvelvit]
+restore 
+ vt.恢复；归还；修补
+[risˈtɔː]
+nearly 
+ ad.差不多；密切地
+[ˈniəli]
+hazard 
+ n.危险；公害
+[ˈhæzəd]
+between 
+ prep.在…中间
+[biˈtwiːn]
+dusk 
+ n.薄暮，黄昏，幽暗
+[dʌsk]
+basis 
+ n.基础，根据
+[ˈbeisis]
+protection 
+ n.保护，警戒
+[prəˈtek∫ən]
+responsible 
+ a.有责任的；尽责的
+[risˈpɔnsəbl]
+sportsman 
+ n.运动员
+[ˈspɔːtsmən]
+spoon 
+ n.匙，调羹
+[spuːn]
+per 
+ prep.每
+[pəː]
+enough 
+ a.足够的 ad.足够地
+[iˈnʌf]
+temptation 
+ n.诱惑，引诱
+[tempˈtei∫ən]
+cafe 
+ n.咖啡馆；小餐厅
+[ˈkæfei]
+bristle 
+ n.短而硬的毛；鬃毛
+[ˈbrisl]
+wish 
+ vt.祝；想要 n.希望
+[wi∫]
+midnight 
+ n.午夜，子夜，夜半
+[ˈmidˌnait]
+outline 
+ n.轮廓；略图；大纲
+[ˈautlain]
+capable 
+ a.有能力的，有才能的
+[ˈkeipəbl]
+insure 
+ vt.给…保险；确保
+[inˈ∫uə]
+geography 
+ n.地理，地理学
+[dʒiˈɔgrəfi]
+simple 
+ a.简单的；朴素的
+[ˈsimpl]
+await 
+ vt.等候，期待
+[əˈweit]
+merely 
+ ad.仅仅，只不过
+[ˈmiəli]
+return 
+ vi.&n.回来，返回
+[riˈtəːn]
+popular 
+ a.民众的；流行的
+[ˈpɔpjulə(r)]
+stand 
+ vi.站；坐落 n.架，台
+[stænd]
+collar 
+ n.衣领，项圈
+[ˈkɔlə]
+conscious 
+ a.意识到的；有意的
+[ˈkɔn∫əs]
+rot 
+ vt.烂，腐坏 n.腐烂
+[rɔt]
+labour 
+ n.劳动；工作；劳工
+[ˈleibə(r)]
+fist 
+ n.拳(头)
+[fist]
+new 
+ a.新的；新近出现的
+[njuː]
+valid 
+ a.有效的；正当的
+[ˈvælid]
+rival 
+ n.竞争者 a.竞争的
+[ˈraivəl]
+empire 
+ n.帝国
+[ˈempaiə]
+flood 
+ n.洪水 vt.淹没
+[flʌd]
+dissolve 
+ vt.使溶解；解散
+[diˈzɔlv]
+goodness 
+ n.优良，德性，仁慈
+[ˈgudnis]
+upright 
+ a.垂直的；正直的
+[ˈʌpˈrait]
+violin 
+ n.小提琴
+[ˌvaiəˈlin]
+fix 
+ vt.使固定；决定
+[fiks]
+organization 
+ n.组织;团体,机构
+[ˌɔːgənaiˈzei∫ən]
+tough 
+ a.坚韧的；健壮的
+[tʌf]
+cough 
+ vi.咳，咳嗽 n.咳嗽
+[kɔːf]
+once 
+ ad.一次；曾经 n.一次
+[wʌns]
+plate 
+ n.板，片，盘 vt.电镀
+[pleit]
+unfortunately 
+ ad.不幸地
+[ʌnˈfɔːtjunətli]
+often 
+ ad.经常，常常
+[ˈɔːfn]
+furious 
+ a.狂怒的；狂暴的
+[ˈfjuəriəs]
+canal 
+ n.运河；沟渠；管
+[kəˈnæl]
+price 
+ n.价格，价钱；代价
+[prais]
+appreciate 
+ vt.欣赏；领会；感谢
+[əˈpriː∫ieit]
+selfish 
+ a.自私的，利己的
+[ˈselfi∫]
+continual 
+ a.不断的；连续的
+[kənˈtinjuəl]
+pronoun 
+ n.代名词
+[ˈprəunaun]
+health 
+ n.健康，健康状况
+[helθ]
+accurate 
+ a.准确的，正确无误的
+[ˈækjurit]
+incorrect 
+ a.不正确的，错误的
+[ˌinkəˈrekt]
+stable 
+ a.稳定的，不变的
+[ˈsteibl]
+heaven 
+ n.天堂；天，天空
+[ˈhevn]
+cabbage 
+ n.洋白菜，卷心菜
+[ˈkæbidʒ]
+grain 
+ n.谷物，谷粒；颗粒
+[grein]
+beneficial 
+ a.有利的，有益的
+[beniˈfi∫əl]
+forehead 
+ n.额头，前部
+[ˈfɔːhed]
+eastern 
+ a.东方的；朝东的
+[ˈiːstən]
+keep 
+ vi.保持；坚持
+[kiːp]
+satisfaction 
+ n.满意；快事；赔偿
+[ˌsætisˈfæk∫ən]
+mat 
+ n.席子；草席；垫子
+[mæt]
+audience 
+ n.听众，观众，读者
+[ˈɔːdjəns]
+overcome 
+ vt.战胜，克服
+[ˌəuvəˈkʌm]
+sausage 
+ n.香肠，腊肠
+[ˈsɔsidʒ]
+charity 
+ n.施舍；慈善事业
+[ˈt∫æriti]
+pessimistic 
+ a.悲观的；厌世的
+[ˌpesiˈmistik]
+fresh 
+ a.新的；新鲜的
+[fre∫]
+pint 
+ n.品脱
+[paint]
+blast 
+ n.爆炸，冲击波 vt.炸
+[blɑːst]
+probably 
+ ad.或许，大概
+[ˈprɔbəb(ə)li]
+happiness 
+ n.幸福，幸运；快乐
+[ˈhæpinis]
+rocket 
+ n.火箭，火箭发动机
+[ˈrɔkit]
+shopkeeper 
+ n.店主
+[ˈ∫ɔpkiːpə(r)]
+herself 
+ pron.她自己；她亲自
+[həːˈself]
+outdoors 
+ ad.在户外，在野外
+[autˈdɔːz]
+camel 
+ n.骆驼
+[ˈkæməl]
+bee 
+ n.蜂，密蜂；忙碌的人
+[biː]
+mere 
+ a.仅仅的；纯粹的
+[miə]
+painter 
+ n.漆工，画家，绘画者
+[ˈpeintə]
+colony 
+ n.殖民地；侨居地
+[ˈkɔləni]
+hammer 
+ n.锤，榔头 vt.锤击
+[ˈhæmə]
+nationality 
+ n.国籍；民族，族
+[ˌnæ∫əˈnæliti]
+nut 
+ n.坚果，干果；螺母
+[nʌt]
+relativity 
+ n.相关性；相对性
+[ˌreləˈtiviti]
+presence 
+ n.出席，到场；在
+[ˈprezns]
+sport 
+ n.运动；运动会
+[spɔːt]
+liberal 
+ a.心胸宽大的；慷慨的
+[ˈlibərəl]
+weave 
+ vt.织，编 vi.纺织
+[wiːv]
+newspaper 
+ n.报纸，报
+[ˈnjuːspeipə]
+bed 
+ n.床，床位；圃；河床
+[bed]
+economical 
+ a.节约的;经济学的
+[ˌiːkəˈnɔmikəl]
+alarm 
+ n.惊恐，忧虑；警报
+[əˈlɑːm]
+leisure 
+ n.空闲时间；悠闲
+[ˈliːʒə]
+possibly 
+ ad.可能地；也许
+[ˈpɔsəbli]
+debate 
+ n.&vi.争论，辩论
+[diˈbeit]
+torture 
+ n.拷问；折磨 vt.拷打
+[ˈtɔːt∫ə]
+error 
+ n.错误，谬误；差错
+[ˈerə]
+speak 
+ vi.说话；发言 vt.说
+[spiːk]
+result 
+ n.成果 vi.发生，结果
+[riˈzʌlt]
+employee 
+ n.受雇者，雇员，雇工
+[ˌemplɔiˈiː]
+gauge 
+ vt.量，测量 n.量器
+[gedʒ]
+sophisticated 
+ a.老于世故的;高级的
+[səˈfistikeitid]
+pea 
+ n.豌豆；豌豆属植物
+[piː]
+transfer 
+ vt.转移；调动 vi.转移
+[trænsˈfəː]
+column 
+ n.柱，支柱，圆柱
+[ˈkɔləm]
+generous 
+ a.慷慨的；宽厚的
+[ˈdʒenərəs]
+mine 
+ n.矿，矿山；地雷
+[main]
+stack 
+ n.堆，垛 vt.堆积
+[stæk]
+camera 
+ n.照相机，摄影机
+[ˈkæmərə]
+succeed 
+ vt.继…之后 vi.成功
+[səkˈsiːd]
+kind 
+ n.种类
+[kaind]
+nonsense 
+ n.胡说，废话
+[ˈnɔnsəns]
+cream 
+ n.奶油，乳脂；奶油色
+[kriːm]
+starve 
+ vi.饿死 vt.使饿死
+[stɑːv]
+vitamin 
+ n.维生素，维他命
+[ˈvaitəmin]
+retreat 
+ vi.(被迫)退却，后退
+[riˈtriːt]
+heavy 
+ a.重的；大的；充满的
+[ˈhiːvi]
+submarine 
+ a.水下的 n.潜水艇
+[sʌbməˈriːn]
+tie 
+ n.领带；联系 vt.系
+[tai]
+congress 
+ n.大会；国会，议会
+[ˈkɔŋgres]
+message 
+ n.信息，消息；启示
+[ˈmesidʒ]
+unsuitable 
+ a.不合适的,不适宜的
+[ʌnˈsuːtəb(ə)l]
+log 
+ n.原木，木料
+[lɔg]
+singer 
+ n.歌唱家，歌手
+[ˈsiŋə(r)]
+liter 
+ n.升(容量单位)
+[ˈliːtə]
+twinkle 
+ vi.闪烁，闪耀
+[ˈtwiŋkl]
+cucumber 
+ n.黄瓜
+[ˈkjuːkʌmbə]
+end 
+ n.末端；目标 vt.结束
+[end]
+beam 
+ n.梁；横梁；束，柱
+[biːm]
+flame 
+ n.火焰；光辉；热情
+[fleim]
+cabin 
+ n.小屋；船舱，机舱
+[ˈkæbin]
+metre 
+ n.米，公尺
+[ˈmiːtə]
+anger 
+ n.怒，愤怒 vt.使发怒
+[ˈæŋgə]
+suffer 
+ vt.遭受；忍受；容许
+[ˈsʌfə]
+resort 
+ vi.&n.求助，凭借
+[riˈzɔːt]
+entrance 
+ n.入口，门口；进入
+[inˈtrɑːns]
+interview 
+ n.接见；会见；面谈
+[ˈintəvjuː]
+civil 
+ a.公民的；文职的
+[ˈsivl]
+immigrant 
+ n.移民 a.移民的
+[ˈimigrənt]
+political 
+ a.政治的，政治上的
+[pəˈlitikəl]
+warmth 
+ n.暖和，温暖；热烈
+[wɔːmθ]
+freely 
+ ad.自由地；直率地
+[ˈfriːli]
+driver 
+ n.驾驶员，司机
+[ˈdraivə]
+toilet 
+ n.厕所，盥洗室，浴室
+[ˈtɔilit]
+compass 
+ n.罗盘，指南针；圆规
+[ˈkʌmpəs]
+shine 
+ vi.照耀，发光 n.光
+[∫ain]
+regulate 
+ vt.管理，控制；调整
+[ˈregjuleit]
+molecule 
+ n.分子，克分子
+[ˈmɔlikjuːl]
+jealous 
+ a.妒忌的；猜疑的
+[ˈdʒeləs]
+assure 
+ vt.使确信；向…保证
+[əˈ∫uə]
+kneel 
+ vi.跪，跪下，跪着
+[niːl]
+wait 
+ vi.等，等候 n.等待
+[weit]
+ability 
+ n.能力；能耐，本领
+[əˈbiliti]
+road 
+ n.路，道路，公路
+[rəud]
+loss 
+ n.遗失；损失；失败
+[lɔs]
+supply 
+ vt.&n.供给，供应
+[səˈplai]
+hit 
+ vt.打；碰撞 n.击
+[hit]
+classification 
+ n.分类/级;分类法
+[ˌklæsifiˈkei∫ən]
+until 
+ prep&conj.直到…为止
+[ʌnˈtil]
+tenant 
+ n.承担人，房客，佃户
+[ˈtenənt]
+straight 
+ a.直的；正直的 ad.直
+[streit]
+purity 
+ n.纯净；纯洁；纯度
+[ˈpjuəriti]
+poor 
+ a.贫穷的；贫乏的
+[puə]
+try 
+ vt.试；审问 vi.尝试
+[trai]
+climb 
+ vi.攀登，爬 vt.爬
+[klaim]
+solar 
+ a.太阳的，日光的
+[ˈsəulə]
+comrade 
+ n.同志，亲密的同伴
+[ˈkɔmrid]
+vest 
+ n.汗衫；背心；内衣
+[vest]
+age 
+ n.年龄；时代 vt.变老
+[eidʒ]
+expand 
+ vt.扩大；使膨胀
+[iksˈpænd]
+refine 
+ vt.&vi.精炼，提纯
+[riˈfain]
+beginning 
+ n.开始，开端；起源
+[biˈginiŋ]
+blame 
+ vt.责备，把…归咎于
+[bleim]
+rock 
+ vt.摇，使动摇 vi.摇
+[rɔk]
+cottage 
+ n.村舍，小屋
+[ˈkɔtidʒ]
+sentence 
+ n.判决；句子 vt.宣判
+[ˈsentəns]
+altitude 
+ n.高，高度；高处
+[ˈæltitjuːd]
+girl 
+ n.女孩子，姑娘；女儿
+[gəːl]
+effective 
+ a.有效的；有影响的
+[iˈfektiv]
+disadvantage 
+ n.不利(地位)
+[ˌdisədˈvɑːntidʒ]
+reel 
+ n.卷轴，卷筒
+[riːl]
+dismiss 
+ vt.不再考虑；解雇
+[disˈmis]
+extreme 
+ a.极度的；尽头的
+[ikˈstriːm]
+weapon 
+ n.武器，兵器
+[ˈwepən]
+shrink 
+ vi.收缩；缩小；退缩
+[∫riŋk]
+spur 
+ n.刺激物 vt.刺激
+[spəː]
+chimney 
+ n.烟囱，烟筒；玻璃罩
+[ˈt∫imni]
+emphasis 
+ n.强调，重点，重要性
+[ˈemfəsis]
+initial 
+ a.最初的；词首的
+[iˈni∫əl]
+leave 
+ vi.离去 vt.离开
+[liːv]
+simplicity 
+ n.简单，简易；朴素
+[simˈplisiti]
+swell 
+ vi.膨胀；隆起；增长
+[swel]
+excessive 
+ a.过多的，极度的
+[ikˈsesiv]
+spoil 
+ vt.损坏，糟蹋；宠坏
+[spɔil]
+compete 
+ vi.比赛；竞争；对抗
+[kəmˈpiːt]
+possible 
+ a.可能的；可能存在的
+[ˈpɔsəbl]
+undo 
+ vt.解开，打开；取消
+[ˈʌnˈduː]
+instruction 
+ n.命令;教学；教训
+[inˈstrʌk∫ən]
+demand 
+ vt.要求；需要；询问
+[diˈmɑːnd]
+opera 
+ n.歌剧
+[ˈɔpərə]
+fountain 
+ n.泉水，喷泉；源泉
+[ˈfauntin]
+student 
+ n.学生；研究生，学者
+[ˈstjuːdənt]
+amongst 
+ prep 在…之中(=among)
+[əˈmʌŋst]
+tractor 
+ n.拖拉机；牵引车
+[ˈtræktə]
+themselves 
+ pron.他们自己
+[ðəmˈselvz]
+mercy 
+ n.仁慈，慈悲，恩惠
+[ˈməːsi]
+transmission 
+ n.传送;传动;发射
+[trænzˈmi∫ən]
+specialist 
+ n.专家
+[ˈspe∫əlist]
+seem 
+ vi.好像，似乎
+[siːm]
+reasonable 
+ a.合情合理的；公道的
+[ˈriːznəbl]
+finally 
+ ad.最后；不可更改的
+[ˈfainəli]
+professional 
+ a.职业的 n.专业人员
+[prəˈfe∫ənl]
+nevertheless 
+ conj.然而 ad.仍然
+[ˌnevəðəˈles]
+solution 
+ n.解决，解答；溶解
+[səˈljuː∫ən]
+door 
+ n.门，通道；一家
+[dɔː]
+independent 
+ a.独立的;自主的
+[indiˈpendənt]
+paint 
+ vt.画；油漆 vi.绘画
+[peint]
+nest 
+ n.巢，窝，穴
+[nest]
+actually 
+ ad.实际上；竟然
+[ˈækt∫uəli]
+old 
+ a.老的；…岁的
+[əuld]
+explain 
+ vt.解释；为…辩解
+[iksˈplein]
+loosen 
+ vt.解开；使松驰
+[ˈluːsn]
+wheel 
+ n.轮，车轮
+[wiːl]
+arrow 
+ n.箭；箭状物
+[ˈærəu]
+contain 
+ vt.包含，容纳；等于
+[kənˈtein]
+tell 
+ vt.讲述；吩咐；辨别
+[tel]
+crop 
+ n.农作物，庄稼；一熟
+[krɔp]
+unfair 
+ a.不公平的，不公正的
+[ˈʌnˈfeə]
+grieve 
+ vt.使悲痛 vi.悲痛
+[griːv]
+maybe 
+ ad.大概，或许；也许
+[ˈmeibi]
+rib 
+ n.肋，肋骨
+[rib]
+racial 
+ a.种族的，人种的
+[ˈrei∫əl]
+oven 
+ n.炉，灶；烘箱
+[ˈʌvən]
+entitle 
+ vt.给…权利(或资格)
+[inˈtaitl]
+postman 
+ n.邮递员
+[ˈpəustmən]
+proposal 
+ n.提议，建议；求婚
+[prəˈpəuzəl]
+purchase 
+ n.买，购买 vt.买
+[ˈpəːt∫əs]
+quilt 
+ n.被(子) 
+[kwilt]
+construction 
+ n.建造;建筑(物)
+[kənˈstrʌk∫ən]
+university 
+ n.大学，综合性大学
+[ˌjuːniˈvəːsiti]
+fellow 
+ n.人，家伙；伙伴
+[ˈfeləu]
+ambition 
+ n.雄心，抱负，野心
+[æmˈbi∫ən]
+wash 
+ vt.洗；冲出 vi.洗涤
+[wɔ∫]
+user 
+ n.用户，使用者
+[ˈjuːzə]
+brittle 
+ a.脆的；易损坏的
+[ˈbritl]
+helpless 
+ a.无助的；无能的
+[ˈhelplis]
+fair 
+ a.公平的；相当的
+[feə]
+peculiar 
+ a.特有的；特别的
+[piˈkjuːljə]
+centigrade 
+ a.百分度的
+[ˈsentigreid]
+adult 
+ n.成年人 a.成年的
+[ˈædʌlt]
+green 
+ a.绿色的 n.绿色
+[griːn]
+naturally 
+ ad.自然地；天然地
+[ˈnæt∫ərəli]
+humour 
+ n.幽默，诙谐，幽默感
+[ˈhjuːmə]
+connection 
+ n.连接，联系；连贯性
+[kəˈnek∫ən]
+roof 
+ n.屋顶，车顶；顶
+[ruːf]
+say 
+ vt.说；说明；比如说
+[sei]
+yard 
+ n.码
+[jɑːd]
+painful 
+ a.使痛的；费力的
+[ˈpeinful]
+tour 
+ n.&vi.旅行，游历
+[tuə]
+acceptance 
+ n.接受，验收；承认
+[əkˈseptəns]
+now 
+ ad.现在；立刻；于是
+[nau]
+major 
+ a.较大的 n.专业
+[ˈmeidʒə]
+arabian 
+ a.阿拉伯的
+[əˈreibjən]
+page 
+ n.页
+[peidʒ]
+nylon 
+ n.尼龙，耐纶
+[ˈnailən]
+will 
+ aux.v.将要，会；愿
+[wil]
+modest 
+ a.有节制的；谦虚的
+[ˈmɔdist]
+scatter 
+ vt.使消散；撒；散播
+[ˈskætə]
+thief 
+ n.窃贼，偷窃犯
+[θiːf]
+lay 
+ vt.置放；铺设；设置
+[lei]
+break 
+ vt.打破；损坏；破坏
+[breik]
+German 
+ a.德国的 n.德国人
+[ˈdʒəːmən]
+drift 
+ vi.漂流，漂泊 n.漂流
+[drift]
+semiconductor 
+ n.半导体
+[ˈsemikənˈdʌktə]
+news 
+ n.新闻，消息
+[njuːz]
+august 
+ n.八月
+[ˈɔːgəst]
+collect 
+ vt.收集 vi.收款
+[kəˈlekt]
+international 
+ a.国际的，世界(性)的
+[ˌintə(ː)ˈnæ∫ənəl]
+murderer 
+ n.杀人犯，凶手
+[ˈməːdərə(r)]
+librarian 
+ n.图书馆馆长
+[laiˈbreəriən]
+launch 
+ vt.发射，投射；发动
+[lɔːnt∫]
+refuge 
+ n.避难，庇护；庇护者
+[ˈrefjuːdʒ]
+narrow 
+ a.狭的，狭窄的
+[ˈnærəu]
+such 
+ a.这样的；如此的…
+[sʌt∫]
+daily 
+ a.每日的 n.日报
+[ˈdeili]
+bolt 
+ n.螺栓；插销 vt.闩门
+[bəult]
+improvement 
+ n.改进，改善；改进处
+[imˈpruːvmənt]
+curl 
+ n.卷毛；螺旋 vi.卷曲
+[kəːl]
+quart 
+ n.夸脱(=2 品脱)
+[kɔːt]
+absorb 
+ vt.吸收；使专心
+[əbˈsɔːb]
+partial 
+ a.部分的；不公平的
+[ˈpɑː∫əl]
+smooth 
+ a.平滑的；平静的
+[smuːð]
+princess 
+ n.公主，王妃
+[prinˈses]
+buy 
+ vt.买，购买 vi.买
+[bai]
+decide 
+ vt.决定，决心；解决
+[diˈsaid]
+alphabet 
+ n.字母表，字母系统
+[ˈælfəbit]
+quarterly 
+ a.季度的 ad.季度地
+[ˈkwɔːtəli]
+worthy 
+ a.有价值的；值得的
+[ˈwəːði]
+pray 
+ vt.&vi.请求；祈祷
+[prei]
+recall 
+ vt.回想；叫回；收回
+[riˈkɔːl]
+surround 
+ vt.围，围绕，圈住
+[səˈraund]
+quicken 
+ vt.加快 vi.加快
+[ˈkwikən]
+trunk 
+ n.树干；大衣箱，皮箱
+[trʌŋk]
+spring 
+ vi.跳，跃 n.跳跃；泉
+[spriŋ]
+shape 
+ n.形状；情况 vt.形成
+[∫eip]
+we 
+ pron.(主格)我们
+[wiː]
+radar 
+ n.雷达，无线电探测器
+[ˈreidə]
+spirit 
+ n.精神；气魄；情绪
+[ˈspirit]
+blue 
+ a.蓝色的 n.蓝色
+[bluː]
+generator 
+ n.发电机；发生者
+[ˈdʒenəreitə]
+strip 
+ vt.剥；夺去 n.条带
+[strip]
+June 
+ n.六月
+[dʒuːn]
+device 
+ n.器械，装置；设计
+[diˈvais]
+guilty 
+ a.内疚的；有罪的
+[ˈgilti]
+submit 
+ vt.使服从 vi.服从
+[səbˈmit]
+republican 
+ a.共和国的
+[riˈpʌblikən]
+atmosphere 
+ n.大气；空气；气氛
+[ˈætməsfiə]
+willing 
+ a.愿意的，心甘情愿的
+[ˈwiliŋ]
+architecture 
+ n.建筑学；建筑式样
+[ˈɑːkitekt∫ə]
+cotton 
+ n.棉；棉线；棉布
+[ˈkɔtn]
+institution 
+ n.协会;制度，习俗
+[ˌinstiˈtjuː∫ən]
+whitewash 
+ vt.粉刷，涂白
+[ˈ(h)waitwɔ∫]
+drag 
+ vt.拖，拉；拖曳
+[dræg]
+bill 
+ n.账单；招贴；票据
+[bil]
+stove 
+ n.炉，火炉，电炉
+[stəuv]
+holy 
+ a.神圣的；圣洁的
+[ˈhəuli]
+sound 
+ a.健康的；完好的
+[saund]
+gentle 
+ a.和蔼的；轻柔的
+[ˈdʒentl]
+preceding 
+ a.在前的；在先的
+[pri(ː)ˈsiːdiŋ]
+engineering 
+ n.工程，工程学
+[ˌendʒiˈniəriŋ]
+brake 
+ n.闸，刹车 vi.制动
+[breik]
+arise 
+ vi.出现；由…引起
+[əˈraiz]
+convert 
+ vt.使转变；使改变
+[kənˈvəːt]
+accidental 
+ a.偶然的；非本质的
+[ˌæksiˈdentl]
+supermarket 
+ n.超级市场
+[ˈsjuːpəˌmɑːkit]
+stair 
+ n.楼梯
+[steə]
+pad 
+ n.垫；本子 vt.填塞
+[pæd]
+presently 
+ ad.一会儿；目前
+[ˈprezəntli]
+noticeable 
+ a.显而易见/重要的
+[ˈnəutisəbl]
+interference 
+ n.干涉,干预;阻碍
+[ˌintəˈfiərəns]
+experimental 
+ a.实/试验的
+[ikˈsperiment(ə)l]
+law 
+ n.法律，法令；法则
+[lɔː]
+solely 
+ ad.单独地，唯一地
+[ˈsəu(l)li]
+song 
+ n.歌唱；歌曲，歌词
+[sɔŋ]
+force 
+ vt.强迫 n.力，力量
+[fɔːs]
+team 
+ n.队，组
+[tiːm]
+tutor 
+ n.家庭教师；导师
+[ˈtjuːtə]
+pool 
+ n.水塘，游泳池，水池
+[puːl]
+salute 
+ n.招呼，行礼 vi.行礼
+[səˈluːt]
+actress 
+ n.女演员
+[ˈæktris]
+brow 
+ n.额；眉，眉毛
+[brau]
+cover 
+ vt.盖，包括 n.盖子
+[ˈkʌvə]
+planet 
+ n.行星
+[ˈplænit]
+element 
+ n.成分；要素；元素
+[ˈelimənt]
+tiny 
+ a.微小的，极小的
+[ˈtaini]
+tedious 
+ a.冗长乏味的，沉闷的
+[ˈtiːdiəs]
+possession 
+ n.有，所有；占有物
+[pəˈze∫ən]
+fifteen 
+ num.十五；十五个
+[ˈfifˈtiːn]
+mount 
+ vt.登上，爬上 n.…山
+[maunt]
+gift 
+ n.礼物，赠品；天赋
+[gift]
+scold 
+ vi.责骂 vt.申斥
+[skəuld]
+excuse 
+ vt.原谅；免除 n.借口
+[iksˈkjuːz]
+exploit 
+ vt.剥削；利用；开拓
+[iksˈplɔit]
+cooperate 
+ vi.合作，协作；配合
+[kəuˈɔpəreit]
+lock 
+ n.锁 vt.锁上，锁住
+[lɔk]
+runner 
+ n.赛跑的人
+[ˈrʌnə(r)]
+basket 
+ n.篮，篓，筐
+[bɑːskit]
+toy 
+ n.玩具，玩物
+[tɔi]
+there 
+ ad.在那里；在那点上
+[ðeə]
+concentration 
+ n.集中;专注;浓缩
+[ˌkɔnsenˈtrei∫ən]
+robe 
+ n.长袍，长衣，浴衣
+[rəub]
+mutton 
+ n.羊肉
+[ˈmʌtn]
+refreshment 
+ n.茶点，点心，便餐
+[riˈfre∫mənt]
+front 
+ a.前面的 n.前部
+[frʌnt]
+pop 
+ n.流行音乐，流行歌曲
+[pɔp]
+hate 
+ vt.恨，憎恨；不喜欢
+[heit]
+goods 
+ n.货物，商品
+[gudz]
+consult 
+ vt.请教，查阅
+[kənˈsʌlt]
+feather 
+ n.羽毛；翎毛；羽状物
+[ˈfeðə]
+aboard 
+ ad.在船(车)上；上船
+[əˈbɔːd]
+coach 
+ n.长途公共汽车
+[kəut∫]
+action 
+ n.行动；作用；功能
+[ˈæk∫ən]
+landlady 
+ n.女房东；女地主
+[ˈlændleidi]
+america 
+ n.美洲；美国
+[əˈmerikə]
+Soviet 
+ n.苏维埃 a.苏维埃的
+[ˈsəuviet]
+apology 
+ n.道歉，认错，谢罪
+[əˈpɔlədʒi]
+size 
+ n.大小；体积；尺码
+[saiz]
+endless 
+ a.无止境的
+[ˈendlis]
+capacity 
+ n.容量；能力；能量
+[kəˈpæsiti]
+keen 
+ a.热心的；激烈的
+[kiːn]
+lady 
+ n.女士，夫人；贵妇人
+[ˈleidi]
+corridor 
+ n.走廊，回廊，通路
+[ˈkɔridɔː]
+chapter 
+ n.章，回，篇
+[ˈt∫æptə]
+restaurant 
+ n.餐馆，饭店，菜馆
+[ˈrestərənt]
+outstanding 
+ a.突出的，杰出的
+[autˈstændiŋ]
+stability 
+ n.稳定，稳定性，巩固
+[stəˈbiliti]
+bat 
+ n.球拍；短棍；蝙蝠
+[bæt]
+echo 
+ n.回声，反响 vi.重复
+[ˈekəu]
+substitute 
+ n.代替人 vt.用…代替
+[ˈsʌbstitjuːt]
+stir 
+ vt.动；拨动；激动
+[stəː]
+prohibit 
+ vt.禁止，阻止
+[prəˈhibit]
+employ 
+ vi.雇用；用；使忙于
+[imˈplɔi]
+delicious 
+ a.美味的，怡人的
+[diˈli∫əs]
+logical 
+ a.逻辑的；符合逻辑的
+[ˈlɔdʒikəl]
+visitor 
+ n.访问者；游客
+[ˈvizitə]
+praise 
+ n.赞扬，赞美 vi.赞扬
+[preiz]
+democratic 
+ a.民主的，民主政体的
+[ˌdeməˈkrætik]
+loose 
+ a.松的；宽松的
+[luːs]
+weak 
+ a.弱的；软弱的
+[wiːk]
+mile 
+ n.英里
+[mail]
+performance 
+ n.履行；演出；行为
+[pəˈfɔːməns]
+simplify 
+ vt.简化，使单纯
+[ˈsimplifai]
+paradise 
+ n.伊甸乐园；天堂
+[ˈpærədaiz]
+decade 
+ n.十年，十年期
+[ˈdekeid]
+body 
+ n.身体；主体；尸体
+[ˈbɔdi]
+shoe 
+ n.鞋
+[∫uː]
+determine 
+ vt.决定；查明；决心
+[diˈtəːmin]
+rhythm 
+ n.韵律，格律；节奏
+[ˈrið(ə)m]
+eighth 
+ num.第八 n.八分之一
+[eitθ]
+muddy 
+ a.多泥的，泥泞的
+[ˈmʌdi]
+female 
+ n.雌性的动物；女子
+[ˈfiːmeil]
+violet 
+ n.紫罗兰
+[ˈvaiəlit]
+synthetic 
+ a.综合的；合成的
+[sinˈθeti]
+nuisance 
+ n.讨厌的东西
+[ˈnjuːsns]
+mutual 
+ a.相互的；共同的
+[ˈmjuːtjuəl]
+thrill 
+ n.一阵激动
+[θril]
+concern 
+ n.关心，挂念；关系
+[kənˈsəːn]
+obviously 
+ ad.明显地，显然地
+[ˈɔbviəsli]
+sample 
+ n.样品；实例，标本
+[ˈsæmpl]
+thereby 
+ ad.因此，从而，由此
+[ˈðeəˈbai]
+mill 
+ n.磨坊；制造厂
+[mil]
+creature 
+ n.生物，动物，家畜
+[ˈkriːt∫ə]
+vinegar 
+ n.醋
+[ˈvinigə]
+electricity 
+ n.电，电学；电流
+[ilekˈtrisiti]
+railroad 
+ n.铁路 vi.由铁路运输
+[ˈreilrəud]
+whom 
+ pron.(宾格)谁
+[huːm]
+donkey 
+ n.驴；笨蛋
+[ˈdɔŋki]
+weekend 
+ n.周末，周末假期
+[wiːkˈend]
+captain 
+ n.陆军上尉；队长
+[ˈkæptin]
+deduce 
+ vt.演绎，推论，推断
+[diˈdjuːs]
+band 
+ n.乐队；带；波段
+[bænd]
+wreck 
+ n.失事；残骸 vt.破坏
+[rek]
+unusual 
+ a.不平常的；独特的
+[ʌnˈjuːʒuəl]
+shout 
+ n.&vi.呼喊，喊叫
+[∫aut]
+reduce 
+ vt.减少，减小；简化
+[riˈdjuːs]
+also 
+ ad.亦，也；而且，还
+[ˈɔːlsəu]
+province 
+ n.省；领域，部门
+[ˈprɔvins]
+individual 
+ a.个别的；独特的
+[ˌindiˈvidjuəl]
+encounter 
+ vt.遭遇，遇到 n.遭遇
+[inˈkauntə]
+aside 
+ ad.在旁边，到旁边
+[əˈsaid]
+coil 
+ n.(一)卷；线圈 vt.卷
+[kɔil]
+mistake 
+ n.错误 vi.误解，弄错
+[misˈteik]
+whatever 
+ pron.无论什么
+[wɔtˈevə]
+send 
+ vt.送，寄发；派遣
+[send]
+listener 
+ n.听者，听众之一
+[ˈlisnə]
+put 
+ vt.放，摆；使处于
+[put]
+free 
+ a.自由的；空闲的
+[friː]
+curiosity 
+ n.好奇，好奇心；珍品
+[ˌkjuəriˈɔsiti]
+nasty 
+ a.龌龊的；淫猥的
+[ˈnæsti]
+exhibition 
+ n.展览，陈列；展览会
+[ˌeksiˈbi∫ən]
+event 
+ n.事件，大事；事变
+[iˈvent]
+glorious 
+ a.光荣的；壮丽的
+[ˈglɔːriəs]
+garbage 
+ n.垃圾，污物，废料
+[ˈgɑːbidʒ]
+swear 
+ vt.宣(誓) vi.诅咒
+[sweə]
+physician 
+ n.医生，内科医生
+[fiˈzi∫ən]
+textile 
+ n.纺织品 a.纺织的
+[ˈtekstail]
+wax 
+ n.蜡，蜂蜡
+[wæks]
+van 
+ n.大篷车，运货车
+[væn]
+heading 
+ n.标题，题词，题名
+[ˈhediŋ]
+pattern 
+ n.型，式样，模，模型
+[ˈpætən]
+moderate 
+ a.温和的；有节制的
+[ˈmɔdərit]
+economic 
+ a.经济的，经济学的
+[ˌiːkəˈnɔmik]
+midst 
+ n.中部，中间，当中
+[ˈmidst]
+give 
+ vt.做，作；送给
+[giv]
+mould 
+ n.模子，模型 vt.浇铸
+[məuld]
+volt 
+ n.伏特，伏
+[vəult]
+them 
+ pron.(宾格)他们
+[θem]
+notebook 
+ n.笔记本，期票簿
+[ˈnəutbuk]
+car 
+ n.汽车，小汽车，轿车
+[kɑː]
+sunset 
+ n.日落(时分)
+[ˈsʌnset]
+bother 
+ vt.烦扰，迷惑 n.麻烦
+[ˈbɔðə]
+jury 
+ n.陪审团；评奖团
+[ˈdʒuəri]
+boast 
+ vi.自夸 vt.吹嘘
+[bəust]
+universe 
+ n.宇宙，世界
+[ˈjuːnivəːs]
+relationship 
+ n.关系，联系
+[riˈlei∫ən∫ip]
+chart 
+ n.图，图表；海图
+[t∫ɑːt]
+slippery 
+ a.滑的，使人滑跤的
+[ˈslipəri]
+compel 
+ vt.强迫，迫使屈服
+[kəmˈpel]
+australia 
+ n.澳大利亚
+[ɔsˈtreiljə]
+loyal 
+ a.忠诚的，忠心的
+[ˈlɔiəl]
+amount 
+ n.总数；数量；和
+[əˈmaunt]
+prescribe 
+ vt.命令；处(方)
+[prisˈkraib]
+thread 
+ n.线；丝；螺纹；头绪
+[θred]
+forever 
+ ad.永远，总是，老是
+[fəˈrevə]
+urgent 
+ a.紧急的；强求的
+[ˈəːdʒənt]
+guarantee 
+ n.保证；担保物
+[ˌgærənˈtiː]
+campaign 
+ n.战役；运动
+[kæmˈpein]
+copper 
+ n.铜；铜币，铜制器
+[ˈkɔpə]
+chicken 
+ n.小鸡，小鸟；鸡肉
+[ˈt∫ikin]
+fan 
+ n.(运动等)狂热爱好者
+[fæn]
+evidence 
+ n.根据；证据，证人
+[ˈevidəns]
+strictly 
+ ad.严格地，严谨地
+[ˈstriktli]
+frost 
+ n.冰冻，严寒；霜
+[frɔst]
+dew 
+ n.露，露水
+[djuː]
+tortoise 
+ n.龟，乌龟
+[ˈtɔːtəs]
+pave 
+ vt.铺，筑(路等)
+[peiv]
+assist 
+ vt.援助，帮助；搀扶
+[əˈsist]
+cast 
+ vt.投，扔，抛；浇铸
+[kɑːst]
+sailor 
+ n.水手，海员，水兵
+[ˈseilə]
+eyesight 
+ n.视力，目力
+[ˈaisait]
+promise 
+ n.诺言；指望 vt.允诺
+[ˈprɔmis]
+liberation 
+ n.解放
+[ˌlibəˈrei∫ən]
+today 
+ ad.在今天；现在
+[təˈdei]
+possibility 
+ n.可能；可能的事
+[ˌpɔsiˈbiliti]
+typewriter 
+ n.打字机
+[ˈtaipraitə]
+cordial 
+ a.真诚的，诚恳的
+[ˈkɔːrdʒəl]
+flush 
+ vi.奔流；(脸)发红
+[flʌ∫]
+ceiling 
+ n.天花板，顶蓬
+[ˈsiːliŋ]
+how 
+ ad.怎么；怎样；多少
+[hau]
+opportunity 
+ n.机会，良机
+[ˌɔpəˈtjuːniti]
+excess 
+ n.超越；过量；过度
+[ˈekses]
+trip 
+ vi.绊；失足 vt .绊倒
+[trip]
+public 
+ a.公众的 n.公众
+[ˈpʌblik]
+inner 
+ a.内部的；内心的
+[ˈinə]
+resignation 
+ n.放弃，辞职，反抗
+[ˌrezigˈnei∫ən]
+delivery 
+ n.投递；交付；分娩
+[diˈlivəri]
+excursion 
+ n.远足；短途旅行
+[iksˈkəː∫ən]
+former 
+ a.在前的 n.前者
+[ˈfɔːmə]
+drip 
+ vi.滴下；漏水 n.水滴
+[drip]
+strap 
+ n.带子 vt.捆扎
+[stræp]
+cabinet 
+ n.橱，柜；内阁
+[ˈkæbinit]
+wipe 
+ vt.&n.揩，擦
+[waip]
+honey 
+ n.蜜，蜂蜜；甜，甜蜜
+[ˈhʌni]
+punish 
+ vt.罚，惩罚，处罚
+[ˈpʌni∫]
+musician 
+ n.音乐家；作曲家
+[mjuːˈzi∫ən]
+generally 
+ ad.一般地；通常地
+[ˈdʒenərəli]
+burst 
+ vt.使爆裂 vi.&n.爆炸
+[bəːst]
+position 
+ n.位置；职位；姿势
+[pəˈzi∫ən]
+domestic 
+ a.本国的；家庭的
+[dəˈmestik]
+invitation 
+ n.邀请，招待；请柬
+[ˌinviˈtei∫ən]
+culture 
+ n.文化，文明；教养
+[ˈkʌlt∫ə]
+odour 
+ n.气味，香气；味道
+[ˈəudə]
+remote 
+ a.相隔很远的；冷淡的
+[riˈməut]
+business 
+ n.商业，生意；事务
+[ˈbiznis]
+sixth 
+ num.第六；六分之一
+[siksθ]
+chin 
+ n.颏，下巴
+[t∫in]
+render 
+ vt.表示，给予；使得
+[ˈrendə]
+wit 
+ n.智力，才智，智能
+[wit]
+last 
+ a.最后的 ad.最后
+[lɑːst]
+irregular 
+ a.不规则的；不整齐的
+[iˈregjulə]
+radio 
+ n.无线电；收音机
+[ˈreidiəu]
+observer 
+ n.观察员，观测者
+[əbˈzəːvə]
+exact 
+ a.确切的；精确的
+[igˈzækt]
+consumption 
+ n.消耗量；消耗
+[kənˈsʌmp∫ən]
+outlook 
+ n.观点，看法；展望
+[ˈautluk]
+prosperous 
+ a.繁荣的，昌盛的
+[ˈprɔspərəs]
+complex 
+ a.结合的；复杂的
+[ˈkɔmpleks]
+corresponding 
+ a.相应的;符合的
+[ˌkɔrisˈpɔndiŋ]
+fluent 
+ a.流利的，流畅的
+[ˈflu(ː)ənt]
+beautiful 
+ a.美的，美丽的
+[ˈbjuːtəful]
+strong 
+ a.强壮的；擅长的
+[strɔŋ]
+lung 
+ n.肺脏，肺
+[lʌŋ]
+survive 
+ vt.幸免于 vi.活下来
+[səˈvaiv]
+ball 
+ n.球，球状物；舞会
+[bɔːl]
+furniture 
+ n.家具；装置，设备
+[ˈfəːnit∫ə]
+thoughtful 
+ a.沉思的；体贴的
+[ˈθɔːtful]
+wide 
+ a.宽阔的 ad.全部地
+[waid]
+fund 
+ n.资金；基金；存款
+[fʌnd]
+award 
+ n.奖，奖品；判定
+[əˈwɔːd]
+evident 
+ a.明显的，明白的
+[ˈevidənt]
+nation 
+ n.民族；国家
+[ˈnei∫(ə)n]
+bulk 
+ n.物体，容积，大批
+[bʌlk]
+strongly 
+ ad.强壮地，强烈地
+[ˈstrɔŋli]
+happen 
+ vi.发生；碰巧，恰好
+[ˈhæpən]
+elder 
+ a.年龄较大的 n.长者
+[ˈeldə(r)]
+ugly 
+ a.丑陋的；可怕的
+[ˈʌgli]
+foundation 
+ n.基础；地基；基金
+[faunˈdei∫ən]
+spray 
+ n.浪花；喷雾 vt.喷
+[sprei]
+capital 
+ n.资本，资金；首都
+[ˈkæpitəl]
+zoo 
+ n.动物园
+[zuː]
+fur 
+ n.软毛；毛皮，裘皮
+[fəː]
+Italian 
+ a.意大利的 n.意大利人
+[iˈtæljən]
+rest 
+ n.休息；安静；静止
+[rest]
+tend 
+ vt.照管，照料，护理
+[tend]
+cheer 
+ vt.使振作；欢呼
+[t∫iə]
+satellite 
+ n.卫星；人造卫星
+[ˈsætəlait]
+appeal 
+ vi.&n.呼吁；申述
+[əˈpiːl]
+north 
+ n.北，北方 a.北方的
+[nɔːθ]
+head 
+ n.头；上端 vt.率领
+[hed]
+landing 
+ n.上岸，登陆，着陆
+[ˈlændiŋ]
+rumour 
+ n.谣言，谣传，传闻
+[ˈruːmə]
+third 
+ num.第三；三分之一
+[θəːd]
+rag 
+ n.破布，碎布，抹布
+[ræg]
+axis 
+ n.轴，轴线；中心线
+[ˈæksis]
+quality 
+ n.质量；品质，特性
+[ˈkwɔliti]
+exercise 
+ n.锻炼，训练 vi.练习
+[ˈeksəsaiz]
+airport 
+ n.机场，航空站
+[ˈeəpɔːt]
+privilege 
+ n.特权，优惠
+[ˈprivilidʒ]
+bloom 
+ n.花；开花，开花期
+[bluːm]
+figure 
+ n.数字；外形；人物
+[ˈfigə]
+overcoat 
+ n.外衣，大衣
+[ˈəuvəkəut]
+contemporary 
+ a.当代的，同时代的
+[kənˈtempərəri]
+worthwhile 
+ a.值得花时间的
+[ˈwəːðˈ(h)wail]
+companion 
+ n.同伴;共事者;伴侣
+[kəmˈpænjən]
+moisture 
+ n.潮湿，湿气；温度
+[ˈmɔist∫ə]
+power 
+ n.能力；力；权；幂
+[ˈpauə]
+weekly 
+ a.每周的 ad.每周
+[ˈwiːkli]
+thrust 
+ vt.插，刺 n.插；讽刺
+[θrʌst]
+shoot 
+ vt.发射；射中 n.发芽
+[∫uːt]
+hero 
+ n.男主角；英雄；勇士
+[ˈhiərəu]
+proper 
+ a.适合的；合乎体统的
+[ˈprɔpə]
+worker 
+ n.工人；工作者，人员
+[ˈwəːkə]
+full 
+ a.满的；完全的
+[ful]
+weakness 
+ n.虚弱，软弱；弱点
+[ˈwiːknis]
+earth 
+ n.地球；陆地，地面
+[əːθ]
+arithmetic 
+ n.算术，四则运算
+[əˈriθmətik]
+circle 
+ n.圆，圆周；圈子
+[ˈsəːkl]
+millimetre 
+ n.毫米
+[ˈmiliˌmiːtə(r)]
+ax 
+ n.斧子
+[æks]
+exit 
+ n.出口；退场 vi.退出
+[ˈeksit]
+melon 
+ n.瓜，甜瓜
+[ˈmelən]
+vine 
+ n.葡萄树
+[vain]
+scenery 
+ n.舞台布景；风景
+[ˈsiːnəri]
+endure 
+ vt.忍受；容忍
+[inˈdjuə]
+detection 
+ n.察觉，发觉；侦察
+[diˈtek∫ən]
+secretary 
+ n.秘书；书记；大臣
+[ˈsekrəteri]
+reservoir 
+ n.水库；蓄水池
+[ˈrezəvwɑː(r)]
+pit 
+ n.坑，地坑；煤矿
+[pit]
+ordinary 
+ a.平常的；平凡的
+[ˈɔːdinəri]
+balance 
+ vt.使平衡；称 n.天平
+[ˈbæləns]
+congratulation 
+ n.祝贺(词)
+[kənˌgrætjuˈlei∫ən]
+national 
+ a.民族的；国家的
+[ˈnæ∫ənəl]
+scientific 
+ a.科学(上)的
+[saiənˈtifik]
+lumber 
+ n.木材；木料；制材
+[ˈlʌmbə]
+consequently 
+ ad.因此/而,所以
+[ˈkɔnsikwəntli]
+start 
+ vi.跳起；出发；开始
+[stɑːt]
+choice 
+ n.选择，抉择
+[t∫ɔis]
+minister 
+ n.部长，大臣；公使
+[ˈministə]
+seize 
+ vt.抓住，逮捕；夺取
+[siːz]
+correspond 
+ vi.相符合；相当
+[kɔːrəˈspɔnd]
+means 
+ n.方法，手段，工具
+[miːnz]
+bacteria 
+ n.细菌
+[bækˈtiəriə]
+level 
+ n.水平面 a.水平的
+[ˈlev(ə)l]
+look 
+ vi.看，显得 n.看
+[luk]
+graduate 
+ n.毕业生 vi.大学毕业
+[ˈgrædjueit]
+spade 
+ n.铲，铁锹
+[speid]
+theoretical 
+ a.理论(上)的
+[θiəˈretikəl]
+cope 
+ vi.对付，应付
+[kəup]
+generate 
+ vt.发生；引起；生殖
+[ˈdʒenəˌreit]
+feel 
+ vi.有知觉 vt.触，摸
+[fiːl]
+twin 
+ a.孪生的 n.孪生儿
+[twin]
+boil 
+ vi.沸腾；汽化 vt.煮沸
+[bɔil]
+murder 
+ n.&vi.谋杀，凶杀
+[ˈməːdə]
+cliff 
+ n.悬崖，峭壁
+[klif]
+memory 
+ n.记忆；回忆；存储
+[ˈmeməri]
+sketch 
+ n.略图；速写；概略
+[sket∫]
+complete 
+ a.完整的；完成的
+[kəmˈpliːt]
+sum 
+ n.总数；金额 vi.共计
+[sʌm]
+any 
+ a.什么，一些；任何的
+[ˈeni]
+date 
+ n.日期 vt.注…日期
+[deit]
+silence 
+ n.沉默 vt.使沉默
+[ˈsailəns]
+spot 
+ n.点，斑点；地点
+[spɔt]
+somewhat 
+ pron.一点儿 ad.有点
+[ˈsʌm(h)wɔt]
+destination 
+ n.目的地,终点；目标
+[ˌdestiˈnei∫ən]
+partially 
+ ad.部分地
+[ˈpɑː∫əli]
+grey 
+ a.灰色的 n.灰色
+[grei]
+mutter 
+ vi.轻声低语；抱怨
+[ˈmʌtə]
+note 
+ n.笔记；便条；注释
+[nəut]
+electronics 
+ n.电子学
+[ilekˈtrɔniks]
+sympathy 
+ n.同情；一致，同感
+[ˈsimpəθi]
+technology 
+ n.工艺学，工艺，技术
+[tekˈnɔlədʒi]
+joy 
+ n.欢乐，喜悦；乐事
+[dʒɔi]
+summer 
+ n.夏，夏季
+[ˈsʌmə]
+July 
+ n.七月
+[dʒu(ː)ˈlai]
+bowl 
+ n.碗，钵；碗状物
+[bəul]
+requirement 
+ n.需要；要求
+[riˈkwaiəmənt]
+cubic 
+ a.立方形的；立方的
+[ˈkjuːbik]
+subject 
+ n.题目；学科；主语
+[ˈsʌbdʒikt]
+ankle 
+ n.踝，踝节部
+[ˈæŋkl]
+stale 
+ n.陈腐的；走了气的
+[steil]
+damage 
+ vt.损害，毁坏 n.损害
+[ˈdæmidʒ]
+rain 
+ n.雨，雨水 vi.下雨
+[rein]
+because 
+ conj.由于，因为
+[biˈkɔz]
+reinforce 
+ vt.增援，支援；加强
+[ˌriːinˈfɔːs]
+involve 
+ vt.使卷入；牵涉
+[inˈvɔlv]
+furnish 
+ vt.供应，提供；装备
+[ˈfəːni∫]
+verb 
+ n.动词
+[vəːb]
+beef 
+ n.牛肉；菜牛
+[biːf]
+text 
+ n.原文，本文；课文
+[tekst]
+book 
+ n.书，书籍 vt.预定
+[buk]
+statement 
+ n.陈述，声明
+[ˈsteitmənt]
+tense 
+ n.时态，时
+[tens]
+slipper 
+ n.拖鞋，便鞋
+[ˈslipə]
+bargain 
+ n.交易 vi.议价；成交
+[ˈbɑːgin]
+shampoo 
+ vt.用洗发剂洗 n.洗头
+[∫æmˈpuː]
+bud 
+ n.芽，萌芽；蓓蕾
+[bʌd]
+behave 
+ vi.表现，举止；运转
+[biˈheiv]
+bread 
+ n.面包；食物，粮食
+[bred]
+contest 
+ vt.争夺，争取；辩驳
+[ˈkɔntest]
+contrast 
+ n.对比，对照，悬殊
+[ˈkɔntræst]
+faint 
+ a.微弱的；虚弱的
+[feint]
+vex 
+ vt.使烦恼，使恼火
+[veks]
+Swiss 
+ a.瑞士的 n.瑞士人
+[swis]
+source 
+ n.河的源头；根源
+[sɔːs]
+modern 
+ a.现代的，近代的
+[ˈmɔdən]
+mine 
+ pron.我的
+[main]
+acquaintance 
+ n.认识;了解;熟人
+[əˈkweintəns]
+accomplish 
+ vt.达到(目的)；完成
+[əˈkɔmpli∫]
+skin 
+ n.皮；兽皮；外皮
+[skin]
+faulty 
+ a.有错误的，有缺点的
+[ˈfɔːlti]
+queue 
+ n.行列 vi.排队等候
+[kjuː]
+orderly 
+ a.整洁的；有秩序的
+[ˈɔːdəli]
+accord 
+ vt.使一致；给予
+[əˈkɔːd]
+except 
+ prep.除…之外
+[ikˈsept]
+admit 
+ vt.承认；准许…进入
+[ədˈmit]
+fireman 
+ n.消防队员；司炉工
+[ˈfaiəmən]
+occasion 
+ n.场合，时刻；时机
+[əˈkeiʒən]
+from 
+ prep.从…来；离开
+[frɔm]
+race 
+ n.比赛，竞赛，竞争
+[reis]
+hello 
+ int.喂
+[ˈheləu]
+alloy 
+ n.合金；(金属的)成色
+[ˈælɔi]
+compare 
+ vt.比较，对照；比作
+[kəmˈpeə]
+woollen 
+ a.羊毛制的，毛线的
+[ˈwulin]
+slavery 
+ n.奴隶制度；苦役
+[ˈsleivəri]
+twist 
+ vt.捻；拧 vi.&n.扭弯
+[twist]
+zealous 
+ a.热心的，热情的
+[ˈzeləs]
+knife 
+ n.小刀，刀，餐刀
+[naif]
+volleyball 
+ n.排球，排球运动
+[ˈvɔlibɔːl]
+Canadian 
+ a.加拿大的
+[kəˈneidjən]
+dim 
+ a.昏暗的；朦胧的
+[dim]
+flare 
+ vi.闪耀 vt.使闪亮
+[fleə]
+hatch 
+ vt.孵出 vi.(蛋)孵化
+[hæt∫]
+monitor 
+ n.班长；监视器
+[ˈmɔnitə]
+bough 
+ n.树枝
+[bau]
+next 
+ a.紧接的；贴近的
+[nekst]
+ad 
+ n.广告
+[æd]
+pole 
+ n.杆，柱
+[pəul]
+sequence 
+ n.连续，继续；次序
+[ˈsiːkwəns]
+husband 
+ n.丈夫
+[ˈhʌzbənd]
+crack 
+ n.裂缝，裂纹 vi.爆裂
+[kræk]
+impose 
+ vt.把…强加；征(税)
+[imˈpəuz]
+sow 
+ vt.播(种) vi.播种
+[sau]
+adopt 
+ vt.收养；采用；采取
+[əˈdɔpt]
+fast 
+ a.快的；偏快的 ad.快
+[fɑːst]
+cure 
+ vt.医治；消除 n.治愈
+[kjuə]
+cloth 
+ n.布；衣料；桌布
+[klɔ(ː)θ]
+academic 
+ a.学院的；学术的
+[ˌækəˈdemik]
+cheerful 
+ a.快乐的，愉快的
+[ˈt∫iəful]
+dog 
+ n.狗，犬，犬科动物
+[dɔg]
+deserve 
+ vt.应受，值得
+[diˈzəːv]
+loyalty 
+ n.忠诚，忠心
+[ˈlɔiəlti]
+hope 
+ n.&vt.&vi.希望
+[həup]
+masterpiece 
+ n.杰作，名著
+[ˈmɑːstəpiːs]
+push 
+ vt.推，逼迫 vi.推
+[pu∫]
+flavour 
+ n.味，味道；风味
+[ˈfleivə]
+welcome 
+ int.&n.&vt.欢迎
+[ˈwelkəm]
+tumble 
+ vi.摔倒，跌倒；打滚
+[ˈtʌmbl]
+fridge 
+ n.电冰箱
+[fridʒ]
+workman 
+ n.工人/匠，劳动者
+[ˈwəːkmən]
+temper 
+ n.韧度；心情，情绪
+[ˈtempə]
+inch 
+ n.英寸
+[int∫]
+day 
+ n.(一)天，白昼，白天
+[dei]
+traffic 
+ n.交通，通行；交通量
+[ˈtræfik]
+hostess 
+ n.女主人；空姐
+[ˈhəustis]
+kiss 
+ vt.吻 vi.接吻 n.吻
+[kis]
+insufficient 
+ a.不足的;不适当的
+[ˌinsəˈfi∫ənt]
+badly 
+ ad.坏，差；严重地
+[ˈbædli]
+breast 
+ n.乳房；胸脯，胸膛
+[brest]
+bring 
+ vt.带来；引出；促使
+[briŋ]
+decision 
+ n.决定，决心；果断
+[diˈsiʒən]
+chemistry 
+ n.化学
+[ˈkemistri]
+coordinate 
+ vt.使协调，调节
+[kəuˈɔːdinit]
+diverse 
+ a.不一样的，相异的
+[daiˈvəːs]
+steward 
+ n.乘务员，服务员
+[ˈstjuəd]
+rat 
+ n.老鼠，耗子
+[ræt]
+and 
+ conj.和，又，并，则
+[ænd]
+sufficient 
+ a.足够的，充分的
+[səˈfi∫ənt]
+typical 
+ a.典型的，代表性的
+[ˈtipikəl]
+diamond 
+ n.金钢石，钻石；菱形
+[ˈdaiəmənd]
+restrict 
+ vt 限制，限定，约束
+[risˈtrikt]
+investment 
+ n.投资(额)，投入
+[inˈvestmənt]
+everyday 
+ a.每天的，日常的
+[ˈevridei]
+separation 
+ n.分离，分开/居
+[sepəˈrei∫ən]
+enforce 
+ vt.实施，执行；强制
+[inˈfɔːs]
+listen 
+ vi.听，留神听；听从
+[ˈlisn]
+remember 
+ vt.记得，想起；记住
+[riˈmembə]
+packet 
+ n.小包(裹)，小捆
+[ˈpækit]
+resource 
+ n.资源，物力；办法
+[riˈsɔːs]
+continuous 
+ a.连续不断的，持续的
+[kənˈtinjuəs]
+gold 
+ n.金；钱财 a.金制的
+[gəuld]
+row 
+ n.(一)排，(一)行
+[rau]
+school 
+ n.学校；学院；学派
+[skuːl]
+intense 
+ a.强烈的；紧张的
+[inˈtens]
+towel 
+ n.毛巾，手巾
+[ˈtauəl]
+each 
+ pron.各，各自 a.各
+[iːt∫]
+ache 
+ vi.痛；想念 n.疼痛
+[eik]
+dictionary 
+ n.词典，字典
+[ˈdik∫ənəri]
+knot 
+ n.(绳的)结，(树的)节
+[nɔt]
+party 
+ n.党，党派；聚会
+[ˈpɑːti]
+dream 
+ n.梦；梦想 vi.做梦
+[driːm]
+friendly 
+ a.友好的，友谊的
+[ˈfrendli]
+vacant 
+ a.空的；未被占用的
+[ˈveikənt]
+emit 
+ vt.散发；发射；发表
+[iˈmit]
+successive 
+ a.连续的；接连的
+[səkˈsesiv]
+behavior 
+ n.行为，举止，态度
+[biˈheivjə]
+african 
+ a.非洲的 n.非洲人
+[ˈæfrikən]
+parade 
+ n.游行；检阅 vi.游行
+[pəˈreid]
+father 
+ n.父亲；神父；创始人
+[ˈfɑːðə]
+heat 
+ n.热，炎热 vi.变热
+[hiːt]
+turbine 
+ n.叶轮机，汽轮机
+[ˈtəːbain]
+central 
+ a.中心的；主要的
+[ˈsentr(ə)l]
+its 
+ pron.它的
+[its]
+rice 
+ n.稻，米，饭
+[rais]
+absence 
+ n.缺席，不在场；缺乏
+[ˈæbsəns]
+thick 
+ a.厚的；密的；浓
+[θik]
+pity 
+ n.怜悯；遗憾 vt.同情
+[ˈpiti]
+exert 
+ vt.尽(力)，运用
+[igˈzəːt]
+formal 
+ a.正式的；礼仪上的
+[ˈfɔːməl]
+mute 
+ a.缄默的 n.哑巴
+[mjuːt]
+dear 
+ a.亲爱的 int.啊
+[diə]
+represent 
+ vt.描绘；代表；象征
+[ˌriːpriˈzent]
+used 
+ vi.过去常常
+[juːst]
+September 
+ n.九月
+[səpˈtembə]
+brave 
+ a.勇敢的，华丽的
+[breiv]
+alternative 
+ n.替换物；取舍，抉择
+[ɔːlˈtəːnətiv]
+walk 
+ vi.&n.走，步行
+[wɔːk]
+condense 
+ vt.压缩，使缩短
+[kənˈdens]
+breath 
+ n.气息，呼吸；气味
+[breθ]
+divide 
+ vt.分；分配；分开
+[diˈvaid]
+site 
+ n.地点，地基；场所
+[sait]
+saving 
+ n.搭救；节约；存款
+[ˈseiviŋ]
+height 
+ n.高，高度；高处
+[hait]
+circuit 
+ n.电路；环行；巡行
+[ˈsəːkit]
+butterfly 
+ n.蝴蝶
+[ˈbʌtəflai]
+revolutionary 
+ a.革命的 n.革命者
+[ˈrevəˈluː∫ənəri]
+dramatic 
+ a.引人注目的，戏剧的
+[drəˈmætik]
+mostly 
+ ad.主要的，大部分
+[ˈməustli]
+slow 
+ a.慢的；迟钝的
+[sləu]
+three 
+ num.三，三个
+[θriː]
+lower 
+ a.较低的 vt.放下
+[ˈləuə]
+when 
+ ad.什么时候；当…时
+[(h)wen]
+storage 
+ n.贮藏；贮藏量
+[ˈstɔridʒ]
+telephone 
+ n.电话 vi.打电话
+[ˈtelifəun]
+sacrifice 
+ n.&vt.牺牲；南祭
+[ˈsækrifais]
+queen 
+ n.王后；女王
+[kwiːn]
+petroleum 
+ n.石油
+[piˈtrəuliəm]
+moreover 
+ ad.再者，加之，此外
+[mɔːˈrəuvə]
+two 
+ num.二，两个
+[tuː]
+edition 
+ n.版，版本，版次
+[iˈdi∫ən]
+rid 
+ vt.使摆脱，使去掉
+[rid]
+beast 
+ n.兽，野兽；牲畜
+[biːst]
+chemical 
+ a.化学的 n.化学制品
+[ˈkemikəl]
+revolt 
+ vi.&n.反抗，造反
+[riˈvəult]
+black 
+ a.黑色的；黑暗的
+[blæk]
+upside-down 
+ a.颠倒的，乱七八糟的
+[ˈʌpsaidˈdaun]
+accommodate 
+ vt.容纳;供应,供给
+[əˈkɔmədeit]
+baby 
+ n.婴儿；孩子气的人
+[ˈbeibi]
+colleague 
+ n.同事，同僚
+[ˈkɔliːg]
+spear 
+ n.矛，枪
+[spiə]
+messenger 
+ n.送信者，信使
+[ˈmesindʒə]
+immense 
+ a.巨大的；极好的
+[iˈmens]
+exceedingly 
+ ad.极端地，非常
+[ikˈsiːdiŋli]
+feedback 
+ n.回授，反馈，反应
+[ˈfiːdbæk]
+capture 
+ vt.捕获，俘获；夺得
+[ˈkæpt∫ə]
+fisherman 
+ n.渔民，渔夫，打鱼人
+[ˈfi∫əmən]
+soak 
+ vt.浸，泡 vi.浸泡
+[səuk]
+betray 
+ vt.背叛；辜负；泄漏
+[biˈtrei]
+shortcoming 
+ n.短处，缺点
+[ˈ∫ɔːtkʌmiŋ]
+attraction 
+ n.吸引；吸引力；引力
+[əˈtræk∫ən]
+game 
+ n.游戏；比赛；猎物
+[geim]
+mark 
+ n.斑点；记号 vt.标明
+[mɑːk]
+ripen 
+ vt.使熟 vi.成熟
+[ˈraipən]
+pearl 
+ n.珍珠；珍珠母
+[pəːl]
+drug 
+ n.药，药物，药材
+[drʌg]
+residence 
+ n.居住；驻扎；住处
+[ˈrezidəns]
+knit 
+ vt.把…编结 vi.编织
+[nit]
+chief 
+ a.主要的；首席的
+[t∫iːf]
+furnace 
+ n.炉子，熔炉；鼓风炉
+[ˈfəːnis]
+fail 
+ vi.失败；失灵；不能
+[feil]
+channel 
+ n.海峡；渠道；频道
+[ˈt∫ænl]
+scissors 
+ n.剪刀，剪子
+[ˈsizəz]
+assembly 
+ n.集合；集会；装配
+[əˈsembli]
+treat 
+ vt.对待；处理 n.款待
+[triːt]
+brown 
+ n.褐色，棕色
+[braun]
+logic 
+ n.逻辑，推理；逻辑性
+[ˈlɔdʒik]
+room 
+ n.房间；地位；余地
+[rum]
+confine 
+ vt.限制；禁闭
+[ˈkɔnfain]
+finding 
+ n.发现；调查的结果
+[ˈfaindiŋ]
+yours 
+ pron.你们的(东西)
+[jɔːz]
+eleven 
+ num.十一，十一个
+[iˈlevən]
+necklace 
+ n.项链，项圈
+[ˈneklis]
+luck 
+ n.运气；好运，幸运
+[lʌk]
+hut 
+ n.小屋，棚屋
+[hʌt]
+refer 
+ vt.使求助于 vi.谈到
+[riˈfəː]
+defect 
+ n.缺点，缺陷，欠缺
+[diˈfekt]
+maintain 
+ vt.维持；赡养；维修
+[meinˈtein]
+premier 
+ n.总理，首相
+[priːˈmiər]
+right 
+ a.正确的 ad.对，正好
+[rait]
+believe 
+ vt.相信；认为
+[biˈliːv]
+lead 
+ vt.为…带路；领导
+[liːd]
+since 
+ conj.从…以来；因为
+[sins]
+brush 
+ n.刷子，毛刷；画笔
+[brʌ∫]
+bird 
+ n.鸟，禽
+[bəːd]
+unusually 
+ a.不平常地，非常
+[ʌnˈjuːʒəli]
+within 
+ prep.在…里面
+[wiˈðin]
+headmaster 
+ n.校长
+[hedˈmɑːstə(r)]
+breakfast 
+ n.早饭，早餐
+[ˈbrekfəst]
+previous 
+ a.先的；前的 ad.在前
+[ˈpriːviəs]
+nerve 
+ n.神经；勇敢，胆量
+[nəːv]
+fire 
+ n.火；火灾 vi.开火
+[ˈfaiə]
+pursuit 
+ n.追赶；追求；事务
+[pəˈsjuːt]
+abuse 
+ vt.滥用；虐待 n.滥用
+[əˈbjuːz]
+arbitrary 
+ a.随心所欲的；专断的
+[ˈɑːbitrəri]
+debt 
+ n.债，债务，欠债
+[det]
+awful 
+ a.令人不愉快的
+[ˈɔːful]
+blossom 
+ n.花，开花 vi.开花
+[ˈblɔsəm]
+entry 
+ n.入口处；登记；进入
+[ˈentri]
+pat 
+ n.&vt.&n.轻拍
+[pæt]
+banana 
+ n.香蕉；芭蕉属植物
+[bəˈnɑːnə]
+married 
+ a.已婚的；婚姻的
+[ˈmærid]
+same 
+ a.同一的，相同的
+[seim]
+lorry 
+ n.运货汽车，卡车
+[ˈlɔri]
+sort 
+ n.种类；类别 vt.整理
+[sɔːt]
+pistol 
+ n.手枪
+[ˈpistl]
+weigh 
+ vt.称…的重量；掂量
+[wei]
+percentage 
+ n.百分比，百分率
+[pəˈsentidʒ]
+not 
+ ad.不，没有
+[nɔt]
+limitation 
+ n.限制；限度，局限
+[ˌlimiˈtei∫ən]
+move 
+ vt.移动；感动 n.动
+[muːv]
+glory 
+ n.光荣；荣誉的事
+[ˈglɔːri]
+tank 
+ n.坦克；大容器，槽
+[tæŋk]
+impossible 
+ a.不可能的，办不到的
+[imˈpɔsəbl]
+finish 
+ vt.完成，结束 n.结束
+[ˈfini∫]
+modify 
+ vt.更改，修改；修饰
+[ˈmɔdifai]
+scarcely 
+ ad.仅仅；几乎不
+[ˈskeəsli]
+commander 
+ n.司令官，指挥员
+[kəˈmɑːndə]
+chocolate 
+ n.巧克力；巧克力糖
+[ˈt∫ɔkəlit]
+naval 
+ n.海军的，军舰的
+[ˈneivəl]
+kind 
+ a.友好的；和蔼的
+[kaind]
+saddle 
+ n.鞍子，马鞍
+[ˈsædl]
+Germany 
+ n.德意志，德国
+[ˈdʒəːməni]
+accident 
+ n.意外的；事故
+[ˈæksidənt]
+get 
+ vi.变得，成为；到达
+[get]
+equivalent 
+ a.相等的；等量的
+[iˈkwivələnt]
+remains 
+ n.残余，余额；废墟
+[riˈmeins]
+aid 
+ n.帮助，救护；助手
+[eid]
+acid 
+ n.酸；酸的，酸性的
+[ˈæsid]
+treason 
+ n.谋反，通敌，叛国罪
+[ˈtriːzn]
+mend 
+ vt.修理，修补，缝补
+[mend]
+conclusion 
+ n.结论，推论；结尾
+[kənˈkluːʒən]
+tidy 
+ a.整洁的；整齐的
+[ˈtaidi]
+discipline 
+ n.纪律；训练 vt.训练
+[ˈdisiplin]
+intensive 
+ a.加强的；精耕细作的
+[inˈtensiv]
+servant 
+ n.仆人，佣人，雇工
+[ˈsəːvənt]
+insult 
+ vt.&n.侮辱，凌辱
+[ˈinsʌlt]
+acquire 
+ vt.取得；获得；学到
+[əˈkwaiə]
+stare 
+ vi.盯，凝视
+[steə(r)]
+glance 
+ vi.看一下 n.一瞥
+[glɑːns]
+meeting 
+ n.聚集，会合，会见
+[ˈmiːtiŋ]
+northern 
+ a.北方的，北部的
+[ˈnɔːðən]
+east 
+ n.东；东部 ad.在东方
+[iːst]
+strengthen 
+ vt.加强，巩固
+[ˈstreŋθən]
+breadth 
+ n.宽度，幅度；幅面
+[bredθ]
+toward(s) 
+ prep.向；对于；接近
+[təˈwɔːd]
+approach 
+ vt.向…靠近 n.靠近
+[əˈprəut∫]
+master 
+ n.主人；能手；硕士
+[ˈmɑːstə]
+develop 
+ vt.发展；形成；开发
+[diˈveləp]
+emphasize 
+ vt.强调，着重
+[ˈemfəsaiz]
+cock 
+ n.公鸡；雄禽；旋塞
+[kɔk]
+delegation 
+ n.代表团
+[ˌdeliˈgei∫ən]
+raid 
+ n.袭击；突然搜查
+[reid]
+calendar 
+ n.日历，历书；历法
+[ˈkælində]
+consent 
+ n.同意，赞成 vi.同意
+[kənˈsent]
+card 
+ n.卡，卡片，名片
+[kɑːd]
+respect 
+ n.&vt.尊敬，尊重
+[risˈpekt]
+England 
+ n.英格兰；英国
+[ˈinglənd]
+arrive 
+ vi.到达；来临；达到
+[əˈraiv]
+subtract 
+ vt.减，减去，去掉
+[səbˈtrækt]
+annoy 
+ vt.使恼怒；打搅
+[əˈnɔi]
+cook 
+ vt.烹调，煮 vt.烧菜
+[kuk]
+mathematics 
+ n.数学
+[ˌmæθiˈmætiks]
+alike 
+ a.同样的，相同的
+[əˈlaik]
+session 
+ n.会议，一段时间
+[ˈse∫ən]
+helpful 
+ a.给予帮助的；有用的
+[ˈhelpful]
+thousand 
+ num.千，千个 n.无数
+[ˈθauzənd]
+ladder 
+ n.梯子，梯状物
+[ˈlædə]
+constant 
+ a.经常的；永恒的
+[ˈkɔnstənt]
+paw 
+ n.脚爪，爪子
+[pɔː]
+whichever 
+ a.无论哪个/些
+[(h)wit∫ˈevə]
+surgery 
+ n.外科，外科手术
+[ˈsəːdʒəri]
+chamber 
+ n.会议室；房间；腔
+[ˈt∫eimbə]
+kick 
+ vi.&vt.&n.踢
+[kik]
+profit 
+ n.益处；利润 vi.得益
+[ˈprɔfit]
+then 
+ ad.当时；然后；那么
+[ðen]
+safe 
+ a.安全的；谨慎的
+[seif]
+nursery 
+ n.托儿所；苗圃
+[ˈnəːsəri]
+philosophy 
+ n.哲学；哲理；人生观
+[fiˈlɔsəfi]
+demonstrate 
+ vt.说明;论证;表露
+[ˈdemənstreit]
+outskirt 
+ n.外边，郊区
+[ˈautskəːt]
+moon 
+ n.月球，月亮；卫星
+[muːn]
+wind 
+ n.风；气息，呼吸
+[waind]
+neighbour 
+ n.邻居，邻国，邻人
+[ˈneibə]
+dread 
+ n.畏惧；恐怖 vt.惧怕
+[dred]
+feasible 
+ a.可行的；可能的
+[ˈfiːzəbl]
+unpleasant 
+ a.令人不快的，讨厌的
+[ʌnˈpleznt]
+area 
+ n.面积；地区；领域
+[ˈeəriə]
+shave 
+ vt.剃，刮 vi.修面
+[∫eiv]
+corner 
+ n.角；犄角；边远地区
+[ˈkɔːnə]
+city 
+ n.城市，都市
+[ˈsiti]
+exchange 
+ vt.交换；交流 n.交换
+[iksˈt∫eindʒ]
+framework 
+ n.框架，构架，结构
+[ˈfreimwəːk]
+create 
+ vt.创造；引起，产生
+[kriˈeit]
+wherever 
+ ad.究竟在哪里
+[(h)weərˈevə]
+calm 
+ a.静的，平静的
+[kɑːm]
+politician 
+ n.政治家；政客
+[pɔliˈti∫ən]
+sense 
+ n.感官；感觉；见识
+[sens]
+sister 
+ n.姐妹，姐，妹
+[ˈsistə]
+maximum 
+ n.最大量 a.最大的
+[ˈmæksiməm]
+regard 
+ vt.把…看作；尊敬
+[riˈgɑːd]
+fly 
+ n.蝇，苍蝇 vi.飞行
+[flai]
+remarkable 
+ a.异常的，非凡的
+[riˈmɑːkəbl]
+resolution 
+ n.坚决/定；决定
+[ˌrezəˈljuː∫ən]
+weed 
+ n.杂草，野草 vi.除草
+[wiːd]
+nervous 
+ a.神经的；易激动的
+[ˈnəːvəs]
+extremely 
+ ad.极端，极其，非常
+[iksˈtriːmli]
+delight 
+ n.快乐 vt.使高兴
+[diˈlait]
+flow 
+ vi.流动；飘垂；涨潮
+[fləu]
+discuss 
+ vt.讨论，谈论；论述
+[disˈkʌs]
+secure 
+ a.安心的；安全的
+[siˈkjuə]
+ninth 
+ num.第九；九分之一
+[nainθ]
+instant 
+ n.瞬间 a.立即的
+[ˈinstənt]
+cloudy 
+ a.多云的；云一般的
+[ˈklaudi]
+both 
+ pron.两者(都)
+[bəuθ]
+injection 
+ n.注射，注入；充满
+[inˈdʒek∫ən]
+different 
+ a.差异的；各种的
+[ˈdifrənt]
+concrete 
+ n.混凝土；具体物
+[ˈkɔnkriːt]
+false 
+ a.不真实的；伪造的
+[fɔːls]
+advise 
+ vt.劝告；建议；通知
+[ədˈvaiz]
+president 
+ n.总统；校长；会长
+[ˈprezidənt]
+permanent 
+ a.永久的，持久的
+[ˈpəːmənənt]
+adjust 
+ vt.调整，调节；校正
+[əˈdʒʌst]
+applicable 
+ a.能应用的；适当的
+[ˈæplikəbl]
+condemn 
+ vt.谴责，指责；判刑
+[kənˈdem]
+stitch 
+ n.一针；针脚 vt.缝
+[stit∫]
+seaman 
+ n.海员，水手；水兵
+[ˈsiːmən]
+navy 
+ n.海军
+[ˈneivi]
+hardly 
+ ad.几乎不，简直不
+[ˈhɑːdli]
+item 
+ n.条，条款；一条
+[ˈaitəm]
+jar 
+ n.罐子，坛子，广口瓶
+[dʒɑː]
+dorm 
+ n.宿舍
+[dɔːm]
+despair 
+ n.绝望 vi.绝望
+[disˈpeə]
+agent 
+ n.代理人，代理商
+[ˈeidʒənt]
+salary 
+ n.薪金，薪水
+[ˈsæləri]
+collision 
+ n.碰撞；冲突
+[kəˈliʒən]
+better 
+ a.较好的 ad.更好地
+[ˈbetə]
+teach 
+ vt.讲；教育 vt.教书
+[tiːt∫]
+flour 
+ n.面粉，粉；粉状物质
+[ˈflauə]
+procedure 
+ n.程序；手续；过程
+[prəˈsiːdʒə]
+hang 
+ vt.挂，悬；吊死
+[hæŋ]
+respectively 
+ ad.各自/分别地
+[riˈspektivli]
+support 
+ vt.支撑；支持；供养
+[səˈpɔːt]
+own 
+ a.自己的 vt.有，拥有
+[əun]
+mind 
+ n.头脑；理智；记忆
+[maind]
+cage 
+ n.笼；鸟笼，囚笼
+[keidʒ]
+govern 
+ vt.统治，治理；支配
+[ˈgʌvən]
+outset 
+ n.开始，开端
+[ˈautset]
+comprise 
+ vt.包含，包括；构成
+[kəmˈpraiz]
+tape 
+ n.线带；磁带，录音带
+[teip]
+signal 
+ n.信号 vi.发信号
+[ˈsignl]
+medicine 
+ n.内服药；医学
+[ˈmedisn]
+what 
+ pron.什么 a.什么
+[(h)wɔt]
+proclaim 
+ vt.宣告，宣布；表明
+[prəˈkleim]
+drama 
+ n.一出戏剧，剧本
+[ˈdrɑːmə]
+swift 
+ a.快的；反应快的
+[swift]
+analyse 
+ vt.分析，分解，解析
+[ˈænəlaiz]
+pretend 
+ vt.假托，借口 vi.假装
+[priˈtend]
+twentieth 
+ num.第二十
+[ˈtwentiiθ]
+throng 
+ n.群，人群 vt.挤满
+[θrɔŋ]
+silent 
+ a.沉默的；寂静无声的
+[ˈsailənt]
+tongue 
+ n.舌，舌头；语言
+[tʌŋ]
+soft 
+ a.软的；柔和的
+[sɔft]
+climate 
+ n.气候；风土，地带
+[ˈklaimit]
+suggestion 
+ n.建议，意见；暗示
+[səˈdʒest∫ən]
+dial 
+ n.钟面；拨号盘 vt.拨
+[ˈdaiəl]
+haste 
+ n.急速，急忙；草率
+[heist]
+island 
+ n.岛，岛屿
+[ˈailənd]
+faithful 
+ a.忠诚的；如实的
+[ˈfeiθful]
+hostile 
+ a.敌方的；不友善的
+[ˈhɔstail]
+hardware 
+ n.五金器具；硬件
+[ˈhɑːdweə]
+receipt 
+ n.收到；收条，收据
+[riˈsiːt]
+doubtful 
+ a.难以预测的；怀疑的
+[ˈdautful]
+hunt 
+ n.打猎；搜寻 vt.追猎
+[hʌnt]
+average 
+ n.平均数 a.平均的
+[ˈævəridʒ]
+appoint 
+ vt.任命，委任；约定
+[əˈpɔint]
+either 
+ pron.(两者)任何一个
+[ˈaiðə(r)]
+strike 
+ vt.&vi.打，击 n.罢工
+[straik]
+attempt 
+ vt.尝试，试图 n.企图
+[əˈtempt]
+toe 
+ n.脚趾，足尖
+[təu]
+television 
+ n.电视；电视机
+[ˈteliviʒən]
+devil 
+ n.魔鬼，恶魔
+[ˈdevl]
+cart 
+ n.二轮运货马车
+[kɑːt]
+order 
+ n.次序；整齐 vt.命令
+[ˈɔːdə(r)]
+shell 
+ n.壳；贝壳；炮弹
+[∫el]
+train 
+ vt.培养 n.列车；队列
+[trein]
+field 
+ n.田野；田；运动场
+[fiːld]
+discard 
+ vt.丢弃，抛弃，遗弃
+[disˈkɑːd]
+glitter 
+ vi.闪闪发光 n.闪光
+[ˈglitə]
+storey 
+ n.(层)楼
+[ˈstɔːri]
+bend 
+ vt.使弯曲 vi.弯曲
+[bend]
+soil 
+ n.泥土，土壤，土地
+[sɔil]
+winter 
+ n.冬天，冬季
+[ˈwintə]
+traditional 
+ a.传统的，惯例的
+[trəˈdi∫ən(ə)l]
+range 
+ n.排，行；山脉；范围
+[reindʒ]
+production 
+ n.生产；产品；总产量
+[prəˈdʌk∫ən]
+existence 
+ n.存在，实在；生存
+[igˈzistəns]
+be 
+ aux.v.&vi.是，在，做
+[biː]
+marine 
+ a.海的；海上的
+[məˈriːn]
+wool 
+ n.羊毛；毛线，绒线
+[wul]
+trade 
+ n.贸易；职业 vi.交易
+[treid]
+against 
+ prep.倚在；逆，对着
+[əˈgeinst]
+approximately 
+ ad.近似地，大约
+[əprɔksiˈmətli]
+acceleration 
+ n.加速(度)
+[ækˌseləˈrei∫ən]
+turbulent 
+ a.骚动的，骚乱的
+[ˈtəːbjulənt]
+league 
+ n.同盟，联盟；联合会
+[liːg]
+contract 
+ n.契约，合同；婚约
+[ˈkɔntrækt]
+childish 
+ a.孩子的；幼稚的
+[ˈt∫aildi∫]
+significance 
+ n.意义，意味；重要性
+[sigˈnifikəns]
+active 
+ a.活跃的；积极的
+[ˈæktiv]
+definitely 
+ ad.一定地，明确地
+[ˈdefinitli]
+sparrow 
+ n.麻雀
+[ˈspærəu]
+spit 
+ vi.吐 vi.吐唾沫
+[spit]
+park 
+ n.公园；停车场
+[pɑːk]
+pant 
+ n.气喘；心跳
+[pænt]
+smell 
+ n.嗅觉；气味 vt.嗅
+[smel]
+missile 
+ n.发射物；导弹
+[ˈmisail]
+certain 
+ a.确实的；肯定的
+[ˈsəːtən]
+well 
+ n.井
+[wel]
+excellent 
+ a.优秀的，杰出的
+[ˈeksələnt]
+milk 
+ n.乳，牛奶 vt.挤(奶)
+[milk]
+sugar 
+ n.糖
+[ˈ∫ugə]
+lend 
+ vt.把…借给，贷(款)
+[lend]
+usually 
+ ad.通常
+[ˈjuːʒuəli]
+network 
+ n.网状物；网络
+[ˈnetwəːk]
+sweat 
+ n.汗 vi.出汗
+[swet]
+beauty 
+ n.美，美丽；美人
+[ˈbjuːti]
+neighbourhood 
+ n.邻居关系；邻近
+[ˈneibəhud]
+at 
+ prep.在…里；在…时
+[æt]
+skirt 
+ n.女裙；边缘；郊区
+[skəːt]
+inquire 
+ vt.打听，询问；调查
+[inˈkwaiə]
+brick 
+ n.砖，砖块；砖状物
+[brik]
+lake 
+ n.湖
+[leik]
+fit 
+ vt.适合；安装 vi.适合
+[fit]
+late 
+ a.迟的 ad.迟，晚
+[leit]
+talk 
+ vi.讲话 vt.谈论
+[tɔːk]
+tenth 
+ num.第十；十分之一
+[tenθ]
+overall 
+ n.工装裤 a.全面的
+[ˈəuvərɔːl]
+peace 
+ n.和平；和睦；平静
+[piːs]
+destroy 
+ vt.破坏；消灭；打破
+[disˈtrɔi]
+invite 
+ vt.邀请，聘请；招待
+[inˈvait]
+cement 
+ n.水泥；胶泥 vt.粘结
+[siˈment]
+build 
+ vt.建筑；建立；创立
+[bild]
+elephant 
+ n.象
+[ˈelifənt]
+carry 
+ vt.携带；运载；传送
+[ˈkæri]
+tunnel 
+ n.隧道，坑道，地道
+[ˈtʌnl]
+gather 
+ vi.聚集；集合 vt.收集
+[ˈgæðə]
+terrific 
+ a.可怕的；极大的
+[təˈrifik]
+excite 
+ vt.使激动；引起
+[ikˈsait]
+stool 
+ n.凳子
+[stuːl]
+response 
+ n.作答，回答；响应
+[risˈpɔns]
+lawyer 
+ n.律师；法学家
+[ˈlɔːjə]
+money 
+ n.货币；金钱，财富
+[ˈmʌni]
+guest 
+ n.客人，宾客；旅客
+[gest]
+chain 
+ n.链，链条，项圈
+[t∫ein]
+photograph 
+ n.照/相片
+[ˈfəutəgrɑːf;(US)-græf]
+catalog 
+ n.目录，目录册
+[ˈkætəlɔg]
+music 
+ n.音乐，乐曲，乐谱
+[ˈmjuːzik]
+undertake 
+ vt.从事；承担；保证
+[ˌʌndəˈteik]
+more 
+ a.更多的 ad.更
+[mɔː(r)]
+broadcast 
+ n.广播，播音
+[ˈbrɔːdkɑːst]
+velocity 
+ n.速度，速率
+[viˈlɔsiti]
+aim 
+ vi.瞄准，针对；致力
+[eim]
+sheet 
+ n.被单；纸张；薄板
+[∫iːt]
+apologize 
+ vi.道歉，谢罪，认错
+[əˈpɔlədʒaiz]
+thorough 
+ a.彻底的；详尽的
+[ˈθʌrə]
+pipe 
+ n.管子，导管；烟斗
+[paip]
+inside 
+ prep.在…里面 n.内部
+[ˈinˈsaid]
+arrangement 
+ n.整理,排列;安排
+[əˈreindʒmənt]
+tall 
+ n.高的，身材高的
+[tɔːl]
+boy 
+ n.男孩，少年；家伙
+[bɔi]
+limb 
+ n.肢，臂，翼；树枝
+[lim]
+elaborate 
+ a.复杂的；精心制作的
+[iˈlæbərət]
+suddenly 
+ ad.突然地
+[ˈsʌdənli]
+world-wide 
+ a.遍及全球的
+[ˈwəːldwaid]
+angle 
+ n.角，角度
+[ˈæŋgl]
+can 
+ aux.v.能，会，可能
+[kæn]
+practice 
+ n.实践；练习；业务
+[ˈpræktis]
+disorder 
+ n.混乱，杂乱；骚乱
+[disˈɔːdə]
+mature 
+ a.成熟的 vt.使成熟
+[məˈtjuə]
+reproach 
+ vt.&n.责备，指责
+[riˈprəut∫]
+soil 
+ vt.弄脏 vi.变脏
+[sɔil]
+fair 
+ n.定期集市；博览会
+[ˈfeə]
+wallet 
+ n.钱包，皮夹子
+[ˈwɔlit]
+who 
+ pron.谁；…的人
+[huː]
+renew 
+ vt.使更新 vi.更新
+[riˈnjuː]
+temple 
+ n.圣堂，神殿，庙宇
+[ˈtempl]
+four 
+ num.四，四个，第四
+[fɔː]
+lot 
+ n.许多，大量；签，阄
+[lɔt]
+inevitable 
+ a.不可避免的，必然的
+[inˈevitəbl]
+torrent 
+ n.奔流，激流，洪流
+[ˈtɔrənt]
+musical 
+ a.音乐的；和谐的
+[ˈmjuːzikəl]
+claw 
+ n.爪，脚爪，螯
+[klɔː]
+stadium 
+ n.露天大型运动场
+[ˈsteidiəm]
+refusal 
+ n.拒绝
+[riˈfjuːzəl]
+barn 
+ n.谷仓；牲口棚
+[bɑːn]
+navigation 
+ n.航行;航海术;导航
+[ˌnæviˈgei∫ən]
+hopeless 
+ a.没有希望的，绝望的
+[ˈhəuplis]
+encourage 
+ vt.鼓励，支持，助长
+[inˈkʌridʒ]
+rainbow 
+ n.虹，彩虹
+[ˈreinbəu]
+substance 
+ n.物质；实质；本旨
+[ˈsʌbstəns]
+mystery 
+ n.神秘；神秘的事物
+[ˈmistəri]
+quotation 
+ n.引用；引文；报价单
+[kwəuˈtei∫ən]
+out 
+ ad.出，在外；现出来
+[aut]
+case 
+ n.情况；事实；病例
+[keis]
+training 
+ n.训练，锻炼，培养
+[ˈtreiniŋ]
+preferable 
+ a.更可取的，更好的
+[ˈprefərəbl]
+star 
+ n.星；恒星；明星
+[stɑː]
+tuck 
+ vt.折短，卷起；塞
+[tʌk]
+reduction 
+ n.减少，减小，缩减
+[riˈdʌk∫ən]
+rainy 
+ a.下雨的，多雨的
+[ˈreini]
+ore 
+ n.矿，矿石，矿砂
+[ɔː(r)]
+seal 
+ n.封蜡；印记 vt.封
+[siːl]
+mourn 
+ vi.哀痛，哀悼
+[mɔːn]
+canteen 
+ n.小卖部；临时餐室
+[kænˈtiːn]
+six 
+ num.六，六个
+[siks]
+fact 
+ n.事实；实际，实情
+[fækt]
+particle 
+ n.粒子，微粒
+[ˈpɑːtikl]
+evolution 
+ n.进化，演化；发展
+[evəˈluː∫ən]
+branch 
+ n.树枝；分部；分科
+[brɑːnt∫]
+accent 
+ n.口音，腔调；重音
+[ˈæksənt]
+honest 
+ a.诚实的；可敬的
+[ˈɔnist]
+ask 
+ vt.问；要求；邀请
+[ɑːsk]
+permit 
+ vt.允许 n.执照
+[pə(ː)ˈmit]
+illegal 
+ a.不合法的，非法的
+[iˈliːgəl]
+daring 
+ a.大胆的，勇敢的
+[ˈdeəriŋ]
+needless 
+ a.不需要的
+[ˈniːdlis]
+meaning 
+ n.意义，意思；意图
+[ˈmiːniŋ]
+light 
+ a.轻的，少量的
+[lait]
+embrace 
+ vt.拥抱；包括；包围
+[imˈbreis]
+attach 
+ vt.缚，系，贴；附加
+[əˈtæt∫]
+softly 
+ ad.柔软地；温柔地
+[ˈsɔftli]
+shelter 
+ n.隐蔽处；掩蔽，庇护
+[ˈ∫eltə]
+year 
+ n.年；年年
+[jəː]
+prize 
+ n.奖赏，奖金 vt.珍视
+[praiz]
+like 
+ vt.喜欢；喜爱；希望
+[laik]
+vigorous 
+ a.朝气蓬勃的
+[ˈvigərəs]
+dead 
+ a.死的，无生命的
+[ded]
+search 
+ vt.在…中搜寻，搜查
+[səːt∫]
+man 
+ n.男人；人；人类
+[mæn]
+ant 
+ n.蚂蚁
+[ænt]
+vision 
+ n.视；想象力；梦幻
+[ˈviʒən]
+moist 
+ a.湿润的；多雨的
+[mɔist]
+biscuit 
+ n.(英)饼干；(美)软饼
+[ˈbiskit]
+hill 
+ n.小山，山岗；丘陵
+[hil]
+pupil 
+ n.学生，小学生
+[ˈpjuːpil]
+phase 
+ n.阶段；方面；相位
+[feiz]
+sew 
+ vt.缝制 vi.缝纫
+[sjuː]
+frame 
+ n.框架，框子；构架
+[freim]
+development 
+ n.发展;开发；生长
+[diˈveləpmənt]
+bench 
+ n.长凳，条凳；工作台
+[bent∫]
+universal 
+ a.宇宙的；普遍的
+[ˌjuːniˈvəːsəl]
+latter 
+ a.(两者中)后者的
+[ˈlætə]
+sadly 
+ ad.悲痛地，悲哀地
+[ˈsædli]
+commerce 
+ n.商业，贸易；社交
+[ˈkɔmə(ː)s]
+lion 
+ n.狮子；勇猛的人
+[ˈlaiən]
+wheat 
+ n.小麦
+[wiːt]
+lie 
+ vi.躺，平放；位于
+[lai]
+military 
+ a.军事的；军人的
+[ˈmilitəri]
+illustration 
+ n.说明，图解；例证
+[ˌiləsˈtrei∫ən]
+biology 
+ n.生物学；生态学
+[baiˈɔlədʒi]
+purple 
+ n.紫色 a.紫的
+[ˈpəːpl]
+honour 
+ n.光荣；尊敬，敬意
+[ˈɔnə]
+discovery 
+ n.发现；被发现的事物
+[disˈkʌvəri]
+whirl 
+ vt.使回旋 vi.&n.回旋
+[(h)wəːl]
+ice 
+ n.冰，冰块 vt.冰镇
+[ais]
+odd 
+ a.奇数的；单只的
+[ɔd]
+vegetable 
+ n.植物；蔬菜
+[ˈvedʒitəbl]
+madam 
+ n.夫人，女士，太太
+[ˈmædəm]
+index 
+ n.索引；指数；指标
+[ˈindeks]
+conjunction 
+ n.接合,连接(词)
+[kənˈdʒʌŋk∫ən]
+home 
+ n.家；家乡 a.家庭的
+[həum]
+laughter 
+ n.笑，笑声
+[ˈlɑːftə]
+he 
+ pron.(主格)他
+[hiː]
+whether 
+ conj.是否
+[ˈ(h)weðə]
+heir 
+ n.后嗣，继承人
+[eə]
+bundle 
+ n.捆，包，束；包袱
+[ˈbʌndl]
+colonel 
+ n.陆军上校；中校
+[ˈkəːnl]
+ought 
+ v.aux.应当，应该
+[ɔːt]
+tent 
+ n.帐篷
+[tent]
+organic 
+ a.有机体的；器官的
+[ɔːˈgænik]
+honeymoon 
+ n.蜜月
+[ˈhʌnimuːn]
+cupboard 
+ n.碗柜，碗碟橱；食橱
+[ˈkʌbəd]
+stumble 
+ vi.绊倒；犯错误
+[ˈstʌmbl]
+spin 
+ vt.纺；使旋转 n.旋转
+[spin]
+physicist 
+ n.物理学家
+[ˈfizisist]
+telegram 
+ n.电报
+[ˈteligræm]
+engage 
+ vt.使从事于；聘用
+[inˈgeidʒ]
+check 
+ vt.检查；制止 n.检查
+[t∫ek]
+crawl 
+ vi.爬，爬行
+[krɔːl]
+announce 
+ vt.宣布，宣告，发表
+[əˈnauns]
+library 
+ n.图书馆；藏书
+[ˈlaibrəri]
+dimension 
+ n.尺寸，尺度；面积
+[diˈmen∫ən]
+workshop 
+ n.车间，工场；创作室
+[ˈwəːk∫ɔp]
+promising 
+ a.有希望的；有前途的
+[ˈprɔmisiŋ]
+class 
+ n.班，班级；阶级
+[klɑːs]
+expensive 
+ a.昂贵的，花钱多的
+[iksˈpensiv]
+accelerate 
+ vt.(使)加快；促进
+[ækˈseləreit]
+therefore 
+ ad.因此，所以
+[ˈðeəfɔː]
+prayer 
+ n.祈祷，祈求
+[preə]
+dam 
+ n.水坝，水堤；障碍物
+[dæm]
+ignorant 
+ a.不知道的；无知的
+[ˈignərənt]
+clothing 
+ n.衣服，被褥
+[ˈkləuðiŋ]
+installation 
+ n.安装；装置；设施
+[ˌinstəˈlei∫ən]
+soap 
+ n.肥皂
+[səup]
+rapid 
+ a.快的 n.急流
+[ˈræpid]
+wear 
+ vt.穿着，戴；磨损
+[wiə]
+unlike 
+ a.不同的 prep.不象…
+[ˈʌnˈlaik]
+pigeon 
+ n.鸽子
+[ˈpidʒin]
+staff 
+ n.工作人员；参谋
+[stɑːf]
+proportion 
+ n.比，比率，部分
+[prəˈpɔː∫ən]
+lump 
+ n.团，块；肿块
+[lʌmp]
+similar 
+ a.相似的，类似的
+[ˈsimilə]
+inquiry 
+ n.询问，打听；调查
+[inˈkwaiəri]
+world 
+ n.世界；世人；世间
+[wəːld]
+relative 
+ a.有关系的；相对的
+[ˈrelətiv]
+rude 
+ a.加工粗糙的；粗野的
+[ruːd]
+waiter 
+ n.侍者，服务员
+[ˈweitə]
+technique 
+ n.技术，技巧；技能
+[tekˈniːk]
+manual 
+ a.体力的 n.手册
+[ˈmænjuəl]
+saint 
+ n.圣徒；基督教徒
+[seint]
+eleventh 
+ num.第十一(个)
+[iˈlevnθ]
+beat 
+ vt.&vi.打，敲；打败
+[biːt]
+prospect 
+ n.展望；前景，前程
+[ˈprɔspekt]
+tolerate 
+ vt.忍受，容忍，宽恕
+[ˈtɔləreit]
+hydrogen 
+ n.氢
+[ˈhaidrəudʒən]
+that 
+ a.那 pron.那 ad.那样
+[ðæt]
+virtually 
+ ad.实际上，事实上
+[ˈvəːtjuəli]
+eve 
+ n.前夜，前夕，前一刻
+[iːv]
+liner 
+ n.班船，班机
+[ˈlainə(r)]
+careless 
+ a.粗心的，漫不经心的
+[ˈkeəlis]
+respectful 
+ a.恭敬的，尊重的
+[risˈpektful]
+breed 
+ n.品种 vt.使繁殖
+[briːd]
+visit 
+ vt.&n.访问，参观
+[ˈvizit]
+folk 
+ n.人们，家属，亲属
+[fəuk]
+rug 
+ n.小地毯；毛毯
+[rʌg]
+decay 
+ vi.腐烂；衰败 n.腐烂
+[diˈkei]
+hole 
+ n.洞；孔眼，裂开处
+[həul]
+stern 
+ a.严厉的；坚定的
+[stəːn]
+radish 
+ n.小萝卜
+[ˈrædi∫]
+fierce 
+ a.凶猛的，狂热的
+[fiəs]
+incident 
+ n.发生的事；事件
+[ˈinsidənt]
+contempt 
+ n.轻蔑；藐视；受辱
+[kənˈtempt]
+creep 
+ vi.爬行；缓慢地行进
+[kriːp]
+foot 
+ n.脚；最下部；英尺
+[fut]
+cancel 
+ vt.取消，撤消；删去
+[ˈkænsəl]
+glimpse 
+ vt.瞥见 n.一瞥，一看
+[glimps]
+equipment 
+ n.装备，设备，配备
+[iˈkwipmənt]
+wreath 
+ n.花环，花圈，花冠
+[riːθ]
+stop 
+ vt.塞住；阻止；停止
+[stɔp]
+telescope 
+ n.望远镜
+[ˈteliskəup]
+slender 
+ a.细长的；微薄的
+[ˈslendə]
+plan 
+ n.&vt.计划，打算
+[plæn]
+mouthful 
+ n.满口，一口，少量
+[ˈmauθˌful]
+nitrogen 
+ n.氮
+[ˈnaitrədʒən]
+discover 
+ vt.发现；暴露，显示
+[disˈkʌvə]
+tobacco 
+ n.烟草，烟叶
+[təˈbækəu]
+leadership 
+ n.领导
+[ˈliːdə∫ip]
+postage 
+ n.邮费，邮资
+[ˈpəustidʒ]
+dock 
+ n.船坞；码头；船厂
+[dɔk]
+exclude 
+ vt.把…排除在外
+[iksˈkluːd]
+quiet 
+ a.寂静的；安静的
+[ˈkwaiət]
+meet 
+ vt.遇见 vi.相遇
+[miːt]
+for 
+ prep.为；给；因为
+[fɔː]
+rescue 
+ vt.&n.援救，营救
+[ˈreskjuː]
+story 
+ n.故事，小说，传说
+[ˈstɔːri]
+visible 
+ a.可见的，看得见的
+[ˈvizəbl]
+depend 
+ vi.依靠，依赖；相信
+[diˈpend]
+recently 
+ ad.最近，新近
+[ˈriːsəntli]
+victory 
+ n.胜利，战胜
+[ˈviktəri]
+tram 
+ n.(有轨)电车
+[træm]
+suspend 
+ vt.吊，悬；推迟
+[səsˈpend]
+lavatory 
+ n.盥洗室，厕所
+[ˈlævəˌtəri]
+fun 
+ n.乐趣，娱乐；玩笑
+[fʌn]
+million 
+ num.百万 n.许多
+[ˈmiljən]
+leg 
+ n.腿，腿部
+[leg]
+grasp 
+ vt.抓紧；掌握 n.抓
+[grɑːsp]
+bus 
+ n.公共汽车
+[bʌs]
+fraction 
+ n.小部分；片断；分数
+[ˈfræk∫ən]
+all 
+ a.全部的 prep.全部
+[ɔːl]
+fertile 
+ a.肥沃的；多产的
+[ˈfəːtail]
+zero 
+ n.零；零点，零度
+[ˈziərəu]
+beach 
+ n.海滩，湖滩，河滩
+[biːt∫]
+truly 
+ ad.真正地；忠实地
+[truːli]
+threat 
+ n.威胁，恐吓，凶兆
+[θret]
+ancestor 
+ n.祖宗，祖先
+[ˈænsistə]
+account 
+ n.记述；解释；帐目
+[əˈkaunt]
+crisis 
+ n.危机；存亡之际
+[ˈkraisis]
+canvas 
+ n.粗帆布；一块油画布
+[ˈkænvəs]
+purse 
+ n.钱包，小钱袋，手袋
+[pəːs]
+week 
+ n.星期，周
+[wiːk]
+slum 
+ n.贫民窟，贫民区
+[slʌm]
+mass 
+ n.众多；团；群众
+[mæs]
+hunger 
+ n.饿，饥饿；渴望
+[ˈhʌŋgə]
+cube 
+ n.立方形；立方
+[kjuːb]
+Englishman 
+ n.英国男子
+[ˈiŋgli∫mən]
+commercial 
+ a.商业的；商品化的
+[kəˈməː∫əl]
+tragedy 
+ n.悲剧；惨事，惨案
+[ˈtrædʒidi]
+prominent 
+ a.实起的；突出的
+[ˈprɔminənt]
+playground 
+ n.操场，运动场
+[ˈpleiraund]
+relate 
+ vt.叙述；使联系
+[riˈleit]
+costly 
+ a.昂贵的；价值高的
+[ˈkɔstli]
+surface 
+ n.地面，表面；外表
+[ˈsəːfis]
+administration 
+ n.管理；管理部门
+[ədminisˈtrei∫ən]
+stuff 
+ n.材料 vt.装，填，塞
+[stʌf]
+ago 
+ ad.以前
+[əˈgəu]
+portrait 
+ n.消像，画像
+[ˈpɔːtrit]
+relatively 
+ ad.相对地，比较地
+[ˈrelətivli]
+slam 
+ vt.使劲关，砰地放下
+[slæm]
+section 
+ n.切片；一段；部门
+[ˈsek∫ən]
+creative 
+ a.创造性的，创作的
+[kri(ː)ˈeitiv]
+label 
+ n.标签；标记，符号
+[ˈleibl]
+skill 
+ n.技能，技巧；熟练
+[skil]
+cancer 
+ n.癌，癌症，肿瘤
+[ˈkænsə]
+bare 
+ a.赤裸的；仅仅的
+[beə]
+harbour 
+ n.海港，港口 vt.庇护
+[ˈhɑːbə]
+block 
+ n.街区 vt.堵塞，拦阻
+[blɔk]
+recognize 
+ vt.认识，认出；承认
+[ˈrekəgnaiz]
+attention 
+ n.注意，留心；注意力
+[əˈten∫ən]
+slogan 
+ n.标语，口号
+[ˈsləugən]
+setting 
+ n.安装，调整；环境
+[ˈsetiŋ]
+bone 
+ n.骨，骨骼
+[bəun]
+operation 
+ n.操作；手术；运算
+[ˌɔpəˈrei∫ən]
+crust 
+ n.面包皮；硬外皮
+[krʌst]
+golden 
+ a.金色的；极好的
+[ˈgəuldən]
+single 
+ a.单一的；独身的
+[ˈsiŋgl]
+appointment 
+ n.任命;约定,约会
+[əˈpɔintmənt]
+need 
+ vt.需要 v.aux.需要
+[niːd]
+severely 
+ ad.严厉地，严格地
+[siˈviəli]
+dictate 
+ vt.&vi.口授；命令
+[dikˈteit]
+recognition 
+ n.认出，识别；承认
+[ˌrekəgˈni∫ən]
+foremost 
+ a.最初的；第一流的
+[ˈfɔːməust]
+ruin 
+ n.毁灭；废墟 vt.毁坏
+[ˈruːin]
+certainty 
+ n.必然；肯定
+[ˈsəːtənti]
+present 
+ a.现在的 n.目前
+[priˈzent]
+still 
+ a.静止的 n.寂静
+[stil]
+amaze 
+ vt.使惊奇，使惊愕
+[əˈmeiz]
+fault 
+ n.缺点；过失；故障
+[fɔːlt]
+line 
+ n.线；排；路线；线条
+[lain]
+virtue 
+ n.善；美德；优点
+[ˈvəːtjuː]
+variable 
+ a.易变的 n.变量
+[ˈveəriəbl]
+night 
+ n.夜，夜间
+[nait]
+punch 
+ vt.冲出 n.冲压机
+[pʌnt∫]
+on 
+ prep.在…上；在…旁
+[ɔn]
+propose 
+ vt.提议 vi.求婚
+[prəˈpəuz]
+laundry 
+ n.洗衣房，洗衣店
+[ˈlɔːndri]
+conduct 
+ n.举止，行为；指导
+[ˈkɔndʌkt,-dəkt]
+telegraph 
+ n.电报机；电报
+[ˈteligrɑːf]
+preface 
+ n.序言，前言，引语
+[ˈprefis]
+slit 
+ n.裂缝 vt.切开，撕开
+[slit]
+shortage 
+ n.不足，缺少，不足额
+[ˈ∫ɔːtidʒ]
+one 
+ num.一 pron.一个人
+[wʌn]
+piano 
+ n.钢琴
+[piˈænəu]
+interaction 
+ n.相互作用；干扰
+[ˌintərˈæk∫ən]
+teacher 
+ n.教师，老师，先生
+[ˈtiːt∫ə]
+attribute 
+ vt.把…归因于 n.属性
+[əˈtribju(ː)t]
+durable 
+ a.耐久的，耐用的
+[ˈdjuərəbl]
+light 
+ n.光，光线；灯，光源
+[lait]
+reliance 
+ n.信任，信赖，信心
+[riˈlaiəns]
+persuade 
+ vt.说服 vi.被说服
+[pəˈsweid]
+deepen 
+ vt.加深 vi.深化
+[ˈdiːpən]
+railway 
+ n.铁路，铁道
+[ˈreilwei]
+quantity 
+ n.量，数量，分量
+[ˈkwɔntiti]
+menu 
+ n.菜单；饭菜，菜肴
+[ˈmenjuː]
+strategy 
+ n.战略；策略
+[ˈstrætidʒi]
+go 
+ vi.去；走；变为
+[gəu]
+left 
+ a.左边的 ad.在左边
+[left]
+steam 
+ n.蒸汽 vi.蒸发 vt.蒸
+[stiːm]
+course 
+ n.课程；过程；一道菜
+[kɔːs]
+mess 
+ n.混乱，混杂，肮脏
+[mes]
+grave 
+ n.坟墓 a.严重的
+[greiv]
+shoulder 
+ n.肩，肩膀；挑起
+[ˈ∫əuldə]
+grass 
+ n.草；牧草；草地
+[grɑːs]
+mix 
+ vt.使混合，混淆
+[miks]
+coal 
+ n.煤，煤块
+[kəul]
+display 
+ vt.陈列，展览；显示
+[diˈsplei]
+barrel 
+ n.桶；圆筒；枪管
+[ˈbærəl]
+yes 
+ ad.是，是的
+[jes]
+elsewhere 
+ ad.在别处，向别处
+[ˈelsˈweə]
+voltage 
+ n.电压
+[ˈvəultidʒ]
+electron 
+ n.电子
+[iˈlektrɔn]
+clever 
+ a.聪明的；机敏的
+[ˈklevə]
+main 
+ a.主要的，最重要的
+[mein]
+territory 
+ n.领土，版图；领域
+[ˈteritəri]
+aggressive 
+ a.侵略的；好斗的
+[əˈgresiv]
+paste 
+ n.糊，酱；浆湖
+[peist]
+unable 
+ a.不能的，不会的
+[ˈʌnˈeibl]
+angel 
+ n.天使，神差，安琪儿
+[ˈeindʒəl]
+deep 
+ a.深的；纵深的
+[diːp]
+rope 
+ n.绳，索
+[rəup]
+powerful 
+ a.强有力的；有权威的
+[ˈpauəful]
+translate 
+ vt.翻译，译 vt.翻译
+[trænsˈleit]
+sparkle 
+ vi.发火花 vt.使闪耀
+[ˈspɑːkl]
+unfortunate 
+ a.不幸的；可取的
+[ʌnˈfɔːt∫ənit]
+soda 
+ n.碳酸钠，纯碱；汽水
+[ˈsəudə]
+quarter 
+ n.四分之一；一刻钟
+[ˈkwɔːtə]
+graceful 
+ a.优美的，优雅的
+[ˈgreisful]
+vibrate 
+ vt.使颤动 vi.颤动
+[vaiˈbreit]
+habit 
+ n.习惯；习性
+[ˈhæbit]
+argument 
+ n.争论，辩论；理由
+[ˈɑːgjumənt]
+morning 
+ n.早晨，上午
+[ˈmɔːniŋ]
+purely 
+ ad.纯粹地，完全地
+[ˈpjuəli]
+onto 
+ prep.到…上
+[ˈɔntu]
+absolutely 
+ ad.完全地；绝对地
+[ˈæbsəluːtli]
+frank 
+ a.坦白的，直率的
+[fræŋk]
+rigid 
+ a.刚硬的；僵硬的
+[ˈridʒid]
+confess 
+ vt.供认，承认；坦白
+[kənˈfes]
+departure 
+ n.离开，出发，起程
+[diˈpɑːt∫ə]
+fearful 
+ a.害怕的，可怕的
+[ˈfiəful]
+limit 
+ n.限度；限制；范围
+[ˈlimit]
+yield 
+ vt.&vi.出产 n.产量
+[jiːld]
+doubt 
+ n.怀疑；疑虑 vt.怀疑
+[daut]
+evil 
+ n.邪恶；祸害 a.坏的
+[ˈiːvl]
+big 
+ a.大的，巨大的
+[big]
+daughter 
+ n.女儿
+[ˈdɔːtə]
+final 
+ a.最后的；决定性的
+[ˈfainəl]
+sky 
+ n.天，天空
+[skai]
+ratio 
+ n.比，比率
+[ˈrei∫iəu]
+freight 
+ n.货运；货物；运费
+[freit]
+wage 
+ n.工资，报酬
+[weidʒ]
+ox 
+ n.牛；公牛，阉牛
+[ɔks]
+iron 
+ n.铁；烙铁 vt.烫(衣)
+[ˈaiən]
+brilliant 
+ a.光辉的；卓越的
+[ˈbriljənt]
+cap 
+ n.帽子，便帽；帽状物
+[kæp]
+market 
+ n.市场；集市；销路
+[ˈmɑːkit]
+attractive 
+ a.有吸引力的
+[əˈtræktiv]
+lame 
+ a.跛的；瘸的，残废的
+[leim]
+smoothly 
+ ad.光滑地；平稳地
+[ˈsmuːðli]
+scar 
+ n.伤疤，伤痕；创伤
+[skɑː]
+option 
+ n.选择，选择权
+[ˈɔp∫ən]
+salt 
+ n.盐；盐类 vt.加盐于
+[sɔːlt]
+energy 
+ n.活力；精力；能
+[ˈenədʒi]
+truck 
+ n.卡车，载重汽车
+[trʌk]
+incline 
+ n.斜坡 vt.使倾斜
+[inˈklain]
+Negro 
+ n.黑人
+[ˈniːgrəu]
+whole 
+ a.完整的 n.全部
+[həul]
+sticky 
+ a.粘性的；胶粘的
+[ˈstiki]
+necessarily 
+ ad.必然，必定
+[nesiˈserili]
+campus 
+ n.校园，学校场地
+[ˈkæmpəs]
+bang 
+ n.巨响，枪声；猛击
+[bæŋ]
+discharge 
+ vt.释放；排出 n.释放
+[disˈt∫ɑːdʒ]
+intimate 
+ a.亲密的；个人的
+[ˈintimit]
+secret 
+ a.秘密的；隐蔽的
+[ˈsiːkrit]
+inferior 
+ a.下等的；劣等的
+[inˈfiəriə]
+plastic 
+ a.可塑的 n.塑料
+[plɑːstik]
+judge 
+ n.法官；裁判员
+[dʒʌdʒ]
+plural 
+ a.复数的 n.复数
+[ˈpluərəl]
+radioactivity 
+ n.放射性，放射(现象)
+[ˈreidiəuækˈtiviti]
+practical 
+ a.实践的；实用的
+[ˈpræktikəl]
+ourselves 
+ pron.我们自己
+[ˌauəˈselvz]
+flourish 
+ vi.繁荣，茂盛，兴旺
+[ˈflʌri∫]
+fold 
+ vt.折叠；合拢 n.褶
+[fəuld]
+thank 
+ vt.谢谢，感谢 n.感谢
+[θæŋk]
+grammatical 
+ a.语法上的
+[grəˈmætikəl]
+yet 
+ ad.还；已经 conj.而
+[jet]
+learning 
+ n.学习；学问，知识
+[ˈləːniŋ]
+poisonous 
+ a.有毒的，有害的
+[ˈpɔiznəs]
+pay 
+ vt.支付；付给；给予
+[pei]
+factor 
+ n.因素；因子，系数
+[ˈfæktə]
+sell 
+ vt.&vi.卖，销售
+[sel]
+vast 
+ a.巨大的；大量的
+[vɑːst]
+ownership 
+ n.所有(权)，所有制
+[ˈəunə∫ip]
+fine 
+ a.美好的；纤细的
+[fain]
+spell 
+ vt.拼写 vi.拼字
+[spel]
+mechanically 
+ ad.机械地
+[miˈkænikəli]
+bag 
+ n.袋，包，钱包，背包
+[bæg]
+porter 
+ n.搬运工人
+[ˈpɔːtə]
+expense 
+ n.花费，消费；费用
+[ikˈspens]
+crane 
+ n.起重机，摄影升降机
+[krein]
+mode 
+ n.方式，样式
+[məud]
+jump 
+ vi.跳；暴涨 vt.跳过
+[dʒʌmp]
+conductor 
+ n.售票员；(乐队)指挥
+[kənˈdʌktə]
+sob 
+ vi.&n.啜泣，呜咽
+[sɔb]
+recovery 
+ n.重获；痊愈，恢复
+[riˈkʌvəri]
+choose 
+ vt.选择，挑选；情愿
+[t∫uːz]
+communication 
+ n.通讯;传达；交通
+[kəˌmjuːniˈkei∫n]
+river 
+ n.江，河，水道
+[ˈrivə]
+situation 
+ n.位置；处境；形势
+[ˌsitjuˈei∫ən]
+sly 
+ a.狡猾的；躲躲闪闪的
+[slai]
+back 
+ ad.在后；回原处；回
+[bæk]
+scare 
+ vt.惊吓 vi.受惊
+[skeə]
+approval 
+ n.赞成，同意；批准
+[əˈpruːvəl]
+complaint 
+ n.抱怨；怨言；控告
+[kəmˈpleint]
+inform 
+ vt.通知，向…报告
+[inˈfɔːm]
+wonder 
+ n.惊异，惊奇；奇迹
+[ˈwʌndə]
+motion 
+ n.运动；手势；提议
+[ˈməu∫ən]
+convey 
+ vt.传送；运送；传播
+[kənˈvei]
+teaching 
+ n.教学，讲授；教导
+[ˈtiːt∫iŋ]
+leak 
+ vi.漏；泄露 n.漏洞
+[liːk]
+some 
+ a.&pron.一些，若干
+[sʌm]
+part 
+ n.一部分；零件；本份
+[pɑːt]
+police 
+ n.警察；警察当局
+[pəˈliːs]
+orange 
+ n.橙(树)；柑(树)
+[ˈɔrindʒ]
+load 
+ vt.装；装满 n.负载
+[ləud]
+speech 
+ n.言语；演说；方言
+[spiːt∫]
+frequency 
+ n.屡次；次数；频率
+[ˈfriːkwənsi]
+pressure 
+ n.压力；压力；压，按
+[ˈpre∫ə(r)]
+exclusively 
+ ad.专门地
+[ikˈskluːsivli]
+safely 
+ ad.安全地；可靠地
+[ˈseifli]
+dozen 
+ n.一打，十二个
+[ˈdʌzn]
+magnetic 
+ a.磁的，有吸引力的
+[mægˈnetik]
+intentional 
+ a.故意的，有意识的
+[inˈten∫ənəl]
+gown 
+ n.长袍，长外衣
+[gaun]
+greatly 
+ ad.大大地，非常
+[ˈgreitli]
+laboratory 
+ n.实验室，研究室
+[ˈlæbərətəri]
+clothe 
+ vt.给…穿衣服
+[kləuð]
+mobile 
+ a.运动的；流动的
+[ˈməubail]
+institute 
+ n.研究所；学院
+[ˈinstitjuːt]
+air 
+ n.空气；空中；外观
+[eə]
+splash 
+ vt.&n.溅，泼，飞溅
+[splæ∫]
+real 
+ a.真的；现实的
+[ˈriːəl]
+thus 
+ ad.如此，这样；因而
+[ðʌs]
+dislike 
+ vt.&n.不喜爱，厌恶
+[disˈlaik]
+worry 
+ vt.使烦恼 vi.发愁
+[ˈwʌri]
+freeze 
+ vi.冻；结冻 vt.使结冰
+[friːz]
+spy 
+ n.间谍，特务 vt.侦察
+[spai]
+my 
+ pron.我的
+[mai]
+show 
+ vt.给…看；表明
+[∫əu]
+treaty 
+ n.条约；协议，协定
+[ˈtriːti]
+genius 
+ n.天才，天赋，天资
+[ˈdʒiːnjəs]
+reveal 
+ vt.展现；揭示，揭露
+[riˈviːl]
+obey 
+ vt.顺从 vi.服从
+[əuˈbei]
+record 
+ n.记录；履历 vt.记录
+[ˈrekərd]
+throughout 
+ prep.遍及 ad.到处
+[θru(ː)ˈaut]
+dragon 
+ n.龙；凶暴的人
+[ˈdrægən]
+passport 
+ n.护照
+[ˈpɑːspɔːt]
+type 
+ n.型，类型 vi.打字
+[taip]
+Thursday 
+ n.星期四
+[ˈθəːzdi]
+cheat 
+ vt.骗取；哄 vi.行骗
+[t∫iːt]
+infant 
+ n.婴儿 a.婴儿的
+[ˈinfənt]
+less 
+ a.更少的 ad.更少地
+[les]
+restriction 
+ n.限制，限定，约束
+[risˈtrik∫ən]
+gaze 
+ vi.凝视，盯，注视
+[geiz]
+noise 
+ n.喧闹声；响声；噪声
+[nɔiz]
+negative 
+ a.否定的；消极的
+[ˈnegətiv]
+goodbye 
+ int.再见，再会
+[ˌgudˈbai]
+together 
+ ad.共同，一起
+[təˈgeðə]
+baggage 
+ n.行李
+[ˈbægidʒ]
+vice 
+ n.罪恶；恶习；缺点
+[vais]
+way 
+ n.路；路线；方向
+[wei]
+without 
+ prep.无，没有，不
+[wiðˈaut]
+elastic 
+ n.松紧带 a.有弹性的
+[iˈlæstik]
+genuine 
+ a.真的；真正的
+[ˈdʒenjuin]
+suburb 
+ n.郊区，郊外，近郊
+[ˈsʌbəːb]
+summarize 
+ vt.概括/述，总结
+[ˈsʌməraiz]
+their 
+ pron.他(她、它)们的
+[ðeə]
+model 
+ n.模型；模式；模特儿
+[ˈmɔdl]
+speaker 
+ n.说话者；扬声器
+[ˈspiːkə]
+Mediterranean 
+ n.地中海 a.地中海的
+[meditəˈreiniən]
+fork 
+ n.餐叉；叉；分叉
+[fɔːk]
+young 
+ a.年轻的 n.青年们
+[jʌŋ]
+footstep 
+ n.脚步；脚步声；足迹
+[ˈfutstep]
+cripple 
+ n.跛子；残废的人
+[ˈkripl]
+function 
+ n.功能；职务；函数
+[ˈfʌŋk∫ən]
+drink 
+ vt.饮 vi.喝 n.饮料
+[driŋk]
+phone 
+ n.电话，电话机；耳机
+[fəun]
+serious 
+ a.严肃的；认真的
+[ˈsiəriəs]
+basketball 
+ n.篮球；篮球运动
+[ˈbɑːskitbɔːl]
+rank 
+ n.排，横行；社会阶层
+[ræŋk]
+ministry 
+ n.(政府的)部
+[ˈministri]
+victorious 
+ a.胜利的，得胜的
+[vikˈtɔːriəs]
+accommodation 
+ n.招待设备；预定铺位
+[əˌkɔməˈdei∫ən]
+rifle 
+ n.步枪，来复枪
+[ˈraifl]
+impress 
+ vt.给…深刻印象
+[imˈpres]
+snowy 
+ a.雪的，下雪的
+[ˈsnəui]
+further 
+ ad.更远地 a.更远的
+[ˈfəːðə]
+advanced 
+ a.先进的；高级的
+[ədˈvɑːnst]
+jungle 
+ n.丛林，密林，莽丛
+[ˈdʒʌŋgl]
+routine 
+ n.例行公事 a.日常的
+[ruːˈtiːn]
+heal 
+ vt.治愈；使和解
+[hiːl]
+pink 
+ n.粉红色 a.粉红色的
+[piŋk]
+invade 
+ vt.入侵，侵略；侵袭
+[inˈveid]
+gratitude 
+ a.感激，感谢，感恩
+[ˈgrætitjuːd]
+customer 
+ n.顾客，主顾
+[ˈkʌstəmə]
+pure 
+ a.纯粹的；纯洁的
+[pjuə]
+alcohol 
+ n.酒精，乙醇
+[ˈælkəhɔl]
+advantage 
+ n.优点，优势；好处
+[ədˈvɑːntidʒ]
+scout 
+ n.侦察员，侦察机
+[skaut]
+transportation 
+ n.运输，运送，客运
+[ˌtrænspɔːˈtei∫ən]
+vehicle 
+ n.车辆，机动车
+[ˈviːikl]
+overhead 
+ a.在头顶上的；架空的
+[ˈəuvəhed]
+council 
+ n.理事会，委员会
+[ˈkaunsil]
+assume 
+ vt.假定；承担；呈现
+[əˈsjuːm]
+available 
+ a.可利用的；通用的
+[əˈveiləbl]
+publication 
+ n.公布；出版(物)
+[ˌpʌbliˈkei∫ən]
+equip 
+ vt.装备，配备
+[iˈkwip]
+voluntary 
+ a.自/志愿的
+[ˈvɔləntəri; (US) -teri]
+medical 
+ a.医学的；内科的
+[ˈmedikəl]
+history 
+ n.历史；个人经历
+[ˈhistəri]
+bad 
+ a.坏的，恶的；严重的
+[bæd]
+sack 
+ n.袋，麻袋；开除
+[sæk]
+sharp 
+ a.锋利的；敏锐的
+[∫ɑːp]
+army 
+ n.军队；陆军
+[ˈɑːmi]
+ticket 
+ n.票，券；纲领；传票
+[ˈtikit]
+forty 
+ num.四十，第四十
+[ˈfɔːti]
+maid 
+ n.女佣，女仆；少女
+[meid]
+up-to-date 
+ a.直到最近/现代的
+[ˈʌptəˈdeit]
+woman 
+ n.妇女，女人，女性
+[ˈwumən]
+objection 
+ n.反对,异议;不喜欢
+[əbˈdʒek∫ən]
+luggage 
+ n.行李；皮箱，皮包
+[ˈlʌgidʒ]
+invasion 
+ n.入侵，侵略；侵犯
+[inˈveiʒən]
+worth 
+ a.值…的 n.价值
+[wəːθ]
+liar 
+ n.说谎的人
+[ˈlaiə]
+purpose 
+ n.目的；意图；效果
+[ˈpəːpəs]
+bubble 
+ n.泡 vi.冒泡，沸腾
+[ˈbʌbl]
+pause 
+ n.&vi.中止，暂停
+[pɔːz]
+barber 
+ n.理发师
+[ˈbɑːbə]
+feast 
+ n.盛宴，筵席；节日
+[fiːst]
+safety 
+ n.安全，保险
+[ˈseifti]
+anxious 
+ a.忧虑的；渴望的
+[ˈæŋk∫əs]
+confuse 
+ vt.使混乱，混淆
+[kənˈfjuːz]
+marble 
+ n.大理石
+[ˈmɑːbl]
+lazy 
+ a.懒惰的，懒散的
+[ˈleizi]
+resist 
+ vt.&vi.抵抗，抵制
+[riˈzist]
+map 
+ n.地图；图；天体图
+[mæp]
+frog 
+ n.蛙
+[frɔg]
+protective 
+ a.保护的，防护的
+[prəˈtektiv]
+thunder 
+ n.雷 vi.打雷 vt.吼出
+[ˈθʌndə]
+joint 
+ n.接头，接缝；关节
+[dʒɔint]
+radium 
+ n.镭
+[ˈreidjəm]
+very 
+ ad.很；完全 a.真的
+[ˈveri]
+flag 
+ n.旗，旗帜；旗舰旗
+[flæg]
+total 
+ a.总的 vi.合计，总共
+[ˈtəutl]
+standard 
+ n.标准 a.标准的
+[ˈstændəd]
+high 
+ a.高的；高级的 ad.高
+[hai]
+guide 
+ n.导游者 vt.给…导游
+[gaid]
+eighty 
+ num.八十，八十个
+[ˈeiti]
+tire 
+ vi.疲劳，累；厌倦
+[ˈtaiə]
+shield 
+ n.盾；防护物 vt.保护
+[∫iːld]
+penetrate 
+ vt.穿过 vi.穿入
+[ˈpenitreit]
+sole 
+ n.脚底，鞋底，袜底
+[səul]
+mayor 
+ n.市长
+[meə]
+whenever 
+ conj.无论何时，每当
+[(h)wenˈevə]
+fatigue 
+ n.疲劳，劳累
+[fəˈtiːg]
+occupy 
+ vt.占领；占，占有
+[ˈɔkjupai]
+jail 
+ n.监狱 vi.监禁
+[dʒeil]
+preliminary 
+ a.预备的，初步的
+[priˈliminəri]
+poison 
+ n.毒，毒药 vt.毒害
+[ˈpɔizn]
+fourteen 
+ num.十四，第十四
+[ˈfɔːˈtiːn]
+humble 
+ a.谦逊的；地位低下的
+[ˈhʌmbl]
+mechanics 
+ n.力学；技术性细节
+[miˈkæniks]
+memorial 
+ a.纪念的；记忆的
+[miˈmɔːriəl]
+altogether 
+ ad.完全；总而言之
+[ˌɔːltəˈgeðə]
+extent 
+ n.广度；范围；程度
+[iksˈtent]
+camp 
+ n.野营，营地，兵营
+[kæmp]
+ray 
+ n.光线，射线，辐射线
+[rei]
+benefit 
+ n.利益；恩惠；津贴
+[ˈbenifit]
+effort 
+ n.努力；努力的成果
+[ˈefət]
+clap 
+ vi.拍手 vt.拍，轻拍
+[klæp]
+favourable 
+ a.有利的；赞成的
+[ˈfeiərəbl]
+robbery 
+ n.抢劫，劫掠，盗取
+[ˈrɔbəri]
+occasionally 
+ ad.偶然;非经常地
+[əˈkeiʒənəli]
+farmer 
+ n.农民，农夫；农场主
+[ˈfɑːmə]
+orbit 
+ n.运行轨道 vt.环绕
+[ˈɔːbit]
+dull 
+ a.枯燥的；不鲜明的
+[dʌl]
+yourself 
+ pron.你自己；你亲自
+[jɔːˈself]
+ice-cream 
+ n.冰淇淋
+[ˈaiskriːm]
+cannon 
+ n.大炮，火炮；榴弹炮
+[ˈkænən]
+cool 
+ a.凉的，冷静的
+[kuːl]
+personal 
+ a.个人的；本人的
+[ˈpəːsənl]
+trust 
+ n.信任 vt.相信；委托
+[trʌst]
+favourite 
+ a.特别受喜爱的
+[ˈfeivərit]
+harmony 
+ n.调合，协调，和谐
+[ˈhɑːməni]
+structural 
+ a.结构的，构造的
+[ˈstrʌkt∫ərəl]
+facility 
+ n.设备；容易；便利
+[fəˈsiliti]
+aircraft 
+ n.飞机，飞行器
+[ˈeəkrɑːft]
+priest 
+ n.教士，牧师，神父
+[priːst]
+potato 
+ n.马铃薯，土豆
+[pəˈteitəu]
+bear 
+ vt.容忍；负担；生育
+[beə]
+jam 
+ n.果酱
+[dʒæm]
+pepper 
+ n.胡椒，胡椒粉
+[ˈpepə]
+employment 
+ n.工业；雇/使用
+[imˈplɔimənt]
+react 
+ vi.起反应；有影响
+[riˈækt]
+rise 
+ vi.起立；升起；上涨
+[raiz]
+circulate 
+ vt.使循环 vi.循环
+[ˈsəːkjuleit]
+ever 
+ ad.在任何时候；曾经
+[ˈevə]
+horn 
+ n.号角；警报器；角
+[hɔːn]
+melt 
+ vi.融化 vt.使融化
+[melt]
+explosive 
+ n.炸药 a.爆炸的
+[iksˈpləusiv]
+citizen 
+ n.公民；市民，居民
+[ˈsitizn]
+unload 
+ vt.卸(货) vi.卸货
+[ˈʌnˈləud]
+consume 
+ vt.消耗，消费；消灭
+[kənˈsjuːm]
+welfare 
+ n.幸福，福利
+[ˈwelfeə]
+electronic 
+ a.电子的
+[ilekˈtrɔnik]
+athlete 
+ n.运动员；田径运动员
+[ˈæθliːt]
+heating 
+ n.加热，供暖
+[ˈhiːtiŋ]
+jazz 
+ n.爵士音乐，爵士舞曲
+[dʒæz]
+Oceania 
+ n.大洋洲
+[ˌəu∫iˈeiniə]
+plus 
+ prep.加，加上 a.正的
+[plʌs]
+circumference 
+ n.圆周，周长，圆周线
+[səˈkʌmfərəns]
+harm 
+ n.伤害，损害 vt.损害
+[hɑːm]
+several 
+ a.几个，数个
+[ˈsevərəl]
+intellectual 
+ n.知识分子 a.智力的
+[ˌintiˈlektjuəl]
+she 
+ pron.(主格)她
+[∫iː]
+agree 
+ vi.同意；持相同意见
+[əˈgriː]
+use 
+ vt.用；耗费 n.用
+[juːs]
+tide 
+ n.潮，潮汐；潮流
+[taid]
+taxi 
+ n.出租汽车
+[ˈtæksi]
+growth 
+ n.增长；增长量；生长
+[grəuθ]
+street 
+ n.街，街道；行车道
+[striːt]
+undoubtedly 
+ ad.无容置疑，肯定地
+[ʌnˈdautidli]
+rose 
+ n.蔷薇花，蔷薇科植物
+[rəuz]
+marry 
+ vt.娶，嫁 vi.结婚
+[ˈmæri]
+reception 
+ a.接待；招待会；接受
+[riˈsep∫ən]
+skillful 
+ a.灵巧的，娴熟的
+[ˈskilful]
+certificate 
+ n.证书，证件，执照
+[səˈtifikit]
+recommend 
+ vt.推荐，介绍；劝告
+[rekəˈmend]
+gaseous 
+ a.气体的，气态的
+[ˈgæsiəs]
+title 
+ n.标题，题目；称号
+[ˈtaitl]
+hesitate 
+ vi.犹豫，踌躇；含糊
+[ˈheziteit]

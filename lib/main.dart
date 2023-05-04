@@ -1,7 +1,6 @@
 import 'dart:developer';
 import 'package:flutter/material.dart' ;
 import 'dart:math' as math;
-import 'package:video_player/video_player.dart';
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
 import 'package:auto_size_text/auto_size_text.dart';
