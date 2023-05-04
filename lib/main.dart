@@ -114,76 +114,64 @@ class WordWdgetState extends State<WordWdget>{
     );
     var fsz=<double>[70,60,50];
     var scfd= Scaffold(
-          appBar: AppBar(title: Text("单词总数:${Word.allOfWord.length} 指针: ${Word.pos}  偏移量:${Word.ofst}  卡片剩余:${cards.length}"),),
+         /* appBar: AppBar(title: Text("单词总数:${Word.allOfWord.length} 指针: ${Word.pos}  偏移量:${Word.ofst}  卡片剩余:${cards.length}"),),*/
             body:contenWedget ,
-          bottomSheet: Row(
+         /* bottomSheet: Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [ElevatedButton(onPressed: (){
-              final int? pg=wControl.page?.round();
-              wControl.jumpToPage(pg!+1);
+              rollPage();
             }, child: AutoSizeText("翻滚(Z)",presetFontSizes:fsz ,)),
               Padding(padding: EdgeInsets.only(left: 10.0),child: ElevatedButton(onPressed: (){
-                final int? pg=carControl.page?.round();
-                carControl.jumpToPage(pg!+1);
+                nextPage();
               }, child: AutoSizeText("下一页(X)",presetFontSizes: fsz,)), ),
             Padding(padding: EdgeInsets.only(left: 10.0),child:ElevatedButton(onPressed: (){
-            card_onset=true;
-            carControl.jumpToPage(0);
+            entrySettingPage();
             }, child: AutoSizeText("设置(C)",presetFontSizes: fsz,)), ),
     Padding(padding: EdgeInsets.only(left: 10.0),child:
 
-    ElevatedButton(onPressed: (){
-                int pgn=1;
-                final page = carControl.page;
-                if(page!=null){
-                  pgn=page.toInt() ;
-                }
-                int pgc=pgn-1;
-                if(cards.length>1){
-                  setState(() {
-                    cards.removeAt(pgc);
-                    if(pgn==cards.length+1){
-                      pgc=0;
-                    }
-                    this.card_onset=true;
-                    wControl.jumpToPage(1);
-                    carControl.jumpToPage(pgc+1);
-                  });
-                }
-              }, child: AutoSizeText("已掌握(V)",presetFontSizes: fsz,))),
-            ],)
+    ElevatedButton( onPressed: (){
+                alreadMastered();
+              }, child: AutoSizeText( "已掌握(V)",presetFontSizes: fsz,))),
+            ],)*/
         );
-    return  FocusScope(child: scfd,autofocus: true,onKey: (nd,e){
-      switch(e.character){
-        case "Z":  final int? pg=wControl.page?.round();
-        wControl.jumpToPage(pg!+1);break;
-        case 'X':final int? pg=carControl.page?.round();
-        carControl.jumpToPage(pg!+1);break;
-        case 'C': card_onset=true;
-        carControl.jumpToPage(0);break;
-        case 'V':
-        {  int pgn=1;
-        final page = carControl.page;
-        if(page!=null){
-          pgn=page.toInt() ;
+    return   scfd ;
+
+
+  }
+
+  void entrySettingPage() {
+     card_onset=true;
+    carControl.jumpToPage(0);
+  }
+
+  void nextPage() {
+     final int? pg=carControl.page?.round();
+    carControl.jumpToPage(pg!+1);
+  }
+
+  void rollPage() {
+     final int? pg=wControl.page?.round();
+    wControl.jumpToPage(pg!+1);
+  }
+
+  void alreadMastered() {
+      int pgn=1;
+    final page = carControl.page;
+    if(page!=null){
+      pgn=page.toInt() ;
+    }
+    int pgc=pgn-1;
+    if(cards.length>1){
+      setState(() {
+        cards.removeAt(pgc);
+        if(pgn==cards.length+1){
+          pgc=0;
         }
-        int pgc=pgn-1;
-        if(cards.length>1){
-          setState(() {
-            cards.removeAt(pgc);
-            if(pgn==cards.length+1){
-              pgc=0;
-            }
-            this.card_onset=true;
-            wControl.jumpToPage(1);
-            carControl.jumpToPage(pgc+1);
-          });
-        }}break;
-      }
-      return KeyEventResult.handled;
-      },);
-
-
+        this.card_onset=true;
+        wControl.jumpToPage(1);
+        carControl.jumpToPage(pgc+1);
+      });
+    }
   }
   FocusNode f=FocusNode();
   TextEditingController posCtl=TextEditingController();
@@ -347,9 +335,9 @@ class WordWdgetState extends State<WordWdget>{
           ctent[2]=t;
         }
         ans.add( GestureDetector(onDoubleTap:(){
-         /* card_onset=true;
-          carControl.jumpToPage(0);*/
-        },
+           entrySettingPage();
+        },onLongPress: (){alreadMastered();},
+            onTap: (){nextPage();},
             child: PageView(
           scrollDirection: Axis.vertical,
           controller: this.wControl,
