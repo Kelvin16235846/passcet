@@ -39,11 +39,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'MaterialApp的title',
+      title: '过四级!!!',
       theme: ThemeData( 
         primarySwatch: Colors.blue
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: '过四级!'),
     );
   }
 }
@@ -317,7 +317,7 @@ class WordWdgetState extends State<WordWdget>{
         ans.add( GestureDetector(onDoubleTap:(){
            entrySettingPage();
         },onLongPress: (){alreadMastered();},
-            onTap: (){nextPage();},
+            onTap: (){rollPage();},
             child: PageView(
           scrollDirection: Axis.horizontal,
           controller: this.wControl,
@@ -364,7 +364,7 @@ class Word{
        for(int i=0;i+2<lst.length;i+=3){
          allOfWord?.add(Word(eng:lst[i+0].trim(),phonics: lst[i+2].trim() ,mean: [lst[i+1].trim()]));
        }
-       log("文件加载完成${allOfWord?.length}");
+       //log("文件加载完成${allOfWord?.length}");
        return true;
    }
    static void next(){
