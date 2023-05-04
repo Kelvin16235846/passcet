@@ -95,7 +95,7 @@ class WordWdgetState extends State<WordWdget>{
     tc.addAll(cards);
     tc.add(const Text("尽头"));
     var contenWedget=GestureDetector(
-      child: PageView( controller: carControl,onPageChanged:(int v){
+      child: PageView(scrollDirection: Axis.vertical, controller: carControl,onPageChanged:(int v){
         if(!card_onset){
           if(v==0) {
             carControl.jumpToPage(tc.length-2);
@@ -112,29 +112,9 @@ class WordWdgetState extends State<WordWdget>{
 
       }, children: tc),
     );
-    var fsz=<double>[70,60,50];
-    var scfd= Scaffold(
-         /* appBar: AppBar(title: Text("单词总数:${Word.allOfWord.length} 指针: ${Word.pos}  偏移量:${Word.ofst}  卡片剩余:${cards.length}"),),*/
-            body:contenWedget ,
-         /* bottomSheet: Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [ElevatedButton(onPressed: (){
-              rollPage();
-            }, child: AutoSizeText("翻滚(Z)",presetFontSizes:fsz ,)),
-              Padding(padding: EdgeInsets.only(left: 10.0),child: ElevatedButton(onPressed: (){
-                nextPage();
-              }, child: AutoSizeText("下一页(X)",presetFontSizes: fsz,)), ),
-            Padding(padding: EdgeInsets.only(left: 10.0),child:ElevatedButton(onPressed: (){
-            entrySettingPage();
-            }, child: AutoSizeText("设置(C)",presetFontSizes: fsz,)), ),
-    Padding(padding: EdgeInsets.only(left: 10.0),child:
-
-    ElevatedButton( onPressed: (){
-                alreadMastered();
-              }, child: AutoSizeText( "已掌握(V)",presetFontSizes: fsz,))),
-            ],)*/
-        );
-    return   scfd ;
+    return  Scaffold(
+      body:contenWedget ,
+    );
 
 
   }
@@ -339,7 +319,7 @@ class WordWdgetState extends State<WordWdget>{
         },onLongPress: (){alreadMastered();},
             onTap: (){nextPage();},
             child: PageView(
-          scrollDirection: Axis.vertical,
+          scrollDirection: Axis.horizontal,
           controller: this.wControl,
           onPageChanged: (int index){
             if(!wonset){
