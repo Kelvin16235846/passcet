@@ -1,12 +1,15 @@
 
 import 'dart:io';
 
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
 
 import 'main.dart';
 
 class MyModel{
   late List<String> mean;
+
   late String eng;
   late String phonics;
 
@@ -16,6 +19,19 @@ class MyModel{
   static List<MyModel> allOfWord=[];
   static int pos=0;
   static int ofst=5;
+  static void makeDevicePortraitScreen(){
+    WidgetsFlutterBinding.ensureInitialized(); //不加这个强制横/竖屏会报错
+    /*SystemChrome.setPreferredOrientations([
+      // 强制竖屏
+      DeviceOrientation.portraitUp,
+      DeviceOrientation.portraitDown
+    ]);*/
+  }
+  static   List<double> _settingFontSize=[/*50,100,90,80,70,60,50,20,*/16,10];
+  static List<double> get fontSizeOfSetting{return MyModel._settingFontSize;}
+  static void makeDeviceLandscapeScreen(){
+    //SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
+  }
   static Future<bool> inialize()async{
     allOfWord=[];
     String s=await loadAsset(path:"wz/c4_ECP.txt");

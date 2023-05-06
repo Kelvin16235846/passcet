@@ -18,19 +18,19 @@ Future<String> loadAsset({required String path}) async {
 }
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
-     await MyModel.inialize();
-     await Future(()async{
-         String dir="${(await  getApplicationDocumentsDirectory()).path}/${MyModel.cfgPath}";
-         File f= File(dir);
-         if(f.existsSync()){
-            var dts=f.readAsLinesSync();
-            MyModel.pos= int.parse(dts[0]);
-            MyModel.ofst=int.parse(dts[1]);
-         }
+  await MyModel.inialize();
+  await Future(()async{
+    String dir="${(await  getApplicationDocumentsDirectory()).path}/${MyModel.cfgPath}";
+    File f= File(dir);
+    if(f.existsSync()){
+      var dts=f.readAsLinesSync();
+      MyModel.pos= int.parse(dts[0]);
+      MyModel.ofst=int.parse(dts[1]);
+    }
 
 
 
-     });
+  });
   SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
   runApp(  MyApp());
 }
@@ -43,8 +43,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: '过四级!!!',
-      theme: ThemeData( 
-        primarySwatch: Colors.blue
+      theme: ThemeData(
+          primarySwatch: Colors.blue
       ),
       home: const MyHomePage(title: '过四级!'),
     );
@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
 }
 
 class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title}); 
+  const MyHomePage({super.key, required this.title});
   final String title;
   @override
   State<MyHomePage> createState() {
@@ -66,12 +66,12 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
-         return  WordWdget();
-   }
-   @override
-    void initState()  {
-      super.initState();
-      MyModel.flush();
+    return  WordWdget();
+  }
+  @override
+  void initState()  {
+    super.initState();
+    MyModel.flush();
   }
 }
 
