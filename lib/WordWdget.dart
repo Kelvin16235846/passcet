@@ -80,6 +80,7 @@ class WordWdgetState extends State<WordWdget>{
  //  await player.setSourceAsset('wz/mp3file/abandon_0.mp3');
     if(eng=="_None_"){
       eng=MyModel.displayList[curIndexOfWz].eng;
+      type="${DateTime.now().microsecondsSinceEpoch%2}";
     }
    var a= await rootBundle.load('wz/mp3file/${eng.trim()}_$type.mp3');
    await player.setSourceBytes(a.buffer.asUint8List());
@@ -281,11 +282,12 @@ class WordWdgetState extends State<WordWdget>{
         var ctent=<Widget>[
           const Center(child:Text("开始")),
           Center(child: _ListenPatternValue?
-          ElevatedButton(onPressed: (){
+          ElevatedButton(
+              onPressed: (){
             playAudio();
-          }, child:   AutoSizeText( "Press to play No.$tag${(divide&&mns.length>1)?".$i":""}",
+          }, child:   AutoSizeText( "play $tag${(divide&&mns.length>1)?".$i":""}",
             maxLines:1,presetFontSizes: [
-              180,170,160,150,140,130,120,110,100,80,60,50,25,20,18,12],)
+              100],)
           )
               :AutoSizeText(  w.eng ,
             maxLines:1,presetFontSizes: const [
