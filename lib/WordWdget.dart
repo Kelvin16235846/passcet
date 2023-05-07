@@ -28,7 +28,7 @@ class WordWdgetState extends State<WordWdget>{
   int curIndexOfWz=0;
   @override
   Widget build(BuildContext context) {
-    var tc=<Widget>[buidCarSetPage()];
+    var tc=<Widget>[buidSettingPage()];
     tc.addAll(cards);
     tc.add(const Text("尽头"));
     var contenWedget=GestureDetector(
@@ -105,13 +105,15 @@ class WordWdgetState extends State<WordWdget>{
         wControl.jumpToPage(1);
         carControl.jumpToPage(pgc+1);
       });
+
+
     }
   }
   FocusNode f=FocusNode();
   TextEditingController posCtl=TextEditingController();
   TextEditingController ofstCtl=TextEditingController();
   static bool divide=false;
-  Widget buidCarSetPage() {
+  Widget buidSettingPage() {
     posCtl.text=MyModel.pos.toString();
     ofstCtl.text=MyModel.ofst.toString();
     return ListView(
@@ -239,15 +241,16 @@ class WordWdgetState extends State<WordWdget>{
   }
   void updateCards(){
     cards=[];
-    for (var element in MyModel.displayList) {
-      cards.addAll(makePageViews(element));
+    for(int i=0;i<MyModel.displayList.length;++i){
+      cards.addAll(makePageViews(MyModel.displayList[i],tag: "$i"));
     }
+
   }
   bool wonset=false;
   bool meanFirst=false;
   bool _ListenPatternValue=true;
 
-  List<Widget>   makePageViews(MyModel w){
+  List<Widget>   makePageViews(MyModel w,{String tag="#"}){
     String mean=w.mean[0];
     List<Widget> ans=[];
     var mns=<String>[];
@@ -262,7 +265,8 @@ class WordWdgetState extends State<WordWdget>{
       mns.add(mean);
     }
 
-    for(var s in mns){
+    for(int i=0;i<mns.length;++i){
+      var s=mns[i];
       s=s.trim();
       if(s.isNotEmpty){
         var ctent=<Widget>[
@@ -270,7 +274,11 @@ class WordWdgetState extends State<WordWdget>{
           Center(child: _ListenPatternValue?
           ElevatedButton(onPressed: (){
             playAudio();
-          }, child: const Text("Press to Play")):AutoSizeText(  w.eng ,
+          }, child:   AutoSizeText( "Press to play No.$tag${(divide&&mns.length>1)?".$i":""}",
+            maxLines:1,presetFontSizes: [
+              180,170,160,150,140,130,120,110,100,80,60,50,25,20,18,12],)
+          )
+              :AutoSizeText(  w.eng ,
             maxLines:1,presetFontSizes: const [
               180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
           ),
@@ -290,7 +298,8 @@ class WordWdgetState extends State<WordWdget>{
         }
         ans.add( GestureDetector(onDoubleTap:(){
           entrySettingPage();
-        },onLongPress: (){alreadMastered();},
+        },onLongPress: (){alreadMastered();
+          if(_ListenPatternValue) playAudio();},
             onTap: (){
             rollPage();
           },
@@ -303,6 +312,9 @@ class WordWdgetState extends State<WordWdget>{
                       wControl.jumpToPage(2);
                     } else if(index==3) {
                       wControl.jumpToPage(1);
+                    }
+                    if(index==1&&_ListenPatternValue){
+                      playAudio();
                     }
                   }
                   else {
