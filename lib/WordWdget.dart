@@ -258,7 +258,7 @@ class WordWdgetState extends State<WordWdget>{
   }
   bool wonset=false;
   bool meanFirst=false;
-  bool _ListenPatternValue=true;
+  bool _ListenPatternValue=false;
 
   List<Widget>   makePageViews(MyModel w,{String tag="#"}){
     String mean=w.mean[0];
@@ -281,18 +281,20 @@ class WordWdgetState extends State<WordWdget>{
       if(s.isNotEmpty){
         var ctent=<Widget>[
           const Center(child:Text("开始")),
-          Center(child: _ListenPatternValue?
-          ElevatedButton(
-              onPressed: (){
-            playAudio();
-          }, child:   AutoSizeText( "play $tag${(divide&&mns.length>1)?".$i":""}",
-            maxLines:1,presetFontSizes: [
-              100],)
-          )
-              :AutoSizeText(  w.eng ,
-            maxLines:1,presetFontSizes: const [
-              180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
-          ),
+          Column(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center
+            ,children: [
+              _ListenPatternValue?
+              ElevatedButton(
+                  onPressed: (){
+                    playAudio();
+                  }, child:   AutoSizeText( "play $tag${(divide&&mns.length>1)?".$i":""}",
+                maxLines:1,presetFontSizes: [
+                  180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],)
+              )
+                  :AutoSizeText(  w.eng ,
+                maxLines:1,presetFontSizes: const [
+                  180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
+            ],),
           Column(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center
             ,children: [
               AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],),
