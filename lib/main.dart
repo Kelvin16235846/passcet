@@ -18,8 +18,8 @@ Future<String> loadAsset({required String path}) async {
 }
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
-  await MyModel.inialize();
-  await Future(()async{
+    MyModel.inialize();
+    Future(()async{
     String dir="${(await  getApplicationDocumentsDirectory()).path}/${MyModel.cfgPath}";
     File f= File(dir);
     if(f.existsSync()){

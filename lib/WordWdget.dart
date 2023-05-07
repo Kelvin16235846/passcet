@@ -1,9 +1,12 @@
+import 'dart:convert';
+import 'dart:io';
 import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart' ;
 import 'package:auto_size_text/auto_size_text.dart';
 import  'package:flutter/services.dart';
+import 'package:path_provider/path_provider.dart';
 import 'MyModel.dart';
 import 'package:audioplayers/audioplayers.dart';
 class WordWdget extends StatefulWidget{
@@ -13,16 +16,41 @@ class WordWdget extends StatefulWidget{
   @override
   State<StatefulWidget> createState() {
     // TODO: implement createState
-    return WordWdgetState();
+    return WordWidgetState();
   }
 
 
 }
-class WordWdgetState extends State<WordWdget>{
+class WordWidgetState extends State<WordWdget>{
   bool msupOnReset=true;
   bool card_onset=false;
   final player = AudioPlayer();
   List<Widget> cards= [ ];
+  static const    String cfgPath="WordWidgetState.json";
+
+  String encodeState(){
+    Map<String,dynamic> stateMap={"msupOnReset":msupOnReset,
+    "divide":divide,"meanFirst": meanFirst,"_ListenPatternValue":_ListenPatternValue};
+    return jsonEncode(stateMap);
+  }
+  void decodeStateJson(String jsonstr){
+    Map<String,dynamic> mp=jsonDecode(jsonstr);
+    msupOnReset=mp["msupOnReset"];
+    divide=mp["divide"];
+    meanFirst=mp["meanFirst"];
+    _ListenPatternValue=mp["_ListenPatternValue"];
+  }
+  void saveStateToFile()async{
+    Future(()async{
+      String dir="${(await  getApplicationDocumentsDirectory()).path}/$cfgPath";
+      File f= File(dir);
+      RandomAccessFile fl= await f.open(mode: FileMode.write);
+      fl.writeStringSync(encodeState());
+      fl.closeSync();
+
+    });
+  }
+
 
   //当前显示的单词在MyModel.displayList的索引
   int curIndexOfWz=0;
@@ -73,6 +101,7 @@ class WordWdgetState extends State<WordWdget>{
   void rollPage() {
     final int? pg=wControl.page?.round();
     wControl.jumpToPage(pg!+1);
+
   }
   void playAudio({String eng ="_None_",String type ="0"})async{
     // await player.setSource(AssetSource('wz/mp3file/${eng.trim()}_$type.mp3'));
@@ -82,6 +111,8 @@ class WordWdgetState extends State<WordWdget>{
       eng=MyModel.displayList[curIndexOfWz].eng;
       type="${DateTime.now().microsecondsSinceEpoch%2}";
     }
+
+    await player.stop();
    var a= await rootBundle.load('wz/mp3file/${eng.trim()}_$type.mp3');
    await player.setSourceBytes(a.buffer.asUint8List());
      await player.resume();
@@ -138,18 +169,23 @@ class WordWdgetState extends State<WordWdget>{
               setState(() {
                 msupOnReset=v!;
               });
+              saveStateToFile();
             })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("Listen pattern"), Switch(value: _ListenPatternValue, onChanged: (v){
               setState(() {
                 _ListenPatternValue=v;
               });
+
+              saveStateToFile();
             })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("重置的时候拆分意思"), Switch(value: divide, onChanged: (v){
               setState(() {
                 divide=v!;
               });
+
+              saveStateToFile();
             })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("优先显示中文释义"), Switch(value: meanFirst, onChanged: (v){
@@ -157,6 +193,8 @@ class WordWdgetState extends State<WordWdget>{
                 meanFirst=v!;
                 updateCards();
               });
+
+              saveStateToFile();
             })],),
           TextField(
             onChanged: (String v){
@@ -206,7 +244,7 @@ class WordWdgetState extends State<WordWdget>{
         ]);
   }
 
-  void actionReset() {
+  void actionReset()async {
     setState(() {
       MyModel.flush();
       if(divide)MyModel.divideDisplayList();
@@ -245,8 +283,23 @@ class WordWdgetState extends State<WordWdget>{
   @override
   void initState() {
     super.initState();
-    MyModel.flush();
-    updateCards();
+    inialize();
+  }
+  void inialize()async{
+    await readStateFromFile() ;
+     actionReset();
+  }
+  Future<void> readStateFromFile()async{
+    await Future(()async {
+      String dir = "${(await getApplicationDocumentsDirectory())
+          .path}/$cfgPath";
+      File f = File(dir);
+      if (f.existsSync()) {
+        var dts = f.readAsStringSync();
+        decodeStateJson(dts);
+      }
+    });
+
   }
   void updateCards(){
     cards=[];
