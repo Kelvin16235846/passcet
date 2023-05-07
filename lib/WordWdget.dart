@@ -118,19 +118,13 @@ class WordWdgetState extends State<WordWdget>{
     ofstCtl.text=MyModel.ofst.toString();
     return ListView(
         children: [
-          Padding(padding: EdgeInsets.only(bottom: 10.0,top: 20),child: ElevatedButton( onPressed: (){
-            setState(() {
-              MyModel.flush();
-              updateCards();
-              if(msupOnReset){
-                 messUp();
-              }
-              card_onset=true;
-              carControl.jumpToPage(1);
-
-            });},
+          Padding(padding: EdgeInsets.only(bottom: 10.0,top: 20),
+            child: ElevatedButton( onPressed: (){
+            actionReset();
+            },
               child:const AutoSizeText("重置",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
-          Padding(padding: EdgeInsets.only(bottom: 10.0),child: ElevatedButton( onPressed: (){
+          Padding(padding: EdgeInsets.only(bottom: 10.0),
+            child: ElevatedButton( onPressed: (){
             messUp();
           },
               child:const AutoSizeText("打乱",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
@@ -211,6 +205,20 @@ class WordWdgetState extends State<WordWdget>{
         ]);
   }
 
+  void actionReset() {
+    setState(() {
+      MyModel.flush();
+      if(divide)MyModel.divideDisplayList();
+      updateCards();
+      if(msupOnReset){
+         messUp();
+      }
+      card_onset=true;
+      carControl.jumpToPage(1);
+
+    });
+  }
+
   void nextWordsGroup() {
      setState(() {
       MyModel.next();
@@ -222,9 +230,9 @@ class WordWdgetState extends State<WordWdget>{
 
   void messUp() {
      setState(() {
-      MyModel.displayList.shuffle();
-      MyModel.displayList.shuffle();
-      MyModel.displayList.shuffle();
+      MyModel.displayList.shuffle(Random(DateTime.now().millisecondsSinceEpoch));
+      MyModel.displayList.shuffle(Random(DateTime.now().millisecondsSinceEpoch));
+      MyModel.displayList.shuffle(Random(DateTime.now().millisecondsSinceEpoch));
       updateCards();
       card_onset=true;
       carControl.jumpToPage(1);
@@ -241,6 +249,7 @@ class WordWdgetState extends State<WordWdget>{
   }
   void updateCards(){
     cards=[];
+
     for(int i=0;i<MyModel.displayList.length;++i){
       cards.addAll(makePageViews(MyModel.displayList[i],tag: "$i"));
     }

@@ -32,6 +32,26 @@ class MyModel{
   static void makeDeviceLandscapeScreen(){
     //SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
   }
+  MyModel coloneMyself(){
+    return MyModel( eng:this.eng, phonics:this.phonics, mean:this.mean);
+  }
+  List<MyModel> divideMeans( ){
+
+    List<MyModel> ans=[];
+    var mean=this.mean[0];
+    var mns=<String>[];
+      var listA=mean.split(RegExp(";|；"));
+      listA=listA.map((e) => e.trim()).toList();
+      for(var v in listA){
+        mns.addAll(v.split(RegExp("( )+")));
+      }
+      for(var m in mns){
+        var n=this.coloneMyself();
+        n.mean= <String>[m];
+        ans.add(n);
+      }
+      return ans;
+  }
   static Future<bool> inialize()async{
     allOfWord=[];
     String s=await loadAsset(path:"wz/c4_ECP.txt");
@@ -46,7 +66,14 @@ class MyModel{
     pos+=ofst;
     flush(p:pos, o:ofst);
   }
+  static void divideDisplayList(){
+    List<MyModel> ans=[];
+    for(var m in displayList){
+      ans.addAll(m.divideMeans());
+    }
+    displayList=ans;
 
+  }
   static String  cfgPath="cfg0.txt";
   static void   flush({int p=-1,int o=-1}){
     if(p==-1){
