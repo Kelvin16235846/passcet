@@ -43,13 +43,13 @@ class WordWdgetState extends State<WordWdget>{
             carControl.jumpToPage(1);
             curIndexOfWz=0;
           }
+          if(_ListenPatternValue){
+            playAudio();
+          }
         }
         else {
           card_onset=false;
         }
-
-
-
 
       }, children: tc),
     );
@@ -66,7 +66,6 @@ class WordWdgetState extends State<WordWdget>{
   }
 
   void nextPage() {
-    player.stop();
     final int? pg=carControl.page?.round();
     carControl.jumpToPage(pg!+1);
   }
@@ -75,10 +74,13 @@ class WordWdgetState extends State<WordWdget>{
     final int? pg=wControl.page?.round();
     wControl.jumpToPage(pg!+1);
   }
-  void playAudio(String eng,{String type:"0"})async{
+  void playAudio({String eng ="_None_",String type ="0"})async{
     // await player.setSource(AssetSource('wz/mp3file/${eng.trim()}_$type.mp3'));
    // await player.setSource(AssetSource('wz/mp3file/abandon_0.mp3'));
  //  await player.setSourceAsset('wz/mp3file/abandon_0.mp3');
+    if(eng=="_None_"){
+      eng=MyModel.displayList[curIndexOfWz].eng;
+    }
    var a= await rootBundle.load('wz/mp3file/${eng.trim()}_$type.mp3');
    await player.setSourceBytes(a.buffer.asUint8List());
      await player.resume();
@@ -116,13 +118,14 @@ class WordWdgetState extends State<WordWdget>{
         children: [
           Padding(padding: EdgeInsets.only(bottom: 10.0,top: 20),child: ElevatedButton( onPressed: (){
             setState(() {
+              MyModel.flush();
               updateCards();
               if(msupOnReset){
                  messUp();
               }
               card_onset=true;
               carControl.jumpToPage(1);
-              nextPage();
+
             });},
               child:const AutoSizeText("重置",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
           Padding(padding: EdgeInsets.only(bottom: 10.0),child: ElevatedButton( onPressed: (){
@@ -137,6 +140,12 @@ class WordWdgetState extends State<WordWdget>{
             children: [const Text("重置的时候打乱顺序"), Switch(value: msupOnReset, onChanged: (v){
               setState(() {
                 msupOnReset=v!;
+              });
+            })],),
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("Listen pattern"), Switch(value: _ListenPatternValue, onChanged: (v){
+              setState(() {
+                _ListenPatternValue=v;
               });
             })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
@@ -217,8 +226,8 @@ class WordWdgetState extends State<WordWdget>{
       updateCards();
       card_onset=true;
       carControl.jumpToPage(1);
+      curIndexOfWz=0;
     });
-     nextPage();
   }
   PageController carControl=PageController(initialPage: 1);
   PageController wControl=PageController(initialPage: 1);
@@ -236,6 +245,7 @@ class WordWdgetState extends State<WordWdget>{
   }
   bool wonset=false;
   bool meanFirst=false;
+  bool _ListenPatternValue=true;
 
   List<Widget>   makePageViews(MyModel w){
     String mean=w.mean[0];
@@ -257,7 +267,10 @@ class WordWdgetState extends State<WordWdget>{
       if(s.isNotEmpty){
         var ctent=<Widget>[
           const Center(child:Text("开始")),
-          Center(child: AutoSizeText(w.eng ,
+          Center(child: _ListenPatternValue?
+          ElevatedButton(onPressed: (){
+            playAudio();
+          }, child: const Text("Press to Play")):AutoSizeText(  w.eng ,
             maxLines:1,presetFontSizes: const [
               180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
           ),
@@ -279,9 +292,7 @@ class WordWdgetState extends State<WordWdget>{
           entrySettingPage();
         },onLongPress: (){alreadMastered();},
             onTap: (){
-          rollPage();
-          playAudio(MyModel.displayList[curIndexOfWz].eng);
-
+            rollPage();
           },
             child: PageView(
                 scrollDirection: Axis.horizontal,
