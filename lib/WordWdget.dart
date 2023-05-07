@@ -95,6 +95,7 @@ class WordWdgetState extends State<WordWdget>{
     if(cards.length>1){
       setState(() {
         cards.removeAt(pgc);
+        MyModel.displayList.removeAt(pgc);
         if(pgn==cards.length+1){
           pgc=0;
         }
@@ -117,32 +118,19 @@ class WordWdgetState extends State<WordWdget>{
             setState(() {
               updateCards();
               if(msupOnReset){
-                cards.shuffle();
-                cards.shuffle();
-                cards.shuffle();
+                 messUp();
               }
               card_onset=true;
               carControl.jumpToPage(1);
+              nextPage();
             });},
               child:const AutoSizeText("重置",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
           Padding(padding: EdgeInsets.only(bottom: 10.0),child: ElevatedButton( onPressed: (){
-            setState(() {
-              MyModel.displayList.shuffle();
-              MyModel.displayList.shuffle();
-              MyModel.displayList.shuffle();
-              updateCards();
-              card_onset=true;
-              carControl.jumpToPage(1);
-            });
+            messUp();
           },
               child:const AutoSizeText("打乱",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
           ElevatedButton(onPressed: (){
-            setState(() {
-              MyModel.next();
-              updateCards();
-              card_onset=true;
-              carControl.jumpToPage(1);
-            });
+            nextWordsGroup();
 
           }, child:const AutoSizeText("下一组",presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
@@ -210,6 +198,27 @@ class WordWdgetState extends State<WordWdget>{
           ),
 
         ]);
+  }
+
+  void nextWordsGroup() {
+     setState(() {
+      MyModel.next();
+      updateCards();
+      card_onset=true;
+      carControl.jumpToPage(1);
+    });
+  }
+
+  void messUp() {
+     setState(() {
+      MyModel.displayList.shuffle();
+      MyModel.displayList.shuffle();
+      MyModel.displayList.shuffle();
+      updateCards();
+      card_onset=true;
+      carControl.jumpToPage(1);
+    });
+     nextPage();
   }
   PageController carControl=PageController(initialPage: 1);
   PageController wControl=PageController(initialPage: 1);
