@@ -38,6 +38,7 @@ dependencies:
   path_provider: ^2.0.14
   auto_size_text: ^3.0.0
   simple_gesture_detector: ^0.2.0
+  audioplayers: ^4.0.1
 
 dev_dependencies:
   flutter_test:
@@ -67,6 +68,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - wz/c4_ECP.txt
+    - wz/mp3file/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

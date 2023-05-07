@@ -1,9 +1,11 @@
+import 'dart:math';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart' ;
 import 'package:auto_size_text/auto_size_text.dart';
 import  'package:flutter/services.dart';
 import 'MyModel.dart';
-import 'main.dart';
+import 'package:audioplayers/audioplayers.dart';
 class WordWdget extends StatefulWidget{
   String v;
   WordWdget({super.key, this.v="WORD"});
@@ -19,19 +21,27 @@ class WordWdget extends StatefulWidget{
 class WordWdgetState extends State<WordWdget>{
   bool msupOnReset=true;
   bool card_onset=false;
+  final player = AudioPlayer();
   List<Widget> cards= [ ];
+
+  //当前显示的单词在MyModel.displayList的索引
+  int curIndexOfWz=0;
   @override
   Widget build(BuildContext context) {
     var tc=<Widget>[buidCarSetPage()];
     tc.addAll(cards);
     tc.add(const Text("尽头"));
     var contenWedget=GestureDetector(
-      child: PageView(scrollDirection: Axis.vertical, controller: carControl,onPageChanged:(int v){
+      child: PageView(scrollDirection: Axis.vertical,
+          controller: carControl,onPageChanged:(int v){
         if(!card_onset){
+          curIndexOfWz=v-1;
           if(v==0) {
             carControl.jumpToPage(tc.length-2);
+            curIndexOfWz=tc.length-2-1;
           } else if(v==tc.length-1) {
             carControl.jumpToPage(1);
+            curIndexOfWz=0;
           }
         }
         else {
@@ -56,6 +66,7 @@ class WordWdgetState extends State<WordWdget>{
   }
 
   void nextPage() {
+    player.stop();
     final int? pg=carControl.page?.round();
     carControl.jumpToPage(pg!+1);
   }
@@ -63,6 +74,15 @@ class WordWdgetState extends State<WordWdget>{
   void rollPage() {
     final int? pg=wControl.page?.round();
     wControl.jumpToPage(pg!+1);
+  }
+  void playAudio(String eng,{String type:"0"})async{
+    // await player.setSource(AssetSource('wz/mp3file/${eng.trim()}_$type.mp3'));
+   // await player.setSource(AssetSource('wz/mp3file/abandon_0.mp3'));
+ //  await player.setSourceAsset('wz/mp3file/abandon_0.mp3');
+   var a= await rootBundle.load('wz/mp3file/${eng.trim()}_$type.mp3');
+   await player.setSourceBytes(a.buffer.asUint8List());
+     await player.resume();
+
   }
 
   void alreadMastered() {
@@ -107,9 +127,10 @@ class WordWdgetState extends State<WordWdget>{
               child:const AutoSizeText("重置",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
           Padding(padding: EdgeInsets.only(bottom: 10.0),child: ElevatedButton( onPressed: (){
             setState(() {
-              cards.shuffle();
-              cards.shuffle();
-              cards.shuffle();
+              MyModel.displayList.shuffle();
+              MyModel.displayList.shuffle();
+              MyModel.displayList.shuffle();
+              updateCards();
               card_onset=true;
               carControl.jumpToPage(1);
             });
@@ -248,7 +269,11 @@ class WordWdgetState extends State<WordWdget>{
         ans.add( GestureDetector(onDoubleTap:(){
           entrySettingPage();
         },onLongPress: (){alreadMastered();},
-            onTap: (){rollPage();},
+            onTap: (){
+          rollPage();
+          playAudio(MyModel.displayList[curIndexOfWz].eng);
+
+          },
             child: PageView(
                 scrollDirection: Axis.horizontal,
                 controller: this.wControl,
