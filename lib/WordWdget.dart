@@ -1,12 +1,11 @@
 import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
-
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart' ;
 import 'package:auto_size_text/auto_size_text.dart';
 import  'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:perfect_volume_control/perfect_volume_control.dart';
 import 'MyModel.dart';
 import 'package:audioplayers/audioplayers.dart';
 class WordWdget extends StatefulWidget{
@@ -21,7 +20,8 @@ class WordWdget extends StatefulWidget{
 
 
 }
-class WordWidgetState extends State<WordWdget>{
+class WordWidgetState extends State<WordWdget> {
+  double _oldVolume=0.07;
   bool msupOnReset=true;
   bool card_onset=false;
   final player = AudioPlayer();
@@ -30,6 +30,7 @@ class WordWidgetState extends State<WordWdget>{
 
   String encodeState(){
     Map<String,dynamic> stateMap={"msupOnReset":msupOnReset,
+      "_volumeForNextPage":_volumeForNextPage,
     "divide":divide,"meanFirst": meanFirst,"_ListenPatternValue":_ListenPatternValue};
     return jsonEncode(stateMap);
   }
@@ -39,6 +40,7 @@ class WordWidgetState extends State<WordWdget>{
     divide=mp["divide"];
     meanFirst=mp["meanFirst"];
     _ListenPatternValue=mp["_ListenPatternValue"];
+    _volumeForNextPage=mp["_volumeForNextPage"];
   }
   void saveStateToFile()async{
     Future(()async{
@@ -60,7 +62,9 @@ class WordWidgetState extends State<WordWdget>{
     tc.addAll(cards);
     tc.add(const Text("尽头"));
     var contenWedget=GestureDetector(
-      child: PageView(scrollDirection: Axis.vertical,
+      child: PageView(
+
+          scrollDirection: Axis.vertical,
           controller: carControl,onPageChanged:(int v){
         if(!card_onset){
           curIndexOfWz=v-1;
@@ -89,8 +93,12 @@ class WordWidgetState extends State<WordWdget>{
   }
 
   void entrySettingPage() {
+    PerfectVolumeControl.getVolume().then((value) => _oldVolume=value);
     card_onset=true;
     carControl.jumpToPage(0);
+
+
+
   }
 
   void nextPage() {
@@ -145,6 +153,7 @@ class WordWidgetState extends State<WordWdget>{
   TextEditingController posCtl=TextEditingController();
   TextEditingController ofstCtl=TextEditingController();
   static bool divide=false;
+  static bool _volumeForNextPage=true;
   Widget buidSettingPage() {
     posCtl.text=MyModel.pos.toString();
     ofstCtl.text=MyModel.ofst.toString();
@@ -192,6 +201,14 @@ class WordWidgetState extends State<WordWdget>{
               setState(() {
                 meanFirst=v!;
                 updateCards();
+              });
+
+              saveStateToFile();
+            })],),
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("使用音量键翻页"), Switch(value: _volumeForNextPage, onChanged: (v){
+              setState(() {
+                _volumeForNextPage=v!;
               });
 
               saveStateToFile();
@@ -288,6 +305,15 @@ class WordWidgetState extends State<WordWdget>{
   void inialize()async{
     await readStateFromFile() ;
      actionReset();
+    PerfectVolumeControl.stream.listen((volume) {
+      if(_volumeForNextPage){
+        nextPage();
+        PerfectVolumeControl.hideUI=true;
+        // print("the volum ==$volume");
+        PerfectVolumeControl.setVolume(_oldVolume);
+      }
+
+    });
   }
   Future<void> readStateFromFile()async{
     await Future(()async {
