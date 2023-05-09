@@ -286,10 +286,11 @@ class WordWidgetState extends State<WordWdget> {
 
   void messUp() {
      setState(() {
-      MyModel.displayList.shuffle(Random(DateTime.now().millisecondsSinceEpoch));
-      MyModel.displayList.shuffle(Random(DateTime.now().millisecondsSinceEpoch));
-      MyModel.displayList.shuffle(Random(DateTime.now().millisecondsSinceEpoch));
-      updateCards();
+       var sd=Random(DateTime.now().millisecondsSinceEpoch);
+       for(int i=0;i<100;++i){
+         MyModel.displayList.shuffle(sd);
+       }
+       updateCards();
       card_onset=true;
       carControl.jumpToPage(1);
       curIndexOfWz=0;
