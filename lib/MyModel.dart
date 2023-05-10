@@ -1,4 +1,5 @@
 
+import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
@@ -53,6 +54,7 @@ class MyModel{
       return ans;
   }
   static Future<bool> inialize()async{
+
     allOfWord=[];
     String s=await loadAsset(path:"wz/c4_ECP.txt");
     var lst= s.split("\r\n");
@@ -61,6 +63,42 @@ class MyModel{
     }
     //log("文件加载完成${allOfWord?.length}");
     return true;
+  }
+
+  static String encodeState(){
+    Map<String,dynamic> stateMap={
+      "pos":pos,
+      "ofst":ofst,
+    };
+    return jsonEncode(stateMap);
+  }
+  static void decodeStateJson(String jsonstr){
+    Map<String,dynamic> mp=jsonDecode(jsonstr);
+    ofst=mp["ofst"];
+    pos=mp["pos"];
+     }
+  static void saveStateToFile()async{
+    Future(()async{
+      String dir="${(await  getApplicationDocumentsDirectory()).path}/$cfgPath";
+      File f= File(dir);
+      RandomAccessFile fl= await f.open(mode: FileMode.write);
+      fl.writeStringSync(encodeState());
+      fl.closeSync();
+
+    });
+  }
+
+  static Future<void> readStateFromFile()async{
+    await Future(()async {
+      String dir = "${(await getApplicationDocumentsDirectory())
+          .path}/$cfgPath";
+      File f = File(dir);
+      if (f.existsSync()) {
+        var dts = f.readAsStringSync();
+        decodeStateJson(dts);
+      }
+    });
+
   }
   static void next(){
     pos+=ofst;
@@ -90,13 +128,7 @@ class MyModel{
     if(a>=0&& a<b&&b<=allOfWord.length) {
       displayList=allOfWord.sublist(a,b);
       Future(()async{
-        String dir="${(await  getApplicationDocumentsDirectory()).path}/${MyModel.cfgPath}";
-        File f= File(dir);
-        RandomAccessFile fl= await f.open(mode: FileMode.write);
-        fl.writeStringSync("${MyModel.pos}\n");
-        fl.writeStringSync("${MyModel.ofst}\n");
-        fl.closeSync();
-
+         saveStateToFile();
       });
     }
 

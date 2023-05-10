@@ -18,15 +18,14 @@ Future<String> loadAsset({required String path}) async {
 }
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
-    MyModel.inialize();
-    Future(()async{
+  await Future(()async{
     String dir="${(await  getApplicationDocumentsDirectory()).path}/${MyModel.cfgPath}";
     File f= File(dir);
     if(f.existsSync()){
-      var dts=f.readAsLinesSync();
-      MyModel.pos= int.parse(dts[0]);
-      MyModel.ofst=int.parse(dts[1]);
+      await MyModel.readStateFromFile();
     }
+    await MyModel.inialize();
+
 
 
 
