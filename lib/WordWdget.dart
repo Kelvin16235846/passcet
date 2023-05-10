@@ -27,11 +27,13 @@ class WordWidgetState extends State<WordWdget> {
   final player = AudioPlayer();
   List<Widget> cards= [ ];
   static const    String cfgPath="WordWidgetState.json";
+  bool _reviewPattern=true;
 
   String encodeState(){
     Map<String,dynamic> stateMap={"msupOnReset":msupOnReset,
       "_volumeForNextPage":_volumeForNextPage,
       "_showRemainWzCnt":_showRemainWzCnt,
+      "_reviewPattern":_reviewPattern,
     "divide":divide,"meanFirst": meanFirst,"_ListenPatternValue":_ListenPatternValue};
     return jsonEncode(stateMap);
   }
@@ -43,6 +45,7 @@ class WordWidgetState extends State<WordWdget> {
     _ListenPatternValue=mp["_ListenPatternValue"];
     _volumeForNextPage=mp["_volumeForNextPage"];
      if (mp.containsKey("_showRemainWzCnt"))_showRemainWzCnt=mp["_showRemainWzCnt"];
+     if(mp.containsKey("_reviewPattern"))_reviewPattern=mp["_reviewPattern"];
   }
   void saveStateToFile()async{
     Future(()async{
@@ -193,14 +196,6 @@ class WordWidgetState extends State<WordWdget> {
               saveStateToFile();
             })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
-            children: [const Text("Listen pattern"), Switch(value: _ListenPatternValue, onChanged: (v){
-              setState(() {
-                _ListenPatternValue=v;
-              });
-
-              saveStateToFile();
-            })],),
-          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("重置的时候拆分意思"), Switch(value: divide, onChanged: (v){
               setState(() {
                 divide=v!;
@@ -213,6 +208,23 @@ class WordWidgetState extends State<WordWdget> {
               setState(() {
                 meanFirst=v!;
                 updateCards();
+              });
+
+              saveStateToFile();
+            })],),
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("复习模式"), Switch(value: _reviewPattern, onChanged: (v){
+              setState(() {
+                _reviewPattern=v;
+                actionReset();
+              });
+
+              saveStateToFile();
+            })],),
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("Listen pattern"), Switch(value: _ListenPatternValue, onChanged: (v){
+              setState(() {
+                _ListenPatternValue=v;
               });
 
               saveStateToFile();
@@ -283,7 +295,13 @@ class WordWidgetState extends State<WordWdget> {
 
   void actionReset()async {
     setState(() {
-      MyModel.flush();
+      if(_reviewPattern){
+        MyModel.flush(p:0,o:MyModel.pos);
+      }
+      else {
+        MyModel.flush();
+      }
+
       if(divide)MyModel.divideDisplayList();
       updateCards();
       if(msupOnReset){
