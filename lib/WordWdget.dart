@@ -31,6 +31,7 @@ class WordWidgetState extends State<WordWdget> {
   String encodeState(){
     Map<String,dynamic> stateMap={"msupOnReset":msupOnReset,
       "_volumeForNextPage":_volumeForNextPage,
+      "_showRemainWzCnt":_showRemainWzCnt,
     "divide":divide,"meanFirst": meanFirst,"_ListenPatternValue":_ListenPatternValue};
     return jsonEncode(stateMap);
   }
@@ -41,6 +42,7 @@ class WordWidgetState extends State<WordWdget> {
     meanFirst=mp["meanFirst"];
     _ListenPatternValue=mp["_ListenPatternValue"];
     _volumeForNextPage=mp["_volumeForNextPage"];
+     if (mp.containsKey("_showRemainWzCnt"))_showRemainWzCnt=mp["_showRemainWzCnt"];
   }
   void saveStateToFile()async{
     Future(()async{
@@ -52,6 +54,7 @@ class WordWidgetState extends State<WordWdget> {
 
     });
   }
+  bool _showRemainWzCnt=true;
 
 
   //当前显示的单词在MyModel.displayList的索引
@@ -85,8 +88,17 @@ class WordWidgetState extends State<WordWdget> {
 
       }, children: tc),
     );
+   // var tit=Text("pos:${MyModel.pos} offset:${MyModel.ofst} remain:${MyModel.displayList.length}");
     return  Scaffold(
-      body:contenWedget ,
+      /*appBar: AppBar(title:tit ,toolbarHeight: 10.0,titleTextStyle: TextStyle(fontSize: 10),),*/
+      drawer: Builder(builder: (context){
+        return buidSettingPage();
+      },),
+      body: contenWedget,
+      floatingActionButton:_showRemainWzCnt? FloatingActionButton(onPressed: (){}
+        ,child:Text("${MyModel.displayList.length}") ,mini: true,
+      ):null,
+
     );
 
 
@@ -201,6 +213,14 @@ class WordWidgetState extends State<WordWdget> {
               setState(() {
                 meanFirst=v!;
                 updateCards();
+              });
+
+              saveStateToFile();
+            })],),
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("显示剩余卡片数"), Switch(value: _showRemainWzCnt, onChanged: (v){
+              setState(() {
+                _showRemainWzCnt=v!;
               });
 
               saveStateToFile();
@@ -379,7 +399,9 @@ class WordWidgetState extends State<WordWdget> {
             ,children: [
               AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],),
               AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]),
-              AutoSizeText(s,maxLines:1,presetFontSizes: const [180,160,140,120,100,80,60,50,25,16,12]),
+              AutoSizeText(s,maxLines:1,presetFontSizes: const [
+                180,170,160,150,140,
+                130,120,110,100,90,80,70,60,50,40,25,16,12]),
 
             ],),
           const Center(child: Text("结束"),)
