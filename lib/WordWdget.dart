@@ -70,8 +70,9 @@ class WordWidgetState extends State<WordWdget> {
   late Builder _builderOfPage;
 
   void entrySettingPage() {
-    PerfectVolumeControl.getVolume().then((value) => _oldVolume=value);
-    card_onset=true;
+     showPage(Builder(builder: (context){
+       return buildSettingPage();
+     }));
   }
 
 
@@ -104,23 +105,26 @@ class WordWidgetState extends State<WordWdget> {
   TextEditingController ofstCtl=TextEditingController();
   static bool divide=false;
   static bool _volumeForNextPage=true;
-  Widget buidSettingPage() {
+  Widget buildSettingPage() {
     posCtl.text=MyModel.pos.toString();
     ofstCtl.text=MyModel.ofst.toString();
-    return ListView(
+    var ctc= ListView(
         children: [
           Padding(padding: EdgeInsets.only(bottom: 10.0,top: 20),
             child: ElevatedButton( onPressed: (){
               actionReset();
+               exitSettingPage();
             },
                 child:const AutoSizeText("重置",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
           Padding(padding: EdgeInsets.only(bottom: 10.0),
             child: ElevatedButton( onPressed: (){
               messUp();
+              exitSettingPage();
             },
                 child:const AutoSizeText("打乱",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
           ElevatedButton(onPressed: (){
             nextWordsGroup();
+            exitSettingPage();
 
           }, child:const AutoSizeText("下一组",presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
@@ -244,6 +248,12 @@ class WordWidgetState extends State<WordWdget> {
           ),
 
         ]);
+    return GestureDetector(child:Scaffold(body: ctc,) ,onDoubleTap: (){exitSettingPage();},) ;
+  }
+
+  void exitSettingPage() {
+
+    showFrontPage();
   }
 
 
@@ -263,10 +273,9 @@ class WordWidgetState extends State<WordWdget> {
   }
 
   void nextWordsGroup() {
-    setState(() {
       MyModel.next();
       card_onset=true;
-    });
+      curIndexOfWz=0;
   }
   void nextWz(){
     curIndexOfWz=(curIndexOfWz+1)%wzs.length;
@@ -350,9 +359,7 @@ class WordWidgetState extends State<WordWdget> {
           showFrontPage();
         }
         ,onDoubleTap: (){
-        Navigator.push(context, MaterialPageRoute(builder: (context){
-          return Scaffold(body: buidSettingPage(),) ;
-        })).then((value) => showFrontPage());
+         entrySettingPage();
         },
       );
     }));
@@ -396,7 +403,7 @@ class WordWidgetState extends State<WordWdget> {
 
       ],);
     var scf=Scaffold(
-      drawer: buidSettingPage(),
+      drawer: buildSettingPage(),
       body: content,);
     return scf;
   }
