@@ -65,7 +65,7 @@ class WordWidgetState extends State<WordWdget> {
   int curIndexOfWz=0;
   @override
   Widget build(BuildContext context) {
-    return   _builderOfPage.builder(context);
+    return Scaffold(body: _builderOfPage.builder(context) ,)  ;
   }
   late Builder _builderOfPage;
 
@@ -91,7 +91,6 @@ class WordWidgetState extends State<WordWdget> {
     await player.resume();
 
   }
-
   void alreadMastered() {
     if(wzs.length>1) {
       wzs.removeAt(curIndexOfWz);
@@ -342,7 +341,11 @@ class WordWidgetState extends State<WordWdget> {
     })
       ,"中文释义":Builder(builder: (context){
         return  buildChinesePage(wzs[curIndexOfWz],  context);
-      })};
+      })
+      ,"音频播放":Builder(builder: (context){
+        return  buildAudioPage(tag: "${DateTime.now().second}");
+      })
+    };
   }
   String frontpage="英文";
   String backPage="中文释义";
@@ -393,21 +396,27 @@ class WordWidgetState extends State<WordWdget> {
   bool _ListenPatternValue=false;
   List<MyModel> get wzs {return MyModel.displayList;}
   Widget buildChinesePage(MyModel w,BuildContext context) {
-    var content=Column(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center
+    var eng=AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],);
+    var pho=AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]);
+    var mean=AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [
+      180,170,160,150,140,
+      130,120,110,100,90,80,70,60,50,40,25,16,12]);
+
+    var content=Column(mainAxisAlignment: MainAxisAlignment.center
+      ,crossAxisAlignment: CrossAxisAlignment.center
       ,children: [
-        AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],),
-        AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]),
-        AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [
-          180,170,160,150,140,
-          130,120,110,100,90,80,70,60,50,40,25,16,12]),
+         Align(child: eng,)
+       ,
+        Align(child: pho,)
+        ,
+        Align(child: mean,)
 
       ],);
-    var scf=Scaffold(
-      drawer: buildSettingPage(),
-      body: content,);
-    return scf;
+
+    return content;
   }
   void showPage(Builder builder){
+
     setState(() {
       _builderOfPage=builder;
     });
@@ -439,6 +448,7 @@ class WordWidgetState extends State<WordWdget> {
   }
 
   ElevatedButton buildAudioPage({String tag=""}) {
+    playAudio();
     return ElevatedButton(
         onPressed: (){
           playAudio();
