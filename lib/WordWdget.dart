@@ -35,7 +35,7 @@ class WordWidgetState extends State<WordWdget> {
       "_volumeForNextPage":_volumeForNextPage,
       "_showRemainWzCnt":_showRemainWzCnt,
       "_reviewPattern":_reviewPattern,
-    "divide":divide,"meanFirst": meanFirst,"_ListenPatternValue":_ListenPatternValue};
+      "divide":divide,"meanFirst": meanFirst,"_ListenPatternValue":_ListenPatternValue};
     return jsonEncode(stateMap);
   }
   void decodeStateJson(String jsonstr){
@@ -45,8 +45,8 @@ class WordWidgetState extends State<WordWdget> {
     meanFirst=mp["meanFirst"];
     _ListenPatternValue=mp["_ListenPatternValue"];
     _volumeForNextPage=mp["_volumeForNextPage"];
-     if (mp.containsKey("_showRemainWzCnt"))_showRemainWzCnt=mp["_showRemainWzCnt"];
-     if(mp.containsKey("_reviewPattern"))_reviewPattern=mp["_reviewPattern"];
+    if (mp.containsKey("_showRemainWzCnt"))_showRemainWzCnt=mp["_showRemainWzCnt"];
+    if(mp.containsKey("_reviewPattern"))_reviewPattern=mp["_reviewPattern"];
   }
   void saveStateToFile()async{
     Future(()async{
@@ -65,7 +65,7 @@ class WordWidgetState extends State<WordWdget> {
   int curIndexOfWz=0;
   @override
   Widget build(BuildContext context) {
-     return   _builderOfPage.builder(context);
+    return   _builderOfPage.builder(context);
   }
   late Builder _builderOfPage;
 
@@ -77,17 +77,17 @@ class WordWidgetState extends State<WordWdget> {
 
   void playAudio({String eng ="_None_",String type ="0"})async{
     // await player.setSource(AssetSource('wz/mp3file/${eng.trim()}_$type.mp3'));
-   // await player.setSource(AssetSource('wz/mp3file/abandon_0.mp3'));
- //  await player.setSourceAsset('wz/mp3file/abandon_0.mp3');
+    // await player.setSource(AssetSource('wz/mp3file/abandon_0.mp3'));
+    //  await player.setSourceAsset('wz/mp3file/abandon_0.mp3');
     if(eng=="_None_"){
       eng=MyModel.displayList[curIndexOfWz].eng;
       type="${DateTime.now().microsecondsSinceEpoch%2}";
     }
 
     await player.stop();
-   var a= await rootBundle.load('wz/mp3file/${eng.trim()}_$type.mp3');
-   await player.setSourceBytes(a.buffer.asUint8List());
-     await player.resume();
+    var a= await rootBundle.load('wz/mp3file/${eng.trim()}_$type.mp3');
+    await player.setSourceBytes(a.buffer.asUint8List());
+    await player.resume();
 
   }
 
@@ -111,14 +111,14 @@ class WordWidgetState extends State<WordWdget> {
         children: [
           Padding(padding: EdgeInsets.only(bottom: 10.0,top: 20),
             child: ElevatedButton( onPressed: (){
-            actionReset();
+              actionReset();
             },
-              child:const AutoSizeText("重置",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
+                child:const AutoSizeText("重置",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
           Padding(padding: EdgeInsets.only(bottom: 10.0),
             child: ElevatedButton( onPressed: (){
-            messUp();
-          },
-              child:const AutoSizeText("打乱",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
+              messUp();
+            },
+                child:const AutoSizeText("打乱",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
           ElevatedButton(onPressed: (){
             nextWordsGroup();
 
@@ -154,16 +154,6 @@ class WordWidgetState extends State<WordWdget> {
                 );
               }).toList(), onchange: (val){
                 frontpage=val;
-              })],),
-          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
-            children: [const Text("背面")
-              ,MyDropdownButton(value: backPage, items: cardTypes.entries.map<DropdownMenuItem<String>>((e){
-                return DropdownMenuItem<String>(
-                  value:  e.key,
-                  child: Text(e.key),
-                );
-              }).toList(), onchange: (val){
-                backPage=val;
               })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("复习模式"), Switch(value: _reviewPattern, onChanged: (v){
@@ -248,22 +238,22 @@ class WordWidgetState extends State<WordWdget> {
 
 
   void actionReset()  {
-      if(_reviewPattern){
-        MyModel.flush(p:0,o:MyModel.pos);
-      }
-      else {
-        MyModel.flush();
-      }
+    if(_reviewPattern){
+      MyModel.flush(p:0,o:MyModel.pos);
+    }
+    else {
+      MyModel.flush();
+    }
 
-      if(divide)MyModel.divideDisplayList();
-      if(msupOnReset){
-         messUp();
-      }
-      card_onset=true;
+    if(divide)MyModel.divideDisplayList();
+    if(msupOnReset){
+      messUp();
+    }
+    card_onset=true;
   }
 
   void nextWordsGroup() {
-     setState(() {
+    setState(() {
       MyModel.next();
       card_onset=true;
     });
@@ -273,21 +263,21 @@ class WordWidgetState extends State<WordWdget> {
   }
 
   void messUp() {
-       var sd=Random(DateTime.now().millisecondsSinceEpoch);
-       for(int i=0;i<100;++i){
-         MyModel.displayList.shuffle(sd);
-       }
-      card_onset=true;
-      curIndexOfWz=0;
+    var sd=Random(DateTime.now().millisecondsSinceEpoch);
+    for(int i=0;i<100;++i){
+      MyModel.displayList.shuffle(sd);
+    }
+    card_onset=true;
+    curIndexOfWz=0;
   }
   @override
   void initState() {
-    super.initState();
     inialize();
+    super.initState();
   }
   void inialize()async{
     await readStateFromFile() ;
-     actionReset();
+    actionReset();
     PerfectVolumeControl.stream.listen((volume) {
       if(_volumeForNextPage){
         PerfectVolumeControl.hideUI=true;
@@ -314,7 +304,7 @@ class WordWidgetState extends State<WordWdget> {
 
   }
 
-   int curPattern=0;
+  int curPattern=0;
   List<List<Builder>> patterns=[];
   List<void  Function()> _roll=[];
   List<void  Function()> _washFunc=[];
@@ -339,42 +329,32 @@ class WordWidgetState extends State<WordWdget> {
   String backPage="中文释义";
   void showFrontPage( ){
     showPage(Builder(builder: (context){
-       return GestureDetector(child:cardTypes[frontpage]?.build(context),
-         onVerticalDragEnd: (details){
-        nextWz();
-        showFrontPage();
-      },onHorizontalDragEnd: (details){
-         showBackPage();
-      },onLongPress: (){
-           alreadMastered();
-           showFrontPage();
-         }
-         ,onDoubleTap: (){
-           /*showPage(Builder(builder: (context){
-             return Scaffold(body: buidSettingPage(),);
-           }
-           )
-           );*/
-           Navigator.push(context, MaterialPageRoute(builder: (context){
-             return  Scaffold(
-               body: buidSettingPage(),);
-           })).then((value) => showFrontPage());
-         },
-       );
+      return GestureDetector(child:cardTypes[frontpage]?.build(context),
+        onVerticalDragEnd: (details){
+          nextWz();
+          showFrontPage();
+        },onHorizontalDragEnd: (details){
+          showBackPage();
+        },onLongPress: (){
+          alreadMastered();
+          showFrontPage();
+        }
+        ,
+      );
     }));
   }
-  void showBackPage(){
+  void showBackPage({flush=true}){
     showPage(Builder(builder: (context){
       return GestureDetector(child: cardTypes[backPage]?.build(context)
         ,onVerticalDragEnd: (details){
-         nextWz();
-         showFrontPage();
-      },onHorizontalDragEnd: (details){
-        showFrontPage();
+          nextWz();
+          showFrontPage();
+        },onHorizontalDragEnd: (details){
+          showFrontPage();
         }
-      ,onLongPress: (){
-        alreadMastered();
-        showFrontPage();
+        ,onLongPress: (){
+          alreadMastered();
+          showFrontPage();
         },);
     }));
   }
@@ -392,21 +372,23 @@ class WordWidgetState extends State<WordWdget> {
   bool _ListenPatternValue=false;
   List<MyModel> get wzs {return MyModel.displayList;}
   Widget buildChinesePage(MyModel w,BuildContext context) {
-    var content=Column (
-      mainAxisAlignment: MainAxisAlignment.center
-      ,crossAxisAlignment: CrossAxisAlignment.center
+    var content=Column(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center
       ,children: [
-            AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],),
-            AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]),
-            AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [
-              180,170,160,150,140, 130,120,110,100,90,80,70,60,50,40,25,16,12]),
-          ],
-    );
-    return content;
+        AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],),
+        AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]),
+        AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [
+          180,170,160,150,140,
+          130,120,110,100,90,80,70,60,50,40,25,16,12]),
+
+      ],);
+    var scf=Scaffold(
+      drawer: buidSettingPage(),
+      body: content,);
+    return scf;
   }
   void showPage(Builder builder){
     setState(() {
-       _builderOfPage=builder;
+      _builderOfPage=builder;
     });
   }
 
@@ -415,13 +397,13 @@ class WordWidgetState extends State<WordWdget> {
   }
 
   Widget buildEnglishPage(String eng,BuildContext context) {
-     var content= Center(
-       child: AutoSizeText(eng ,
-         maxLines:1,presetFontSizes: const [
-           180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
-       );
-     var scfd= Scaffold(body: content,);
-     return  scfd;
+    var content= Center(
+      child: AutoSizeText(eng ,
+        maxLines:1,presetFontSizes: const [
+          180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
+    );
+    var scfd= Scaffold(body: content,);
+    return  scfd;
   }
 
   void commonHorizontalDragAction() {
@@ -430,19 +412,19 @@ class WordWidgetState extends State<WordWdget> {
   }
 
   void commonVerticalDragAction() {
-      nextWz();
+    nextWz();
     washcard();
     showPage(patterns[curPattern][0]);
   }
 
   ElevatedButton buildAudioPage({String tag=""}) {
     return ElevatedButton(
-              onPressed: (){
-                playAudio();
-              }, child:   AutoSizeText( "play $tag",
-            maxLines:1,presetFontSizes: const [
-              180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],)
-          );
+        onPressed: (){
+          playAudio();
+        }, child:   AutoSizeText( "play $tag",
+      maxLines:1,presetFontSizes: const [
+        180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],)
+    );
   }
 
 }
