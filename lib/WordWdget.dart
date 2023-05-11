@@ -4,6 +4,7 @@ import 'dart:math';
 import 'package:flutter/material.dart' ;
 import 'package:auto_size_text/auto_size_text.dart';
 import  'package:flutter/services.dart';
+import 'package:fsfsfsf/myDropdownButton.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:perfect_volume_control/perfect_volume_control.dart';
 import 'MyModel.dart';
@@ -91,6 +92,12 @@ class WordWidgetState extends State<WordWdget> {
   }
 
   void alreadMastered() {
+    if(wzs.length>1) {
+      wzs.removeAt(curIndexOfWz);
+    }
+    if(curIndexOfWz>=wzs.length) {
+      curIndexOfWz=0;
+    }
   }
   FocusNode f=FocusNode();
   TextEditingController posCtl=TextEditingController();
@@ -132,13 +139,22 @@ class WordWidgetState extends State<WordWdget> {
               saveStateToFile();
             })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
-            children: [const Text("优先显示中文释义"), Switch(value: meanFirst, onChanged: (v){
+            children: [const Text("优先显示释义"), Switch(value: meanFirst, onChanged: (v){
               setState(() {
                 meanFirst=v!;
               });
-
               saveStateToFile();
             })],),
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("正面")
+              ,MyDropdownButton(value: frontpage, items: cardTypes.entries.map<DropdownMenuItem<String>>((e){
+                return DropdownMenuItem<String>(
+                  value:  e.key,
+                  child: Text(e.key),
+                );
+              }).toList(), onchange: (val){
+                frontpage=val;
+              })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("复习模式"), Switch(value: _reviewPattern, onChanged: (v){
               setState(() {
@@ -322,7 +338,9 @@ class WordWidgetState extends State<WordWdget> {
       },onLongPress: (){
            alreadMastered();
            showFrontPage();
-         },);
+         }
+         ,
+       );
     }));
   }
   void showBackPage(){
@@ -363,9 +381,10 @@ class WordWidgetState extends State<WordWdget> {
               130,120,110,100,90,80,70,60,50,40,25,16,12]),
 
           ],);
-    var scf=Scaffold(body: content,);
+    var scf=Scaffold(
+      drawer: buidSettingPage(),
+      body: content,);
     return scf;
-
   }
   void showPage(Builder builder){
     setState(() {
