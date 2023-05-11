@@ -271,7 +271,8 @@ class WordWidgetState extends State<WordWdget> {
 
     });
     iniPatterns();
-    showWidget(patterns[curPattern][0]);
+    iniCardTypes();
+    showFrontPage();
   }
 
   Future<void> readStateFromFile()async{
@@ -286,6 +287,7 @@ class WordWidgetState extends State<WordWdget> {
     });
 
   }
+
    int curPattern=0;
   List<List<Builder>> patterns=[];
   List<void  Function()> _roll=[];
@@ -298,6 +300,46 @@ class WordWidgetState extends State<WordWdget> {
     _roll[curPattern]();
   }
   int _indexOfRoll=0;
+  Map<String,Builder> cardTypes={};
+  void iniCardTypes(){
+    cardTypes={"英文":Builder(builder: (context){
+      return buildEnglishPage(wzs[curIndexOfWz].eng, context);
+    })
+      ,"中文释义":Builder(builder: (context){
+        return  buildChinesePage(wzs[curIndexOfWz],  context);
+      })};
+  }
+  String frontpage="英文";
+  String backPage="中文释义";
+  void showFrontPage( ){
+    showPage(Builder(builder: (context){
+       return GestureDetector(child:cardTypes[frontpage]?.build(context),
+         onVerticalDragEnd: (details){
+        nextWz();
+        showFrontPage();
+      },onHorizontalDragEnd: (details){
+         showBackPage();
+      },onLongPress: (){
+           alreadMastered();
+           showFrontPage();
+         },);
+    }));
+  }
+  void showBackPage(){
+    showPage(Builder(builder: (context){
+      return GestureDetector(child: cardTypes[backPage]?.build(context)
+        ,onVerticalDragEnd: (details){
+         nextWz();
+         showFrontPage();
+      },onHorizontalDragEnd: (details){
+        showFrontPage();
+        }
+      ,onLongPress: (){
+        alreadMastered();
+        showFrontPage();
+        },);
+    }));
+  }
   void iniPatterns(){
     patterns.add([Builder(builder: (context){
       return buildEnglishPage(wzs[curIndexOfWz].eng, context);
@@ -322,21 +364,17 @@ class WordWidgetState extends State<WordWdget> {
 
           ],);
     var scf=Scaffold(body: content,);
-    return GestureDetector(child: scf,onVerticalDragEnd: (details){
-      commonVerticalDragAction();
-    },onHorizontalDragEnd: (details){
-     commonHorizontalDragAction();
-    },);
+    return scf;
 
   }
-  void showWidget(Builder builder){
+  void showPage(Builder builder){
     setState(() {
        _builderOfPage=builder;
     });
   }
 
   void update(){
-    showWidget(patterns[curPattern][_indexOfRoll]);
+    showPage(patterns[curPattern][_indexOfRoll]);
   }
 
   Widget buildEnglishPage(String eng,BuildContext context) {
@@ -346,13 +384,7 @@ class WordWidgetState extends State<WordWdget> {
            180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
        );
      var scfd= Scaffold(body: content,);
-     return GestureDetector(child:scfd ,onVerticalDragEnd: (DragEndDetails details){
-       commonVerticalDragAction();
-     },
-       onHorizontalDragEnd: ( details ){
-          commonHorizontalDragAction();
-       },
-     );
+     return  scfd;
   }
 
   void commonHorizontalDragAction() {
@@ -363,7 +395,7 @@ class WordWidgetState extends State<WordWdget> {
   void commonVerticalDragAction() {
       nextWz();
     washcard();
-    showWidget(patterns[curPattern][0]);
+    showPage(patterns[curPattern][0]);
   }
 
   ElevatedButton buildAudioPage({String tag=""}) {
