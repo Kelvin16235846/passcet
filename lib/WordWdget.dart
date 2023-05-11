@@ -156,6 +156,16 @@ class WordWidgetState extends State<WordWdget> {
                 frontpage=val;
               })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("背面")
+              ,MyDropdownButton(value: backPage, items: cardTypes.entries.map<DropdownMenuItem<String>>((e){
+                return DropdownMenuItem<String>(
+                  value:  e.key,
+                  child: Text(e.key),
+                );
+              }).toList(), onchange: (val){
+                backPage=val;
+              })],),
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("复习模式"), Switch(value: _reviewPattern, onChanged: (v){
               setState(() {
                 _reviewPattern=v;
@@ -339,7 +349,17 @@ class WordWidgetState extends State<WordWdget> {
            alreadMastered();
            showFrontPage();
          }
-         ,
+         ,onDoubleTap: (){
+           /*showPage(Builder(builder: (context){
+             return Scaffold(body: buidSettingPage(),);
+           }
+           )
+           );*/
+           Navigator.push(context, MaterialPageRoute(builder: (context){
+             return  Scaffold(
+               body: buidSettingPage(),);
+           })).then((value) => showFrontPage());
+         },
        );
     }));
   }
@@ -372,19 +392,17 @@ class WordWidgetState extends State<WordWdget> {
   bool _ListenPatternValue=false;
   List<MyModel> get wzs {return MyModel.displayList;}
   Widget buildChinesePage(MyModel w,BuildContext context) {
-    var content=Column(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center
-          ,children: [
+    var content=Column (
+      mainAxisAlignment: MainAxisAlignment.center
+      ,crossAxisAlignment: CrossAxisAlignment.center
+      ,children: [
             AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],),
             AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]),
             AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [
-              180,170,160,150,140,
-              130,120,110,100,90,80,70,60,50,40,25,16,12]),
-
-          ],);
-    var scf=Scaffold(
-      drawer: buidSettingPage(),
-      body: content,);
-    return scf;
+              180,170,160,150,140, 130,120,110,100,90,80,70,60,50,40,25,16,12]),
+          ],
+    );
+    return content;
   }
   void showPage(Builder builder){
     setState(() {
