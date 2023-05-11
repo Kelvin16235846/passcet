@@ -146,7 +146,7 @@ class WordWidgetState extends State<WordWdget> {
               saveStateToFile();
             })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
-            children: [const Text("正面")
+            children: [const Text("正面: ")
               ,MyDropdownButton(value: frontpage, items: cardTypes.entries.map<DropdownMenuItem<String>>((e){
                 return DropdownMenuItem<String>(
                   value:  e.key,
@@ -154,6 +154,16 @@ class WordWidgetState extends State<WordWdget> {
                 );
               }).toList(), onchange: (val){
                 frontpage=val;
+              })],),
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("背面: ")
+              ,MyDropdownButton(value: backPage, items: cardTypes.entries.map<DropdownMenuItem<String>>((e){
+                return DropdownMenuItem<String>(
+                  value:  e.key,
+                  child: Text(e.key),
+                );
+              }).toList(), onchange: (val){
+                backPage=val;
               })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("复习模式"), Switch(value: _reviewPattern, onChanged: (v){
@@ -339,7 +349,11 @@ class WordWidgetState extends State<WordWdget> {
           alreadMastered();
           showFrontPage();
         }
-        ,
+        ,onDoubleTap: (){
+        Navigator.push(context, MaterialPageRoute(builder: (context){
+          return Scaffold(body: buidSettingPage(),) ;
+        })).then((value) => showFrontPage());
+        },
       );
     }));
   }
