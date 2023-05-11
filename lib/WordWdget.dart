@@ -64,68 +64,16 @@ class WordWidgetState extends State<WordWdget> {
   int curIndexOfWz=0;
   @override
   Widget build(BuildContext context) {
-    var tc=<Widget>[buidSettingPage()];
-    tc.addAll(cards);
-    tc.add(const Text("尽头"));
-    var contenWedget=GestureDetector(
-      child: PageView(
-
-          scrollDirection: Axis.vertical,
-          controller: carControl,onPageChanged:(int v){
-        if(!card_onset){
-          curIndexOfWz=v-1;
-          if(v==0) {
-            carControl.jumpToPage(tc.length-2);
-            curIndexOfWz=tc.length-2-1;
-          } else if(v==tc.length-1) {
-            carControl.jumpToPage(1);
-            curIndexOfWz=0;
-          }
-          if(_ListenPatternValue){
-            playAudio();
-          }
-        }
-        else {
-          card_onset=false;
-        }
-
-      }, children: tc),
-    );
-   // var tit=Text("pos:${MyModel.pos} offset:${MyModel.ofst} remain:${MyModel.displayList.length}");
-    return  Scaffold(
-      /*appBar: AppBar(title:tit ,toolbarHeight: 10.0,titleTextStyle: TextStyle(fontSize: 10),),*/
-      drawer: Builder(builder: (context){
-        return buidSettingPage();
-      },),
-      body: contenWedget,
-      floatingActionButton:_showRemainWzCnt? FloatingActionButton(onPressed: (){}
-        ,child:Text("${MyModel.displayList.length}") ,mini: true,
-      ):null,
-
-    );
-
-
+     return   _builderOfPage.builder(context);
   }
+  late Builder _builderOfPage;
 
   void entrySettingPage() {
     PerfectVolumeControl.getVolume().then((value) => _oldVolume=value);
     card_onset=true;
-    carControl.jumpToPage(0);
-
-
-
   }
 
-  void nextPage() {
-    final int? pg=carControl.page?.round();
-    carControl.jumpToPage(pg!+1);
-  }
 
-  void rollPage() {
-    final int? pg=wControl.page?.round();
-    wControl.jumpToPage(pg!+1);
-
-  }
   void playAudio({String eng ="_None_",String type ="0"})async{
     // await player.setSource(AssetSource('wz/mp3file/${eng.trim()}_$type.mp3'));
    // await player.setSource(AssetSource('wz/mp3file/abandon_0.mp3'));
@@ -143,26 +91,6 @@ class WordWidgetState extends State<WordWdget> {
   }
 
   void alreadMastered() {
-    int pgn=1;
-    final page = carControl.page;
-    if(page!=null){
-      pgn=page.toInt() ;
-    }
-    int pgc=pgn-1;
-    if(cards.length>1){
-      setState(() {
-        cards.removeAt(pgc);
-        MyModel.displayList.removeAt(pgc);
-        if(pgn==cards.length+1){
-          pgc=0;
-        }
-        this.card_onset=true;
-        wControl.jumpToPage(1);
-        carControl.jumpToPage(pgc+1);
-      });
-
-
-    }
   }
   FocusNode f=FocusNode();
   TextEditingController posCtl=TextEditingController();
@@ -207,7 +135,6 @@ class WordWidgetState extends State<WordWdget> {
             children: [const Text("优先显示中文释义"), Switch(value: meanFirst, onChanged: (v){
               setState(() {
                 meanFirst=v!;
-                updateCards();
               });
 
               saveStateToFile();
@@ -293,8 +220,8 @@ class WordWidgetState extends State<WordWdget> {
         ]);
   }
 
-  void actionReset()async {
-    setState(() {
+
+  void actionReset()  {
       if(_reviewPattern){
         MyModel.flush(p:0,o:MyModel.pos);
       }
@@ -303,39 +230,30 @@ class WordWidgetState extends State<WordWdget> {
       }
 
       if(divide)MyModel.divideDisplayList();
-      updateCards();
       if(msupOnReset){
          messUp();
       }
       card_onset=true;
-      carControl.jumpToPage(1);
-
-    });
   }
 
   void nextWordsGroup() {
      setState(() {
       MyModel.next();
-      updateCards();
       card_onset=true;
-      carControl.jumpToPage(1);
     });
+  }
+  void nextWz(){
+    curIndexOfWz=(curIndexOfWz+1)%wzs.length;
   }
 
   void messUp() {
-     setState(() {
        var sd=Random(DateTime.now().millisecondsSinceEpoch);
        for(int i=0;i<100;++i){
          MyModel.displayList.shuffle(sd);
        }
-       updateCards();
       card_onset=true;
-      carControl.jumpToPage(1);
       curIndexOfWz=0;
-    });
   }
-  PageController carControl=PageController(initialPage: 1);
-  PageController wControl=PageController(initialPage: 1);
   @override
   void initState() {
     super.initState();
@@ -346,14 +264,16 @@ class WordWidgetState extends State<WordWdget> {
      actionReset();
     PerfectVolumeControl.stream.listen((volume) {
       if(_volumeForNextPage){
-        nextPage();
         PerfectVolumeControl.hideUI=true;
         // print("the volum ==$volume");
         PerfectVolumeControl.setVolume(_oldVolume);
       }
 
     });
+    iniPatterns();
+    showWidget(patterns[curPattern][0]);
   }
+
   Future<void> readStateFromFile()async{
     await Future(()async {
       String dir = "${(await getApplicationDocumentsDirectory())
@@ -366,104 +286,94 @@ class WordWidgetState extends State<WordWdget> {
     });
 
   }
-  void updateCards(){
-    cards=[];
+   int curPattern=0;
+  List<List<Builder>> patterns=[];
+  List<void  Function()> _roll=[];
+  List<void  Function()> _washFunc=[];
 
-    for(int i=0;i<MyModel.displayList.length;++i){
-      cards.addAll(makePageViews(MyModel.displayList[i],tag: "$i"));
-    }
-
+  void washcard(){
+    _washFunc[curPattern]();
+  }
+  void rollcard(){
+    _roll[curPattern]();
+  }
+  int _indexOfRoll=0;
+  void iniPatterns(){
+    patterns.add([Builder(builder: (context){
+      return buildEnglishPage(wzs[curIndexOfWz].eng, context);
+    }),Builder(builder: (context){
+      return  buildChinesePage(wzs[curIndexOfWz],  context);
+    }), ]);
+    _roll.add(() {_indexOfRoll=(_indexOfRoll+1)%patterns[curPattern].length; });
+    _washFunc.add(() { _indexOfRoll=0;});
   }
   bool wonset=false;
   bool meanFirst=false;
   bool _ListenPatternValue=false;
+  List<MyModel> get wzs {return MyModel.displayList;}
+  Widget buildChinesePage(MyModel w,BuildContext context) {
+    var content=Column(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center
+          ,children: [
+            AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],),
+            AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]),
+            AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [
+              180,170,160,150,140,
+              130,120,110,100,90,80,70,60,50,40,25,16,12]),
 
-  List<Widget>   makePageViews(MyModel w,{String tag="#"}){
-    String mean=w.mean[0];
-    List<Widget> ans=[];
-    var mns=<String>[];
-    if(divide){
-      var listA=mean.split(RegExp(";|；"));
-      listA=listA.map((e) => e.trim()).toList();
-      for(var v in listA){
-        mns.addAll(v.split(RegExp("( )+")));
-      }
-    }
-    else{
-      mns.add(mean);
-    }
+          ],);
+    var scf=Scaffold(body: content,);
+    return GestureDetector(child: scf,onVerticalDragEnd: (details){
+      commonVerticalDragAction();
+    },onHorizontalDragEnd: (details){
+     commonHorizontalDragAction();
+    },);
 
-    for(int i=0;i<mns.length;++i){
-      var s=mns[i];
-      s=s.trim();
-      if(s.isNotEmpty){
-        var ctent=<Widget>[
-          const Center(child:Text("开始")),
-          Column(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center
-            ,children: [
-              _ListenPatternValue?
-              ElevatedButton(
-                  onPressed: (){
-                    playAudio();
-                  }, child:   AutoSizeText( "play $tag${(divide&&mns.length>1)?".$i":""}",
-                maxLines:1,presetFontSizes: [
-                  180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],)
-              )
-                  :AutoSizeText(  w.eng ,
-                maxLines:1,presetFontSizes: const [
-                  180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
-            ],),
-          Column(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center
-            ,children: [
-              AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],),
-              AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]),
-              AutoSizeText(s,maxLines:1,presetFontSizes: const [
-                180,170,160,150,140,
-                130,120,110,100,90,80,70,60,50,40,25,16,12]),
+  }
+  void showWidget(Builder builder){
+    setState(() {
+       _builderOfPage=builder;
+    });
+  }
 
-            ],),
-          const Center(child: Text("结束"),)
-        ];
-        if(meanFirst){
-          var t=ctent[1];
-          ctent[1]=ctent[2];
-          ctent[2]=t;
-        }
-        ans.add( GestureDetector(onDoubleTap:(){
-          entrySettingPage();
-        },onLongPress: (){alreadMastered();
-          if(_ListenPatternValue) playAudio();},
-            onTap: (){
-            rollPage();
-          },
-            child: PageView(
-                scrollDirection: Axis.horizontal,
-                controller: this.wControl,
-                onPageChanged: (int index){
-                  if(!wonset){
-                    if(index==0) {
-                      wControl.jumpToPage(2);
-                    } else if(index==3) {
-                      wControl.jumpToPage(1);
-                    }
-                    if(index==1&&_ListenPatternValue){
-                      playAudio();
-                    }
-                  }
-                  else {
-                    wonset=false;
-                  }
-                },
-                children: ctent
-            )));
-      }
+  void update(){
+    showWidget(patterns[curPattern][_indexOfRoll]);
+  }
 
-    }
-    return ans;
+  Widget buildEnglishPage(String eng,BuildContext context) {
+     var content= Center(
+       child: AutoSizeText(eng ,
+         maxLines:1,presetFontSizes: const [
+           180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
+       );
+     var scfd= Scaffold(body: content,);
+     return GestureDetector(child:scfd ,onVerticalDragEnd: (DragEndDetails details){
+       commonVerticalDragAction();
+     },
+       onHorizontalDragEnd: ( details ){
+          commonHorizontalDragAction();
+       },
+     );
+  }
 
+  void commonHorizontalDragAction() {
+    rollcard();
+    update();
+  }
 
+  void commonVerticalDragAction() {
+      nextWz();
+    washcard();
+    showWidget(patterns[curPattern][0]);
+  }
 
-
+  ElevatedButton buildAudioPage({String tag=""}) {
+    return ElevatedButton(
+              onPressed: (){
+                playAudio();
+              }, child:   AutoSizeText( "play $tag",
+            maxLines:1,presetFontSizes: const [
+              180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],)
+          );
   }
 
 }

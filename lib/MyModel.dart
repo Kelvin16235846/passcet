@@ -28,7 +28,7 @@ class MyModel{
       DeviceOrientation.portraitDown
     ]);*/
   }
-  static   List<double> _settingFontSize=[/*50,100,90,80,70,60,50,20,*/16,10];
+  static   final List<double> _settingFontSize=[/*50,100,90,80,70,60,50,20,*/16,10];
   static List<double> get fontSizeOfSetting{return MyModel._settingFontSize;}
   static void makeDeviceLandscapeScreen(){
     //SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
