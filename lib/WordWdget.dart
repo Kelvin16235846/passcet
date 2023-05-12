@@ -35,6 +35,7 @@ class WordWidgetState extends State<WordWdget> {
       "backPage":backPage,
       "frontpage":frontpage,
       "divide":divide,
+      "_playAudioAfterNewCard":_playAudioAfterNewCard,
     };
     return jsonEncode(stateMap);
   }
@@ -46,6 +47,7 @@ class WordWidgetState extends State<WordWdget> {
     if(mp.containsKey("_reviewPattern"))_reviewPattern=mp["_reviewPattern"];
     if(mp.containsKey("backPage"))backPage=mp["backPage"];
     if(mp.containsKey("frontpage"))frontpage=mp["frontpage"];
+    if(mp.containsKey("_playAudioAfterNewCard"))_playAudioAfterNewCard=mp["_playAudioAfterNewCard"];
 
   }
   void saveStateToFile()async{
