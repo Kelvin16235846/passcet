@@ -282,7 +282,13 @@ class WordWidgetState extends State<WordWidget> {
 
             ),
 
-          ),
+          )
+          , Padding(padding:
+          EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
+    child:Text("总词数:${Word.allOfWord.length}",
+    style: const TextStyle(
+        fontSize: 30,
+    ),)),
           const SizedBox(height: 40*2,width: 20,)
 
         ]);

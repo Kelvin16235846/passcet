@@ -16,6 +16,7 @@ class WordListPage extends StatefulWidget {
 }
 class WordListPageState extends State<WordListPage>{
   bool _showMean=true;
+  List<bool> _listShowMeans=[];
   @override
   Widget build(BuildContext context) {
      return  Scaffold(
@@ -32,6 +33,7 @@ class WordListPageState extends State<WordListPage>{
              ,ElevatedButton(onPressed: (){
                setState(() {
                   _showMean=true;
+                  resetListShowMeans();
                });
              }, child: Text("释义")
              )
@@ -39,6 +41,7 @@ class WordListPageState extends State<WordListPage>{
              ,ElevatedButton(onPressed: (){
                setState(() {
                  _showMean=false;
+                 resetListShowMeans();
                });
              }, child: Text("英文")
              )
@@ -62,16 +65,21 @@ class WordListPageState extends State<WordListPage>{
              crossAxisAlignment: CrossAxisAlignment.center,
              children: [Text(wzs[index].eng
            ,style: TextStyle(fontSize: 30),)
-             ,Text(_showMean?wzs[index].mean[0]:""
+             ,Text(_listShowMeans[index]?wzs[index].mean[0]:""
                  ,style: TextStyle(fontSize: 30)),
            ],);
            Widget gest= GestureDetector(
-             child:ElevatedButton(onPressed: () {  },
+             child:ElevatedButton(onPressed: () {
+               setState(() {
+                  _listShowMeans[index]=!_listShowMeans[index];
+               });
+             },
                child:content ,)
              ,onLongPress: (){
                if(wzs.length>1){
                  setState(() {
                    wzs.removeAt(index);
+                   _listShowMeans.removeAt(index);
                  });
                }
            },);
@@ -85,5 +93,15 @@ class WordListPageState extends State<WordListPage>{
   }
   List<Word> get wzs{
     return widget.wzs;
+  }
+  @override
+  void initState() {
+    // TODO: implement initState
+    resetListShowMeans();
+    super.initState();
+  }
+  void resetListShowMeans(){
+    _listShowMeans.clear();
+    _listShowMeans=List.generate(wzs.length, (index) => _showMean);
   }
 }
