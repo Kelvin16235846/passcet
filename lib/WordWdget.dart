@@ -273,9 +273,9 @@ class WordWidgetState extends State<WordWdget> {
 
         ]);
     ctc=Scrollbar(
-      child:ctc,
       thumbVisibility: true,
       trackVisibility: true,
+      child:ctc,
     );
     return GestureDetector(child:Scaffold(
       appBar: AppBar(
