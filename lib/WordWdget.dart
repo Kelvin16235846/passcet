@@ -84,6 +84,10 @@ class WordWidgetState extends State<WordWdget> {
   late Builder _builderOfPage;
 
   void entrySettingPage() {
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.portraitUp,
+      DeviceOrientation.portraitDown,
+    ]);
     showPage(Builder(builder: (context){
       return buildSettingPage();
     }));
@@ -273,11 +277,20 @@ class WordWidgetState extends State<WordWdget> {
       thumbVisibility: true,
       trackVisibility: true,
     );
-    return GestureDetector(child:Scaffold(body: ctc,) ,onDoubleTap: (){exitSettingPage();},) ;
+    return GestureDetector(child:Scaffold(
+      appBar: AppBar(
+          centerTitle:true,
+        title: ElevatedButton(child: Text("退出"),
+      onPressed: (){exitSettingPage();},),),
+      body: ctc,) ,onDoubleTap: (){exitSettingPage();},) ;
   }
   bool _playAudioAfterNewCard=true;
 
   void exitSettingPage() {
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.landscapeLeft,
+      DeviceOrientation.landscapeRight,
+    ]);
     showFrontPage();
   }
 

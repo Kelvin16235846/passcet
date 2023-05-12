@@ -18,14 +18,17 @@ class WordListPageState extends State<WordListPage>{
   @override
   Widget build(BuildContext context) {
      return  Scaffold(
-         appBar: AppBar(title: Text("总数${wzs.length}") ,actions: [
-           ElevatedButton(onPressed: (){
+         appBar: AppBar(title: Row(crossAxisAlignment: CrossAxisAlignment.center,children: [Text("卡片总数:${wzs.length}")
+         , ElevatedButton(onPressed: (){
              setState(() {
-              wzs.shuffle( Random());
+               wzs.shuffle( Random());
              });
 
-           }, child: Text("打乱"))
-         ],),
+           }, child: Text("打乱")
+           )
+         ],
+         )
+         ),
          body:Scrollbar(
            thumbVisibility:true,
            trackVisibility: true,
