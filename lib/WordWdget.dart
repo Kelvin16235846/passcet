@@ -354,11 +354,8 @@ class WordWidgetState extends State<WordWdget> {
   }
   String frontpage="音频播放";
   String backPage="中文释义";
-  double _startScale = 1.0;
-  double _endScale = 1.0;
   GestureDetector wrapBaseAction(Widget wgt){
     return GestureDetector(child: wgt
-
         , onVerticalDragEnd: (details){
           nextWz();
           showFrontPage();
