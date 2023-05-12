@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'MyModel.dart';
+import 'Word.dart';
 
 class WordListPage extends StatefulWidget {
   const WordListPage({super.key,required this.wzs});
@@ -12,7 +12,7 @@ class WordListPage extends StatefulWidget {
   State<StatefulWidget> createState() {
    return WordListPageState();
   }
-  final List<MyModel> wzs;
+  final List<Word> wzs;
 }
 class WordListPageState extends State<WordListPage>{
   @override
@@ -52,7 +52,7 @@ class WordListPageState extends State<WordListPage>{
      )
      );
   }
-  List<MyModel> get wzs{
+  List<Word> get wzs{
     return widget.wzs;
   }
 

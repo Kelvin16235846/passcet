@@ -8,7 +8,7 @@ import 'package:fsfsfsf/WordListPage.dart';
 import 'package:fsfsfsf/myDropdownButton.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:perfect_volume_control/perfect_volume_control.dart';
-import 'MyModel.dart';
+import 'Word.dart';
 import 'package:audioplayers/audioplayers.dart';
 class WordWdget extends StatefulWidget{
   String v;
@@ -96,7 +96,7 @@ class WordWidgetState extends State<WordWdget> {
 
   void playAudio({String eng ="_None_",String type ="0"})async{
      if(eng=="_None_"){
-      eng=MyModel.displayList[curIndexOfWz].eng;
+      eng=Word.displayList[curIndexOfWz].eng;
       type="${DateTime.now().microsecondsSinceEpoch%2}";
     }
 
@@ -119,8 +119,8 @@ class WordWidgetState extends State<WordWdget> {
   TextEditingController ofstCtl=TextEditingController();
   static bool divide=false;
   Widget buildSettingPage() {
-    posCtl.text=MyModel.pos.toString();
-    ofstCtl.text=MyModel.ofst.toString();
+    posCtl.text=Word.pos.toString();
+    ofstCtl.text=Word.ofst.toString();
     Widget ctc= ListView(
         children: [
           Padding(padding: EdgeInsets.only(bottom: 10.0,top: 20),
@@ -230,10 +230,10 @@ class WordWidgetState extends State<WordWdget> {
             onChanged: (String v){
               int? tn=int.tryParse(v);
               if(tn!=null){
-                int b=MyModel.ofst+tn;
-                if(b>=0&&b<MyModel.allOfWord.length&&tn>=0&&tn<MyModel.allOfWord.length&&b!=tn){
-                  MyModel.pos=tn;
-                  MyModel.flush();
+                int b=Word.ofst+tn;
+                if(b>=0&&b<Word.allOfWord.length&&tn>=0&&tn<Word.allOfWord.length&&b!=tn){
+                  Word.pos=tn;
+                  Word.flush();
                 }
               }
 
@@ -252,10 +252,10 @@ class WordWidgetState extends State<WordWdget> {
             onChanged: (String v){
               int? tn=int.tryParse(v);
               if(tn!=null){
-                int testPos=tn+MyModel.pos;
-                if(testPos>=0&&testPos<MyModel.allOfWord.length){
-                  MyModel.ofst=tn;
-                  MyModel.flush();
+                int testPos=tn+Word.pos;
+                if(testPos>=0&&testPos<Word.allOfWord.length){
+                  Word.ofst=tn;
+                  Word.flush();
                 }
               }
             },
@@ -297,20 +297,20 @@ class WordWidgetState extends State<WordWdget> {
 
   void actionReset()  {
     if(_reviewPattern){
-      MyModel.flush(p:0,o:MyModel.pos);
+      Word.flush(p:0,o:Word.pos);
     }
     else {
-      MyModel.flush();
+      Word.flush();
     }
 
-    if(divide)MyModel.divideDisplayList();
+    if(divide)Word.divideDisplayList();
     if(msupOnReset){
       messUp();
     }
   }
 
   void nextWordsGroup() {
-    MyModel.next();
+    Word.next();
     curIndexOfWz=0;
   }
   void nextWz(){
@@ -320,7 +320,7 @@ class WordWidgetState extends State<WordWdget> {
   void messUp() {
     var sd=Random(DateTime.now().millisecondsSinceEpoch);
     for(int i=0;i<100;++i){
-      MyModel.displayList.shuffle(sd);
+      Word.displayList.shuffle(sd);
     }
     curIndexOfWz=0;
   }
@@ -399,8 +399,8 @@ class WordWidgetState extends State<WordWdget> {
       ));
     }));
   }
-  List<MyModel> get wzs {return MyModel.displayList;}
-  Widget buildChinesePage(MyModel w,BuildContext context) {
+  List<Word> get wzs {return Word.displayList;}
+  Widget buildChinesePage(Word w,BuildContext context) {
     var eng=AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],);
     var pho=AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]);
     var mean=AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [

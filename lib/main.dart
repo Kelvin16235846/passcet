@@ -9,7 +9,7 @@ import 'dart:async';
 import  'package:flutter/services.dart';
 import 'package:flutter/services.dart' show rootBundle;
 
-import 'MyModel.dart';
+import 'Word.dart';
 import 'WordWdget.dart';
 
 Future<String> loadAsset({required String path}) async {
@@ -19,12 +19,12 @@ Future<String> loadAsset({required String path}) async {
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   await Future(()async{
-    String dir="${(await  getApplicationDocumentsDirectory()).path}/${MyModel.cfgPath}";
+    String dir="${(await  getApplicationDocumentsDirectory()).path}/${Word.cfgPath}";
     File f= File(dir);
     if(f.existsSync()){
-      await MyModel.readStateFromFile();
+      await Word.readStateFromFile();
     }
-    await MyModel.inialize();
+    await Word.inialize();
 
 
 
@@ -68,7 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   void initState()  {
     super.initState();
-    MyModel.flush();
+    Word.flush();
   }
 }
 
