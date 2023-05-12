@@ -177,7 +177,13 @@ class WordWidgetState extends State<WordWdget> {
 
               saveStateToFile();
             })],),
-
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("显示新卡片后播放音频"), Switch(value: _playAudioAfterNewCard, onChanged: (v){
+              setState(() {
+                _playAudioAfterNewCard=v!;
+              });
+              saveStateToFile();
+            })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("显示剩余卡片数"), Switch(value: _showRemainWzCnt, onChanged: (v){
               setState(() {
@@ -234,6 +240,7 @@ class WordWidgetState extends State<WordWdget> {
         ]);
     return GestureDetector(child:Scaffold(body: ctc,) ,onDoubleTap: (){exitSettingPage();},) ;
   }
+  bool _playAudioAfterNewCard=true;
 
   void exitSettingPage() {
     showFrontPage();
@@ -312,6 +319,7 @@ class WordWidgetState extends State<WordWdget> {
     return GestureDetector(child: wgt
         , onVerticalDragEnd: (details){
           nextWz();
+          if(_playAudioAfterNewCard)playAudio();
           showFrontPage();
         },onLongPress: (){
           alreadyMastered();
@@ -382,8 +390,6 @@ class WordWidgetState extends State<WordWdget> {
   }
 
   Widget buildAudioPage({String tag=""}) {
-    playAudio();
-
     var bt= ElevatedButton(
         onPressed: (){
           playAudio();
