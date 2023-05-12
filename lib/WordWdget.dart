@@ -117,7 +117,7 @@ class WordWidgetState extends State<WordWdget> {
   Widget buildSettingPage() {
     posCtl.text=MyModel.pos.toString();
     ofstCtl.text=MyModel.ofst.toString();
-    var ctc= ListView(
+    Widget ctc= ListView(
         children: [
           Padding(padding: EdgeInsets.only(bottom: 10.0,top: 20),
             child: ElevatedButton( onPressed: (){
@@ -268,6 +268,11 @@ class WordWidgetState extends State<WordWdget> {
           ),
 
         ]);
+    ctc=Scrollbar(
+      child:ctc,
+      thumbVisibility: true,
+      trackVisibility: true,
+    );
     return GestureDetector(child:Scaffold(body: ctc,) ,onDoubleTap: (){exitSettingPage();},) ;
   }
   bool _playAudioAfterNewCard=true;

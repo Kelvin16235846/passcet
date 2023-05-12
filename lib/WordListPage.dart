@@ -28,6 +28,7 @@ class WordListPageState extends State<WordListPage>{
          ],),
          body:Scrollbar(
            thumbVisibility:true,
+           trackVisibility: true,
        child:  ListView.builder(itemCount: wzs.length,
          itemBuilder: (BuildContext context, int index) {
            var content= Column(children: [Text(wzs[index].eng)
