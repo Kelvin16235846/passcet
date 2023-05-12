@@ -37,9 +37,11 @@ class WordListPageState extends State<WordListPage>{
              child:ElevatedButton(onPressed: () {  },
                child:content ,)
              ,onLongPress: (){
-             setState(() {
-               wzs.removeAt(index);
-             });
+               if(wzs.length>1){
+                 setState(() {
+                   wzs.removeAt(index);
+                 });
+               }
            },);
          }
          ,),

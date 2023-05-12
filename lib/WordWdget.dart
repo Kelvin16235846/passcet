@@ -66,7 +66,7 @@ class WordWidgetState extends State<WordWdget> {
   @override
   Widget build(BuildContext context) {
     var content=_builderOfPage.builder(context);
-    content=WordListPage(wzs: wzs);
+   // content=WordListPage(wzs: wzs);
     if(_showRemainWzCnt) {
       return Scaffold(
         body: content
@@ -133,7 +133,21 @@ class WordWidgetState extends State<WordWdget> {
             nextWordsGroup();
             exitSettingPage();
 
-          }, child:const AutoSizeText("下一组",presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),),
+          }, child:const AutoSizeText("下一组"
+            ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),)
+          ,
+          ElevatedButton(onPressed: (){
+             Navigator.push(context,MaterialPageRoute(builder: (ct){
+               return WordListPage(wzs: wzs);
+             })).then((value){
+               setState(() {
+                 nextWz();
+               });
+             });
+
+          }, child:const AutoSizeText("查看全部单词"
+            ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),)
+          ,
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("重置后打乱顺序"), Switch(value: msupOnReset, onChanged: (v){
               setState(() {
