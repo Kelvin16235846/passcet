@@ -1,0 +1,1 @@
+{"eg":"1. As an undergraduate, I studied biology and developed a keen interest in ecology.2. Being an undergraduate student requires a lot of hard work, dedication, and perseverance.3. After my undergraduate studies, I plan to pursue a master's degree in computer science.","eng":"undergraduate"}

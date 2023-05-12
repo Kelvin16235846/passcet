@@ -1,0 +1,1 @@
+{"eg":"1. The car's engine was rated at 300 horsepower, allowing it to accelerate quickly.2. The farmer's tractor boasted an impressive 100 horsepower, making it ideal for heavy farm work.3. The racehorse's incredible speed was a result of its impressive 500 horsepower.","eng":"horsepower"}

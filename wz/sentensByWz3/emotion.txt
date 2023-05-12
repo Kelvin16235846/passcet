@@ -1,0 +1,1 @@
+{"eg":"1. I feel ecstatic about receiving the good news!2. I feel devastated after hearing about the sudden loss.3. I feel anxious about the upcoming exam.","eng":"emotion"}

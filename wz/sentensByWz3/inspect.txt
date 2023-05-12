@@ -1,0 +1,1 @@
+{"eg":"1. \"She used a magnifying glass to inspect the tiny details of the insect's wings.\"2. \"The building inspector found several code violations during his inspection of the construction site.\"3. \"The doctor inspected the patient's throat using a lighted instrument to look for any signs of infection.\"","eng":"inspect"}

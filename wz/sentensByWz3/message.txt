@@ -1,0 +1,1 @@
+{"eg":"1. \"I just received your message and wanted to thank you for inviting me to the party.\"2. \"I'm sorry I missed your message earlier. Can you please send it again?\"3. \"Thanks for the quick response to my message. Your assistance is greatly appreciated.\"","eng":"message"}

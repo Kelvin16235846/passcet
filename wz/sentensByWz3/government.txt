@@ -1,0 +1,1 @@
+{"eg":"1. The government announced new measures to tackle climate change.2. The government's economic policies have led to a decrease in unemployment rates.3. The government has launched an investigation into the recent cyber attack on a national security agency.","eng":"government"}

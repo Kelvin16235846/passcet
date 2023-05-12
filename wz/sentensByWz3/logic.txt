@@ -1,0 +1,1 @@
+{"eg":"1. If it is raining outside, then I will bring an umbrella.2. All squares are rectangles, but not all rectangles are squares.3. If you study hard, then you will do well on your exams.","eng":"logic"}

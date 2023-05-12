@@ -1,0 +1,1 @@
+{"eg":"1. I need to go grocery shopping.2. He needs to finish his homework before watching TV.3. She needs to get a good night's sleep for her big presentation tomorrow.","eng":"need"}

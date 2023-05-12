@@ -1,0 +1,1 @@
+{"eg":"1. I can't afford to go on a vacation this year due to financial constraints.2. Despite my love for designer clothes, I can't afford to buy them on my current salary.3. We need to find a cheaper apartment that we can afford as our rent is too high.","eng":"afford"}

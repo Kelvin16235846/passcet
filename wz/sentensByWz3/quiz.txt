@@ -1,0 +1,1 @@
+{"eg":"1. I took a quiz online to test my knowledge of French grammar.2. The teacher gave us a pop quiz on the chapter we just read.3. The contestants are racing against the clock in this intense quiz show.","eng":"quiz"}

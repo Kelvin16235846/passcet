@@ -1,0 +1,1 @@
+{"eg":"1. I drew a square on the paper with a ruler.2. The room was decorated with square-shaped tiles on the floor.3. The scientist was working on a project to develop a square-shaped battery.","eng":"square"}

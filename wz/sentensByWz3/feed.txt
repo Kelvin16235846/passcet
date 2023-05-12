@@ -1,0 +1,1 @@
+{"eg":"1. I need to feed my cat before I go to work.2. The farmer spends hours every day feeding the animals.3. Could you please feed the fish while I'm away on vacation?","eng":"feed"}

@@ -1,0 +1,1 @@
+{"eg":"1. The robber pointed his gun at the bank teller and demanded all the money in the vault.2. The hunter raised his gun and aimed at the deer in the clearing.3. The police officer drew his gun and yelled for the suspect to put his hands up.","eng":"gun"}

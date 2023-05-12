@@ -1,0 +1,1 @@
+{"eg":"1. The teacher wrote the instructions on the board for the students to follow.2. The company announced its quarterly earnings on the board to investors.3. The surfers checked the board for the latest wave conditions before hitting the water.","eng":"board"}

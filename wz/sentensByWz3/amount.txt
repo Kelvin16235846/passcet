@@ -1,0 +1,1 @@
+{"eg":"1. The amount of money I spent on dinner last night was quite high.2. The amount of time it takes to complete this project is two weeks.3. The amount of sugar in this cake recipe seems excessive.","eng":"amount"}

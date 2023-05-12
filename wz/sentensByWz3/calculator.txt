@@ -1,0 +1,1 @@
+{"eg":"1. The calculator helped me solve the complex arithmetic problem in just a few seconds.2. Without a calculator, it would have taken me much longer to complete the math assignment.3. My favorite feature of the new calculator is the ability to calculate percentages quickly and accurately.","eng":"calculator"}

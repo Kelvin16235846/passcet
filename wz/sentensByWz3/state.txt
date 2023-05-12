@@ -1,0 +1,1 @@
+{"eg":"1. The state of emergency was declared due to the natural disaster.2. The state of the art technology was used to create this product.3. The state government is responsible for providing education and healthcare to its citizens.","eng":"state"}

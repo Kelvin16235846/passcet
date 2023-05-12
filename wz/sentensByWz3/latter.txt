@@ -1,0 +1,1 @@
+{"eg":"1. I prefer coffee to tea, the latter always makes me feel too jittery.2. After he lost his job at the law firm, he applied to two other firms; the latter offered him a higher salary.3. I read two books for my book club this month, one was boring and the latter was much more engaging.","eng":"latter"}

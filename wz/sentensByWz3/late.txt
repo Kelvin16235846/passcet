@@ -1,0 +1,1 @@
+{"eg":"1. I'm sorry I'm running late for our meeting.2. John always sleeps in late on the weekends.3. The train was delayed, so I arrived late to the party.","eng":"late"}

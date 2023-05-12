@@ -1,0 +1,1 @@
+{"eg":"1. The maximum speed limit on this road is 100km/h.2. The hotel room can accommodate a maximum of four people.3. I can only fit a maximum of three books in my backpack.","eng":"maximum"}

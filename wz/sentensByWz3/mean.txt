@@ -1,0 +1,1 @@
+{"eg":"1. The mean score for the test was 75 out of 100.2. The mean temperature for this time of year is around 20°C.3. The mean salary for employees at this company is $50,000 per year.","eng":"mean"}

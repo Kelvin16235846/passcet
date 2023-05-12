@@ -1,0 +1,1 @@
+{"eg":"1. I prefer coffee over tea in the morning.2. She prefers to read books rather than watch TV.3. They prefer to spend their weekends outdoors, hiking and camping.","eng":"prefer"}

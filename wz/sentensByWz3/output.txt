@@ -1,0 +1,1 @@
+{"eg":"1. The output of the experiment was very promising and could potentially lead to groundbreaking advancements in the field of medicine.2. She adjusted the settings on the printer to improve the output quality of the document.3. The company's profits increased significantly after they implemented the new software, which resulted in higher output levels.","eng":"output"}

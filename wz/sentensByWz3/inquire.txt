@@ -1,0 +1,1 @@
+{"eg":"1. I need to inquire about your pricing for the services you offer.2. May I inquire if you have any availability for appointments next week?3. I would like to inquire about the status of my application.","eng":"inquire"}

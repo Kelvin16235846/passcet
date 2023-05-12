@@ -1,0 +1,1 @@
+{"eg":"1. We can classify animals into different groups based on their diet and habitat.2. It is important to classify different types of waste correctly to ensure proper disposal.3. The library uses a classification system to organize books based on subject and author.","eng":"classify"}

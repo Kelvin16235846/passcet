@@ -1,0 +1,1 @@
+{"eg":"1. I need to buy two dozen eggs for making a cake.2. The farmer picked a dozen apples from the orchard.3. There were a dozen guests at the party, and we had a great time.","eng":"dozen"}

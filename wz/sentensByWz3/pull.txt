@@ -1,0 +1,1 @@
+{"eg":"1. I need you to pull the rope hard to lift this heavy box.2. He used all his strength to pull the car out of the ditch.3. Can you help me pull the weeds out of the garden?","eng":"pull"}

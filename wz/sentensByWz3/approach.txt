@@ -1,0 +1,1 @@
+{"eg":"1. Our team has taken a new approach to solving this problem.2. I think your approach to this project is very innovative.3. The teacher recommended a different approach to studying for exams.","eng":"approach"}

@@ -1,0 +1,1 @@
+{"eg":"1. The jury deliberated for hours before reaching a verdict in the high-profile case.2. As a juror, it's important to remain impartial and base decisions solely on the evidence presented in court.3. The defense team was thrilled when the jury acquitted their client of all charges.","eng":"jury"}

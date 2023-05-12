@@ -1,0 +1,1 @@
+{"eg":"1. The pollution in the city is so bad that it's affecting people's health.2. The government needs to take stronger action to reduce pollution levels in rivers and oceans.3. Air pollution from factories and cars is a major contributor to climate change.","eng":"pollution"}

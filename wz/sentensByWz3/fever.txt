@@ -1,0 +1,1 @@
+{"eg":"1. He's been running a fever for the past two days and is in need of medical attention.2. The doctor advised her to take a fever reducer and get plenty of rest to help fight off the virus.3. After experiencing a fever and other symptoms, he was tested for COVID-19 and advised to quarantine.","eng":"fever"}

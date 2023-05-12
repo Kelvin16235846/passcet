@@ -1,0 +1,1 @@
+{"eg":"1. My car has automatic transmission, so I don't have to worry about shifting gears.2. The store's doors slide open automatically when you approach them.3. The thermostat in my house is set to automatically adjust the temperature based on the time of day.","eng":"automatic"}

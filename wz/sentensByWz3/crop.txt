@@ -1,0 +1,1 @@
+{"eg":"1. I had to crop the image in order to emphasize the subject in the foreground.2. The photographer decided to crop out the distracting background elements from the photo.3. The software allows you to easily crop your images to fit the desired aspect ratio.","eng":"crop"}

@@ -1,0 +1,1 @@
+{"eg":"1. I cannot go out tonight because I have a lot of work to finish.2. She was late for the meeting because her car broke down on the way.3. He missed the flight because the traffic was very heavy on the way to the airport.","eng":"because"}

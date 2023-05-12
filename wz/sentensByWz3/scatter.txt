@@ -1,0 +1,1 @@
+{"eg":"1. The scatter plot revealed a positive correlation between temperature and ice cream sales.2. The teacher used a scatter diagram to demonstrate the relationship between test scores and study time.3. The scatter graph indicated a strong negative correlation between rainfall and tourist activity in the area.","eng":"scatter"}

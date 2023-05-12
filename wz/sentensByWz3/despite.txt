@@ -1,0 +1,1 @@
+{"eg":"1. Despite the heavy rain, the marathon runners continued on their race.2. Despite his lack of experience, he was hired for the job because of his positive attitude.3. Despite the warning signs, the hiker ventured off the trail and got lost in the forest.","eng":"despite"}

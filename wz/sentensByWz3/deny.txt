@@ -1,0 +1,1 @@
+{"eg":"1. I must deny your request for a raise as it is not within the company's budget.2. The defendant denied any involvement in the robbery, but his alibi was proven false.3. The doctor denied the patient's request for unnecessary medication, stating it could do more harm than good.","eng":"deny"}

@@ -1,0 +1,1 @@
+{"eg":"1. I always take the same route to work every day.2. We got lost trying to find the restaurant, but eventually we found the right route.3. The scenic route we took on our road trip added an extra hour to our drive, but it was worth it for the beautiful views.","eng":"route"}

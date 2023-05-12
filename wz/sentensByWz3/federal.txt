@@ -1,0 +1,1 @@
+{"eg":"1. The United States is a federal republic consisting of 50 states.2. The Department of Homeland Security is a federal agency responsible for national security.3. The Federal Reserve System is the central bank of the United States.","eng":"federal"}

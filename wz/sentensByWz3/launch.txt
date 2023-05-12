@@ -1,0 +1,1 @@
+{"eg":"1. We are excited to launch our new product and can't wait for our customers to try it out.2. The company will officially launch its new website next month, offering a more user-friendly experience.3. The rocket is set to launch at dawn, with the mission to send a satellite into orbit.","eng":"launch"}

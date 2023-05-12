@@ -1,0 +1,1 @@
+{"eg":"1. The sales representative received a commission of 10% for every unit sold.2. The broker's commission on the sale of the property was only 2%.3. The artist earned a commission for painting a mural in the lobby of the hotel.","eng":"commission"}

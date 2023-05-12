@@ -1,0 +1,1 @@
+{"eg":"1. I bought a cube of cheese at the grocery store.2. The Rubik's cube puzzle is very challenging.3. The architect designed a modern building with cube-shaped windows.","eng":"cube"}

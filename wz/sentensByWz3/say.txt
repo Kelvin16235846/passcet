@@ -1,0 +1,1 @@
+{"eg":"1. \"I must say, your cooking skills are impressive!\"2. \"I have to say, I disagree with your opinion on this matter.\"3. \"I just wanted to say thank you for all your hard work and support.\"","eng":"say"}

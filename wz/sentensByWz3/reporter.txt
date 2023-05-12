@@ -1,0 +1,1 @@
+{"eg":"1. The reporter interviewed the mayor about the city's new housing initiative.2. The reporter wrote a detailed article about the impact of climate change on local agriculture.3. The investigative reporter uncovered a major corruption scandal involving the city's top officials.","eng":"reporter"}

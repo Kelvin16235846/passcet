@@ -1,0 +1,1 @@
+{"eg":"1. The operator on the other end of the line was very helpful in resolving my issue.2. The computer program requires the user to enter an operator to perform certain tasks.3. The crane operator carefully lifted the heavy cargo onto the awaiting truck.","eng":"operator"}

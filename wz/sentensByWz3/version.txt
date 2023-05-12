@@ -1,0 +1,1 @@
+{"eg":"1. The latest version of the software includes new features and improvements.2. I prefer the previous version of the phone app as it was simpler to use.3. The designer had to create a new version of the logo to fit the company’s rebranding.","eng":"version"}

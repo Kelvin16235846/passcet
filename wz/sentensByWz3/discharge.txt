@@ -1,0 +1,1 @@
+{"eg":"1. The hospital will not discharge the patient until they are fully recovered.2. The discharge of pollutants into the river has led to ecological damage.3. The military veteran was dishonorably discharged from the army due to misconduct.","eng":"discharge"}

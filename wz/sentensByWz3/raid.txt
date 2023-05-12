@@ -1,0 +1,1 @@
+{"eg":"1. Our company uses RAID technology to protect our data from hardware failures.2. The RAID system provides redundancy for our servers, ensuring that our website remains accessible even if one disk fails.3. Thanks to RAID 5 configuration, our company's data is safe, even if one of our storage drives malfunctions.","eng":"raid"}

@@ -1,0 +1,1 @@
+{"eg":"1. I love to study computer science and explore new programming languages in my free time.2. A beautiful sunset over the ocean is one of the most breathtaking sights you can witness in nature.3. It is important to lead a healthy lifestyle by exercising regularly, eating nutritious food, and getting enough sleep.","eng":"racket"}

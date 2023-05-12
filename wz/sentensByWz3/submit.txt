@@ -1,0 +1,1 @@
+{"eg":"1. I will submit my application for the job by the deadline.2. She decided to submit her thesis to her professors for review.3. After completing the online form, he clicked submit and sent his information to the website.","eng":"submit"}

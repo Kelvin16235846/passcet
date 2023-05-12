@@ -1,0 +1,1 @@
+{"eg":"1. Could you please specify the exact time of the meeting?2. The job description didn't specify whether a college degree is required.3. The instructions for operating the machine were not specified clearly in the manual.","eng":"specify"}

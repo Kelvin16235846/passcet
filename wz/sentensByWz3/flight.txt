@@ -1,0 +1,1 @@
+{"eg":"1. I booked a flight to New York for next week.2. The flight attendant provided excellent service throughout the flight.3. Due to bad weather, the flight was delayed for three hours.","eng":"flight"}

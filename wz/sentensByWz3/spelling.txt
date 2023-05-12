@@ -1,0 +1,1 @@
+{"eg":"1. Can you spell the word \"accommodation\"?2. I always struggle with spelling the word \"necessary\".3. The spelling of her name is unique and difficult to remember.","eng":"spelling"}

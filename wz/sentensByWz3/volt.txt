@@ -1,0 +1,1 @@
+{"eg":"1. Despite the voltage fluctuations, the electronic devices remained operational.2. The voltage meter displayed a reading of 120 volts, indicating a stable power supply.3. The technician adjusted the voltage setting on the machine to improve its efficiency.","eng":"volt"}

@@ -1,0 +1,1 @@
+{"eg":"1. He plays the guitar passionately.2. She sings beautifully.3. They dance gracefully.","eng":"adverb"}

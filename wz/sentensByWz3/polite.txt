@@ -1,0 +1,1 @@
+{"eg":"1. Excuse me, could you please tell me where the nearest bathroom is located?2. Would you mind passing me that pencil, please?3. May I kindly ask if you could provide me with more information regarding this topic?","eng":"polite"}

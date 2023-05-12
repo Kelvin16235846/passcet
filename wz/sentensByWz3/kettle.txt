@@ -1,0 +1,1 @@
+{"eg":"1. Kettle is a powerful tool for data integration and ETL processing.2. With Kettle, you can easily extract, transform, and load data from various sources.3. Kettle provides a user-friendly graphical interface for designing and executing data workflows.","eng":"kettle"}

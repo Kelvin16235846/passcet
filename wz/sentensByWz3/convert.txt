@@ -1,0 +1,1 @@
+{"eg":"1. I will convert the dollars to euros before traveling to Europe.2. The company decided to convert its paper documents to digital files for easier storage and access.3. She used a converter to change the voltage of her electronics to work in a foreign country.","eng":"convert"}

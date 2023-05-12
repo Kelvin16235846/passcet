@@ -1,0 +1,1 @@
+{"eg":"1. Do you want soup or salad for your starter?2. Are you going to watch a movie tonight or go out with friends?3. Should we go on a hike or have a picnic in the park?","eng":"or"}

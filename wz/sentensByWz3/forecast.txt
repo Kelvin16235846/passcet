@@ -1,0 +1,1 @@
+{"eg":"1. The weather forecast predicts rain for tomorrow, so make sure to bring an umbrella with you.2. According to the economic forecast, the stock market is expected to perform well in the upcoming quarter.3. The population forecast for this region shows a significant increase over the next decade.","eng":"forecast"}

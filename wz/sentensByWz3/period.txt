@@ -1,0 +1,1 @@
+{"eg":"1. I end each sentence with a period.2. The doctor prescribed me three periods a day for a week.3. The Renaissance period was known for its significant artistic and cultural achievements.","eng":"period"}

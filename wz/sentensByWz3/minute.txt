@@ -1,0 +1,1 @@
+{"eg":"1. I have only a minute to spare before my meeting starts.2. She ran a mile in only six minutes, setting a new personal record.3. The speaker gave an impassioned speech that lasted for well over an hour, but in the final minute she really captured the audience's attention.","eng":"minute"}

@@ -1,0 +1,1 @@
+{"eg":"1. I strongly disagree with your opinion on climate change.2. Sorry, I have to disagree with your interpretation of the data.3. I completely disagree with your decision to terminate the project.","eng":"disagree"}

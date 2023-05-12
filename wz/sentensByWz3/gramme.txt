@@ -1,0 +1,1 @@
+{"eg":"1. I need a few grammes of sugar to sweeten my tea.2. The recipe calls for five grammes of salt to be added to the mixture.3. She weighed out the flour to make sure she had exactly 250 grammes for the cake recipe.","eng":"gramme"}

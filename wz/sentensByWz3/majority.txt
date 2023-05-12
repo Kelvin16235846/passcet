@@ -1,0 +1,1 @@
+{"eg":"1. The majority of voters chose the incumbent candidate as their preferred choice.2. The majority of students in the classroom raised their hands in agreement with the teacher's statement.3. The company's decision to move forward with the project was based on the majority vote of the board of directors.","eng":"majority"}

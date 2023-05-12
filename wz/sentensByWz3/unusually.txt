@@ -1,0 +1,1 @@
+{"eg":"1. It was unusually cold for this time of year.2. She had an unusually high level of energy today.3. The teacher was unusually strict with the students during the exam.","eng":"unusually"}

@@ -1,0 +1,1 @@
+{"eg":"1. I usually receive job notifications through the company's channel on Slack.2. Let's communicate through our private channel on WhatsApp to discuss the project details.3. The live streaming of the concert will be available on the band's official YouTube channel.","eng":"channel"}

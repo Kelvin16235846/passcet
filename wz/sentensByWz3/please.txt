@@ -1,0 +1,1 @@
+{"eg":"1. Please bring me a glass of water.2. Please help me with these heavy boxes.3. Please finish your homework before watching TV.","eng":"please"}

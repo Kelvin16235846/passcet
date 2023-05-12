@@ -1,0 +1,1 @@
+{"eg":"1. The roof of the house was damaged in the hurricane.2. The workers repaired the roof of the skyscraper.3. The cat climbed onto the roof to escape the dog.","eng":"roof"}

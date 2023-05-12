@@ -1,0 +1,1 @@
+{"eg":"1. The instructions for the new game are below the controller.2. The temperature is dropping below freezing point tonight.3. The test scores were below average for the class.","eng":"below"}

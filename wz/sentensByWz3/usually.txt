@@ -1,0 +1,1 @@
+{"eg":"1. I usually wake up early in the morning.2. My mom usually cooks dinner for us every night.3. We usually go to the gym after work.","eng":"usually"}

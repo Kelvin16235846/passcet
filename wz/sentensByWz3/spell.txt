@@ -1,0 +1,1 @@
+{"eg":"1. I am going to spell my name for you: J-O-H-N.2. Can you spell the word \"cat\" for me?3. In order to communicate effectively, it's important to spell words correctly.","eng":"spell"}

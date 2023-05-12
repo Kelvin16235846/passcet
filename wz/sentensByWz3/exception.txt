@@ -1,0 +1,1 @@
+{"eg":"1. The program threw an exception when it tried to access a null pointer.2. We caught the exception and handled it gracefully, displaying an error message to the user.3. An exception was raised due to an unexpected input format, requiring us to refactor our code.","eng":"exception"}

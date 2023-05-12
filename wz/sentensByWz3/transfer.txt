@@ -1,0 +1,1 @@
+{"eg":"1. I need to transfer money from my savings account to my checking account.2. Can you transfer the files from your computer to mine please?3. The company will transfer me to their office in London next month.","eng":"transfer"}

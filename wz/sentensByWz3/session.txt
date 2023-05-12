@@ -1,0 +1,1 @@
+{"eg":"1. I logged into my account and started a new session to begin my work.2. The website requires users to create a session before accessing certain features.3. After a period of inactivity, my session timed out and I had to log back in.","eng":"session"}

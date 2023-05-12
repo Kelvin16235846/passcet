@@ -1,0 +1,1 @@
+{"eg":"1. The book belongs to Susan, she lent it to me.2. The old vase belongs in the antique store, not in a garage sale.3. This problem doesn't belong in the IT department, it's a marketing issue.","eng":"belong"}

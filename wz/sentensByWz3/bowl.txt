@@ -1,0 +1,1 @@
+{"eg":"1. I need a bowl to mix the ingredients.2. The soup is too hot, I'll have to wait for it to cool down before I can eat it from the bowl.3. Can you pass me the bowl of chips please?","eng":"bowl"}

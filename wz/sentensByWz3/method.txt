@@ -1,0 +1,1 @@
+{"eg":"1. I am currently in the process of developing a new marketing strategy using a methodical approach.2. The scientist conducted experiments using the scientific method to determine the best way to eradicate the virus.3. By using the Agile development method, our team was able to complete the project ahead of schedule.","eng":"method"}

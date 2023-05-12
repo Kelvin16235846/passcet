@@ -1,0 +1,1 @@
+{"eg":"1. I need you to come to the office immediately.2. Please send the report to me immediately after it's ready.3. The doctor said we need to start treatment immediately to prevent further complications.","eng":"immediately"}

@@ -1,0 +1,1 @@
+{"eg":"1. Good morning! How did you sleep last night?2. Hi there! Nice to see you again.3. Hello! How's your day been so far?","eng":"greeting"}

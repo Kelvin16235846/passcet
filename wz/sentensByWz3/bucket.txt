@@ -1,0 +1,1 @@
+{"eg":"1. I used a bucket to collect water from the well.2. He carried a bucket of sand to build a sandcastle on the beach.3. The painter used a bucket of paint to cover the entire wall.","eng":"bucket"}

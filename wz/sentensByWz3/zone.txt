@@ -1,0 +1,1 @@
+{"eg":"1. I live in the eastern time zone.2. The shopping center has a dedicated parking zone for disabled people.3. The forest is divided into different ecological zones based on altitude and climate.","eng":"zone"}

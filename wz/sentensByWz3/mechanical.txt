@@ -1,0 +1,1 @@
+{"eg":"1. The mechanical engineer designed a complex system of gears to power the machine.2. The mechanical failure of the vehicle caused the accident on the highway.3. The factory workers used mechanical tools to assemble the products on the production line.","eng":"mechanical"}

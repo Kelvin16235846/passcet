@@ -1,0 +1,1 @@
+{"eg":"1. \"Can I have a sample of that perfume before I make a purchase?\"2. \"I would like to try a sample of the new ice cream flavor please.\"3. \"The sales associate handed me a sample of the face cream to test out.\"","eng":"sample"}

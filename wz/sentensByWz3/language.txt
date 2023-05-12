@@ -1,0 +1,1 @@
+{"eg":"1. \"My favorite language to program in is Python.\"2. \"Learning a new language can open up a whole new world of opportunities.\"3. \"The language barrier can be a challenge when traveling to a foreign country.\"","eng":"language"}

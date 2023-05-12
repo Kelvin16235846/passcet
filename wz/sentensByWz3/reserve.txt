@@ -1,0 +1,1 @@
+{"eg":"1. I would like to reserve a table for two at your restaurant for 7 pm tonight.2. Can I reserve this hotel room for two nights from August 31st to September 2nd?3. We need to reserve tickets for the concert in advance to ensure that we get good seats.","eng":"reserve"}

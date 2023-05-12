@@ -1,0 +1,1 @@
+{"eg":"1. My skill in programming allows me to create complex software applications.2. Through years of practice and training, I have honed my skill in martial arts.3. I acquired the skill of public speaking by taking courses and attending workshops.","eng":"skill"}

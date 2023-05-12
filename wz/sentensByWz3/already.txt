@@ -1,0 +1,1 @@
+{"eg":"1. I have already eaten breakfast, so I'm not hungry.2. She has already visited Paris twice and wants to go back again.3. They have already finished their project, so they have free time now.","eng":"already"}

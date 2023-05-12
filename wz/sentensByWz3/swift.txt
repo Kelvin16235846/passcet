@@ -1,0 +1,1 @@
+{"eg":"1. The quick brown fox jumps over the lazy dog.2. She sells seashells by the seashore.3. The early bird catches the worm.","eng":"swift"}

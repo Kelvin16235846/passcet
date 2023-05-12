@@ -1,0 +1,1 @@
+{"eg":"1. The hurricane caused severe damage to the coastal town, leaving dozens of buildings destroyed.2. The car accident resulted in significant damage to both vehicles, but thankfully no one was injured.3. The heavy rain caused extensive water damage to the basement, ruining many of the possessions stored there.","eng":"damage"}

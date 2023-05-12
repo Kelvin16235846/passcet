@@ -1,0 +1,1 @@
+{"eg":"1. His ability to solve complex mathematical problems is impressive.2. I doubt her ability to handle the pressure of the job.3. The company values employees with strong leadership abilities.","eng":"ability"}

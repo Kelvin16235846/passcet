@@ -1,0 +1,1 @@
+{"eg":"1. The waiter approached our table and asked if we were ready to order.2. I motioned to the waiter for another drink refill.3. The waiter apologized for the delay in our food delivery and offered us complimentary drinks while we waited.","eng":"waiter"}

@@ -1,0 +1,1 @@
+{"eg":"1. Hi there! How are you today?2. Hi, it's nice to meet you. My name is John.3. Hi mom, I just wanted to say I love you and miss you.","eng":"hi"}

@@ -1,0 +1,1 @@
+{"eg":"1. The amount of sugar in the recipe is proportional to the sweetness of the cake.2. The length of a day on Mars is proportional to its distance from the sun.3. The number of employees needed to complete the project is proportional to the scope of work.","eng":"proportional"}

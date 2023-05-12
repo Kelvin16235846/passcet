@@ -1,0 +1,1 @@
+{"eg":"1. The lungs are responsible for bringing oxygen into the body and removing carbon dioxide.2. Smoking is known to cause significant damage to the lungs, leading to respiratory diseases such as chronic bronchitis and lung cancer.3. In severe cases of COVID-19, the virus can cause inflammation and damage to the lungs, making it difficult to breathe.","eng":"lung"}

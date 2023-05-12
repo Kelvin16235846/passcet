@@ -1,0 +1,1 @@
+{"eg":"1. The doctors used X-ray to identify the source of the patient's pain.2. The security personnel examined the suspicious package using X-ray technology.3. The archaeologists used X-ray to study the unseen inscriptions on the ancient artifacts.","eng":"X-ray"}

@@ -1,0 +1,1 @@
+{"eg":"1. The doctor examined the patient's knee to determine the severity of the injury.2. The detective carefully examined the crime scene for any potential evidence.3. The teacher examined the students' written essays for grammatical errors and content accuracy.","eng":"examine"}

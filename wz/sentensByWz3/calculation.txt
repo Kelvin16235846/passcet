@@ -1,0 +1,1 @@
+{"eg":"1. The calculation of the project cost took longer than expected due to unforeseen expenses.2. My teacher asked me to double-check my calculation before handing in my math homework.3. The accuracy of the financial report was questioned, prompting a thorough examination of the calculation methodology.","eng":"calculation"}

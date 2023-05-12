@@ -1,0 +1,1 @@
+{"eg":"1. The cost of living in this city is quite high compared to other cities in the region.2. To reduce costs, we may need to consider outsourcing some of our business operations.3. The environmental cost of using non-renewable resources cannot be ignored in the long term.","eng":"cost"}

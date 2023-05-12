@@ -1,0 +1,1 @@
+{"eg":"1. Those cookies were delicious!2. I can't believe how expensive those shoes are.3. Could you please pass me those pencils?","eng":"those"}

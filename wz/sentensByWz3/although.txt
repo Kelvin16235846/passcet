@@ -1,0 +1,1 @@
+{"eg":"1. Although it was raining heavily, she still went for a run this morning.2. Although he had studied hard for the exam, he still didn't pass.3. Although he claimed to be innocent, there was overwhelming evidence against him.","eng":"although"}

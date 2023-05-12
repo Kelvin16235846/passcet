@@ -1,0 +1,1 @@
+{"eg":"1. The dog licked my hand affectionately.2. The child couldn't resist licking the ice cream cone.3. The cat licked its paw and groomed itself.","eng":"lick"}

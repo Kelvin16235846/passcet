@@ -1,0 +1,1 @@
+{"eg":"1. The company's new marketing campaign generated a lot of buzz among consumers.2. The software is able to generate complex algorithms within seconds.3. The wind turbines generate enough electricity to power hundreds of homes.","eng":"generate"}

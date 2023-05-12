@@ -1,0 +1,1 @@
+{"eg":"1. The blue car and the red car were driven by John and Sarah, respectively.2. The winners of the first, second, and third place received $1000, $500, and $250, respectively.3. The company's revenue for Q1, Q2, and Q3 increased by 10%, 15%, and 20%, respectively.","eng":"respectively"}

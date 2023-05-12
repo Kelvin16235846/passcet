@@ -1,0 +1,1 @@
+{"eg":"1. The prime minister addressed the nation in a televised speech.2. The number seven is a prime number.3. The prime suspect was arrested for the robbery.","eng":"prime"}

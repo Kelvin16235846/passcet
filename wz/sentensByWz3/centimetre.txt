@@ -1,0 +1,1 @@
+{"eg":"1. Her waist circumference is 70 centimetres.2. The length of the dress is 90 centimetres.3. The distance between the two chairs is 50 centimetres.","eng":"centimetre"}

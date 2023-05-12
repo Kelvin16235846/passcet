@@ -1,0 +1,1 @@
+{"eg":"1. I need to rent a car for my upcoming road trip.2. My landlord just increased the rent on my apartment.3. The movie theater allows customers to rent out their space for private events.","eng":"rent"}

@@ -1,0 +1,1 @@
+{"eg":"1. I need to create a new account to access this website.2. Can you provide me with your account details so I can transfer the money?3. I accidentally deleted all the data in my account, now I have to start from scratch.","eng":"account"}

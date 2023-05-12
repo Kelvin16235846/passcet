@@ -1,0 +1,1 @@
+{"eg":"1. My savings are invested in government bonds to ensure steady returns.2. The company issued corporate bonds to raise capital for expansion.3. As interest rates rise, investors may prefer to hold short-term bonds.","eng":"bond"}

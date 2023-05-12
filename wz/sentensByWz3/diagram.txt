@@ -1,0 +1,1 @@
+{"eg":"1. The diagram shows the relationship between the number of hours of sleep and the level of productivity.2. According to the diagram, there has been a rapid increase in the number of people using mobile phones over the past decade.3. The flow diagram illustrates the process of converting raw materials into a finished product in a manufacturing plant.","eng":"diagram"}

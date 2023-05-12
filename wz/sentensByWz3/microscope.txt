@@ -1,0 +1,1 @@
+{"eg":"1. The scientist observed the specimen under the microscope and recorded its characteristics.2. The microscope magnified the image of the blood cells, allowing the diagnostician to identify the disease.3. With the use of the electron microscope, researchers were able to study the ultrastructure of cells and discover new details about their function.","eng":"microscope"}

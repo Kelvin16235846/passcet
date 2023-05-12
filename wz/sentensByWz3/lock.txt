@@ -1,0 +1,1 @@
+{"eg":"1. I always make sure to lock the door before leaving the house.2. The employee forgot to lock the cash register, leading to a breach in security.3. My laptop has a built-in fingerprint scanner for easy and secure lock access.","eng":"lock"}

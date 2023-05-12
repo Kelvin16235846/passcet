@@ -1,0 +1,1 @@
+{"eg":"1. The police launched an investigation into the robbery that occurred last night.2. The company's financial records are currently under investigation due to suspected fraudulent activity.3. The government has initiated an investigation into the environmental impact of a new industrial project.","eng":"investigation"}

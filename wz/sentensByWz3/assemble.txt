@@ -1,0 +1,1 @@
+{"eg":"1. The students in the classroom are working hard to assemble the pieces of the puzzle.2. The mechanics spent hours trying to assemble the engine of the broken down car.3. After unpacking the furniture, we began to assemble it according to the instructions provided.","eng":"assemble"}

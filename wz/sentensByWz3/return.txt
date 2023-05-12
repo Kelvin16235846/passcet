@@ -1,0 +1,1 @@
+{"eg":"1. If you are not satisfied with the product, you can return it for a full refund.2. The library requires that all books be returned by the due date.3. The police found the stolen merchandise and returned it to the store.","eng":"return"}

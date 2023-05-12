@@ -1,0 +1,1 @@
+{"eg":"1. He asked me to draw a picture of his dog.2. She loves to draw landscapes with a pencil.3. We will need to hire an artist to draw a logo for our company.","eng":"draw"}

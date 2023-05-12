@@ -1,0 +1,1 @@
+{"eg":"1. The study of genetics has revolutionized our understanding of inherited traits and diseases.2. Advances in computer science have enabled the development of AI technologies with immense potential.3. The field of environmental science is crucial in helping us understand and address the impact of human activities on the planet.","eng":"science"}

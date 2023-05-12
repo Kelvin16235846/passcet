@@ -1,0 +1,1 @@
+{"eg":"1. I caught the flu and had to miss work for a week.2. She has been suffering from the flu for several days.3. The flu vaccine is recommended to prevent the spread of the virus.","eng":"flu"}

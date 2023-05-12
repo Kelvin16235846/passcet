@@ -1,0 +1,1 @@
+{"eg":"1. The tuition for the university is quite expensive.2. We need to budget our finances in order to afford the tuition for our children's education.3. The government may offer scholarships to provide financial assistance for those who struggle to pay tuition fees.","eng":"tuition"}

@@ -1,0 +1,1 @@
+{"eg":"1. It is a necessity for me to have my morning coffee in order to function properly.2. Due to the necessity of meeting the deadline, the team worked late into the night.3. The pandemic has highlighted the necessity of implementing better healthcare policies.","eng":"necessity"}

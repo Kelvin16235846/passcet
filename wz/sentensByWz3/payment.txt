@@ -1,0 +1,1 @@
+{"eg":"1. I made the payment for my online purchase using my credit card.2. The seller expects the payment to be completed within seven days.3. We offer multiple payment options including PayPal, credit cards, and bank transfers.","eng":"payment"}

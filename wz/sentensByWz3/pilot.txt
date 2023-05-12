@@ -1,0 +1,1 @@
+{"eg":"1. As a pilot, I have flown over 10,000 hours in various types of aircraft.2. The pilot successfully landed the plane despite challenging weather conditions.3. It takes a lot of hard work and dedication to become a skilled pilot.","eng":"pilot"}

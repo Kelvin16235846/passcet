@@ -1,0 +1,1 @@
+{"eg":"1. The project was only partially completed before it was cancelled.2. I am partially responsible for the delay in submitting the report.3. The manager was only partially satisfied with the performance of the team.","eng":"partially"}

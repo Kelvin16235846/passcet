@@ -1,0 +1,1 @@
+{"eg":"1. I will schedule a meeting with the team via Outlook.2. I received an important email notification on Outlook this morning.3. Please ensure to send the project report to my Outlook email by Friday.","eng":"outlook"}

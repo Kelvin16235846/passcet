@@ -1,0 +1,1 @@
+{"eg":"1. Allow me to introduce myself, my name is John and I am the new sales manager.2. I would like to introduce you to my colleagues, Sarah and Michael, who are joining us for this project.3. It is my pleasure to introduce our guest speaker for today, Dr. Smith, who will be discussing current trends in technology.","eng":"introduce"}

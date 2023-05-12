@@ -1,0 +1,1 @@
+{"eg":"1. I need to exchange my Euros for Pounds before going to London.2. The weight limit for this package is 10 pounds.3. We paid 20 pounds for two tickets to the theater.","eng":"pound"}

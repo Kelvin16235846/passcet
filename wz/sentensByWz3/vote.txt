@@ -1,0 +1,1 @@
+{"eg":"1. Let's take a vote and decide which restaurant to go to for lunch.2. The council held a vote to determine whether to increase the budget for the park renovations.3. The board of directors will vote on the proposed merger during the next meeting.","eng":"vote"}

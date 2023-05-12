@@ -1,0 +1,1 @@
+{"eg":"1. The prisoner is being held in a maximum-security facility for committing multiple heinous crimes.2. The prison guards closely monitor the movements of each prisoner to prevent any escape attempts.3. Despite protests from human rights activists, the government refuses to release the political prisoners.","eng":"prisoner"}

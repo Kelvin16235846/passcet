@@ -1,0 +1,1 @@
+{"eg":"1. The car suddenly swerved and crashed into the guardrail.2. The plane's engine failed, causing it to crash into the ocean.3. The computer system crashed, causing us to lose all of our important data.","eng":"crash"}

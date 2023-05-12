@@ -1,0 +1,1 @@
+{"eg":"1. I hope tomorrow's weather is better than today's.2. The new recipe is definitely better than the old one.3. I think it's better if we take the scenic route instead of the highway.","eng":"better"}

@@ -1,0 +1,1 @@
+{"eg":"1. The program threw an exception when it tried to access an undefined variable.2. We had to use a try-except block to handle errors when opening a file.3. The database connection failed, so we caught the exception and displayed an error message to the user.","eng":"except"}

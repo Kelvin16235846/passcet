@@ -1,0 +1,1 @@
+{"eg":"1. The disk in my computer is almost full with all of my documents and photos.2. I need to back up my important files onto an external disk for safety.3. The technician recommended that I defragment my disk to improve my computer's performance.","eng":"disk"}

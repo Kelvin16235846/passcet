@@ -1,0 +1,1 @@
+{"eg":"1. I need to buy more tiles to cover the floor in my kitchen.2. The ball rolled across the floor and into the corner of the room.3. We decided to install hardwood floors throughout the entire house.","eng":"floor"}

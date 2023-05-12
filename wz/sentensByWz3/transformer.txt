@@ -1,0 +1,1 @@
+{"eg":"1. The quick brown fox jumped over the lazy dog.2. I always enjoy a nice cup of coffee in the morning.3. The stunning sunset painted the sky with hues of pink, orange, and purple.","eng":"transformer"}

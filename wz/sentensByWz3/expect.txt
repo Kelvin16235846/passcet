@@ -1,0 +1,1 @@
+{"eg":"1. I expect that I will receive a promotion at work soon.2. We don't expect the weather to be too hot tomorrow.3. She expects to graduate with honors from college in May.","eng":"expect"}

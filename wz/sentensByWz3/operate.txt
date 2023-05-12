@@ -1,0 +1,1 @@
+{"eg":"1. I will operate the machine to make sure it is working properly.2. The surgeon will operate on the patient's heart tomorrow morning.3. The company decided to operate a new branch in the downtown area.","eng":"operate"}

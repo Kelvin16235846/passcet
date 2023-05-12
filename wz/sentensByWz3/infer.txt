@@ -1,0 +1,1 @@
+{"eg":"1. I couldn't infer his true feelings from the way he was behaving.2. Based on the data collected, we can infer that the majority of customers prefer our new product.3. The detective had to use his powers of observation and deduction to infer the culprit in the murder case.","eng":"infer"}

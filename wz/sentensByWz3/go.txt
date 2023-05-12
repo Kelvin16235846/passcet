@@ -1,0 +1,1 @@
+{"eg":"1. I enjoy programming in Go because of its simplicity and efficiency.2. Go is becoming more popular among software developers due to its seamless integration with other technologies.3. With its robust concurrency model, Go is an ideal language for building highly performant and scalable applications.","eng":"go"}

@@ -1,0 +1,1 @@
+{"eg":"1. The football field was green and well-kept.2. The scientist was an expert in the field of genetics.3. The farmer used a tractor to plow the field before planting the crops.","eng":"field"}

@@ -1,0 +1,1 @@
+{"eg":"1. Seventy is a round number and is the smallest number that is not a square number.2. I have seventy books in my collection, and I still want more.3. The temperature today is going to reach seventy degrees Fahrenheit.","eng":"seventy"}

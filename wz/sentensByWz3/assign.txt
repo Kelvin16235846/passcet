@@ -1,0 +1,1 @@
+{"eg":"1. I will assign this task to Sarah, as she has the necessary expertise.2. Please assign the new project to the team with the highest performance record.3. The manager decided to assign more resources to the project to ensure its success.","eng":"assign"}

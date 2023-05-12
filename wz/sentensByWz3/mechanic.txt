@@ -1,0 +1,1 @@
+{"eg":"1. The car broke down, but the mechanic quickly diagnosed the problem and fixed it.2. I took my bike to the mechanic for a tune-up, and now it rides smoothly and quietly.3. When her laptop wouldn't start up, she brought it to the mechanic at the computer repair shop.","eng":"mechanic"}

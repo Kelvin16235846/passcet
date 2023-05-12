@@ -1,0 +1,1 @@
+{"eg":"1. I'm sorry, but I have to raise an objection to that proposal.2. His inappropriate behavior raised some red flags for me.3. The news of the company's bankruptcy raised many concerns among its investors.","eng":"raise"}

@@ -1,0 +1,1 @@
+{"eg":"1. The sudden drop in temperature is an indication that winter is approaching.2. The physician noted a positive indication of improvement in the patient's condition.3. The lack of response is an indication that the message did not reach its intended recipient.","eng":"indication"}

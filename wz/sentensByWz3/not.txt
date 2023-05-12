@@ -1,0 +1,1 @@
+{"eg":"1. Not every cloud has a silver lining.2. The early bird may catch the worm, but not always.3. Not all that glitters is gold.","eng":"not"}

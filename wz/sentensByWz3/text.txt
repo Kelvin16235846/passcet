@@ -1,0 +1,1 @@
+{"eg":"1. The sun rises in the east and sets in the west.2. She spends her free time reading books and exploring new places.3. Learning a new language can be challenging, but also incredibly rewarding.","eng":"text"}

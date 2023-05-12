@@ -1,0 +1,1 @@
+{"eg":"1. The truck pulled up to the loading dock to receive its shipment.2. The construction crew arrived at the job site in their pickup truck.3. The food delivery truck stopped outside of the restaurant to make a delivery.","eng":"truck"}

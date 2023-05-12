@@ -1,0 +1,1 @@
+{"eg":"1. The author intends to publish his new book next month.2. The newspaper will publish an article about the upcoming charity event.3. The scientific journal will publish the results of the groundbreaking research study.","eng":"publish"}

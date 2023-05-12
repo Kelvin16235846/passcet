@@ -1,0 +1,1 @@
+{"eg":"1. I need to deposit some money into my savings account.2. You can make a deposit at any of our branches or through our online banking portal.3. The landlord required us to pay a security deposit before moving in.","eng":"deposit"}

@@ -1,0 +1,1 @@
+{"eg":"1. I need to use the bathroom before we leave.2. Can you show me where the bathroom is located?3. Sorry, the bathroom is currently out of order.","eng":"bathroom"}

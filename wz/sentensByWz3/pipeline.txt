@@ -1,0 +1,1 @@
+{"eg":"1. The pipeline for the development of this new software is expected to take six months.2. The company is currently working on a pipeline to improve our supply chain efficiency.3. Once the pipeline is completed, we will be able to transport oil more efficiently to different parts of the country.","eng":"pipeline"}

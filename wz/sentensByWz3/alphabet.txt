@@ -1,0 +1,1 @@
+{"eg":"1. 'ABC' is the first three letters of the alphabet.2. My little brother is still learning how to recite the alphabet.3. The English language consists of 26 letters in the alphabet.","eng":"alphabet"}

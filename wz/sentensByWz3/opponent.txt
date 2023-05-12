@@ -1,0 +1,1 @@
+{"eg":"1. My opponent in the debate made some valid points, but I believe my argument was more convincing overall.2. The athlete's opponent seemed unbeatable, but with some strategic moves, she managed to win the match.3. The political candidate's opponent was quick to criticize her policies, but she responded confidently and defended her proposals.","eng":"opponent"}

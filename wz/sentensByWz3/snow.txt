@@ -1,0 +1,1 @@
+{"eg":"1. Snow is falling gracefully from the dark sky, covering the ground in a blanket of white.2. The children built a snowman in the backyard, giggling and playing in the flurries.3. The snowstorm hit unexpectedly, causing chaos on the roads and leaving a thick layer of snow on everything in its path.","eng":"snow"}

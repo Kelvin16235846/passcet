@@ -1,0 +1,1 @@
+{"eg":"1. Finding the right job can take a lot of time and effort.2. The findings of the study indicate a need for further research in the area.3. He was surprised by the finding that only 10% of the participants completed the task correctly.","eng":"finding"}

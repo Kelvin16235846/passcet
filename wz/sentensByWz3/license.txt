@@ -1,0 +1,1 @@
+{"eg":"1. You must have a valid license to operate a vehicle on the road.2. The software program is protected by a proprietary license.3. As a licensed professional, he is authorized to perform surgery.","eng":"license"}

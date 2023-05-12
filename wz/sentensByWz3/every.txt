@@ -1,0 +1,1 @@
+{"eg":"1. Every dog loves to play fetch.2. Every student should have access to quality education.3. Every time I visit the beach, I feel a sense of peace and tranquility.","eng":"every"}

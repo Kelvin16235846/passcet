@@ -1,0 +1,1 @@
+{"eg":"1. Due to the shortage of medical supplies, the hospital was unable to provide adequate care to all patients.2. The shortage of affordable housing in the city has left many families homeless.3. The shortage of qualified workers in the tech industry has led to fierce competition for top talent.","eng":"shortage"}

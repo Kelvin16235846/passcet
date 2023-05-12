@@ -1,0 +1,1 @@
+{"eg":"1. If it is raining outside, then I should bring an umbrella.2. John cannot be both in Asia and Europe at the same time.3. Eating too much junk food and not exercising regularly will lead to poor health.","eng":"logical"}

@@ -1,0 +1,1 @@
+{"eg":"1. Regarding the recent changes in our company's policy, all employees are required to attend a mandatory meeting next week.2. I have some questions regarding the project timeline, can we schedule a meeting to discuss further?3. Regarding your request for vacation time, I will need to check with our HR department to ensure we have enough staff coverage.","eng":"regarding"}

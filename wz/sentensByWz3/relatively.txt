@@ -1,0 +1,1 @@
+{"eg":"1. Although the crowd was big, the line moved relatively quickly.2. Compared to other cities in the region, the cost of living in this town is relatively low.3. The project team completed the task relatively easily due to their extensive experience.","eng":"relatively"}

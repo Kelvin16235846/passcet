@@ -1,0 +1,1 @@
+{"eg":"1. The threat of a terrorist attack loomed over the city for months, causing widespread panic and fear.2. The company issued a stern warning to its employees regarding the potential threat of a data breach.3. Despite the authorities' best efforts, the threat of a wildfire still persists in the area due to dry weather conditions.","eng":"threat"}

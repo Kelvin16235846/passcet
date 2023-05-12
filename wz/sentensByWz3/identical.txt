@@ -1,0 +1,1 @@
+{"eg":"1. The two twins are nearly identical in appearance and it's difficult to tell them apart.2. The two computers are identical in specification, but one is newer than the other.3. The two paintings are so similar that they appear to be identical, but upon closer inspection, they have small differences.","eng":"identical"}

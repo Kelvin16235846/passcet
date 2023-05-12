@@ -1,0 +1,1 @@
+{"eg":"1. I bought a bottle of wine that measured 750 milliliters.2. He ran a distance of 5 kilometers in 30 minutes.3. The recipe called for 500 grams of flour and 250 milliliters of milk.","eng":"pint"}

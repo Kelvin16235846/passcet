@@ -1,0 +1,1 @@
+{"eg":"1. I need to put this leftover food in the refrigerator to keep it fresh.2. Our new refrigerator has a built-in water dispenser and ice maker.3. The power outage caused all of the food in the refrigerator to spoil.","eng":"refrigerator"}

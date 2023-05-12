@@ -1,0 +1,1 @@
+{"eg":"1. I have an exam tomorrow in math.2. He studied for an hour in preparation for his final exam.3. She was nervous before the exam, but she ended up doing well.","eng":"exam"}

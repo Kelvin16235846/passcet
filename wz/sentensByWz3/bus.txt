@@ -1,0 +1,1 @@
+{"eg":"1. I usually take the bus to work every morning.2. The bus driver was friendly and helped me with my luggage.3. Don't forget to catch the last bus or you'll have to walk home.","eng":"bus"}

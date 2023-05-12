@@ -1,0 +1,1 @@
+{"eg":"1. My salary was increased by 10% after my performance review.2. He earns a six-figure salary as a software engineer.3. The company offered her a higher salary to entice her to switch jobs.","eng":"salary"}

@@ -1,0 +1,1 @@
+{"eg":"1. I must warn you that swimming in this area is dangerous due to strong currents.2. The doctor warned me about the potential side effects of the medication.3. The teacher warned the students not to cheat during the exam or face serious consequences.","eng":"warn"}

@@ -1,0 +1,1 @@
+{"eg":"1. The sharp peak of the mountain formed a perfect triangle against the clear blue sky.2. The construction worker carefully measured each angle of the triangle before cutting the piece of wood.3. The geometry test was challenging, but I was able to solve the problem using the Pythagorean theorem and triangle formulas.","eng":"triangle"}

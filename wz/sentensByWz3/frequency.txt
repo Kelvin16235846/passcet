@@ -1,0 +1,1 @@
+{"eg":"1. The frequency of earthquakes in this region has increased over the past few years.2. The radio station broadcasts at a frequency of 98.5 FM.3. The frequency of meetings with my boss has decreased since we started working from home.","eng":"frequency"}

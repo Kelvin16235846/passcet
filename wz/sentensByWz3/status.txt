@@ -1,0 +1,1 @@
+{"eg":"1. My status is \"on vacation\" for the next two weeks.2. His status on social media says he's \"feeling grateful for friends and family\".3. I updated my work status to \"busy with multiple projects\" to let my colleagues know why I may be slow to respond.","eng":"status"}

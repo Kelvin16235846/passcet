@@ -1,0 +1,1 @@
+{"eg":"1. I haven't finished my homework yet.2. They haven't announced the winner yet.3. Have you yet decided where you want to go for vacation?","eng":"yet"}

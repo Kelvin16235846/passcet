@@ -1,0 +1,1 @@
+{"eg":"1. A mathematical formula can accurately predict the trajectory of a rocket launch.2. The ability to solve complex mathematical equations is essential for success in the field of physics.3. Mathematical algorithms are used to develop sophisticated computer programs that power modern technology.","eng":"mathematical"}

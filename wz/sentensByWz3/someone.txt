@@ -1,0 +1,1 @@
+{"eg":"1. Someone is knocking on the door.2. I think someone left their wallet at the restaurant.3. Can someone please help me with this heavy box?","eng":"someone"}

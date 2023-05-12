@@ -1,0 +1,1 @@
+{"eg":"1. With rocket technology advancing rapidly, space exploration is becoming more achievable than ever before.2. The SpaceX Falcon 9 rocket successfully deployed a satellite into orbit, marking another milestone in space technology.3. The launch of the NASA Space Launch System (SLS) rocket is expected to revolutionize deep space exploration.","eng":"rocket"}

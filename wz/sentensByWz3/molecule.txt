@@ -1,0 +1,1 @@
+{"eg":"1. The molecule of water consists of two hydrogen atoms and one oxygen atom.2. The structure of a DNA molecule is a double helix.3. The molecule of caffeine is found in many types of beverages, including coffee and tea.","eng":"molecule"}

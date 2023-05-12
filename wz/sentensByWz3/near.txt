@@ -1,0 +1,1 @@
+{"eg":"1. I live near the park, so I often go for a jog there in the morning.2. The nearest grocery store is just a few blocks away, so it's very convenient to shop there.3. My friend lives near the beach, which is great for swimming and surfing in the summer.","eng":"near"}

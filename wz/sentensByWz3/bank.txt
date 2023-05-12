@@ -1,0 +1,1 @@
+{"eg":"1. I need to go to the bank to deposit my paycheck.2. The bank is closed on weekends, so I have to wait until Monday to withdraw cash.3. I applied for a loan at the bank, but they rejected my application due to my low credit score.","eng":"bank"}

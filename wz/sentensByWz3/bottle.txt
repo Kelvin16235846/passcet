@@ -1,0 +1,1 @@
+{"eg":"1. I love using bottle for building simple web applications.2. The bottle framework is lightweight and easy to learn.3. Bottle is a great choice for small-scale projects that require fast development.","eng":"bottle"}

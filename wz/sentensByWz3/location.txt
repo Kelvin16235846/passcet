@@ -1,0 +1,1 @@
+{"eg":"1. The location of the new restaurant is conveniently located in the heart of downtown.2. We need to update our GPS system to ensure accurate location tracking during our travels.3. The movie was filmed in a stunning location, showcasing the beauty of the surrounding natural landscape.","eng":"location"}

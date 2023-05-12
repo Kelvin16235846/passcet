@@ -1,0 +1,1 @@
+{"eg":"1. The faculty at this university are known for their expertise in interdisciplinary research.2. As a member of the faculty, I have the responsibility to mentor and guide my students towards academic success.3. The faculty committee has decided to implement a new curriculum that emphasizes practical training for students.","eng":"faculty"}

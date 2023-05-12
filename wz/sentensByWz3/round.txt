@@ -1,0 +1,1 @@
+{"eg":"1. I need to round off the corners of this box to make it safer.2. The doctor advised me to round up my daily water intake to 8 glasses.3. She always rounds down her expenses when making a budget.","eng":"round"}

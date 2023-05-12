@@ -1,0 +1,1 @@
+{"eg":"1. Ultimately, the decision to cancel the event was the only logical choice.2. Despite our best efforts, ultimately, the project was a failure.3. The negotiations dragged on for months, but ultimately, an agreement was reached.","eng":"ultimately"}

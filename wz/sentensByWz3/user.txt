@@ -1,0 +1,1 @@
+{"eg":"1. I am a user of this software, and I find it very user-friendly.2. As a frequent user of public transportation, I appreciate when the system is punctual and efficient.3. Being a social media user, I like to share my experiences and connect with others online.","eng":"user"}

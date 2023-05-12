@@ -1,0 +1,1 @@
+{"eg":"1. She used a lever to lift the heavy box onto the shelf.2. The engineer designed a complex system of levers to control the movement of the machine.3. By using the lever, he was able to easily adjust the height of the chair.","eng":"lever"}

@@ -1,0 +1,1 @@
+{"eg":"1. Can you track my delivery and let me know when it will arrive?2. Due to unforeseen circumstances, the delivery of your package has been delayed.3. The restaurant offers free delivery for orders over $50 within a 5-mile radius.","eng":"delivery"}

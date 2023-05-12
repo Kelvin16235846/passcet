@@ -1,0 +1,1 @@
+{"eg":"1. I am a robot programmed to assist you with your tasks.2. The robot's sensors detected movement nearby.3. The futuristic city was filled with robots performing various tasks.","eng":"robot"}

@@ -1,0 +1,1 @@
+{"eg":"1. The temperature outside is currently 68 degrees Fahrenheit.2. I have to set the oven to 375 degrees Fahrenheit to bake this cake.3. The heat wave last week brought temperatures to over 90 degrees Fahrenheit.","eng":"Fahrenheit"}

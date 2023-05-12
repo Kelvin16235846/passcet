@@ -1,0 +1,1 @@
+{"eg":"1. The faulty engine caused the plane to crash.2. The faulty wiring in the building caused a fire.3. The faulty alarm system failed to alert the homeowners of the burglary.","eng":"faulty"}

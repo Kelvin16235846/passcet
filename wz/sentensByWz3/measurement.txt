@@ -1,0 +1,1 @@
+{"eg":"1. The accuracy of the measurement is crucial in determining the outcome of the experiment.2. We need to take multiple measurements to ensure that our results are reliable and reproducible.3. The instrument used for the measurement should be calibrated regularly to maintain its precision.","eng":"measurement"}

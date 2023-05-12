@@ -1,0 +1,1 @@
+{"eg":"1. I need to check the spelling of this word before I submit my paper.2. Can you check your email to see if our meeting time has been confirmed?3. The doctor wants me to come back next week to check on my progress.","eng":"check"}

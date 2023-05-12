@@ -1,0 +1,1 @@
+{"eg":"1. I am currently working on a project that will be completed next month.2. She is presenting her research findings at the conference tomorrow.3. They are discussing the future plans for the company in the present meeting.","eng":"present"}

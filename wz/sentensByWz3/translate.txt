@@ -1,0 +1,1 @@
+{"eg":"1. 我今天很忙，没有时间和你聊天。(I am very busy today and don't have time to chat with you.)2. 如果你需要帮忙，随时联系我。(If you need help, feel free to contact me anytime.)3. 我希望有一天能够去旅行并体验不同的文化。(I hope to travel someday and experience different cultures.)","eng":"translate"}

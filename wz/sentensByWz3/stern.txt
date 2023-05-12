@@ -1,0 +1,1 @@
+{"eg":"1. \"Stern warnings were issued to the passengers of the ship before the storm hit.\"2. \"The teacher's stern expression silenced the noisy classroom instantly.\"3. \"The captain's stern demeanor intimidated the crew into following his orders without question.\"","eng":"stern"}

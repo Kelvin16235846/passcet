@@ -1,0 +1,1 @@
+{"eg":"1. I usually have lunch at noon every day.2. She doesn't like to schedule meetings before noon.3. The sun was directly overhead at noon, casting no shadows.","eng":"noon"}

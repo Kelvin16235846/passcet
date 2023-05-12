@@ -1,0 +1,1 @@
+{"eg":"1. Mr. Johnson teaches math to his class of high school students.2. The ballet class begins at 5:00 pm and ends at 6:30 pm.3. Samantha's art class is her favorite part of the school day.","eng":"class"}

@@ -1,0 +1,1 @@
+{"eg":"1. My favorite object is a vintage typewriter that I inherited from my great-grandmother.2. The key object in the investigation was a CCTV footage that captured the suspect entering the building.3. The vase, adorned with intricate hand-painted designs, was the most prized object in the museum's collection.","eng":"object"}

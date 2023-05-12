@@ -1,0 +1,1 @@
+{"eg":"1. \"Sparrows flit from tree to tree, chirping merrily in the morning sun.\"2. \"The sparrow's brown feathers blend seamlessly into the bark of the tree.\"3. \"With a flutter of its wings, the sparrow took flight and disappeared into the blue sky.\"","eng":"sparrow"}

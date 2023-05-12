@@ -1,0 +1,1 @@
+{"eg":"1. I have enough time to finish my work before the deadline.2. We didn't have enough food for everyone at the party.3. She wasn't confident enough to give the presentation alone.","eng":"enough"}

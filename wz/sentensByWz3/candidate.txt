@@ -1,0 +1,1 @@
+{"eg":"1. The company received many applications from qualified candidates for the open position.2. After interviewing several candidates, the hiring manager selected Jane as the best fit for the job.3. Despite being a strong candidate, John was not chosen for the role due to lack of relevant experience.","eng":"candidate"}

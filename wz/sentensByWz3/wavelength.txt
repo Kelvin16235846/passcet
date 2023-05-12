@@ -1,0 +1,1 @@
+{"eg":"1. The wavelength of blue light is shorter than that of red light.2. The radio waves have much longer wavelengths than visible light.3. The ultraviolet radiation from the sun has a wavelength shorter than that of visible light.","eng":"wavelength"}

@@ -1,0 +1,1 @@
+{"eg":"1. I need to buy some milk from the grocery store.2. Can you give me some advice on how to fix my car?3. We should spend some time relaxing and enjoying the outdoors.","eng":"some"}

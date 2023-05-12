@@ -1,0 +1,1 @@
+{"eg":"1. The intelligent robot was able to complete the complex task with ease and accuracy.2. Her intelligence and quick thinking saved them from a potentially dangerous situation.3. The company's intelligent software program was able to analyze and predict changes in the market.","eng":"intelligent"}

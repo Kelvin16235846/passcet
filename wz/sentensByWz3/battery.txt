@@ -1,0 +1,1 @@
+{"eg":"1. My phone's battery is running low, I need to charge it soon.2. The battery in my camera died so I had to switch to my phone to take pictures.3. I love my new electric car, the battery lasts for hours and I never have to worry about running out of gas.","eng":"battery"}

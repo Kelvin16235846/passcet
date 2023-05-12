@@ -1,0 +1,1 @@
+{"eg":"1. I have minus two minutes to catch my train.2. The temperature is minus ten degrees Celsius outside.3. My bank account has minus two dollars in it.","eng":"minus"}

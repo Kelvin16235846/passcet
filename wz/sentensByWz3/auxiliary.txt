@@ -1,0 +1,1 @@
+{"eg":"1. Have you ever been to China?2. She will be studying abroad next semester.3. They had been waiting for over an hour when the train finally arrived.","eng":"auxiliary"}

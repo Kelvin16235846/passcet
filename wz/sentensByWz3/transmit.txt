@@ -1,0 +1,1 @@
+{"eg":"1. I need to transmit this important document to my boss before the deadline.2. The radio station will transmit the live coverage of the football game.3. The satellite will transmit data back to Earth from deep space.","eng":"transmit"}

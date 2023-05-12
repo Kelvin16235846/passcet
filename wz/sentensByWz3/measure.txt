@@ -1,0 +1,1 @@
+{"eg":"1. We need to measure the length of this table so we can determine if it will fit in the room.2. The company plans to measure employee satisfaction through a survey.3. I need to measure the ingredients carefully in order to bake the perfect cake.","eng":"measure"}

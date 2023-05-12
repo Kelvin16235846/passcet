@@ -1,0 +1,1 @@
+{"eg":"1. I need to consult with my colleagues before making a final decision.2. The patient should consult with their doctor before starting any new medication.3. We consulted the company handbook for guidance on how to handle the situation.","eng":"consult"}

@@ -1,0 +1,1 @@
+{"eg":"1. The performance of the new model is superior to its predecessor in terms of speed and efficiency.2. The quality of the organic produce is unparalleled when compared to conventionally-grown fruits and vegetables.3. The accommodations at the five-star resort are notably more luxurious than those at the budget hotel.","eng":"comparison"}

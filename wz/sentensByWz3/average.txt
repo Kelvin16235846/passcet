@@ -1,0 +1,1 @@
+{"eg":"1. The average temperature for this month was higher than last year.2. The average salary for the position is $50,000 per year.3. The class achieved an average score of 85% on the final exam.","eng":"average"}

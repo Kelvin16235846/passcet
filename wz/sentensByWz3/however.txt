@@ -1,0 +1,1 @@
+{"eg":"1. The weather forecast predicted rain this weekend; however, it turned out to be sunny and warm.2. John was exhausted after a long day at work; however, he still managed to make dinner for his family.3. Sarah is an excellent student with high grades; however, she struggles with public speaking.","eng":"however"}

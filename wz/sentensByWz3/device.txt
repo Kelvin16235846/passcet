@@ -1,0 +1,1 @@
+{"eg":"1. I need to synchronize my device with my computer to transfer files.2. The battery on my device is running low, I need to recharge it.3. This device has a lot of features that make it a great choice for professionals.","eng":"device"}

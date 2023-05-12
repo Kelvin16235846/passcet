@@ -1,0 +1,1 @@
+{"eg":"1. It's usual for me to have coffee in the morning.2. The usual suspects were questioned in the investigation.3. It's not usual for her to be late for a meeting.","eng":"usual"}

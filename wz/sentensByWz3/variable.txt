@@ -1,0 +1,1 @@
+{"eg":"1. The value of the variable \"x\" is constantly changing throughout the program.2. The syntax error occurred due to a misspelled variable name in the code.3. The variable \"y\" is initialized with a default value of zero before the loop begins.","eng":"variable"}

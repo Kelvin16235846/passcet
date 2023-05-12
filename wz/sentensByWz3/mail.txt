@@ -1,0 +1,1 @@
+{"eg":"1. I need to send an urgent mail to my boss about the progress of our project.2. Can you please check your mail and see if you have received the documents I sent you yesterday?3. I'm sorry for the delay in responding to your mail, I was out of town for the past few days.","eng":"mail"}

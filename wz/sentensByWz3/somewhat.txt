@@ -1,0 +1,1 @@
+{"eg":"1. The cake was somewhat dry, but I still enjoyed it.2. The temperature outside was somewhat chilly, so I put on a sweater.3. I was somewhat nervous before my presentation, but I practiced beforehand and it went well.","eng":"somewhat"}

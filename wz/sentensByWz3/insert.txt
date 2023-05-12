@@ -1,0 +1,1 @@
+{"eg":"1. I need to insert this picture into my presentation to make it more engaging.2. Can you help me insert the new data into the spreadsheet?3. You can insert your credit card information on our secure website.","eng":"insert"}

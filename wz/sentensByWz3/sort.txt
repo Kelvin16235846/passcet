@@ -1,0 +1,1 @@
+{"eg":"1. I need to sort my closet before I can find anything to wear.2. The librarian sorted the books by genre and author's last name.3. We must sort through all the applications before we can choose the best candidate.","eng":"sort"}

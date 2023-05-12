@@ -1,0 +1,1 @@
+{"eg":"1. My important files are backed up on the cloud so I can access them from anywhere.2. Our team collaborated on the project through cloud-based software that allowed us to work together seamlessly.3. By using cloud computing, our company was able to reduce operating costs and improve efficiency.","eng":"cloud"}

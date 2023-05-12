@@ -1,0 +1,1 @@
+{"eg":"1. I have a definite plan to finish my project by Friday.2. There is a definite chill in the air this morning.3. The team had a definite advantage with their new strategy.","eng":"definite"}

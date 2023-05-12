@@ -1,0 +1,1 @@
+{"eg":"1. It is true that the sun rises in the east and sets in the west.2. The statement he made about his qualifications is not true.3. It is true that exercise and a healthy diet are important for maintaining good physical health.","eng":"true"}

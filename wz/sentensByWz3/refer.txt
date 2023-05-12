@@ -1,0 +1,1 @@
+{"eg":"1. Can you please refer me to a good doctor in this area?2. I heard this book is really interesting, can you refer it to me?3. The company policy requires new employees to be referred by a current staff member.","eng":"refer"}

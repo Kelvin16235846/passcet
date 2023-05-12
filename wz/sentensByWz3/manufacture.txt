@@ -1,0 +1,1 @@
+{"eg":"1. The manufacture of automobiles has revolutionized transportation worldwide.2. The pharmaceutical company is investing millions in the manufacture of a new vaccine.3. The machinery used in the manufacture of electronic devices has become increasingly sophisticated.","eng":"manufacture"}

@@ -1,0 +1,1 @@
+{"eg":"1. After submitting his entry in the essay writing contest, he waited nervously for the results.2. She was thrilled to see her artwork chosen as the winning entry in the school art competition.3. The library's book review contest required entrants to provide a brief summary and their personal opinions on their chosen entry.","eng":"entry"}

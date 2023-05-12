@@ -1,0 +1,1 @@
+{"eg":"1. Our online payment system now supports Stripe, making it easy and secure for our customers to make purchases.2. Stripe's powerful tools for fraud detection have helped us prevent fraudulent transactions and protect our business.3. By integrating with Stripe, we've been able to streamline our billing process and improve our cash flow.","eng":"stripe"}

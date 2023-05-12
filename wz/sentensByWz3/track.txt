@@ -1,0 +1,1 @@
+{"eg":"1. The hiker was able to track the bear's movements through the forest.2. The shipping company uses GPS to track the location of their cargo.3. The detective is trying to track down the suspect in the robbery case.","eng":"track"}

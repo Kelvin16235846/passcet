@@ -1,0 +1,1 @@
+{"eg":"1. I used the 'locate' command to find the location of my lost file on my computer.2. The software engineer was able to locate the source code of a problematic function using the 'locate' tool.3. The 'locate' function was fast and efficient in searching through the directories for the required files.","eng":"locate"}

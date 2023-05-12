@@ -1,0 +1,1 @@
+{"eg":"1. We regret to inform you that your application has been rejected due to insufficient experience.2. The company rejected our proposal to collaborate on the project, citing budget constraints.3. The manuscript was rejected by multiple publishers before finally being accepted by a small independent press.","eng":"reject"}

@@ -1,0 +1,1 @@
+{"eg":"1. What is your favorite color?2. What time is the meeting?3. What did you have for breakfast?","eng":"what"}

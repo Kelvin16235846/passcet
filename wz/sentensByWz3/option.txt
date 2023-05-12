@@ -1,0 +1,1 @@
+{"eg":"1. One option is to take the train to the city center.2. We have the option to choose either a salad or a sandwich for lunch.3. If you don't like this color, there's always the option of choosing a different one.","eng":"option"}

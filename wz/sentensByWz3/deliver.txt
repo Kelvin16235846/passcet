@@ -1,0 +1,1 @@
+{"eg":"1. The package will be delivered to your doorstep by tomorrow morning.2. We have partnered with a reliable courier service to ensure swift and secure delivery of your orders.3. Could you please deliver this urgent message to your supervisor as soon as possible?","eng":"deliver"}

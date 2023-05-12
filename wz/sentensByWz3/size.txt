@@ -1,0 +1,1 @@
+{"eg":"1. The size of the bookshelf is too big for this room.2. I'm not sure what size dress to buy for the wedding.3. The company is looking to downsize due to financial difficulties.","eng":"size"}

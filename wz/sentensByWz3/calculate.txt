@@ -1,0 +1,1 @@
+{"eg":"1. I asked my phone to calculate the distance to the nearest gas station.2. It took me a while to calculate the total cost of my vacation.3. My professor gave us a difficult problem to calculate during our math class.","eng":"calculate"}

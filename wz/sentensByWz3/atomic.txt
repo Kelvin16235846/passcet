@@ -1,0 +1,1 @@
+{"eg":"1. The atomic structure of the molecule was elucidated using X-ray crystallography.2. The impact of the atomic bomb on Hiroshima was devastating and catastrophic.3. The scientists worked tirelessly to split the atom and harness its immense power.","eng":"atomic"}

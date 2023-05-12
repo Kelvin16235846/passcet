@@ -1,0 +1,1 @@
+{"eg":"1. I looped around the park twice before calling it a day.2. The computer program kept looping back to the same point in the code.3. The song has an infectious melody that loops in my head all day long.","eng":"loop"}

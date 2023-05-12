@@ -1,0 +1,1 @@
+{"eg":"1. Please make sure to attach the file to your email before sending it.2. I will attach the document to the meeting agenda for everyone to review.3. Can you attach the photo to the message so that I can see it?","eng":"attach"}

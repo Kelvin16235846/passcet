@@ -1,0 +1,1 @@
+{"eg":"1. Well, I suppose we could try it your way and see what happens.2. Well, that certainly came as a surprise - I wasn't expecting to win the lottery!3. Well, I'm not sure what you want me to say, but I'll try to help you the best I can.","eng":"well"}

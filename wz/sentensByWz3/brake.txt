@@ -1,0 +1,1 @@
+{"eg":"1. I had to brake suddenly to avoid hitting the car in front of me.2. The driver didn't use the brake in time and caused a collision.3. You should always remember to brake gently when driving on wet roads.","eng":"brake"}

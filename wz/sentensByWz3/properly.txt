@@ -1,0 +1,1 @@
+{"eg":"1. She didn't properly prepare for the exam, so she didn't do very well.2. In order to avoid injury, it's important to properly stretch before exercising.3. He couldn't properly understand the directions because they were written in a different language.","eng":"properly"}

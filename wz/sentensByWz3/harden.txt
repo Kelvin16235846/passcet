@@ -1,0 +1,1 @@
+{"eg":"1. It's important to harden your password to protect your online accounts from hackers.2. The company has decided to harden their network security measures to prevent any potential breaches.3. The blacksmith used a hammer to harden the steel, making it stronger and more resistant to damage.","eng":"harden"}

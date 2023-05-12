@@ -1,0 +1,1 @@
+{"eg":"1. I just finished reading the first chapter of the book and it left me wanting more.2. The professor assigned us to read three chapters for the next class.3. After studying hard, she finally reached the last chapter of the textbook.","eng":"chapter"}

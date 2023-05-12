@@ -1,0 +1,1 @@
+{"eg":"1. I will see you soon!2. The sun will set soon.3. Let's leave soon or we will miss the bus.","eng":"soon"}

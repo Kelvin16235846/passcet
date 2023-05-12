@@ -1,0 +1,1 @@
+{"eg":"1. Radiation from the sun is essential for life on Earth, but overexposure can be harmful.2. The Chernobyl disaster released a dangerous amount of radiation into the environment, causing long-term health effects.3. Radiation therapy is a common treatment for cancer, using high-energy particles to destroy cancer cells.","eng":"radiation"}

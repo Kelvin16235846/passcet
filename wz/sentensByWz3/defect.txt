@@ -1,0 +1,1 @@
+{"eg":"1. The defect in the product was detected during quality control testing.2. The company had to issue a recall due to a defect in their latest model of phone.3. The car had a defect in the engine, which caused it to break down frequently.","eng":"defect"}

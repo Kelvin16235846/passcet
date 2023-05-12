@@ -1,0 +1,1 @@
+{"eg":"1. I need to compile a list of all the necessary materials for the upcoming project.2. He spent hours compiling data from various sources to create a comprehensive report.3. The software engineer worked on compiling the code for the new app to ensure it would run smoothly.","eng":"compile"}

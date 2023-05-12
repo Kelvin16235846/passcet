@@ -1,0 +1,1 @@
+{"eg":"1. I have never been to Europe before.2. She's never tasted sushi and doesn't plan to anytime soon.3. They have never seen a movie as good as that one.","eng":"never"}

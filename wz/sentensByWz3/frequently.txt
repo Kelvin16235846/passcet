@@ -1,0 +1,1 @@
+{"eg":"1. He frequently checks his phone for new messages.2. She frequently travels for work.3. They frequently go out to eat at their favorite restaurant.","eng":"frequently"}

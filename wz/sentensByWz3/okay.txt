@@ -1,0 +1,1 @@
+{"eg":"1. Okay, let's get started on this project right away.2. Okay, I understand your concerns and will try to address them.3. Okay, I'll pick you up at 7 pm for dinner tonight.","eng":"okay"}

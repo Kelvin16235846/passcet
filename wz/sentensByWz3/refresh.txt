@@ -1,0 +1,1 @@
+{"eg":"1. I need to refresh my memory about the details of the project before the meeting.2. After a long day of work, I like to take a shower to refresh myself.3. Whenever I am feeling tired or bored, I like to take a short break to refresh my mind.","eng":"refresh"}

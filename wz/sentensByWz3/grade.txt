@@ -1,0 +1,1 @@
+{"eg":"1. I am feeling confident that I will receive a good grade on my exam.2. The teacher praised me for achieving an excellent grade on my project.3. My parents were disappointed when they saw I had received a low grade on my report card.","eng":"grade"}

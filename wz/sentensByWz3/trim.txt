@@ -1,0 +1,1 @@
+{"eg":"1. \"   It was a cold winter's night.   \" -> \"It was a cold winter's night.\"2. \"She asked him to pass the salt,   \" -> \"She asked him to pass the salt,\"3. \"   I can't believe it's already midnight.  \" -> \"I can't believe it's already midnight.\"","eng":"trim"}

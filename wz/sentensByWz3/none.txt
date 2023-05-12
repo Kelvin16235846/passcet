@@ -1,0 +1,1 @@
+{"eg":"1. None of the students knew the answer to the math problem.2. The restaurant had no vegetarian options, so I ordered none of their dishes.3. I asked for a refill of my drink, but the waiter told me there was none left.","eng":"none"}
