@@ -354,38 +354,41 @@ class WordWidgetState extends State<WordWdget> {
   }
   String frontpage="音频播放";
   String backPage="中文释义";
-  void showFrontPage( ){
-    showPage(Builder(builder: (context){
-      return GestureDetector(child:cardTypes[frontpage]?.build(context),
-        onVerticalDragEnd: (details){
+  double _startScale = 1.0;
+  double _endScale = 1.0;
+  GestureDetector wrapBaseAction(Widget wgt){
+    return GestureDetector(child: wgt
+
+        , onVerticalDragEnd: (details){
           nextWz();
           showFrontPage();
-        },onHorizontalDragEnd: (details){
-          showBackPage();
         },onLongPress: (){
           alreadMastered();
           showFrontPage();
         }
         ,onDoubleTap: (){
-         entrySettingPage();
-        },
-      );
+          entrySettingPage();
+        });
+  }
+  void showFrontPage( ){
+    showPage(Builder(builder: (context){
+      return wrapBaseAction(
+          GestureDetector(child:cardTypes[frontpage]?.build(context)
+            ,onHorizontalDragEnd: (details){showBackPage();}
+            ,onTap: (){showBackPage();},
+      )) ;
     }));
   }
-  void showBackPage({flush=true}){
+  void showBackPage(){
     showPage(Builder(builder: (context){
-      return GestureDetector(child: cardTypes[backPage]?.build(context)
-        ,onVerticalDragEnd: (details){
-          nextWz();
+      return wrapBaseAction(GestureDetector(
+        child: cardTypes[backPage]?.build(context)
+        ,onTap: (){showFrontPage();}
+        ,onHorizontalDragEnd: (details){
           showFrontPage();
-        },onHorizontalDragEnd: (details){
-          showFrontPage();
-        }
-        ,onLongPress: (){
-          alreadMastered();
-          showFrontPage();
-        },);
-    }));
+      },
+      ));
+      }));
   }
   void iniPatterns(){
     patterns.add([Builder(builder: (context){
