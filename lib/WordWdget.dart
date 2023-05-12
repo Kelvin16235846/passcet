@@ -77,7 +77,9 @@ class WordWidgetState extends State<WordWdget> {
       ),
       );
     }
-    else return Scaffold(body: content,);
+    else {
+      return Scaffold(body: content,);
+    }
   }
   late Builder _builderOfPage;
 
@@ -122,32 +124,44 @@ class WordWidgetState extends State<WordWdget> {
               actionReset();
               exitSettingPage();
             },
-                child:const AutoSizeText("重置",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
+                child:const AutoSizeText("重置",presetFontSizes:
+                [50,100,90,80,70,60,50,20,16,10])), ),
           Padding(padding: EdgeInsets.only(bottom: 10.0),
             child: ElevatedButton( onPressed: (){
               messUp();
               exitSettingPage();
             },
-                child:const AutoSizeText("打乱",presetFontSizes: [50,100,90,80,70,60,50,20,16,10])), ),
-          ElevatedButton(onPressed: (){
-            nextWordsGroup();
-            exitSettingPage();
+                child:const AutoSizeText("打乱",
+                    presetFontSizes: [50,100,90,80,70,60,50,20,16,10])),
+          ),
+          Padding(padding: EdgeInsets.only(bottom: 10.0),
+            child:
+            ElevatedButton(onPressed: (){
+              nextWordsGroup();
+              exitSettingPage();
 
-          }, child:const AutoSizeText("下一组"
-            ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),)
-          ,
-          ElevatedButton(onPressed: (){
-             Navigator.push(context,MaterialPageRoute(builder: (ct){
-               return WordListPage(wzs: wzs);
-             })).then((value){
-               setState(() {
-                 nextWz();
-               });
-             });
+            }, child:const AutoSizeText("下一组"
+              ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),
+            )
+            ,
+          ),
+          Padding(padding: EdgeInsets.only(bottom: 10.0),
+            child:
+            ElevatedButton(onPressed: (){
+              Navigator.push(context,MaterialPageRoute(builder: (ct){
+                return WordListPage(wzs: wzs);
+              })).then((value){
+                setState(() {
+                  nextWz();
+                });
+              });
 
-          }, child:const AutoSizeText("查看全部单词"
-            ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),)
-          ,
+            }, child:const AutoSizeText("查看全部单词"
+              ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),
+            )
+            ,
+          ),
+
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("重置后打乱顺序"), Switch(value: msupOnReset, onChanged: (v){
               setState(() {
@@ -414,7 +428,7 @@ class WordWidgetState extends State<WordWdget> {
       maxLines:1,presetFontSizes: const [
         180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],)
     );
-    return Scaffold(body:   Center(child: Container(width:200*2 ,height: 50*3, child: bt,) ,),);
+    return Scaffold(body:Center(child: Container(width:200*2 ,height: 50*3, child: bt,) ,),);
   }
 
 }
