@@ -4,6 +4,7 @@ import 'dart:math';
 import 'package:flutter/material.dart' ;
 import 'package:auto_size_text/auto_size_text.dart';
 import  'package:flutter/services.dart';
+import 'package:fsfsfsf/WordListPage.dart';
 import 'package:fsfsfsf/myDropdownButton.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:perfect_volume_control/perfect_volume_control.dart';
@@ -65,6 +66,7 @@ class WordWidgetState extends State<WordWdget> {
   @override
   Widget build(BuildContext context) {
     var content=_builderOfPage.builder(context);
+    content=WordListPage(wzs: wzs);
     if(_showRemainWzCnt) {
       return Scaffold(
         body: content
@@ -323,6 +325,7 @@ class WordWidgetState extends State<WordWdget> {
           showFrontPage();
         },onLongPress: (){
           alreadyMastered();
+          if(_playAudioAfterNewCard)playAudio();
           showFrontPage();
         }
         ,onDoubleTap: (){
