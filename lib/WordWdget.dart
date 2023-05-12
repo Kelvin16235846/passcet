@@ -66,7 +66,7 @@ class WordWidgetState extends State<WordWdget> {
   @override
   Widget build(BuildContext context) {
     var content=_builderOfPage.builder(context);
-   // content=WordListPage(wzs: wzs);
+   content=buildSentencePage();
     if(_showRemainWzCnt) {
       return Scaffold(
         body: content
@@ -436,6 +436,24 @@ class WordWidgetState extends State<WordWdget> {
       body: content,);
 
     return  scfd;
+  }
+  Widget buildSentencePage({str=""}){
+   /* str="abandon"
+    "\n1. The family had to abandon their home due to the impending flood."
+    "\n2. After repeatedly failing to win, the athlete decided to abandon "
+        "their dream of becoming an Olympic champion."
+   " \n3. The company had to abandon their plans for expansion "
+    "due to a lack of funding.";
+    */
+
+    Widget wgt=Center(child:
+     AutoSizeText(str
+      ,presetFontSizes:const [
+        180,170,160,150,140,
+        130,120,110,100,90,80,70,60,50,40,25,16,12],
+    ),
+    );
+    return wgt;
   }
 
   Widget buildAudioPage({String tag=""}) {
