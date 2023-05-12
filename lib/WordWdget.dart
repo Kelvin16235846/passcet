@@ -458,7 +458,12 @@ class WordWidgetState extends State<WordWdget> {
         130,120,110,100,90,80,70,60,50,40,25,16,12],
     ),
     );
-    return Scaffold(body: wgt,);
+    return Scaffold( appBar: AppBar(title:Text(wzs[curIndexOfWz].eng)
+      ,centerTitle: true
+      ,toolbarHeight: 18
+      ,),
+      body: Padding(padding: EdgeInsets.fromLTRB(10, 0, 10, 10),
+      child:wgt ,) ,);
   }
 
   Widget buildAudioPage({String tag=""}) {

@@ -137,7 +137,7 @@ class Word{
             }
             else {
              final mp= jsonDecode(utf8.decode(val.buffer.asUint8List()));
-              word.abouts=[ "${mp["eng"]}\n${mp["eg"]}"];
+              word.abouts=[ "${mp["eg"]}"];
             }
           }
          );
