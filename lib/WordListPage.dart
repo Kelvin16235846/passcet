@@ -15,17 +15,33 @@ class WordListPage extends StatefulWidget {
   final List<Word> wzs;
 }
 class WordListPageState extends State<WordListPage>{
+  bool _showMean=true;
   @override
   Widget build(BuildContext context) {
      return  Scaffold(
-         appBar: AppBar(title: Row(crossAxisAlignment: CrossAxisAlignment.center,children: [Text("卡片总数:${wzs.length}")
-         , ElevatedButton(onPressed: (){
+         appBar: AppBar(title: Row(crossAxisAlignment: CrossAxisAlignment.center
+           ,children: [
+          ElevatedButton(onPressed: (){
              setState(() {
                wzs.shuffle( Random());
              });
 
            }, child: Text("打乱")
            )
+            ,Padding(padding:EdgeInsets.only(left: 10))
+             ,ElevatedButton(onPressed: (){
+               setState(() {
+                  _showMean=true;
+               });
+             }, child: Text("释义")
+             )
+             ,Padding(padding:EdgeInsets.only(left: 10))
+             ,ElevatedButton(onPressed: (){
+               setState(() {
+                 _showMean=false;
+               });
+             }, child: Text("英文")
+             )
          ],
          )
          ),
@@ -34,10 +50,15 @@ class WordListPageState extends State<WordListPage>{
            trackVisibility: true,
        child:  ListView.builder(itemCount: wzs.length,
          itemBuilder: (BuildContext context, int index) {
-           var content= Column(children: [Text(wzs[index].eng)
-             ,Text(wzs[index].mean[0]),
+           var content= Column(
+             mainAxisAlignment: MainAxisAlignment.center,
+             crossAxisAlignment: CrossAxisAlignment.center,
+             children: [Text(wzs[index].eng
+           ,style: TextStyle(fontSize: 30),)
+             ,Text(_showMean?wzs[index].mean[0]:""
+                 ,style: TextStyle(fontSize: 30)),
            ],);
-           return GestureDetector(
+           Widget gest= GestureDetector(
              child:ElevatedButton(onPressed: () {  },
                child:content ,)
              ,onLongPress: (){
@@ -47,6 +68,9 @@ class WordListPageState extends State<WordListPage>{
                  });
                }
            },);
+           return Padding(padding:EdgeInsets.only(left: 30,right: 30,top: 15)
+             ,child: gest,
+           );
          }
          ,),
      )

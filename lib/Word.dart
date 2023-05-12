@@ -58,9 +58,22 @@ class Word{
     String s=await loadAsset(path:"wz/c4_ECP.txt");
     var lst= s.split("\r\n");
     for(int i=0;i+2<lst.length;i+=3){
-      allOfWord?.add(Word(eng:lst[i+0].trim(),phonics: lst[i+2].trim() ,mean: [lst[i+1].trim()]));
+      allOfWord.add(Word(eng:lst[i+0].trim(),phonics: lst[i+2].trim() ,mean: [lst[i+1].trim()]));
+        var word=allOfWord[allOfWord.length-1];
+      fileExistsInAssets("wz/sentenceByWz/${word.eng}.txt").then((val)
+        {
+          if(val==null){
+            word.abouts=["eg is no exist"];
+          }
+          else {
+            final mp= jsonDecode(utf8.decode(val.buffer.asUint8List()));
+            word.abouts=[ "${mp["eg"]}"];
+          }
+        }
+        );
     }
     //log("文件加载完成${allOfWord?.length}");
+
     return true;
   }
 
@@ -129,21 +142,6 @@ class Word{
       Future(()async{
         saveStateToFile();
       });
-       for(Word word in displayList){
-         fileExistsInAssets("wz/sentenceByWz/${word.eng}.txt").then((val)
-          {
-            if(val==null){
-              word.abouts=["eg is no exist"];
-            }
-            else {
-             final mp= jsonDecode(utf8.decode(val.buffer.asUint8List()));
-              word.abouts=[ "${mp["eg"]}"];
-            }
-          }
-         );
-
-       }
-
     }
 
 
