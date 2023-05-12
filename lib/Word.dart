@@ -117,11 +117,10 @@ class Word{
     flush(p:pos, o:ofst);
   }
   static void divideDisplayList(){
-    List<Word> ans=[];
+    displayList.clear();
     for(var m in displayList){
-      ans.addAll(m.divideMeans());
+      displayList.addAll(m.divideMeans());
     }
-    displayList=ans;
 
   }
   static String  cfgPath="cfg0.txt";
@@ -138,7 +137,8 @@ class Word{
       b=t;
     }
     if(a>=0&& a<b&&b<=allOfWord.length) {
-      displayList=allOfWord.sublist(a,b);
+      displayList.clear();
+      displayList.addAll(allOfWord.sublist(a,b));
       Future(()async{
         saveStateToFile();
       });
