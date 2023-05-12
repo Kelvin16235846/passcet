@@ -64,7 +64,18 @@ class WordWidgetState extends State<WordWdget> {
   int curIndexOfWz=0;
   @override
   Widget build(BuildContext context) {
-    return   _builderOfPage.builder(context);
+    var content=_builderOfPage.builder(context);
+    if(_showRemainWzCnt) {
+      return Scaffold(
+        body: content
+        , floatingActionButton: FloatingActionButton(
+        mini: true
+        , onPressed: () {},
+        child: Text("${wzs.length}"),
+      ),
+      );
+    }
+    else return Scaffold(body: content,);
   }
   late Builder _builderOfPage;
 
@@ -365,11 +376,6 @@ class WordWidgetState extends State<WordWdget> {
           180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
     );
     var scfd= Scaffold(
-      appBar: AppBar(title: Text("remian:${wzs.length}")
-        ,titleTextStyle: TextStyle(fontSize: 16,)
-        ,centerTitle: true
-        ,toolbarHeight:18
-      ),
       body: content,);
 
     return  scfd;
