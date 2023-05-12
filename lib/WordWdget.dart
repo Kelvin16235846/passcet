@@ -103,9 +103,16 @@ class WordWidgetState extends State<WordWidget> {
     }
 
     await player.stop();
-    var a= await rootBundle.load('wz/mp3file/${eng.trim()}_$type.mp3');
-    await player.setSourceBytes(a.buffer.asUint8List());
-    await player.resume();
+     Word.fileExistsInAssets("'wz/mp3file/${eng.trim()}_$type.mp3'").then((a) async {
+        if(a!=null){
+          await player.setSourceBytes(a.buffer.asUint8List());
+          await player.resume();
+        }
+        else {
+          SystemSound.play(SystemSoundType.alert);
+        }
+     });
+
 
   }
   void alreadyMastered() {

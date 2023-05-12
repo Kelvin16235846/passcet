@@ -28,19 +28,26 @@ class WordListPageState extends State<WordListPage>{
 
            }, child: Text("打乱")
            )
-            ,Padding(padding:EdgeInsets.only(left: 10))
+            ,Padding(padding:EdgeInsets.only(left: 5))
              ,ElevatedButton(onPressed: (){
                setState(() {
                   _showMean=true;
                });
              }, child: Text("释义")
              )
-             ,Padding(padding:EdgeInsets.only(left: 10))
+             ,Padding(padding:EdgeInsets.only(left: 5))
              ,ElevatedButton(onPressed: (){
                setState(() {
                  _showMean=false;
                });
              }, child: Text("英文")
+             )
+             ,Padding(padding:EdgeInsets.only(left: 5))
+             ,ElevatedButton(onPressed: (){
+               setState(() {
+                  Word.flush();
+               });
+             }, child: const Text("重置")
              )
          ],
          )
@@ -79,5 +86,4 @@ class WordListPageState extends State<WordListPage>{
   List<Word> get wzs{
     return widget.wzs;
   }
-
 }
