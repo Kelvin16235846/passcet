@@ -200,6 +200,7 @@ class WordWidgetState extends State<WordWidget> {
                 );
               }).toList(), onchange: (val){
                 frontpage=val;
+                saveStateToFile();
               })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("背面: ")
@@ -210,6 +211,7 @@ class WordWidgetState extends State<WordWidget> {
                 );
               }).toList(), onchange: (val){
                 backPage=val;
+                saveStateToFile();
               })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("复习模式"), Switch(value: _reviewPattern, onChanged: (v){
@@ -253,6 +255,7 @@ class WordWidgetState extends State<WordWidget> {
             autofocus:false,
             controller:posCtl ,
             decoration: const InputDecoration(
+              labelStyle: TextStyle(fontSize: 25),
                 labelText: "指针",
                 hintText: "第一个单词或最后一个单词的位置"
             ),
@@ -273,12 +276,14 @@ class WordWidgetState extends State<WordWidget> {
             controller: ofstCtl,
             keyboardType: TextInputType.number,
             decoration: const InputDecoration(
+              labelStyle: TextStyle(fontSize: 25),
               labelText: "偏移量",
               hintText: "可正可负,绝对值是单词的数量",
 
             ),
 
           ),
+          const SizedBox(height: 40*2,width: 20,)
 
         ]);
     ctc=Scrollbar(
