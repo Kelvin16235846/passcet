@@ -1,1 +1,1 @@
-{"eg":"1. I filled my bag with books and snacks for my long flight.2. Every morning, she grabs her gym bag and heads to the fitness center.3. My mom always reminds me to bring my reusable shopping bags when we go to the grocery store.","eng":"bag"}
+{"eg":"1. I filled my bag with books and snacks for my long flight.\n2. Every morning, she grabs her gym bag and heads to the fitness center.\n3. My mom always reminds me to bring my reusable shopping bags when we go to the grocery store.","eng":"bag"}

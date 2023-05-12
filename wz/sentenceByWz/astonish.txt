@@ -1,1 +1,1 @@
-{"eg":"1. I was astonished by the stunning view of the sunset over the ocean last night.2. She astonished the audience with her powerful vocals and incredible stage presence.3. The sudden news of her promotion to CEO left me completely astonished.","eng":"astonish"}
+{"eg":"1. I was astonished by the stunning view of the sunset over the ocean last night.\n2. She astonished the audience with her powerful vocals and incredible stage presence.\n3. The sudden news of her promotion to CEO left me completely astonished.","eng":"astonish"}

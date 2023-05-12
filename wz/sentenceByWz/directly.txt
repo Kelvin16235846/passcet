@@ -1,1 +1,1 @@
-{"eg":"1. I directly asked him if he had seen my lost phone.2. She directly confronted her boss about the unfair treatment she had received.3. The instructions on the package clearly state to directly apply the product to the affected area.","eng":"directly"}
+{"eg":"1. I directly asked him if he had seen my lost phone.\n2. She directly confronted her boss about the unfair treatment she had received.\n3. The instructions on the package clearly state to directly apply the product to the affected area.","eng":"directly"}

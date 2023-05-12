@@ -1,1 +1,1 @@
-{"eg":"1. Beyond the vast horizon lies infinite possibilities waiting to be explored.2. His love for her reached beyond the boundaries of words and actions.3. She pushed beyond her limits and accomplished what seemed impossible.","eng":"beyond"}
+{"eg":"1. Beyond the vast horizon lies infinite possibilities waiting to be explored.\n2. His love for her reached beyond the boundaries of words and actions.\n3. She pushed beyond her limits and accomplished what seemed impossible.","eng":"beyond"}

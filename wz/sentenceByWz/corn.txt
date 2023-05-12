@@ -1,1 +1,1 @@
-{"eg":"1. I love to eat corn on the cob in the summertime.2. The farmer harvested a bumper crop of corn this year.3. Johnny got a piece of popcorn stuck in his teeth at the movie theater.","eng":"corn"}
+{"eg":"1. I love to eat corn on the cob in the summertime.\n2. The farmer harvested a bumper crop of corn this year.\n3. Johnny got a piece of popcorn stuck in his teeth at the movie theater.","eng":"corn"}

@@ -1,1 +1,1 @@
-{"eg":"1. The snowstorm outside was so fierce that we had to stay indoors all day.2. The snowstorm covered the entire city in a blanket of white, making it look magical.3. Icy blasts of wind accompanied the snowstorm, making it particularly treacherous to go outside.","eng":"snowstorm"}
+{"eg":"1. The snowstorm outside was so fierce that we had to stay indoors all day.\n2. The snowstorm covered the entire city in a blanket of white, making it look magical.\n3. Icy blasts of wind accompanied the snowstorm, making it particularly treacherous to go outside.","eng":"snowstorm"}

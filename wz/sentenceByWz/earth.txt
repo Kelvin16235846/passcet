@@ -1,1 +1,1 @@
-{"eg":"1. Earth's natural resources are being depleted at an alarming rate.2. It is our responsibility to protect the Earth and its delicate ecosystems.3. Earth is the only planet we know of that is capable of supporting life as we know it.","eng":"earth"}
+{"eg":"1. Earth's natural resources are being depleted at an alarming rate.\n2. It is our responsibility to protect the Earth and its delicate ecosystems.\n3. Earth is the only planet we know of that is capable of supporting life as we know it.","eng":"earth"}

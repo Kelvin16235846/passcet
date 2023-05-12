@@ -1,1 +1,1 @@
-{"eg":"1. Keep it simple, sweetheart.2. Sometimes a simple kiss is all you need to feel loved.3. Kisses are the sweetest language of love.","eng":"kiss"}
+{"eg":"1. Keep it simple, sweetheart.\n2. Sometimes a simple kiss is all you need to feel loved.\n3. Kisses are the sweetest language of love.","eng":"kiss"}

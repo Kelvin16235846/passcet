@@ -1,1 +1,1 @@
-{"eg":"1. I didn't have enough time to finish the project, but I submitted it anyhow.2. The weather forecast predicted rain, but we went for a hike anyhow.3. I wasn't sure if I had the qualifications for the job, but I applied anyhow.","eng":"anyhow"}
+{"eg":"1. I didn't have enough time to finish the project, but I submitted it anyhow.\n2. The weather forecast predicted rain, but we went for a hike anyhow.\n3. I wasn't sure if I had the qualifications for the job, but I applied anyhow.","eng":"anyhow"}

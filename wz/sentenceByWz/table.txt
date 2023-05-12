@@ -1,1 +1,1 @@
-{"eg":"1. Here is a table featuring the prices of our products.2. I need to consult the table of contents before I start reading.3. Can you please set the table for dinner tonight?","eng":"table"}
+{"eg":"1. Here is a table featuring the prices of our products.\n2. I need to consult the table of contents before I start reading.\n3. Can you please set the table for dinner tonight?","eng":"table"}

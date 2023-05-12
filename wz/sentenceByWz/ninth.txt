@@ -1,1 +1,1 @@
-{"eg":"1. The ninth game of the basketball tournament ended in a tie.2. I'm currently on my ninth month of pregnancy and getting excited to meet my little one soon.3. It took me until my ninth try to finally pass my driver's license test.","eng":"ninth"}
+{"eg":"1. The ninth game of the basketball tournament ended in a tie.\n2. I'm currently on my ninth month of pregnancy and getting excited to meet my little one soon.\n3. It took me until my ninth try to finally pass my driver's license test.","eng":"ninth"}

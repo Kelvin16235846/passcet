@@ -1,1 +1,1 @@
-{"eg":"1. I had a moment of recall when I suddenly remembered where I put my keys.2. The smell of freshly baked bread triggered a recall of my childhood memories.3. After some recall, I realized that I had met her before at a friend's party.","eng":"recall"}
+{"eg":"1. I had a moment of recall when I suddenly remembered where I put my keys.\n2. The smell of freshly baked bread triggered a recall of my childhood memories.\n3. After some recall, I realized that I had met her before at a friend's party.","eng":"recall"}

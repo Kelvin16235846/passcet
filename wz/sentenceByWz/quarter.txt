@@ -1,1 +1,1 @@
-{"eg":"1. I will pay the rent quarterly, every three months.2. He was born in the last quarter of the year, in October.3. The company's profits increased by a quarter compared to last year.","eng":"quarter"}
+{"eg":"1. I will pay the rent quarterly, every three months.\n2. He was born in the last quarter of the year, in October.\n3. The company's profits increased by a quarter compared to last year.","eng":"quarter"}

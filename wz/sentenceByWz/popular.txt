@@ -1,1 +1,1 @@
-{"eg":"1. The popular singer gave an electrifying performance last night.2. The popular food truck always has a long line of customers waiting to try their delicious dishes.3. The popular social media platform is constantly updating its features to keep users engaged.","eng":"popular"}
+{"eg":"1. The popular singer gave an electrifying performance last night.\n2. The popular food truck always has a long line of customers waiting to try their delicious dishes.\n3. The popular social media platform is constantly updating its features to keep users engaged.","eng":"popular"}

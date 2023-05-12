@@ -1,1 +1,1 @@
-{"eg":"1. He struggled with the pronunciation of \"rural\" for years.2. She was praised for her impeccable English pronunciation by her professor.3. The teacher corrected the students' pronunciation of the word \"schedule\".","eng":"pronunciation"}
+{"eg":"1. He struggled with the pronunciation of \"rural\" for years.\n2. She was praised for her impeccable English pronunciation by her professor.\n3. The teacher corrected the students' pronunciation of the word \"schedule\".","eng":"pronunciation"}

@@ -1,1 +1,1 @@
-{"eg":"1. \"I had a delicious sausage for breakfast this morning.\"2. \"The hot dog cart on the corner sells the best sausages in town.\"3. \"My favorite pizza topping is sausage.\"","eng":"sausage"}
+{"eg":"1. \"I had a delicious sausage for breakfast this morning.\"\n2. \"The hot dog cart on the corner sells the best sausages in town.\"\n3. \"My favorite pizza topping is sausage.\"","eng":"sausage"}

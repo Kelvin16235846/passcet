@@ -1,1 +1,1 @@
-{"eg":"1. I try to eat healthy foods like fruits and vegetables to maintain a balanced diet.2. Regular exercise is essential to staying healthy both physically and mentally.3. I make sure to get enough sleep each night as it is important for overall healthy well-being.","eng":"healthy"}
+{"eg":"1. I try to eat healthy foods like fruits and vegetables to maintain a balanced diet.\n2. Regular exercise is essential to staying healthy both physically and mentally.\n3. I make sure to get enough sleep each night as it is important for overall healthy well-being.","eng":"healthy"}

@@ -1,1 +1,1 @@
-{"eg":"1. It takes time to mature and develop the skills needed to succeed in any profession.2. He showed a mature understanding of the situation and handled it with great diplomacy.3. The wine has a mature taste, indicating that it has been aged for several years.","eng":"mature"}
+{"eg":"1. It takes time to mature and develop the skills needed to succeed in any profession.\n2. He showed a mature understanding of the situation and handled it with great diplomacy.\n3. The wine has a mature taste, indicating that it has been aged for several years.","eng":"mature"}

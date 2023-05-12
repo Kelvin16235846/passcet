@@ -1,1 +1,1 @@
-{"eg":"1. I love to cook with fresh ingredients - it always adds a delicious flavor to the dish.2. She decided to take up yoga as a way to de-stress and improve her flexibility.3. The concert venue was filled with excited fans, eagerly awaiting the start of the show.","eng":"dash"}
+{"eg":"1. I love to cook with fresh ingredients - it always adds a delicious flavor to the dish.\n2. She decided to take up yoga as a way to de-stress and improve her flexibility.\n3. The concert venue was filled with excited fans, eagerly awaiting the start of the show.","eng":"dash"}

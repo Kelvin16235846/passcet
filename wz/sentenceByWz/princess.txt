@@ -1,1 +1,1 @@
-{"eg":"1. The princess looked stunning in her elegant ball gown.2. The princess wasn't afraid to get her hands dirty and help out in the garden.3. As a child, the princess dreamed of one day ruling her own kingdom.","eng":"princess"}
+{"eg":"1. The princess looked stunning in her elegant ball gown.\n2. The princess wasn't afraid to get her hands dirty and help out in the garden.\n3. As a child, the princess dreamed of one day ruling her own kingdom.","eng":"princess"}

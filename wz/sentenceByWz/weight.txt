@@ -1,1 +1,1 @@
-{"eg":"1. I have been trying to lose weight for months, but my progress has been slow.2. His doctor advised him to shed some weight to improve his overall health.3. She gained a lot of weight during the holiday season due to all the delicious food.","eng":"weight"}
+{"eg":"1. I have been trying to lose weight for months, but my progress has been slow.\n2. His doctor advised him to shed some weight to improve his overall health.\n3. She gained a lot of weight during the holiday season due to all the delicious food.","eng":"weight"}

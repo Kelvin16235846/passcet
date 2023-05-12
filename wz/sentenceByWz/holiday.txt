@@ -1,1 +1,1 @@
-{"eg":"1. I am looking forward to my upcoming holiday in Thailand.2. My favorite holiday is Christmas because I get to spend time with my family.3. I am planning a road trip for my next holiday to explore new places.","eng":"holiday"}
+{"eg":"1. I am looking forward to my upcoming holiday in Thailand.\n2. My favorite holiday is Christmas because I get to spend time with my family.\n3. I am planning a road trip for my next holiday to explore new places.","eng":"holiday"}

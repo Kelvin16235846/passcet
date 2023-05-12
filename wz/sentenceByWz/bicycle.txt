@@ -1,1 +1,1 @@
-{"eg":"1. I like to ride my bicycle to work every day.2. My favorite way to explore a new city is by renting a bicycle.3. Taking a scenic bike ride through the countryside is a great way to get some exercise and enjoy nature.","eng":"bicycle"}
+{"eg":"1. I like to ride my bicycle to work every day.\n2. My favorite way to explore a new city is by renting a bicycle.\n3. Taking a scenic bike ride through the countryside is a great way to get some exercise and enjoy nature.","eng":"bicycle"}

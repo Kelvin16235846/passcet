@@ -1,1 +1,1 @@
-{"eg":"1. She always stays in luxury hotels when she travels abroad.2. The new luxury car model was beyond his budget.3. The resort offers luxury villas with private pools for guests.","eng":"luxury"}
+{"eg":"1. She always stays in luxury hotels when she travels abroad.\n2. The new luxury car model was beyond his budget.\n3. The resort offers luxury villas with private pools for guests.","eng":"luxury"}

@@ -1,1 +1,1 @@
-{"eg":"1. I decided to pop into the bookstore on my way home from work.2. The smell of popcorn popping in the microwave made my mouth water.3. She felt a sudden pop in her ankle and knew she had sprained it.","eng":"pop"}
+{"eg":"1. I decided to pop into the bookstore on my way home from work.\n2. The smell of popcorn popping in the microwave made my mouth water.\n3. She felt a sudden pop in her ankle and knew she had sprained it.","eng":"pop"}

@@ -1,1 +1,1 @@
-{"eg":"1. I can wash the dishes while you cook dinner in parallel.2. The computer program is designed to execute multiple tasks in parallel for optimal efficiency.3. The company is running several projects in parallel, each with its own team and timeline.","eng":"parallel"}
+{"eg":"1. I can wash the dishes while you cook dinner in parallel.\n2. The computer program is designed to execute multiple tasks in parallel for optimal efficiency.\n3. The company is running several projects in parallel, each with its own team and timeline.","eng":"parallel"}

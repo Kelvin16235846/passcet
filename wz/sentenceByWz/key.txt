@@ -1,1 +1,1 @@
-{"eg":"1. The key to success is hard work and dedication.2. He lost the key to his apartment and had to call a locksmith.3. The encryption key is used to secure sensitive data.","eng":"key"}
+{"eg":"1. The key to success is hard work and dedication.\n2. He lost the key to his apartment and had to call a locksmith.\n3. The encryption key is used to secure sensitive data.","eng":"key"}

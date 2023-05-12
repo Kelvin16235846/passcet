@@ -1,1 +1,1 @@
-{"eg":"1. 我最喜欢的食物是炒饭。 My favorite food is fried rice.2. 我们学校有很多课外活动可以参加。 There are many extracurricular activities to participate in at our school.3. 我们应该保护环境，保护我们的地球。 We should protect the environment and protect our planet.","eng":"Chinese"}
+{"eg":"1. 我最喜欢的食物是炒饭。 My favorite food is fried rice.\n2. 我们学校有很多课外活动可以参加。 There are many extracurricular activities to participate in at our school.\n3. 我们应该保护环境，保护我们的地球。 We should protect the environment and protect our planet.","eng":"Chinese"}

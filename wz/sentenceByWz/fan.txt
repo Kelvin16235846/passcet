@@ -1,1 +1,1 @@
-{"eg":"1. I am a huge fan of Taylor Swift, I have all of her albums.2. The fans were screaming and cheering as the rock band took the stage.3. He bought a new fan to keep cool during the hot summer nights.","eng":"fan"}
+{"eg":"1. I am a huge fan of Taylor Swift, I have all of her albums.\n2. The fans were screaming and cheering as the rock band took the stage.\n3. He bought a new fan to keep cool during the hot summer nights.","eng":"fan"}

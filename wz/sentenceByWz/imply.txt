@@ -1,1 +1,1 @@
-{"eg":"1. His silence implied that he did not agree with the proposal.2. The study results strongly implied that regular exercise can improve mental health.3. The tone of her message implied that she was upset with me.","eng":"imply"}
+{"eg":"1. His silence implied that he did not agree with the proposal.\n2. The study results strongly implied that regular exercise can improve mental health.\n3. The tone of her message implied that she was upset with me.","eng":"imply"}

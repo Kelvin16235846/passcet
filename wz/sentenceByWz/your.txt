@@ -1,1 +1,1 @@
-{"eg":"1. Your performance on the exam was exceptional.2. Your dedication to your work is admirable.3. Your smile brightens up my day.","eng":"your"}
+{"eg":"1. Your performance on the exam was exceptional.\n2. Your dedication to your work is admirable.\n3. Your smile brightens up my day.","eng":"your"}

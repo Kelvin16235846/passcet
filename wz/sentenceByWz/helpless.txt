@@ -1,1 +1,1 @@
-{"eg":"1. The situation left me feeling helpless and powerless to make any meaningful change.2. The sight of the injured animal made me feel helpless and distressed.3. She felt helpless as she watched her loved one struggle with addiction.","eng":"helpless"}
+{"eg":"1. The situation left me feeling helpless and powerless to make any meaningful change.\n2. The sight of the injured animal made me feel helpless and distressed.\n3. She felt helpless as she watched her loved one struggle with addiction.","eng":"helpless"}

@@ -1,1 +1,1 @@
-{"eg":"1. I need to buy a gallon of milk for the week.2. He drank a gallon of water during his marathon training.3. The paint can is labeled \"one gallon\" and should cover the entire room.","eng":"gallon"}
+{"eg":"1. I need to buy a gallon of milk for the week.\n2. He drank a gallon of water during his marathon training.\n3. The paint can is labeled \"one gallon\" and should cover the entire room.","eng":"gallon"}

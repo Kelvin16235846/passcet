@@ -1,1 +1,1 @@
-{"eg":"1. The area surrounding the lake is known for its stunning natural beauty.2. I'm not very familiar with this area, can you give me some directions?3. After completing the measurements, we calculated the area of the square to be 16 square meters.","eng":"area"}
+{"eg":"1. The area surrounding the lake is known for its stunning natural beauty.\n2. I'm not very familiar with this area, can you give me some directions?\n3. After completing the measurements, we calculated the area of the square to be 16 square meters.","eng":"area"}

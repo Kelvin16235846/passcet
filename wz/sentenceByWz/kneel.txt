@@ -1,1 +1,1 @@
-{"eg":"1. The knight was ordered to kneel before the queen as a sign of respect.2. The athlete kneeled down in front of his coach to receive some essential tips for the game.3. The devout worshiper kneels every day in front of the altar to pray for peace and prosperity.","eng":"kneel"}
+{"eg":"1. The knight was ordered to kneel before the queen as a sign of respect.\n2. The athlete kneeled down in front of his coach to receive some essential tips for the game.\n3. The devout worshiper kneels every day in front of the altar to pray for peace and prosperity.","eng":"kneel"}

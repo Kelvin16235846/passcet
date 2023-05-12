@@ -1,1 +1,1 @@
-{"eg":"1. I need to shave before I go to the party tonight.2. My electric shaver is not working properly and I need to buy a new one.3. He always forgets to shave on weekends when he doesn't have to go to work.","eng":"shave"}
+{"eg":"1. I need to shave before I go to the party tonight.\n2. My electric shaver is not working properly and I need to buy a new one.\n3. He always forgets to shave on weekends when he doesn't have to go to work.","eng":"shave"}

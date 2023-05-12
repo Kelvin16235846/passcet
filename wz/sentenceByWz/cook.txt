@@ -1,1 +1,1 @@
-{"eg":"1. My grandma loves to cook traditional dishes from her hometown.2. Whenever my friends come over, we always cook dinner together.3. I am trying to learn how to cook healthier meals for myself.","eng":"cook"}
+{"eg":"1. My grandma loves to cook traditional dishes from her hometown.\n2. Whenever my friends come over, we always cook dinner together.\n3. I am trying to learn how to cook healthier meals for myself.","eng":"cook"}

@@ -1,1 +1,1 @@
-{"eg":"1. The sun's warm rays are a welcome escape from the chilly winter weather.2. The cozy fireplace provided a warm ambience for our holiday gathering.3. His caring embrace and kind words made her feel warm and loved.","eng":"warm"}
+{"eg":"1. The sun's warm rays are a welcome escape from the chilly winter weather.\n2. The cozy fireplace provided a warm ambience for our holiday gathering.\n3. His caring embrace and kind words made her feel warm and loved.","eng":"warm"}

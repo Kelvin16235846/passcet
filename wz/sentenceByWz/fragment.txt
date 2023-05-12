@@ -1,1 +1,1 @@
-{"eg":"1. The fragment of the vase lay scattered across the floor.2. She could only remember a small fragment of the conversation.3. The historian carefully examined the fragment of the ancient manuscript.","eng":"fragment"}
+{"eg":"1. The fragment of the vase lay scattered across the floor.\n2. She could only remember a small fragment of the conversation.\n3. The historian carefully examined the fragment of the ancient manuscript.","eng":"fragment"}

@@ -1,1 +1,1 @@
-{"eg":"1. The hiker's backpack was made of durable nylon material.2. The fashion industry often uses nylon fabric in clothing designs.3. Nylon stockings were a popular fashion accessory in the 1940s and 1950s.","eng":"nylon"}
+{"eg":"1. The hiker's backpack was made of durable nylon material.\n2. The fashion industry often uses nylon fabric in clothing designs.\n3. Nylon stockings were a popular fashion accessory in the 1940s and 1950s.","eng":"nylon"}

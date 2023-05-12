@@ -1,1 +1,1 @@
-{"eg":"1. I can't wait to watch the stars tonight.2. Let's go out for a romantic dinner tonight.3. It's too cold to go out tonight, let's stay in and watch a movie.","eng":"tonight"}
+{"eg":"1. I can't wait to watch the stars tonight.\n2. Let's go out for a romantic dinner tonight.\n3. It's too cold to go out tonight, let's stay in and watch a movie.","eng":"tonight"}

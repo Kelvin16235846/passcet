@@ -1,1 +1,1 @@
-{"eg":"1. July is the month of summer vacations and outdoor fun.2. July is the perfect time to indulge in refreshing cold drinks and fruits.3. July brings forth a sense of warmth and optimism, making it a beloved month by many.","eng":"July"}
+{"eg":"1. July is the month of summer vacations and outdoor fun.\n2. July is the perfect time to indulge in refreshing cold drinks and fruits.\n3. July brings forth a sense of warmth and optimism, making it a beloved month by many.","eng":"July"}

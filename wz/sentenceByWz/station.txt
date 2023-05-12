@@ -1,1 +1,1 @@
-{"eg":"1. I arrived at the station just in time to catch my train.2. The station was bustling with people rushing to catch their trains.3. The train conductor announced the next stop as we pulled into the station.","eng":"station"}
+{"eg":"1. I arrived at the station just in time to catch my train.\n2. The station was bustling with people rushing to catch their trains.\n3. The train conductor announced the next stop as we pulled into the station.","eng":"station"}

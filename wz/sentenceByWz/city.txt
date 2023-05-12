@@ -1,1 +1,1 @@
-{"eg":"1. New York City is famous for its towering skyscrapers and bustling streets.2. The ancient city of Rome is home to some of the world's most iconic landmarks.3. Tokyo is a vibrant city where old traditions and modern technology blend seamlessly.","eng":"city"}
+{"eg":"1. New York City is famous for its towering skyscrapers and bustling streets.\n2. The ancient city of Rome is home to some of the world's most iconic landmarks.\n3. Tokyo is a vibrant city where old traditions and modern technology blend seamlessly.","eng":"city"}

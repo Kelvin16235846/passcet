@@ -1,1 +1,1 @@
-{"eg":"1. I always make sure to have enough cash on me in case of emergencies.2. The store only accepts cash, so I need to make a bank withdrawal first.3. I prefer to use cash instead of credit cards to better manage my spending.","eng":"cash"}
+{"eg":"1. I always make sure to have enough cash on me in case of emergencies.\n2. The store only accepts cash, so I need to make a bank withdrawal first.\n3. I prefer to use cash instead of credit cards to better manage my spending.","eng":"cash"}

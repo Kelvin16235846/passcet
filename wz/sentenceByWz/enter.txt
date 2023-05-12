@@ -1,1 +1,1 @@
-{"eg":"1. Sarah pressed the enter key to submit her assignment.2. The computer automatically capitalized the first letter after every enter keystroke.3. The website displayed an error message when I pressed enter without filling out all of the required fields.","eng":"enter"}
+{"eg":"1. Sarah pressed the enter key to submit her assignment.\n2. The computer automatically capitalized the first letter after every enter keystroke.\n3. The website displayed an error message when I pressed enter without filling out all of the required fields.","eng":"enter"}

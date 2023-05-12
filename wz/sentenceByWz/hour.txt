@@ -1,1 +1,1 @@
-{"eg":"1. I work eight hours a day, five days a week.2. You should sleep at least seven hours every night.3. The museum is only open for a few hours on Sundays.","eng":"hour"}
+{"eg":"1. I work eight hours a day, five days a week.\n2. You should sleep at least seven hours every night.\n3. The museum is only open for a few hours on Sundays.","eng":"hour"}

@@ -1,1 +1,1 @@
-{"eg":"1. I stirred the soup slowly, savoring the aroma of the freshly chopped herbs.2. The soup was piping hot, with a rich and creamy texture that satisfied my hunger.3. When I added a dash of lemon juice to the soup, it gave it a tangy and refreshing flavor.","eng":"soup"}
+{"eg":"1. I stirred the soup slowly, savoring the aroma of the freshly chopped herbs.\n2. The soup was piping hot, with a rich and creamy texture that satisfied my hunger.\n3. When I added a dash of lemon juice to the soup, it gave it a tangy and refreshing flavor.","eng":"soup"}

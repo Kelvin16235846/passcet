@@ -1,1 +1,1 @@
-{"eg":"1. The book was written by J.K. Rowling.2. The picture was painted by Vincent van Gogh.3. The cake was baked by my grandmother.","eng":"by"}
+{"eg":"1. The book was written by J.K. Rowling.\n2. The picture was painted by Vincent van Gogh.\n3. The cake was baked by my grandmother.","eng":"by"}

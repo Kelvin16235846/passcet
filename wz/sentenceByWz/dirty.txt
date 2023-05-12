@@ -1,1 +1,1 @@
-{"eg":"1. My hands are dirty from playing in the mud all day.2. I need to wash my clothes because they are dirty from working in the garden.3. The dishes were left unwashed for so long that they became extremely dirty and difficult to clean.","eng":"dirty"}
+{"eg":"1. My hands are dirty from playing in the mud all day.\n2. I need to wash my clothes because they are dirty from working in the garden.\n3. The dishes were left unwashed for so long that they became extremely dirty and difficult to clean.","eng":"dirty"}

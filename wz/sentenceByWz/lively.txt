@@ -1,1 +1,1 @@
-{"eg":"1. The lively music filled the room and everyone began to dance.2. The lively debate among the politicians kept the audience engaged.3. The lively atmosphere at the carnival was contagious and had people smiling and laughing.","eng":"lively"}
+{"eg":"1. The lively music filled the room and everyone began to dance.\n2. The lively debate among the politicians kept the audience engaged.\n3. The lively atmosphere at the carnival was contagious and had people smiling and laughing.","eng":"lively"}

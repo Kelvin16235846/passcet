@@ -1,1 +1,1 @@
-{"eg":"1. She felt alone in the crowded room.2. He left the party feeling alone and unwanted.3. The old man lived alone in a secluded mountain cabin.","eng":"alone"}
+{"eg":"1. She felt alone in the crowded room.\n2. He left the party feeling alone and unwanted.\n3. The old man lived alone in a secluded mountain cabin.","eng":"alone"}

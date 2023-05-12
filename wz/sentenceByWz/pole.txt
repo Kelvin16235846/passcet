@@ -1,1 +1,1 @@
-{"eg":"1. The pole held up the tent during the camping trip.2. She used the pole to vault over the high bar in gymnastics.3. The flagpole at the school was painted red, white, and blue.","eng":"pole"}
+{"eg":"1. The pole held up the tent during the camping trip.\n2. She used the pole to vault over the high bar in gymnastics.\n3. The flagpole at the school was painted red, white, and blue.","eng":"pole"}

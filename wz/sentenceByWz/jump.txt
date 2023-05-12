@@ -1,1 +1,1 @@
-{"eg":"1. I saw a frog jump across the river.2. The athlete had to jump over the hurdle during the race.3. The cat can easily jump onto the high shelf to reach its favorite toy.","eng":"jump"}
+{"eg":"1. I saw a frog jump across the river.\n2. The athlete had to jump over the hurdle during the race.\n3. The cat can easily jump onto the high shelf to reach its favorite toy.","eng":"jump"}

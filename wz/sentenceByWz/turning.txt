@@ -1,1 +1,1 @@
-{"eg":"1. Turning a blind eye to a problem will only make it worse in the long run.2. They knew they were lost when they took a wrong turning and ended up in a dead end street.3. The business is finally turning a profit after a period of struggling to break even.","eng":"turning"}
+{"eg":"1. Turning a blind eye to a problem will only make it worse in the long run.\n2. They knew they were lost when they took a wrong turning and ended up in a dead end street.\n3. The business is finally turning a profit after a period of struggling to break even.","eng":"turning"}

@@ -1,1 +1,1 @@
-{"eg":"1. The farmer measured the soil's moisture content before planting his crops.2. The moisturizer helped to replenish the moisture in her dry skin.3. Increased moisture in the air caused the fog to form in the early morning.","eng":"moisture"}
+{"eg":"1. The farmer measured the soil's moisture content before planting his crops.\n2. The moisturizer helped to replenish the moisture in her dry skin.\n3. Increased moisture in the air caused the fog to form in the early morning.","eng":"moisture"}

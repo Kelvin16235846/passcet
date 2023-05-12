@@ -1,1 +1,1 @@
-{"eg":"1. Generally speaking, people prefer sunny days over cloudy ones.2. Generally, students who attend classes regularly perform better on exams.3. Generally, eating a balanced diet and getting enough exercise are important for good health.","eng":"generally"}
+{"eg":"1. Generally speaking, people prefer sunny days over cloudy ones.\n2. Generally, students who attend classes regularly perform better on exams.\n3. Generally, eating a balanced diet and getting enough exercise are important for good health.","eng":"generally"}

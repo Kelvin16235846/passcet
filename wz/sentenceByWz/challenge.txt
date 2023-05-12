@@ -1,1 +1,1 @@
-{"eg":"1. I love a challenge, whether it's conquering a mountain or learning a new skill.2. Facing challenges is what makes me feel alive and pushes me to be my best self.3. Bring on the challenge because I am ready to prove myself and exceed all expectations.","eng":"challenge"}
+{"eg":"1. I love a challenge, whether it's conquering a mountain or learning a new skill.\n2. Facing challenges is what makes me feel alive and pushes me to be my best self.\n3. Bring on the challenge because I am ready to prove myself and exceed all expectations.","eng":"challenge"}

@@ -1,1 +1,1 @@
-{"eg":"1. Ninety is the number that comes after eighty-nine and before ninety-one.2. I have been on this earth for ninety years and have seen many changes.3. Ninety percent of success is showing up and giving your best effort.","eng":"ninety"}
+{"eg":"1. Ninety is the number that comes after eighty-nine and before ninety-one.\n2. I have been on this earth for ninety years and have seen many changes.\n3. Ninety percent of success is showing up and giving your best effort.","eng":"ninety"}

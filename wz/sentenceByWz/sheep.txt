@@ -1,1 +1,1 @@
-{"eg":"1. The farmer has a flock of sheep.2. The wool from the sheep is used to make warm clothing.3. The sheep were peacefully grazing in the meadow.","eng":"sheep"}
+{"eg":"1. The farmer has a flock of sheep.\n2. The wool from the sheep is used to make warm clothing.\n3. The sheep were peacefully grazing in the meadow.","eng":"sheep"}

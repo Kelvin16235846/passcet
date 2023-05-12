@@ -1,1 +1,1 @@
-{"eg":"1. I need to go to the shop and buy some milk.2. She loves spending her free time browsing in antique shops.3. The shop on the corner sells the best croissants in town.","eng":"shop"}
+{"eg":"1. I need to go to the shop and buy some milk.\n2. She loves spending her free time browsing in antique shops.\n3. The shop on the corner sells the best croissants in town.","eng":"shop"}

@@ -1,1 +1,1 @@
-{"eg":"1. He had prepared the presentation perfectly.2. The sunset view from the hilltop was a perfect sight.3. The cake was baked to perfection, it tasted heavenly.","eng":"perfect"}
+{"eg":"1. He had prepared the presentation perfectly.\n2. The sunset view from the hilltop was a perfect sight.\n3. The cake was baked to perfection, it tasted heavenly.","eng":"perfect"}

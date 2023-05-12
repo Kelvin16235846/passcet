@@ -1,1 +1,1 @@
-{"eg":"1. I always keep a stack of books on my nightstand to read before bed.2. Can you help me pick up the stack of papers that fell over?3. The pancakes were piled high in a stack on the plate.","eng":"stack"}
+{"eg":"1. I always keep a stack of books on my nightstand to read before bed.\n2. Can you help me pick up the stack of papers that fell over?\n3. The pancakes were piled high in a stack on the plate.","eng":"stack"}

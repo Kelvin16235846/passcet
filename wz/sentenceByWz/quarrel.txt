@@ -1,1 +1,1 @@
-{"eg":"1. Sally and Tom had a quarrel over who was going to pay for dinner.2. The quarrel between the two neighboring countries is escalating into a full-blown conflict.3. It's not worth having a quarrel with your friend over something so small and insignificant.","eng":"quarrel"}
+{"eg":"1. Sally and Tom had a quarrel over who was going to pay for dinner.\n2. The quarrel between the two neighboring countries is escalating into a full-blown conflict.\n3. It's not worth having a quarrel with your friend over something so small and insignificant.","eng":"quarrel"}

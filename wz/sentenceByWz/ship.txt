@@ -1,1 +1,1 @@
-{"eg":"1. The ship sailed smoothly through calm waters.2. The cargo ship was carrying thousands of containers filled with goods.3. The pirate ship approached with its black sails billowing in the wind.","eng":"ship"}
+{"eg":"1. The ship sailed smoothly through calm waters.\n2. The cargo ship was carrying thousands of containers filled with goods.\n3. The pirate ship approached with its black sails billowing in the wind.","eng":"ship"}

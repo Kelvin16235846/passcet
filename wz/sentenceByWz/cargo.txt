@@ -1,1 +1,1 @@
-{"eg":"1. I'm using cargo to ship my goods to the overseas market.2. The cargo on board the ship consisted of various raw materials and finished products.3. The delivery company assured me that my cargo would arrive at the destination on time.","eng":"cargo"}
+{"eg":"1. I'm using cargo to ship my goods to the overseas market.\n2. The cargo on board the ship consisted of various raw materials and finished products.\n3. The delivery company assured me that my cargo would arrive at the destination on time.","eng":"cargo"}

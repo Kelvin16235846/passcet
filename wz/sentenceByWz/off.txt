@@ -1,1 +1,1 @@
-{"eg":"1. I turned off the television before going to bed.2. He took off his hat as he entered the building.3. She brushed off the dirt from her clothes after falling down.","eng":"off"}
+{"eg":"1. I turned off the television before going to bed.\n2. He took off his hat as he entered the building.\n3. She brushed off the dirt from her clothes after falling down.","eng":"off"}

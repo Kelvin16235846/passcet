@@ -1,1 +1,1 @@
-{"eg":"1. It is highly desirable that we find a solution to climate change before it's too late.2. A desirable trait in a leader is the ability to inspire and motivate their team.3. Having good communication skills is a desirable quality in any profession.","eng":"desirable"}
+{"eg":"1. It is highly desirable that we find a solution to climate change before it's too late.\n2. A desirable trait in a leader is the ability to inspire and motivate their team.\n3. Having good communication skills is a desirable quality in any profession.","eng":"desirable"}

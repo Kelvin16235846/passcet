@@ -1,1 +1,1 @@
-{"eg":"1. The car drove in reverse down the narrow alleyway.2. She flipped the book over and read the story in reverse.3. The magician performed a spectacular trick by quickly reversing the direction of the cards.","eng":"reverse"}
+{"eg":"1. The car drove in reverse down the narrow alleyway.\n2. She flipped the book over and read the story in reverse.\n3. The magician performed a spectacular trick by quickly reversing the direction of the cards.","eng":"reverse"}

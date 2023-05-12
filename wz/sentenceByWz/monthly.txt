@@ -1,1 +1,1 @@
-{"eg":"1. I pay my rent monthly.2. My gym membership is a monthly subscription.3. I receive a monthly report from my boss.","eng":"monthly"}
+{"eg":"1. I pay my rent monthly.\n2. My gym membership is a monthly subscription.\n3. I receive a monthly report from my boss.","eng":"monthly"}

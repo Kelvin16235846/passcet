@@ -1,1 +1,1 @@
-{"eg":"1. I need to prepare a presentation for tomorrow's meeting.2. We should prepare for the worst-case scenario in case of an emergency.3. He always prepares his meals in advance to save time during the week.","eng":"prepare"}
+{"eg":"1. I need to prepare a presentation for tomorrow's meeting.\n2. We should prepare for the worst-case scenario in case of an emergency.\n3. He always prepares his meals in advance to save time during the week.","eng":"prepare"}

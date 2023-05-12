@@ -1,1 +1,1 @@
-{"eg":"1. I am sure that I will pass my final exams this semester.2. Are you sure that you want to quit your job and start a new career?3. I'm not sure if I can attend the party next weekend due to prior commitments.","eng":"sure"}
+{"eg":"1. I am sure that I will pass my final exams this semester.\n2. Are you sure that you want to quit your job and start a new career?\n3. I'm not sure if I can attend the party next weekend due to prior commitments.","eng":"sure"}

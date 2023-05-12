@@ -1,1 +1,1 @@
-{"eg":"1. The quality of goods produced by this company is exceptional.2. The store sells various goods ranging from clothing to electronics.3. The government has imposed a tax on imported goods to protect the domestic market.","eng":"goods"}
+{"eg":"1. The quality of goods produced by this company is exceptional.\n2. The store sells various goods ranging from clothing to electronics.\n3. The government has imposed a tax on imported goods to protect the domestic market.","eng":"goods"}

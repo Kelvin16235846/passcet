@@ -1,1 +1,1 @@
-{"eg":"1. The quality of the fabric used for this dress is excellent.2. I only shop for products with high quality standards.3. As a teacher, I prioritize the quality of my students' education.","eng":"quality"}
+{"eg":"1. The quality of the fabric used for this dress is excellent.\n2. I only shop for products with high quality standards.\n3. As a teacher, I prioritize the quality of my students' education.","eng":"quality"}

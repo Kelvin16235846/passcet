@@ -1,1 +1,1 @@
-{"eg":"1. I hope this experience will lessen your anxiety about public speaking.2. The medication can help lessen the pain, but it doesn't cure the underlying condition.3. We need to lessen our dependence on fossil fuels and switch to renewable energy sources.","eng":"lessen"}
+{"eg":"1. I hope this experience will lessen your anxiety about public speaking.\n2. The medication can help lessen the pain, but it doesn't cure the underlying condition.\n3. We need to lessen our dependence on fossil fuels and switch to renewable energy sources.","eng":"lessen"}

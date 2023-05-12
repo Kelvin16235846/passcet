@@ -1,1 +1,1 @@
-{"eg":"1. Unless you study hard, you won't pass the exam.2. Unless it's an emergency, please do not disturb me.3. Unless you apologize, I won't forgive you.","eng":"unless"}
+{"eg":"1. Unless you study hard, you won't pass the exam.\n2. Unless it's an emergency, please do not disturb me.\n3. Unless you apologize, I won't forgive you.","eng":"unless"}

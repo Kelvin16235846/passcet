@@ -1,1 +1,1 @@
-{"eg":"1. My dog wears a silly hat and looks like a clown.2. I tried to dance to the silly music, but I fell over laughing.3. The silly monkey stole my sandwich and ran up a tree.","eng":"silly"}
+{"eg":"1. My dog wears a silly hat and looks like a clown.\n2. I tried to dance to the silly music, but I fell over laughing.\n3. The silly monkey stole my sandwich and ran up a tree.","eng":"silly"}

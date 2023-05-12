@@ -1,1 +1,1 @@
-{"eg":"1. Where did you buy that book?2. I don't know where I left my keys.3. Can you tell me where the restroom is?","eng":"where"}
+{"eg":"1. Where did you buy that book?\n2. I don't know where I left my keys.\n3. Can you tell me where the restroom is?","eng":"where"}

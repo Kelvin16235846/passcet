@@ -1,1 +1,1 @@
-{"eg":"1. I aim to finish my project by the end of the week.2. She aims to become a world-renowned scientist someday.3. We aim to provide high-quality services to our clients at all times.","eng":"aim"}
+{"eg":"1. I aim to finish my project by the end of the week.\n2. She aims to become a world-renowned scientist someday.\n3. We aim to provide high-quality services to our clients at all times.","eng":"aim"}

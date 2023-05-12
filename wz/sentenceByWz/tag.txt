@@ -1,1 +1,1 @@
-{"eg":"1. #traveling is my favorite hobby.2. #books are my escape from reality.3. #music is my therapy.","eng":"tag"}
+{"eg":"1. #traveling is my favorite hobby.\n2. #books are my escape from reality.\n3. #music is my therapy.","eng":"tag"}

@@ -1,1 +1,1 @@
-{"eg":"1. The patient was in an unconscious state after the accident.2. He spoke his thoughts out loud, unaware that they were unconscious.3. Her actions seemed to be guided by some unconscious desire.","eng":"unconscious"}
+{"eg":"1. The patient was in an unconscious state after the accident.\n2. He spoke his thoughts out loud, unaware that they were unconscious.\n3. Her actions seemed to be guided by some unconscious desire.","eng":"unconscious"}

@@ -1,1 +1,1 @@
-{"eg":"1. My grandmother loves to tell stories about her childhood.2. When I visit my grandmother, she always bakes me cookies.3. My grandmother has a lot of old photos in her albums.","eng":"grandmother"}
+{"eg":"1. My grandmother loves to tell stories about her childhood.\n2. When I visit my grandmother, she always bakes me cookies.\n3. My grandmother has a lot of old photos in her albums.","eng":"grandmother"}

@@ -1,1 +1,1 @@
-{"eg":"1. This medicine can cure your headache.2. She took a week off work to try and cure her cold.3. The doctor prescribed a course of antibiotics to cure the infection.","eng":"cure"}
+{"eg":"1. This medicine can cure your headache.\n2. She took a week off work to try and cure her cold.\n3. The doctor prescribed a course of antibiotics to cure the infection.","eng":"cure"}

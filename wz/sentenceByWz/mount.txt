@@ -1,1 +1,1 @@
-{"eg":"1. I need to mount this tire onto my bike before I can go for a ride.2. The climber carefully mounted the rock face and began ascending the peak.3. We will need to mount a security camera in order to monitor the entrance of the building.","eng":"mount"}
+{"eg":"1. I need to mount this tire onto my bike before I can go for a ride.\n2. The climber carefully mounted the rock face and began ascending the peak.\n3. We will need to mount a security camera in order to monitor the entrance of the building.","eng":"mount"}

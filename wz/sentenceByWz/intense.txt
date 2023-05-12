@@ -1,1 +1,1 @@
-{"eg":"1. The intense heat of the summer sun made it almost unbearable to be outside.2. The intense pressure of the competition caused her to buckle under the weight of the expectations.3. His intense gaze held her captive, unable to look away from his piercing eyes.","eng":"intense"}
+{"eg":"1. The intense heat of the summer sun made it almost unbearable to be outside.\n2. The intense pressure of the competition caused her to buckle under the weight of the expectations.\n3. His intense gaze held her captive, unable to look away from his piercing eyes.","eng":"intense"}

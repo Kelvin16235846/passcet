@@ -1,1 +1,1 @@
-{"eg":"1. John is starting his own business selling handmade jewelry.2. The company's recent merger will help them expand their business into new markets.3. Sheila's successful business venture has earned her a reputation as a savvy entrepreneur.","eng":"business"}
+{"eg":"1. John is starting his own business selling handmade jewelry.\n2. The company's recent merger will help them expand their business into new markets.\n3. Sheila's successful business venture has earned her a reputation as a savvy entrepreneur.","eng":"business"}

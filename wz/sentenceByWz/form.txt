@@ -1,1 +1,1 @@
-{"eg":"1. I filled out a form for a job application online.2. She handed me a form to fill in my personal information.3. The immigration officer asked me to fill out a form about my travel purposes.","eng":"form"}
+{"eg":"1. I filled out a form for a job application online.\n2. She handed me a form to fill in my personal information.\n3. The immigration officer asked me to fill out a form about my travel purposes.","eng":"form"}

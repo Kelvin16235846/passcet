@@ -1,1 +1,1 @@
-{"eg":"1. I cannot handle the pressure of this job anymore, I'm going to throw in the towel.2. If you continue to act in this manner, I will have no choice but to throw you out of this party.3. The athlete threw the ball with such force that it broke the window.","eng":"throw"}
+{"eg":"1. I cannot handle the pressure of this job anymore, I'm going to throw in the towel.\n2. If you continue to act in this manner, I will have no choice but to throw you out of this party.\n3. The athlete threw the ball with such force that it broke the window.","eng":"throw"}

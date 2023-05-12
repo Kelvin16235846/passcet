@@ -1,1 +1,1 @@
-{"eg":"1. The violent storm caused significant damage to the city.2. The man became violent after consuming too much alcohol.3. The violent movie left me feeling uneasy and disturbed.","eng":"violent"}
+{"eg":"1. The violent storm caused significant damage to the city.\n2. The man became violent after consuming too much alcohol.\n3. The violent movie left me feeling uneasy and disturbed.","eng":"violent"}

@@ -1,1 +1,1 @@
-{"eg":"1. Yes, I would like to order a large pizza with pepperoni and mushrooms.2. Yes, I am available for a phone call at 3pm tomorrow.3. Yes, I can confirm that I have completed the project and sent it to the client.","eng":"yes"}
+{"eg":"1. Yes, I would like to order a large pizza with pepperoni and mushrooms.\n2. Yes, I am available for a phone call at 3pm tomorrow.\n3. Yes, I can confirm that I have completed the project and sent it to the client.","eng":"yes"}

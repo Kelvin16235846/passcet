@@ -1,1 +1,1 @@
-{"eg":"1. I'm going to toss a coin to decide if we go out for dinner or cook at home.2. The football game was so intense, I couldn't stop tossing a stress ball in my hand.3. She didn't trust her instincts, so she decided to toss a dice to choose which college to attend.","eng":"toss"}
+{"eg":"1. I'm going to toss a coin to decide if we go out for dinner or cook at home.\n2. The football game was so intense, I couldn't stop tossing a stress ball in my hand.\n3. She didn't trust her instincts, so she decided to toss a dice to choose which college to attend.","eng":"toss"}

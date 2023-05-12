@@ -1,1 +1,1 @@
-{"eg":"1. I need to finish this report before tomorrow morning.2. Can you help me finish these chores before the guests arrive?3. It's important to finish what you start, no matter how difficult it may seem.","eng":"finish"}
+{"eg":"1. I need to finish this report before tomorrow morning.\n2. Can you help me finish these chores before the guests arrive?\n3. It's important to finish what you start, no matter how difficult it may seem.","eng":"finish"}

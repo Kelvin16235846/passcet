@@ -1,1 +1,1 @@
-{"eg":"1. She wore a beautiful white gown on her wedding day.2. The doctor changed his gown before entering the operating room.3. The actress looked stunning in her red carpet gown.","eng":"gown"}
+{"eg":"1. She wore a beautiful white gown on her wedding day.\n2. The doctor changed his gown before entering the operating room.\n3. The actress looked stunning in her red carpet gown.","eng":"gown"}

@@ -1,1 +1,1 @@
-{"eg":"1. Commonly, people associate the color red with passion and love.2. It is commonly believed that eating breakfast is important for maintaining a healthy lifestyle.3. Commonly, individuals experience some level of anxiety when speaking in public.","eng":"commonly"}
+{"eg":"1. Commonly, people associate the color red with passion and love.\n2. It is commonly believed that eating breakfast is important for maintaining a healthy lifestyle.\n3. Commonly, individuals experience some level of anxiety when speaking in public.","eng":"commonly"}

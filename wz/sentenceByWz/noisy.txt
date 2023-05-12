@@ -1,1 +1,1 @@
-{"eg":"1. The noisy children were running and shouting in the park.2. I couldn't concentrate on my work because the neighbors were having a noisy party.3. The construction work outside my apartment is so noisy that I can't sleep at night.","eng":"noisy"}
+{"eg":"1. The noisy children were running and shouting in the park.\n2. I couldn't concentrate on my work because the neighbors were having a noisy party.\n3. The construction work outside my apartment is so noisy that I can't sleep at night.","eng":"noisy"}

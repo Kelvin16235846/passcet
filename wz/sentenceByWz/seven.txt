@@ -1,1 +1,1 @@
-{"eg":"1. I have seven siblings, and we all love to spend time together.2. Seven is a lucky number in many cultures around the world.3. My best friend and I have been friends for seven years.","eng":"seven"}
+{"eg":"1. I have seven siblings, and we all love to spend time together.\n2. Seven is a lucky number in many cultures around the world.\n3. My best friend and I have been friends for seven years.","eng":"seven"}

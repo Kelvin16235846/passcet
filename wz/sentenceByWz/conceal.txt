@@ -1,1 +1,1 @@
-{"eg":"1. She tried to conceal her tears from her classmates as she left the room.2. The thief attempted to conceal the stolen jewelry in his pocket.3. The camouflage pattern on the soldier's uniform helped him conceal himself in the forest.","eng":"conceal"}
+{"eg":"1. She tried to conceal her tears from her classmates as she left the room.\n2. The thief attempted to conceal the stolen jewelry in his pocket.\n3. The camouflage pattern on the soldier's uniform helped him conceal himself in the forest.","eng":"conceal"}

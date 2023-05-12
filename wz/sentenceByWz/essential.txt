@@ -1,1 +1,1 @@
-{"eg":"1. It is essential to drink water regularly to maintain good health.2. Wearing a helmet while riding a bike is essential for your safety.3. Learning English is essential for communication in today's globalized world.","eng":"essential"}
+{"eg":"1. It is essential to drink water regularly to maintain good health.\n2. Wearing a helmet while riding a bike is essential for your safety.\n3. Learning English is essential for communication in today's globalized world.","eng":"essential"}

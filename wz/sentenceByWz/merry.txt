@@ -1,1 +1,1 @@
-{"eg":"1. I wish you a merry Christmas and a happy New Year!2. The children were so full of excitement, their laughter ringing out merry and bright.3. Let's raise a glass to a merry evening filled with joy and laughter.","eng":"merry"}
+{"eg":"1. I wish you a merry Christmas and a happy New Year!\n2. The children were so full of excitement, their laughter ringing out merry and bright.\n3. Let's raise a glass to a merry evening filled with joy and laughter.","eng":"merry"}

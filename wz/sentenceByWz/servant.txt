@@ -1,1 +1,1 @@
-{"eg":"1. As a faithful servant, I shall ensure that your every need is met.2. The servant scurried about the kitchen, preparing a feast fit for a king.3. The wise servant knew that honesty was the best policy and always spoke the truth.","eng":"servant"}
+{"eg":"1. As a faithful servant, I shall ensure that your every need is met.\n2. The servant scurried about the kitchen, preparing a feast fit for a king.\n3. The wise servant knew that honesty was the best policy and always spoke the truth.","eng":"servant"}

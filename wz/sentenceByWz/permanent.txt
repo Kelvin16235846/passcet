@@ -1,1 +1,1 @@
-{"eg":"1. Marriage is a permanent commitment that requires dedication and compromise.2. The effects of smoking on your health can have permanent consequences.3. Moving to a new country can be a permanent life-changing experience.","eng":"permanent"}
+{"eg":"1. Marriage is a permanent commitment that requires dedication and compromise.\n2. The effects of smoking on your health can have permanent consequences.\n3. Moving to a new country can be a permanent life-changing experience.","eng":"permanent"}

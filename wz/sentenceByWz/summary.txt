@@ -1,1 +1,1 @@
-{"eg":"1. After reading the book summary, I decided to purchase the full novel.2. The summary at the beginning of each chapter helped me understand the complex plot.3. The summary of the study's findings was presented in a clear and concise manner.","eng":"summary"}
+{"eg":"1. After reading the book summary, I decided to purchase the full novel.\n2. The summary at the beginning of each chapter helped me understand the complex plot.\n3. The summary of the study's findings was presented in a clear and concise manner.","eng":"summary"}

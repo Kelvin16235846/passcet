@@ -1,1 +1,1 @@
-{"eg":"1. The farmer stored his hay bales in the barn to protect them from the rain.2. The children loved playing hide and seek in the old red barn.3. The barn was the perfect place for the wedding reception, with fairy lights draped from the rafters.","eng":"barn"}
+{"eg":"1. The farmer stored his hay bales in the barn to protect them from the rain.\n2. The children loved playing hide and seek in the old red barn.\n3. The barn was the perfect place for the wedding reception, with fairy lights draped from the rafters.","eng":"barn"}

@@ -1,1 +1,1 @@
-{"eg":"1. The enemy launched a surprise attack on our base, catching us off guard.2. His words were intended as a personal attack on me, but I refused to be provoked.3. The virus attack on our computer system has caused significant damage to our files and programs.","eng":"attack"}
+{"eg":"1. The enemy launched a surprise attack on our base, catching us off guard.\n2. His words were intended as a personal attack on me, but I refused to be provoked.\n3. The virus attack on our computer system has caused significant damage to our files and programs.","eng":"attack"}

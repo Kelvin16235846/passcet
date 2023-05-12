@@ -1,1 +1,1 @@
-{"eg":"1. The pain disappeared instantly after taking the medication.2. The plant wilted instantly when exposed to extreme heat.3. The car started instantly when the ignition key was turned.","eng":"instantly"}
+{"eg":"1. The pain disappeared instantly after taking the medication.\n2. The plant wilted instantly when exposed to extreme heat.\n3. The car started instantly when the ignition key was turned.","eng":"instantly"}

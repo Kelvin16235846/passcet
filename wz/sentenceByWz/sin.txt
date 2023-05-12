@@ -1,1 +1,1 @@
-{"eg":"1. The waves rolled in and out in a sinuous motion, mesmerizing me as I sat on the shore.2. The snake's sinuous body slithered through the grass, searching for prey.3. The dancer's sinuous movements were so graceful and fluid that the audience was entranced.","eng":"sin"}
+{"eg":"1. The waves rolled in and out in a sinuous motion, mesmerizing me as I sat on the shore.\n2. The snake's sinuous body slithered through the grass, searching for prey.\n3. The dancer's sinuous movements were so graceful and fluid that the audience was entranced.","eng":"sin"}

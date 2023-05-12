@@ -1,1 +1,1 @@
-{"eg":"1. \"The quick brown fox jumps over the lazy dog.\"2. \"She sells seashells by the seashore.\"3. \"Peter Piper picked a peck of pickled peppers.\"","eng":"postman"}
+{"eg":"1. \"The quick brown fox jumps over the lazy dog.\"\n2. \"She sells seashells by the seashore.\"\n3. \"Peter Piper picked a peck of pickled peppers.\"","eng":"postman"}

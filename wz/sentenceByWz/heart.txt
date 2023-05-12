@@ -1,1 +1,1 @@
-{"eg":"1. My heart is full of joy whenever I see my dog wagging its tail.2. I poured my heart out to her about my fears and anxieties.3. He's a man with a heart of gold, always willing to lend a helping hand.","eng":"heart"}
+{"eg":"1. My heart is full of joy whenever I see my dog wagging its tail.\n2. I poured my heart out to her about my fears and anxieties.\n3. He's a man with a heart of gold, always willing to lend a helping hand.","eng":"heart"}

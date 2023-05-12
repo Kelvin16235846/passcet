@@ -1,1 +1,1 @@
-{"eg":"1. Do you want to come with me to the movies tonight?2. Do your best and you will succeed.3. Do you think it's a good idea to take a break from work?","eng":"do"}
+{"eg":"1. Do you want to come with me to the movies tonight?\n2. Do your best and you will succeed.\n3. Do you think it's a good idea to take a break from work?","eng":"do"}

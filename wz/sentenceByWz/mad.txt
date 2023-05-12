@@ -1,1 +1,1 @@
-{"eg":"1. I felt quite mad when I found out my friend had betrayed me.2. His constant tardiness makes me absolutely mad.3. Don't get mad, get even.","eng":"mad"}
+{"eg":"1. I felt quite mad when I found out my friend had betrayed me.\n2. His constant tardiness makes me absolutely mad.\n3. Don't get mad, get even.","eng":"mad"}

@@ -1,1 +1,1 @@
-{"eg":"1. I turned the page and continued reading the next chapter.2. The page was stained with coffee and I had to print a new copy.3. She scribbled a note in the margin of the page to remind herself of an important detail.","eng":"page"}
+{"eg":"1. I turned the page and continued reading the next chapter.\n2. The page was stained with coffee and I had to print a new copy.\n3. She scribbled a note in the margin of the page to remind herself of an important detail.","eng":"page"}

@@ -1,1 +1,1 @@
-{"eg":"1. I used a hammer and saw as my trusty tools to build a birdhouse for my backyard.2. As a graphic designer, Photoshop is one of the most valuable tools in my toolkit.3. The detective used forensic tools to analyze the evidence and solve the crime.","eng":"tool"}
+{"eg":"1. I used a hammer and saw as my trusty tools to build a birdhouse for my backyard.\n2. As a graphic designer, Photoshop is one of the most valuable tools in my toolkit.\n3. The detective used forensic tools to analyze the evidence and solve the crime.","eng":"tool"}

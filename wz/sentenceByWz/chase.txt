@@ -1,1 +1,1 @@
-{"eg":"1. I had to chase after my dog when she saw a squirrel and ran off.2. The police officer had to chase down the suspect who was trying to flee the scene.3. When I saw the ice cream truck driving by, I grabbed some cash and chased after it to get a cone.","eng":"chase"}
+{"eg":"1. I had to chase after my dog when she saw a squirrel and ran off.\n2. The police officer had to chase down the suspect who was trying to flee the scene.\n3. When I saw the ice cream truck driving by, I grabbed some cash and chased after it to get a cone.","eng":"chase"}

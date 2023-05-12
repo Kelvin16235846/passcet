@@ -1,1 +1,1 @@
-{"eg":"1. She spent hours vainly trying to fix the broken vase.2. Despite his vain attempts to impress her, she remained unimpressed.3. The company wasted thousands of dollars on a vain marketing campaign that yielded no results.","eng":"vain"}
+{"eg":"1. She spent hours vainly trying to fix the broken vase.\n2. Despite his vain attempts to impress her, she remained unimpressed.\n3. The company wasted thousands of dollars on a vain marketing campaign that yielded no results.","eng":"vain"}

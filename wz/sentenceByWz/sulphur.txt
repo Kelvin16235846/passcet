@@ -1,1 +1,1 @@
-{"eg":"1. Sulphur is a non-metallic chemical element with the atomic number 16 on the periodic table.2. When burned, sulphur produces a distinctive odor that resembles rotten eggs.3. The yellow color of many minerals and crystals is due to the presence of sulphur.","eng":"sulphur"}
+{"eg":"1. Sulphur is a non-metallic chemical element with the atomic number 16 on the periodic table.\n2. When burned, sulphur produces a distinctive odor that resembles rotten eggs.\n3. The yellow color of many minerals and crystals is due to the presence of sulphur.","eng":"sulphur"}

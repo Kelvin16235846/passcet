@@ -1,1 +1,1 @@
-{"eg":"1. The sour taste of the lemon made me pucker my lips.2. The milk had turned sour and had a strong, unpleasant smell.3. She couldn't eat the sour candy because it was too tart for her taste buds.","eng":"sour"}
+{"eg":"1. The sour taste of the lemon made me pucker my lips.\n2. The milk had turned sour and had a strong, unpleasant smell.\n3. She couldn't eat the sour candy because it was too tart for her taste buds.","eng":"sour"}

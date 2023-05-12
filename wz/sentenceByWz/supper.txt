@@ -1,1 +1,1 @@
-{"eg":"1. I had a delicious supper of grilled salmon and roasted vegetables.2. After a long day at work, I was too tired to cook supper and ordered takeout instead.3. It's important to have a balanced supper with protein, vegetables, and healthy fats.","eng":"supper"}
+{"eg":"1. I had a delicious supper of grilled salmon and roasted vegetables.\n2. After a long day at work, I was too tired to cook supper and ordered takeout instead.\n3. It's important to have a balanced supper with protein, vegetables, and healthy fats.","eng":"supper"}

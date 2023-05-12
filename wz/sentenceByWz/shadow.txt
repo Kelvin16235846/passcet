@@ -1,1 +1,1 @@
-{"eg":"1. The shadow of the tree cast a cool relief from the hot summer sun.2. As she walked through the dark alley, the shadows of the buildings made her feel uneasy.3. The dancer's movements were so fluid, it was as if her shadow was dancing alongside her.","eng":"shadow"}
+{"eg":"1. The shadow of the tree cast a cool relief from the hot summer sun.\n2. As she walked through the dark alley, the shadows of the buildings made her feel uneasy.\n3. The dancer's movements were so fluid, it was as if her shadow was dancing alongside her.","eng":"shadow"}

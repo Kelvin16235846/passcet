@@ -1,1 +1,1 @@
-{"eg":"1. I love wearing heels because they make me feel taller and more confident.2. She stumbled and nearly fell in her high heels on the cobblestone street.3. The fashion designer created a stunning collection of heels that were both stylish and comfortable to wear.","eng":"heel"}
+{"eg":"1. I love wearing heels because they make me feel taller and more confident.\n2. She stumbled and nearly fell in her high heels on the cobblestone street.\n3. The fashion designer created a stunning collection of heels that were both stylish and comfortable to wear.","eng":"heel"}

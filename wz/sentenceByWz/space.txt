@@ -1,1 +1,1 @@
-{"eg":"1. The final frontier for human exploration is space.2. Scientists are constantly discovering new wonders and mysteries in space.3. The vastness of space is both intriguing and terrifying.","eng":"space"}
+{"eg":"1. The final frontier for human exploration is space.\n2. Scientists are constantly discovering new wonders and mysteries in space.\n3. The vastness of space is both intriguing and terrifying.","eng":"space"}

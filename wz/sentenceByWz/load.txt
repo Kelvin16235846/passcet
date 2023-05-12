@@ -1,1 +1,1 @@
-{"eg":"1. I need to load this box into the truck.2. Can you load the website for me?3. She loaded the dishwasher with dirty dishes.","eng":"load"}
+{"eg":"1. I need to load this box into the truck.\n2. Can you load the website for me?\n3. She loaded the dishwasher with dirty dishes.","eng":"load"}

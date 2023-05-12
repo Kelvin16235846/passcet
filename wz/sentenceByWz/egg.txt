@@ -1,1 +1,1 @@
-{"eg":"1. I love to have boiled eggs and toast for breakfast.2. The Easter Bunny hides chocolate eggs all around the house for the kids to find.3. She cracked open the egg and was surprised to find a double yolk inside.","eng":"egg"}
+{"eg":"1. I love to have boiled eggs and toast for breakfast.\n2. The Easter Bunny hides chocolate eggs all around the house for the kids to find.\n3. She cracked open the egg and was surprised to find a double yolk inside.","eng":"egg"}

@@ -1,1 +1,1 @@
-{"eg":"1. It's ridiculous that people still believe the earth is flat.2. His suggestion to wear a tuxedo to a casual picnic was utterly ridiculous.3. The price of that luxury car is simply ridiculous, no one needs to spend that much on a vehicle.","eng":"ridiculous"}
+{"eg":"1. It's ridiculous that people still believe the earth is flat.\n2. His suggestion to wear a tuxedo to a casual picnic was utterly ridiculous.\n3. The price of that luxury car is simply ridiculous, no one needs to spend that much on a vehicle.","eng":"ridiculous"}

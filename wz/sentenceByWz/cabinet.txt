@@ -1,1 +1,1 @@
-{"eg":"1. The cabinet in my kitchen holds all of my cooking utensils and dishes.2. I found a beautiful antique cabinet at the flea market that will look great in my living room.3. The cabinet members held a meeting to discuss the country's economic policies.","eng":"cabinet"}
+{"eg":"1. The cabinet in my kitchen holds all of my cooking utensils and dishes.\n2. I found a beautiful antique cabinet at the flea market that will look great in my living room.\n3. The cabinet members held a meeting to discuss the country's economic policies.","eng":"cabinet"}

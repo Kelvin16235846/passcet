@@ -1,1 +1,1 @@
-{"eg":"1. I used green dye to color the fabric for my new dress.2. The hair stylist recommended a purple dye for a more vibrant look.3. He accidentally spilled red dye all over his white shirt.","eng":"dye"}
+{"eg":"1. I used green dye to color the fabric for my new dress.\n2. The hair stylist recommended a purple dye for a more vibrant look.\n3. He accidentally spilled red dye all over his white shirt.","eng":"dye"}

@@ -1,1 +1,1 @@
-{"eg":"1. With Glad's help, our team was able to successfully complete the project ahead of schedule.2. I am glad to hear that you enjoyed your vacation in Hawaii.3. The children were glad to finally be able to play outside after being cooped up inside all day.","eng":"glad"}
+{"eg":"1. With Glad's help, our team was able to successfully complete the project ahead of schedule.\n2. I am glad to hear that you enjoyed your vacation in Hawaii.\n3. The children were glad to finally be able to play outside after being cooped up inside all day.","eng":"glad"}

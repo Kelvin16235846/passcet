@@ -1,1 +1,1 @@
-{"eg":"1. The result of the experiment showed that the hypothesis was correct.2. I am anxiously awaiting the result of the election.3. The team's hard work and dedication resulted in a victory.","eng":"result"}
+{"eg":"1. The result of the experiment showed that the hypothesis was correct.\n2. I am anxiously awaiting the result of the election.\n3. The team's hard work and dedication resulted in a victory.","eng":"result"}

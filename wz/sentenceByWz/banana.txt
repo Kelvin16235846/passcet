@@ -1,1 +1,1 @@
-{"eg":"1. I had a delicious banana for breakfast this morning.2. The monkey happily peeled and ate the ripe banana.3. She made a healthy smoothie with spinach and banana for a refreshing drink.","eng":"banana"}
+{"eg":"1. I had a delicious banana for breakfast this morning.\n2. The monkey happily peeled and ate the ripe banana.\n3. She made a healthy smoothie with spinach and banana for a refreshing drink.","eng":"banana"}

@@ -1,1 +1,1 @@
-{"eg":"1. Press the button to start the game.2. I accidentally hit the button and deleted my work.3. The elevator button was broken, so we had to take the stairs.","eng":"button"}
+{"eg":"1. Press the button to start the game.\n2. I accidentally hit the button and deleted my work.\n3. The elevator button was broken, so we had to take the stairs.","eng":"button"}

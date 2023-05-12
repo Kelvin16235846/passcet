@@ -1,1 +1,1 @@
-{"eg":"1. My neighbor is very friendly and always greets me with a warm smile.2. The atmosphere at the party was very friendly, everyone was having a great time.3. The shop assistant was so friendly, she helped me pick out the perfect dress.","eng":"friendly"}
+{"eg":"1. My neighbor is very friendly and always greets me with a warm smile.\n2. The atmosphere at the party was very friendly, everyone was having a great time.\n3. The shop assistant was so friendly, she helped me pick out the perfect dress.","eng":"friendly"}

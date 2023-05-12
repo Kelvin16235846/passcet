@@ -1,1 +1,1 @@
-{"eg":"1. The captain welcomed us aboard the ship and directed us to our cabins.2. I felt the wind in my hair as I stood aboard the open-top bus.3. We enjoyed a delicious dinner aboard the luxury yacht as we sailed along the coast.","eng":"aboard"}
+{"eg":"1. The captain welcomed us aboard the ship and directed us to our cabins.\n2. I felt the wind in my hair as I stood aboard the open-top bus.\n3. We enjoyed a delicious dinner aboard the luxury yacht as we sailed along the coast.","eng":"aboard"}

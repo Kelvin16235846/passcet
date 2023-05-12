@@ -1,1 +1,1 @@
-{"eg":"1. Bullets were flying past our heads as we ran for cover.2. The detective found a bullet casing at the crime scene.3. The soldier loaded his gun with a fresh bullet in preparation for the attack.","eng":"bullet"}
+{"eg":"1. Bullets were flying past our heads as we ran for cover.\n2. The detective found a bullet casing at the crime scene.\n3. The soldier loaded his gun with a fresh bullet in preparation for the attack.","eng":"bullet"}

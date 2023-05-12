@@ -1,1 +1,1 @@
-{"eg":"1. She bough a bouquet of flowers to decorate her living room.2. The tree's boughs spread out in all directions, providing ample shade.3. The storm's powerful winds snapped the boughs of many trees in the forest.","eng":"bough"}
+{"eg":"1. She bough a bouquet of flowers to decorate her living room.\n2. The tree's boughs spread out in all directions, providing ample shade.\n3. The storm's powerful winds snapped the boughs of many trees in the forest.","eng":"bough"}

@@ -1,1 +1,1 @@
-{"eg":"1. I took a shot at the basketball hoop and scored a three-pointer.2. She was feeling sick, so she went to the doctor's office to get a flu shot.3. The photographer captured the perfect shot of the sunset over the ocean.","eng":"shot"}
+{"eg":"1. I took a shot at the basketball hoop and scored a three-pointer.\n2. She was feeling sick, so she went to the doctor's office to get a flu shot.\n3. The photographer captured the perfect shot of the sunset over the ocean.","eng":"shot"}

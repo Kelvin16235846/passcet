@@ -1,1 +1,1 @@
-{"eg":"1. They are going to the movies tonight.2. They enjoy playing tennis on the weekends.3. They often travel to exotic locations for vacation.","eng":"they"}
+{"eg":"1. They are going to the movies tonight.\n2. They enjoy playing tennis on the weekends.\n3. They often travel to exotic locations for vacation.","eng":"they"}

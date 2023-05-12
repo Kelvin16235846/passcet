@@ -1,1 +1,1 @@
-{"eg":"1. I had to yell at my neighbor for playing loud music at 2am.2. The coach always yells at us during practice to push us to do better.3. I had to yell out for help when I fell and hurt my ankle while hiking.","eng":"yell"}
+{"eg":"1. I had to yell at my neighbor for playing loud music at 2am.\n2. The coach always yells at us during practice to push us to do better.\n3. I had to yell out for help when I fell and hurt my ankle while hiking.","eng":"yell"}

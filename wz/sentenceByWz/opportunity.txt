@@ -1,1 +1,1 @@
-{"eg":"1. I seized the opportunity to travel abroad and explore new cultures.2. This project presents a valuable opportunity for us to showcase our talents.3. Don't miss out on the opportunity to invest in this promising new venture.","eng":"opportunity"}
+{"eg":"1. I seized the opportunity to travel abroad and explore new cultures.\n2. This project presents a valuable opportunity for us to showcase our talents.\n3. Don't miss out on the opportunity to invest in this promising new venture.","eng":"opportunity"}

@@ -1,1 +1,1 @@
-{"eg":"1. Each student in the classroom has their own unique way of learning.2. I made sure to greet each member of the team individually before heading to the meeting.3. The flowers in the garden danced gently with each passing breeze.","eng":"each"}
+{"eg":"1. Each student in the classroom has their own unique way of learning.\n2. I made sure to greet each member of the team individually before heading to the meeting.\n3. The flowers in the garden danced gently with each passing breeze.","eng":"each"}

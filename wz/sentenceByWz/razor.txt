@@ -1,1 +1,1 @@
-{"eg":"1. The razor blade glinted in the light as I shaved off my scruffy beard.2. She cut herself while shaving with a dull razor and had to apply some antiseptic cream.3. The barber used a straight razor to give the customer the perfect shave.","eng":"razor"}
+{"eg":"1. The razor blade glinted in the light as I shaved off my scruffy beard.\n2. She cut herself while shaving with a dull razor and had to apply some antiseptic cream.\n3. The barber used a straight razor to give the customer the perfect shave.","eng":"razor"}

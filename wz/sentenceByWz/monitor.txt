@@ -1,1 +1,1 @@
-{"eg":"1. \"I'm going to monitor my heart rate during my run using my smartwatch.\"2. \"The security team will monitor the cameras to ensure the safety of the building.\"3. \"The teacher will monitor the students' progress and adjust the lesson plan accordingly.\"","eng":"monitor"}
+{"eg":"1. \"I'm going to monitor my heart rate during my run using my smartwatch.\"\n2. \"The security team will monitor the cameras to ensure the safety of the building.\"\n3. \"The teacher will monitor the students' progress and adjust the lesson plan accordingly.\"","eng":"monitor"}

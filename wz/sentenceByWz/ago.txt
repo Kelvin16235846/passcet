@@ -1,1 +1,1 @@
-{"eg":"1. I saw that movie three weeks ago and it was amazing.2. I finished my work project two days ago and now I can relax.3. My friend moved to Paris six months ago and we miss her a lot.","eng":"ago"}
+{"eg":"1. I saw that movie three weeks ago and it was amazing.\n2. I finished my work project two days ago and now I can relax.\n3. My friend moved to Paris six months ago and we miss her a lot.","eng":"ago"}

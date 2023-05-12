@@ -1,1 +1,1 @@
-{"eg":"1. I propose that we start the meeting on time to ensure productivity.2. My husband proposed to me by the beach at sunset, it was truly magical.3. The company proposed a new marketing strategy to boost sales.","eng":"propose"}
+{"eg":"1. I propose that we start the meeting on time to ensure productivity.\n2. My husband proposed to me by the beach at sunset, it was truly magical.\n3. The company proposed a new marketing strategy to boost sales.","eng":"propose"}

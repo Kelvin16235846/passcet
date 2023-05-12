@@ -1,1 +1,1 @@
-{"eg":"1. She walked slowly through the forest, enjoying the sunlight filtering down through the leaves.2. The traffic was moving slowly, making her late for her meeting.3. He spoke slowly and deliberately, trying to convey the seriousness of the situation.","eng":"slow"}
+{"eg":"1. She walked slowly through the forest, enjoying the sunlight filtering down through the leaves.\n2. The traffic was moving slowly, making her late for her meeting.\n3. He spoke slowly and deliberately, trying to convey the seriousness of the situation.","eng":"slow"}

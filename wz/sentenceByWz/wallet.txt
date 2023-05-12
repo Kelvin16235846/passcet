@@ -1,1 +1,1 @@
-{"eg":"1. I always keep my credit cards and cash in my wallet for convenience.2. She lost her wallet and had to cancel all of her credit cards.3. My wallet is made of genuine leather and has a lot of compartments for organizing my belongings.","eng":"wallet"}
+{"eg":"1. I always keep my credit cards and cash in my wallet for convenience.\n2. She lost her wallet and had to cancel all of her credit cards.\n3. My wallet is made of genuine leather and has a lot of compartments for organizing my belongings.","eng":"wallet"}

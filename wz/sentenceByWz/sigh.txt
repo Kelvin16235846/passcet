@@ -1,1 +1,1 @@
-{"eg":"1. She let out a heavy sigh as she stared at the pile of work on her desk.2. With a deep sigh, he finally admitted to himself that he had made a huge mistake.3. The old man let out a weary sigh as he settled into his chair and closed his eyes.","eng":"sigh"}
+{"eg":"1. She let out a heavy sigh as she stared at the pile of work on her desk.\n2. With a deep sigh, he finally admitted to himself that he had made a huge mistake.\n3. The old man let out a weary sigh as he settled into his chair and closed his eyes.","eng":"sigh"}

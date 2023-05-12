@@ -1,1 +1,1 @@
-{"eg":"1. I need to chew my food more slowly to aid in digestion.2. My dog loves to chew on his favorite toys all day long.3. She nervously began to chew her fingernails as she waited for the exam results.","eng":"chew"}
+{"eg":"1. I need to chew my food more slowly to aid in digestion.\n2. My dog loves to chew on his favorite toys all day long.\n3. She nervously began to chew her fingernails as she waited for the exam results.","eng":"chew"}

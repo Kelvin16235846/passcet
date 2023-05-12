@@ -1,1 +1,1 @@
-{"eg":"1. The red rose bloomed beautifully in the garden.2. I love listening to classical music while I work.3. Sarah is a talented artist with a natural talent for painting.","eng":"atom"}
+{"eg":"1. The red rose bloomed beautifully in the garden.\n2. I love listening to classical music while I work.\n3. Sarah is a talented artist with a natural talent for painting.","eng":"atom"}

@@ -1,1 +1,1 @@
-{"eg":"1. I had a delicious cut of beef for dinner last night.2. The aroma of grilled beef wafted through the air.3. A thick, juicy slab of beef was sizzling on the barbecue.","eng":"beef"}
+{"eg":"1. I had a delicious cut of beef for dinner last night.\n2. The aroma of grilled beef wafted through the air.\n3. A thick, juicy slab of beef was sizzling on the barbecue.","eng":"beef"}

@@ -1,1 +1,1 @@
-{"eg":"1. Public opinion plays a vital role in shaping government policies.2. The company's financial records are available for public scrutiny.3. The park is open to the public from 8am to 7pm every day.","eng":"public"}
+{"eg":"1. Public opinion plays a vital role in shaping government policies.\n2. The company's financial records are available for public scrutiny.\n3. The park is open to the public from 8am to 7pm every day.","eng":"public"}

@@ -1,1 +1,1 @@
-{"eg":"1. The seasons cycle endlessly each year, from winter to spring, summer to fall.2. The washing machine's cycle is complete; now the clothes are clean and fresh.3. The butterfly goes through a life cycle, from egg to larvae, then to pupa, and finally to adult.","eng":"cycle"}
+{"eg":"1. The seasons cycle endlessly each year, from winter to spring, summer to fall.\n2. The washing machine's cycle is complete; now the clothes are clean and fresh.\n3. The butterfly goes through a life cycle, from egg to larvae, then to pupa, and finally to adult.","eng":"cycle"}

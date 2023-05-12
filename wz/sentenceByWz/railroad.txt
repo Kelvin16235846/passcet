@@ -1,1 +1,1 @@
-{"eg":"1. The railroad tracks stretched out for miles, disappearing into the horizon.2. The locomotive chugged and screeched as it barreled down the railroad.3. The passengers sat in their seats, gazing out the windows at the passing scenery along the railroad.","eng":"railroad"}
+{"eg":"1. The railroad tracks stretched out for miles, disappearing into the horizon.\n2. The locomotive chugged and screeched as it barreled down the railroad.\n3. The passengers sat in their seats, gazing out the windows at the passing scenery along the railroad.","eng":"railroad"}

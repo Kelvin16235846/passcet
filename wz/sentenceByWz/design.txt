@@ -1,1 +1,1 @@
-{"eg":"1. The design of this building is truly innovative and eye-catching.2. The designers behind this product have thought carefully about user experience.3. The intricate designs on this piece of jewelry showcase the skill and talent of the artist.","eng":"design"}
+{"eg":"1. The design of this building is truly innovative and eye-catching.\n2. The designers behind this product have thought carefully about user experience.\n3. The intricate designs on this piece of jewelry showcase the skill and talent of the artist.","eng":"design"}

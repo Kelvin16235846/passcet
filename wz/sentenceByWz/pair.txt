@@ -1,1 +1,1 @@
-{"eg":"1. The pair of jeans she wore had a rip in the knee.2. The pair of lovers walked hand in hand along the sandy beach.3. The pair of scissors on the table were blunt and needed sharpening.","eng":"pair"}
+{"eg":"1. The pair of jeans she wore had a rip in the knee.\n2. The pair of lovers walked hand in hand along the sandy beach.\n3. The pair of scissors on the table were blunt and needed sharpening.","eng":"pair"}

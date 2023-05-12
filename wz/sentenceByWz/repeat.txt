@@ -1,1 +1,1 @@
-{"eg":"1. I have to repeat the instructions so that everyone can understand.2. The song played on repeat throughout the party.3. You need to practice your speech and repeat it until you feel confident.","eng":"repeat"}
+{"eg":"1. I have to repeat the instructions so that everyone can understand.\n2. The song played on repeat throughout the party.\n3. You need to practice your speech and repeat it until you feel confident.","eng":"repeat"}

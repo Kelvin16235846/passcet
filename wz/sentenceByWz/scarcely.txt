@@ -1,1 +1,1 @@
-{"eg":"1. Scarcely had I arrived home when the power went out.2. He could scarcely contain his excitement about the upcoming trip to Europe.3. Scarcely a day goes by without some new development in the field of technology.","eng":"scarcely"}
+{"eg":"1. Scarcely had I arrived home when the power went out.\n2. He could scarcely contain his excitement about the upcoming trip to Europe.\n3. Scarcely a day goes by without some new development in the field of technology.","eng":"scarcely"}

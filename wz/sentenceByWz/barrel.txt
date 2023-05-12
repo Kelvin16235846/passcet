@@ -1,1 +1,1 @@
-{"eg":"1. The barrel of oil spilled all over the highway, causing a major traffic jam.2. He rolled the barrel down the hill and watched it bounce and tumble until it came to a stop.3. The group of pirates laughed as they filled their plundered barrel with gold doubloons.","eng":"barrel"}
+{"eg":"1. The barrel of oil spilled all over the highway, causing a major traffic jam.\n2. He rolled the barrel down the hill and watched it bounce and tumble until it came to a stop.\n3. The group of pirates laughed as they filled their plundered barrel with gold doubloons.","eng":"barrel"}

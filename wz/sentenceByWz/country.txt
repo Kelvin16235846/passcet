@@ -1,1 +1,1 @@
-{"eg":"1. My dream is to travel to every country in the world.2. Living in a foreign country can be challenging, but it's also an amazing opportunity to learn and grow.3. The people of this country are known for their hospitality and warmth towards visitors.","eng":"country"}
+{"eg":"1. My dream is to travel to every country in the world.\n2. Living in a foreign country can be challenging, but it's also an amazing opportunity to learn and grow.\n3. The people of this country are known for their hospitality and warmth towards visitors.","eng":"country"}

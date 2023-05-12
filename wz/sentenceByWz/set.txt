@@ -1,1 +1,1 @@
-{"eg":"1. I always keep a set of spare keys in case I lose the original.2. The math teacher handed out a set of practice problems for us to complete over the weekend.3. We need to buy a new set of dishes because some of ours have chipped or broken over time.","eng":"set"}
+{"eg":"1. I always keep a set of spare keys in case I lose the original.\n2. The math teacher handed out a set of practice problems for us to complete over the weekend.\n3. We need to buy a new set of dishes because some of ours have chipped or broken over time.","eng":"set"}

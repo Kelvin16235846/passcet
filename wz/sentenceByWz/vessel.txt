@@ -1,1 +1,1 @@
-{"eg":"1. The sailors searched for a sturdy vessel to brave the stormy seas.2. The scientist carefully sterilized the vessel before conducting her experiment.3. The cargo vessel arrived at the port, loaded with goods from across the world.","eng":"vessel"}
+{"eg":"1. The sailors searched for a sturdy vessel to brave the stormy seas.\n2. The scientist carefully sterilized the vessel before conducting her experiment.\n3. The cargo vessel arrived at the port, loaded with goods from across the world.","eng":"vessel"}

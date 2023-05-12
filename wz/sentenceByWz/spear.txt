@@ -1,1 +1,1 @@
-{"eg":"1. The warrior armed himself with his spear, ready to face the enemy.2. The spear of the ancient samurai was a symbol of his bravery and skill.3. The champion athlete broke the world record with a lightning fast throw of her spear.","eng":"spear"}
+{"eg":"1. The warrior armed himself with his spear, ready to face the enemy.\n2. The spear of the ancient samurai was a symbol of his bravery and skill.\n3. The champion athlete broke the world record with a lightning fast throw of her spear.","eng":"spear"}

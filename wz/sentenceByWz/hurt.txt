@@ -1,1 +1,1 @@
-{"eg":"1. I'm sorry if I hurt your feelings with my words.2. His leg hurt so badly that he couldn't walk.3. Seeing her cry like that hurt my heart.","eng":"hurt"}
+{"eg":"1. I'm sorry if I hurt your feelings with my words.\n2. His leg hurt so badly that he couldn't walk.\n3. Seeing her cry like that hurt my heart.","eng":"hurt"}

@@ -1,1 +1,1 @@
-{"eg":"1. The damage to the car was evident after the collision.2. It was evident that she had put a lot of effort into her presentation.3. The teacher's frustration was evident as she struggled to explain the concept one more time.","eng":"evident"}
+{"eg":"1. The damage to the car was evident after the collision.\n2. It was evident that she had put a lot of effort into her presentation.\n3. The teacher's frustration was evident as she struggled to explain the concept one more time.","eng":"evident"}

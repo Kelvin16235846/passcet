@@ -1,1 +1,1 @@
-{"eg":"1. The airport was bustling with travelers from all over the world.2. The plane landed safely at the airport after a long journey.3. The airport staff worked tirelessly to ensure the smooth operation of departures and arrivals.","eng":"airport"}
+{"eg":"1. The airport was bustling with travelers from all over the world.\n2. The plane landed safely at the airport after a long journey.\n3. The airport staff worked tirelessly to ensure the smooth operation of departures and arrivals.","eng":"airport"}

@@ -1,1 +1,1 @@
-{"eg":"1. She couldn't help but mutter under her breath when she heard the news.2. The old man stood in the corner, muttering to himself inaudibly.3. The unhappy customer began to mutter complaints about the service as she left the store.","eng":"mutter"}
+{"eg":"1. She couldn't help but mutter under her breath when she heard the news.\n2. The old man stood in the corner, muttering to himself inaudibly.\n3. The unhappy customer began to mutter complaints about the service as she left the store.","eng":"mutter"}

@@ -1,1 +1,1 @@
-{"eg":"1. Johnson is a common surname in the United States.2. Wang is a popular surname among Chinese people.3. Smith is one of the most common surnames in the United Kingdom.","eng":"surname"}
+{"eg":"1. Johnson is a common surname in the United States.\n2. Wang is a popular surname among Chinese people.\n3. Smith is one of the most common surnames in the United Kingdom.","eng":"surname"}

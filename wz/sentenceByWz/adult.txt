@@ -1,1 +1,1 @@
-{"eg":"1. It's important to act like an adult when dealing with difficult situations.2. Even though she's only 21, she's always been very mature and behaves like an adult.3. Being an adult means taking responsibility for your actions and decisions.","eng":"adult"}
+{"eg":"1. It's important to act like an adult when dealing with difficult situations.\n2. Even though she's only 21, she's always been very mature and behaves like an adult.\n3. Being an adult means taking responsibility for your actions and decisions.","eng":"adult"}

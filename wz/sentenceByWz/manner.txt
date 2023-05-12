@@ -1,1 +1,1 @@
-{"eg":"1. She spoke to the customer service representative in a polite and courteous manner.2. The teacher demonstrated the proper way to solve the problem in a calm and patient manner.3. The waiter served the food to the table with a friendly and attentive manner.","eng":"manner"}
+{"eg":"1. She spoke to the customer service representative in a polite and courteous manner.\n2. The teacher demonstrated the proper way to solve the problem in a calm and patient manner.\n3. The waiter served the food to the table with a friendly and attentive manner.","eng":"manner"}

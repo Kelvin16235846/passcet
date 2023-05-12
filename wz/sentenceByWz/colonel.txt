@@ -1,1 +1,1 @@
-{"eg":"1. Colonel Smith led his troops to victory in the battle.2. The colonel inspected the barracks and found them to be in order.3. Colonel Johnson was awarded a medal for his bravery in combat.","eng":"colonel"}
+{"eg":"1. Colonel Smith led his troops to victory in the battle.\n2. The colonel inspected the barracks and found them to be in order.\n3. Colonel Johnson was awarded a medal for his bravery in combat.","eng":"colonel"}

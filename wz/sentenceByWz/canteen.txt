@@ -1,1 +1,1 @@
-{"eg":"1. I'm starving. Let's grab some food at the canteen.2. The canteen serves a variety of meals for different dietary needs.3. Students enjoy gathering at the canteen during their lunch break.","eng":"canteen"}
+{"eg":"1. I'm starving. Let's grab some food at the canteen.\n2. The canteen serves a variety of meals for different dietary needs.\n3. Students enjoy gathering at the canteen during their lunch break.","eng":"canteen"}

@@ -1,1 +1,1 @@
-{"eg":"1. The sky was gray and overcast, threatening to rain at any moment.2. The old man's hair had turned gray with age and experience.3. The city streets were gray with dust and pollution, making it hard to breathe.","eng":"gray"}
+{"eg":"1. The sky was gray and overcast, threatening to rain at any moment.\n2. The old man's hair had turned gray with age and experience.\n3. The city streets were gray with dust and pollution, making it hard to breathe.","eng":"gray"}

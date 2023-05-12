@@ -1,1 +1,1 @@
-{"eg":"1. I understand your frustration with the situation.2. It is important to understand the cultural differences when traveling to a new country.3. I am trying my best to understand the instructions, but they are quite complex.","eng":"understand"}
+{"eg":"1. I understand your frustration with the situation.\n2. It is important to understand the cultural differences when traveling to a new country.\n3. I am trying my best to understand the instructions, but they are quite complex.","eng":"understand"}

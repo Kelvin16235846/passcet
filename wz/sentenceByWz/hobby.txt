@@ -1,1 +1,1 @@
-{"eg":"1. My favorite hobby is reading books, especially novels and biographies.2. I enjoy hiking as a hobby because it allows me to explore nature and stay active.3. Painting has become a new hobby of mine and I find it very therapeutic and relaxing.","eng":"hobby"}
+{"eg":"1. My favorite hobby is reading books, especially novels and biographies.\n2. I enjoy hiking as a hobby because it allows me to explore nature and stay active.\n3. Painting has become a new hobby of mine and I find it very therapeutic and relaxing.","eng":"hobby"}

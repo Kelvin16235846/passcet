@@ -1,1 +1,1 @@
-{"eg":"1. Roman enjoys playing basketball with his friends.2. The history of Roman Empire is quite fascinating.3. Roman architecture is known for its grandeur and intricate designs.","eng":"Roman"}
+{"eg":"1. Roman enjoys playing basketball with his friends.\n2. The history of Roman Empire is quite fascinating.\n3. Roman architecture is known for its grandeur and intricate designs.","eng":"Roman"}

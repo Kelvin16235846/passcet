@@ -1,1 +1,1 @@
-{"eg":"1. She used a magnifying glass to enlarge the small print in the contract.2. We need to enlarge the image before we can see all the details.3. The architect plans to enlarge the windows in the building to let in more natural light.","eng":"enlarge"}
+{"eg":"1. She used a magnifying glass to enlarge the small print in the contract.\n2. We need to enlarge the image before we can see all the details.\n3. The architect plans to enlarge the windows in the building to let in more natural light.","eng":"enlarge"}

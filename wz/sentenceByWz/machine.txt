@@ -1,1 +1,1 @@
-{"eg":"1. The machine hummed quietly as it printed out the detailed report.2. I'm relying on the ATM machine to dispense the cash I need for today.3. She watched with fascination as the robotic machine assembled the intricate parts effortlessly.","eng":"machine"}
+{"eg":"1. The machine hummed quietly as it printed out the detailed report.\n2. I'm relying on the ATM machine to dispense the cash I need for today.\n3. She watched with fascination as the robotic machine assembled the intricate parts effortlessly.","eng":"machine"}

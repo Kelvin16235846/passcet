@@ -1,1 +1,1 @@
-{"eg":"1. The company's headquarters are located in New York City.2. The CEO of the global conglomerate held a meeting at the headquarters in London.3. The IT department of the organization is based at the headquarters in Sydney.","eng":"headquarters"}
+{"eg":"1. The company's headquarters are located in New York City.\n2. The CEO of the global conglomerate held a meeting at the headquarters in London.\n3. The IT department of the organization is based at the headquarters in Sydney.","eng":"headquarters"}

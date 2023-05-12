@@ -1,1 +1,1 @@
-{"eg":"1. She didn't want to lie to her parents, but she had no choice.2. He lied about his qualifications on his job application.3. The boy was caught in a lie and had to admit the truth.","eng":"lie"}
+{"eg":"1. She didn't want to lie to her parents, but she had no choice.\n2. He lied about his qualifications on his job application.\n3. The boy was caught in a lie and had to admit the truth.","eng":"lie"}

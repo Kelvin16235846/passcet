@@ -1,1 +1,1 @@
-{"eg":"1. The little lamb jumped over the fence and landed in a pile of fresh hay.2. I could hear the soft bleating of the lambs as we walked past the fields of grazing sheep.3. The shepherd gently cradled the injured lamb in his arms, soothing it with his calm voice.","eng":"lamb"}
+{"eg":"1. The little lamb jumped over the fence and landed in a pile of fresh hay.\n2. I could hear the soft bleating of the lambs as we walked past the fields of grazing sheep.\n3. The shepherd gently cradled the injured lamb in his arms, soothing it with his calm voice.","eng":"lamb"}

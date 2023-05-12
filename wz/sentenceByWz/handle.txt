@@ -1,1 +1,1 @@
-{"eg":"1. I need a handle to pull this drawer open.2. The suitcase had a comfortable handle for carrying.3. Can you help me find the handle for this faucet?","eng":"handle"}
+{"eg":"1. I need a handle to pull this drawer open.\n2. The suitcase had a comfortable handle for carrying.\n3. Can you help me find the handle for this faucet?","eng":"handle"}

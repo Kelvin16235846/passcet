@@ -1,1 +1,1 @@
-{"eg":"1. I have a strong desire to succeed in my career.2. She has a strong personality and is not easily influenced by others.3. The storm has caused strong winds and heavy rainfall.","eng":"strong"}
+{"eg":"1. I have a strong desire to succeed in my career.\n2. She has a strong personality and is not easily influenced by others.\n3. The storm has caused strong winds and heavy rainfall.","eng":"strong"}

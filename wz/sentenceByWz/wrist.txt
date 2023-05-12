@@ -1,1 +1,1 @@
-{"eg":"1. I injured my wrist while playing basketball yesterday.2. She wears a wristwatch on her left wrist every day.3. The fitness tracker on my wrist reminds me to stay active throughout the day.","eng":"wrist"}
+{"eg":"1. I injured my wrist while playing basketball yesterday.\n2. She wears a wristwatch on her left wrist every day.\n3. The fitness tracker on my wrist reminds me to stay active throughout the day.","eng":"wrist"}

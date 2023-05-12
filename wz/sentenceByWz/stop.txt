@@ -1,1 +1,1 @@
-{"eg":"1. Please stop talking and listen to what I have to say.2. The car suddenly came to a stop at the red light.3. I need to stop procrastinating and start working on my project.","eng":"stop"}
+{"eg":"1. Please stop talking and listen to what I have to say.\n2. The car suddenly came to a stop at the red light.\n3. I need to stop procrastinating and start working on my project.","eng":"stop"}

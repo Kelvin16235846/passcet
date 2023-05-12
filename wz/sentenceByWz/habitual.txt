@@ -1,1 +1,1 @@
-{"eg":"1. I have a habitual morning routine that involves drinking coffee and going for a jog.2. My friend has a habitual habit of biting her nails when she's nervous.3. It's important to break the habitual pattern of procrastination if you want to achieve your goals.","eng":"habitual"}
+{"eg":"1. I have a habitual morning routine that involves drinking coffee and going for a jog.\n2. My friend has a habitual habit of biting her nails when she's nervous.\n3. It's important to break the habitual pattern of procrastination if you want to achieve your goals.","eng":"habitual"}

@@ -1,1 +1,1 @@
-{"eg":"1. I love spending time outside in nature, especially hiking and camping.2. The weather is beautiful today, let's have our lunch outside in the park.3. It's important to get outside and get some fresh air and exercise every day.","eng":"outside"}
+{"eg":"1. I love spending time outside in nature, especially hiking and camping.\n2. The weather is beautiful today, let's have our lunch outside in the park.\n3. It's important to get outside and get some fresh air and exercise every day.","eng":"outside"}

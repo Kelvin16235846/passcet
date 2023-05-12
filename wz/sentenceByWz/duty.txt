@@ -1,1 +1,1 @@
-{"eg":"1. I have a duty to fulfil my responsibilities as a parent.2. As a citizen, it is my duty to abide by the laws of my country.3. The duty of a soldier is to protect his/her country and its citizens.","eng":"duty"}
+{"eg":"1. I have a duty to fulfil my responsibilities as a parent.\n2. As a citizen, it is my duty to abide by the laws of my country.\n3. The duty of a soldier is to protect his/her country and its citizens.","eng":"duty"}

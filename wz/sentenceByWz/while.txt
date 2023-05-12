@@ -1,1 +1,1 @@
-{"eg":"1. While I was cooking dinner, my husband was setting the table.2. I listened to music while I was exercising.3. While it was raining outside, we stayed indoors and watched a movie.","eng":"while"}
+{"eg":"1. While I was cooking dinner, my husband was setting the table.\n2. I listened to music while I was exercising.\n3. While it was raining outside, we stayed indoors and watched a movie.","eng":"while"}

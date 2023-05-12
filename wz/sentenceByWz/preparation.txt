@@ -1,1 +1,1 @@
-{"eg":"1. Proper preparation is essential to achieve success in any field.2. The athlete spent months in preparation for the competition.3. The wedding planner emphasized the importance of detailed preparation for a flawless event.","eng":"preparation"}
+{"eg":"1. Proper preparation is essential to achieve success in any field.\n2. The athlete spent months in preparation for the competition.\n3. The wedding planner emphasized the importance of detailed preparation for a flawless event.","eng":"preparation"}

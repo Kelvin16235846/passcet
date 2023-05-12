@@ -1,1 +1,1 @@
-{"eg":"1. I will push myself to accomplish my goals.2. The team captain encouraged the players to push harder in the second half of the game.3. It's important to push yourself outside of your comfort zone to grow and improve.","eng":"push"}
+{"eg":"1. I will push myself to accomplish my goals.\n2. The team captain encouraged the players to push harder in the second half of the game.\n3. It's important to push yourself outside of your comfort zone to grow and improve.","eng":"push"}

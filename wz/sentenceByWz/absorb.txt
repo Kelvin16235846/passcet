@@ -1,1 +1,1 @@
-{"eg":"1. The sponge has the ability to absorb water quickly.2. Plants absorb sunlight and convert it into energy through photosynthesis.3. The new employee was quick to absorb the company's culture and work ethic.","eng":"absorb"}
+{"eg":"1. The sponge has the ability to absorb water quickly.\n2. Plants absorb sunlight and convert it into energy through photosynthesis.\n3. The new employee was quick to absorb the company's culture and work ethic.","eng":"absorb"}

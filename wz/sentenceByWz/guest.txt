@@ -1,1 +1,1 @@
-{"eg":"1. As a guest in their home, I felt welcomed and taken care of.2. The hotel staff went out of their way to make sure their guests had a comfortable stay.3. He was invited as a guest speaker at the conference, and delivered a captivating talk.","eng":"guest"}
+{"eg":"1. As a guest in their home, I felt welcomed and taken care of.\n2. The hotel staff went out of their way to make sure their guests had a comfortable stay.\n3. He was invited as a guest speaker at the conference, and delivered a captivating talk.","eng":"guest"}

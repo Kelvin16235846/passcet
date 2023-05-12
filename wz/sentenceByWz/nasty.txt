@@ -1,1 +1,1 @@
-{"eg":"1. The nasty smell emanating from the garbage can made me want to gag.2. He was a nasty person, always putting others down and belittling them.3. The nasty storm destroyed homes and uprooted trees.","eng":"nasty"}
+{"eg":"1. The nasty smell emanating from the garbage can made me want to gag.\n2. He was a nasty person, always putting others down and belittling them.\n3. The nasty storm destroyed homes and uprooted trees.","eng":"nasty"}

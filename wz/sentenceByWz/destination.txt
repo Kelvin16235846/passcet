@@ -1,1 +1,1 @@
-{"eg":"1. My destination for the weekend is the beach.2. The traveler’s ultimate destination was a small village in the mountains.3. The airplane's destination was changed due to weather conditions.","eng":"destination"}
+{"eg":"1. My destination for the weekend is the beach.\n2. The traveler’s ultimate destination was a small village in the mountains.\n3. The airplane's destination was changed due to weather conditions.","eng":"destination"}

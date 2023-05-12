@@ -1,1 +1,1 @@
-{"eg":"1. I reviewed my previous notes to help me study for the test.2. The previous owner of the house left behind some old furniture.3. The company's sales were higher this month than in the previous one.","eng":"previous"}
+{"eg":"1. I reviewed my previous notes to help me study for the test.\n2. The previous owner of the house left behind some old furniture.\n3. The company's sales were higher this month than in the previous one.","eng":"previous"}

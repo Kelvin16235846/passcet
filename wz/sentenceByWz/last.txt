@@ -1,1 +1,1 @@
-{"eg":"1. I checked my last text message to see if I had given them the correct information.2. The last time I saw her was at the airport when she was leaving for her trip.3. He was the last one to leave the party and made sure everything was cleaned up before he left.","eng":"last"}
+{"eg":"1. I checked my last text message to see if I had given them the correct information.\n2. The last time I saw her was at the airport when she was leaving for her trip.\n3. He was the last one to leave the party and made sure everything was cleaned up before he left.","eng":"last"}

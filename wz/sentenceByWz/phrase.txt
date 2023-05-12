@@ -1,1 +1,1 @@
-{"eg":"1. On the brink of success, Emma suddenly lost her nerve and gave up.2. The students were filled with anticipation as they waited for their exam results.3. Despite her best efforts, Sarah couldn't shake the feeling of disappointment.","eng":"phrase"}
+{"eg":"1. On the brink of success, Emma suddenly lost her nerve and gave up.\n2. The students were filled with anticipation as they waited for their exam results.\n3. Despite her best efforts, Sarah couldn't shake the feeling of disappointment.","eng":"phrase"}

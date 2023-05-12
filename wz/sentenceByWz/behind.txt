@@ -1,1 +1,1 @@
-{"eg":"1. The sun was setting behind the mountains.2. I saw a strange figure lurking behind the tree.3. The real reason behind his sudden resignation remains unclear.","eng":"behind"}
+{"eg":"1. The sun was setting behind the mountains.\n2. I saw a strange figure lurking behind the tree.\n3. The real reason behind his sudden resignation remains unclear.","eng":"behind"}

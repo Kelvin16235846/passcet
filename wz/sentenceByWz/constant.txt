@@ -1,1 +1,1 @@
-{"eg":"1. The speed of light is a constant in physics.2. The value of pi is a mathematical constant.3. The acceleration due to gravity on Earth is a constant of 9.8 m/s².","eng":"constant"}
+{"eg":"1. The speed of light is a constant in physics.\n2. The value of pi is a mathematical constant.\n3. The acceleration due to gravity on Earth is a constant of 9.8 m/s².","eng":"constant"}

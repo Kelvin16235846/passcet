@@ -1,1 +1,1 @@
-{"eg":"1. The weight of my responsibilities at work has become a heavy burden.2. The financial burden of student loan debt can be overwhelming for recent graduates.3. Caring for an aging parent can be a difficult burden to bear, both emotionally and financially.","eng":"burden"}
+{"eg":"1. The weight of my responsibilities at work has become a heavy burden.\n2. The financial burden of student loan debt can be overwhelming for recent graduates.\n3. Caring for an aging parent can be a difficult burden to bear, both emotionally and financially.","eng":"burden"}

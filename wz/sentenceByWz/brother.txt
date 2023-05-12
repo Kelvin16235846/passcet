@@ -1,1 +1,1 @@
-{"eg":"1. My brother is always there for me when I need him.2. I love spending time with my brother, he's my best friend.3. Whenever I need advice, I always turn to my older brother.","eng":"brother"}
+{"eg":"1. My brother is always there for me when I need him.\n2. I love spending time with my brother, he's my best friend.\n3. Whenever I need advice, I always turn to my older brother.","eng":"brother"}

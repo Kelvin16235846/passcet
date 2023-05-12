@@ -1,1 +1,1 @@
-{"eg":"1. I love to snack on fresh, juicy berries in the summertime.2. The blackberry bushes were so tall that I had to reach up to pick the ripe fruit.3. Did you know that blueberries are packed with antioxidants and are great for your health?","eng":"berry"}
+{"eg":"1. I love to snack on fresh, juicy berries in the summertime.\n2. The blackberry bushes were so tall that I had to reach up to pick the ripe fruit.\n3. Did you know that blueberries are packed with antioxidants and are great for your health?","eng":"berry"}

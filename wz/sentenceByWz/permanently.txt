@@ -1,1 +1,1 @@
-{"eg":"1. The company decided to permanently shut down its outdated factory.2. My favorite restaurant is now permanently closed, and I am so sad about it.3. I lost my phone permanently after dropping it in the river.","eng":"permanently"}
+{"eg":"1. The company decided to permanently shut down its outdated factory.\n2. My favorite restaurant is now permanently closed, and I am so sad about it.\n3. I lost my phone permanently after dropping it in the river.","eng":"permanently"}

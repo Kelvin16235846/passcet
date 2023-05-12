@@ -1,1 +1,1 @@
-{"eg":"1. She couldn't help but weep when she saw the devastation caused by the natural disaster.2. The heart-wrenching scene in the movie made him weep uncontrollably.3. He wept with joy when he found out that he had been accepted into his dream university.","eng":"weep"}
+{"eg":"1. She couldn't help but weep when she saw the devastation caused by the natural disaster.\n2. The heart-wrenching scene in the movie made him weep uncontrollably.\n3. He wept with joy when he found out that he had been accepted into his dream university.","eng":"weep"}

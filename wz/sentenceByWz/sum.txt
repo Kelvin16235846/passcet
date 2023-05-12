@@ -1,1 +1,1 @@
-{"eg":"1. The sum of all the numbers from 1 to 10 is 55.2. She spent the sum of $100 on a new dress.3. The total sum of money raised for charity was over $1 million.","eng":"sum"}
+{"eg":"1. The sum of all the numbers from 1 to 10 is 55.\n2. She spent the sum of $100 on a new dress.\n3. The total sum of money raised for charity was over $1 million.","eng":"sum"}

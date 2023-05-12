@@ -1,1 +1,1 @@
-{"eg":"1. The company's annual revenue has increased by 10%.2. The school's annual sports day is always a highlight of the academic year.3. My favorite annual event is the Christmas market in my hometown.","eng":"annual"}
+{"eg":"1. The company's annual revenue has increased by 10%.\n2. The school's annual sports day is always a highlight of the academic year.\n3. My favorite annual event is the Christmas market in my hometown.","eng":"annual"}

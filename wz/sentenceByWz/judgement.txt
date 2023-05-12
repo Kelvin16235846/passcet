@@ -1,1 +1,1 @@
-{"eg":"1. My judgement tells me that he is not being entirely truthful with us.2. I trust your judgement on this matter, because you have more experience.3. It was a poor judgement on my part to invest so heavily in that failing company.","eng":"judgement"}
+{"eg":"1. My judgement tells me that he is not being entirely truthful with us.\n2. I trust your judgement on this matter, because you have more experience.\n3. It was a poor judgement on my part to invest so heavily in that failing company.","eng":"judgement"}

@@ -1,1 +1,1 @@
-{"eg":"1. I prefer buying domestic products to support our local industries.2. Domestic violence is a serious issue that needs to be addressed and prevented.3. The airline offers both domestic and international flights to various destinations.","eng":"domestic"}
+{"eg":"1. I prefer buying domestic products to support our local industries.\n2. Domestic violence is a serious issue that needs to be addressed and prevented.\n3. The airline offers both domestic and international flights to various destinations.","eng":"domestic"}

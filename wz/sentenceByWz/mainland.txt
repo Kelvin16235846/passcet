@@ -1,1 +1,1 @@
-{"eg":"1. Mainland China is known for its rich history and diverse culture.2. Many companies have moved their operations to mainland China due to its growing economy.3. The majority of the Chinese population lives in mainland China.","eng":"mainland"}
+{"eg":"1. Mainland China is known for its rich history and diverse culture.\n2. Many companies have moved their operations to mainland China due to its growing economy.\n3. The majority of the Chinese population lives in mainland China.","eng":"mainland"}

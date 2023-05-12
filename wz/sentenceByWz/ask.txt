@@ -1,1 +1,1 @@
-{"eg":"1. Can I ask you a question about your experience with this product?2. May I ask what your plans are for the weekend?3. Do you mind if I ask for your opinion on this matter?","eng":"ask"}
+{"eg":"1. Can I ask you a question about your experience with this product?\n2. May I ask what your plans are for the weekend?\n3. Do you mind if I ask for your opinion on this matter?","eng":"ask"}

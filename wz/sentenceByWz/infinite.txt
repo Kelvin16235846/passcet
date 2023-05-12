@@ -1,1 +1,1 @@
-{"eg":"1. His curiosity was infinite, he couldn't stop asking questions.2. The possibilities of her future seemed infinite, she had so many paths to choose from.3. The vastness and beauty of the universe is infinite, it's hard to comprehend its grandeur.","eng":"infinite"}
+{"eg":"1. His curiosity was infinite, he couldn't stop asking questions.\n2. The possibilities of her future seemed infinite, she had so many paths to choose from.\n3. The vastness and beauty of the universe is infinite, it's hard to comprehend its grandeur.","eng":"infinite"}

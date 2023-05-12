@@ -1,1 +1,1 @@
-{"eg":"1. The chief of police is responsible for maintaining law and order in the city.2. As the chief executive officer, she oversees all operations of the company.3. The tribal chief welcomed the visitors to their village and offered them hospitality.","eng":"chief"}
+{"eg":"1. The chief of police is responsible for maintaining law and order in the city.\n2. As the chief executive officer, she oversees all operations of the company.\n3. The tribal chief welcomed the visitors to their village and offered them hospitality.","eng":"chief"}

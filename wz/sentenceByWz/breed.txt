@@ -1,1 +1,1 @@
-{"eg":"1. The poodle is a popular breed among dog owners because of its hypoallergenic coat.2. The Siamese cat is a highly intelligent and talkative breed that loves attention.3. The Arabian horse breed is prized for its endurance, speed, and beauty.","eng":"breed"}
+{"eg":"1. The poodle is a popular breed among dog owners because of its hypoallergenic coat.\n2. The Siamese cat is a highly intelligent and talkative breed that loves attention.\n3. The Arabian horse breed is prized for its endurance, speed, and beauty.","eng":"breed"}

@@ -1,1 +1,1 @@
-{"eg":"1. I am a beginner when it comes to playing the guitar.2. As a beginner, I found the task to be quite challenging.3. Learning a new language as a beginner can be daunting, but it's also exciting.","eng":"beginner"}
+{"eg":"1. I am a beginner when it comes to playing the guitar.\n2. As a beginner, I found the task to be quite challenging.\n3. Learning a new language as a beginner can be daunting, but it's also exciting.","eng":"beginner"}

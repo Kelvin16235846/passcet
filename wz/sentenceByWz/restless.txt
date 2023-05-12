@@ -1,1 +1,1 @@
-{"eg":"1. \"Restless waves crashed against the shore, as the storm raged on.\"2. \"He paced back and forth, his restless energy palpable in the quiet room.\"3. \"The restless child squirmed in his seat, unable to sit still for more than a minute.\"","eng":"restless"}
+{"eg":"1. \"Restless waves crashed against the shore, as the storm raged on.\"\n2. \"He paced back and forth, his restless energy palpable in the quiet room.\"\n3. \"The restless child squirmed in his seat, unable to sit still for more than a minute.\"","eng":"restless"}

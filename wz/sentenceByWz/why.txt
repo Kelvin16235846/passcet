@@ -1,1 +1,1 @@
-{"eg":"1. Why did you choose that restaurant for dinner?2. Why are you always late for our meetings?3. Why do you think education is important?","eng":"why"}
+{"eg":"1. Why did you choose that restaurant for dinner?\n2. Why are you always late for our meetings?\n3. Why do you think education is important?","eng":"why"}

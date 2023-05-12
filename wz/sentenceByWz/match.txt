@@ -1,1 +1,1 @@
-{"eg":"1. I matched my dress with my shoes for the perfect outfit.2. The colors of the sunset matched the flowers in the garden.3. The charity organization matched donations to double the impact of each contribution.","eng":"match"}
+{"eg":"1. I matched my dress with my shoes for the perfect outfit.\n2. The colors of the sunset matched the flowers in the garden.\n3. The charity organization matched donations to double the impact of each contribution.","eng":"match"}

@@ -1,1 +1,1 @@
-{"eg":"1. I included all of the necessary information in my report.2. The package includes a user manual and installation instructions.3. Don't forget to include your contact information in your job application.","eng":"include"}
+{"eg":"1. I included all of the necessary information in my report.\n2. The package includes a user manual and installation instructions.\n3. Don't forget to include your contact information in your job application.","eng":"include"}

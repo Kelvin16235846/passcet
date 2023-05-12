@@ -1,1 +1,1 @@
-{"eg":"1. She remained faithful to her husband even during their toughest times.2. The dog was incredibly faithful to its owner, never leaving their side.3. The employee's faithful attendance at every company meeting and event earned them a promotion.","eng":"faithful"}
+{"eg":"1. She remained faithful to her husband even during their toughest times.\n2. The dog was incredibly faithful to its owner, never leaving their side.\n3. The employee's faithful attendance at every company meeting and event earned them a promotion.","eng":"faithful"}

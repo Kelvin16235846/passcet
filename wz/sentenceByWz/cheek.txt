@@ -1,1 +1,1 @@
-{"eg":"1. She gives me a cheeky grin whenever I tease her.2. His cheek was scraped when he fell off the bike.3. I couldn't help but admire her cheek as she stood up to the boss.","eng":"cheek"}
+{"eg":"1. She gives me a cheeky grin whenever I tease her.\n2. His cheek was scraped when he fell off the bike.\n3. I couldn't help but admire her cheek as she stood up to the boss.","eng":"cheek"}

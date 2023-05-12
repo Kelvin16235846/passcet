@@ -1,1 +1,1 @@
-{"eg":"1. I corrected my mistake by apologizing to my friend.2. She corrected the spelling errors in her essay before submitting it.3. The teacher corrected my pronunciation during my English class.","eng":"correct"}
+{"eg":"1. I corrected my mistake by apologizing to my friend.\n2. She corrected the spelling errors in her essay before submitting it.\n3. The teacher corrected my pronunciation during my English class.","eng":"correct"}

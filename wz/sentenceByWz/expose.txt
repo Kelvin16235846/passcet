@@ -1,1 +1,1 @@
-{"eg":"1. The journalist was able to expose the corruption within the government.2. The documentary exposed the harsh realities of life for refugees.3. The whistleblower decided to speak out and expose the illegal activities of his employer.","eng":"expose"}
+{"eg":"1. The journalist was able to expose the corruption within the government.\n2. The documentary exposed the harsh realities of life for refugees.\n3. The whistleblower decided to speak out and expose the illegal activities of his employer.","eng":"expose"}

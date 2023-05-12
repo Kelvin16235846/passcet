@@ -1,1 +1,1 @@
-{"eg":"1. I have a hundred reasons why I love you.2. He paid me a hundred dollars to complete the task.3. The party was a huge success, with over a hundred people in attendance.","eng":"hundred"}
+{"eg":"1. I have a hundred reasons why I love you.\n2. He paid me a hundred dollars to complete the task.\n3. The party was a huge success, with over a hundred people in attendance.","eng":"hundred"}

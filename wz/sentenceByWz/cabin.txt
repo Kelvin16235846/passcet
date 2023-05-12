@@ -1,1 +1,1 @@
-{"eg":"1. I spent a relaxing weekend at a cozy cabin in the woods.2. The hunters set up camp in a rugged cabin near the lake.3. The cabin was small but charming, with a fireplace and rustic furnishings.","eng":"cabin"}
+{"eg":"1. I spent a relaxing weekend at a cozy cabin in the woods.\n2. The hunters set up camp in a rugged cabin near the lake.\n3. The cabin was small but charming, with a fireplace and rustic furnishings.","eng":"cabin"}

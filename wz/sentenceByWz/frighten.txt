@@ -1,1 +1,1 @@
-{"eg":"1. The sudden noise in the dark alley frightened me.2. The sight of the approaching storm frightened the children.3. The horror movie frightened her so much that she couldn't sleep all night.","eng":"frighten"}
+{"eg":"1. The sudden noise in the dark alley frightened me.\n2. The sight of the approaching storm frightened the children.\n3. The horror movie frightened her so much that she couldn't sleep all night.","eng":"frighten"}

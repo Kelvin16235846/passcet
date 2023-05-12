@@ -1,1 +1,1 @@
-{"eg":"1. The government has the authority to enforce laws and maintain order in society.2. The CEO has the authority to make important decisions for the company.3. The teacher has the authority to grade assignments and determine the students' academic performance.","eng":"authority"}
+{"eg":"1. The government has the authority to enforce laws and maintain order in society.\n2. The CEO has the authority to make important decisions for the company.\n3. The teacher has the authority to grade assignments and determine the students' academic performance.","eng":"authority"}

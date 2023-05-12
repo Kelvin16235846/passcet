@@ -1,1 +1,1 @@
-{"eg":"1. I will attempt to finish this project by the end of the week.2. Despite his fear of heights, he attempted to climb Mount Everest.3. The athlete is going to attempt to break his personal record in the upcoming race.","eng":"attempt"}
+{"eg":"1. I will attempt to finish this project by the end of the week.\n2. Despite his fear of heights, he attempted to climb Mount Everest.\n3. The athlete is going to attempt to break his personal record in the upcoming race.","eng":"attempt"}

@@ -1,1 +1,1 @@
-{"eg":"1. The tomatoes were so rotten that they almost turned into mush when I touched them.2. The smell of the garbage truck filled the air with the stench of something rotten.3. I took a bite of the apple and immediately regretted it; it was completely rotten inside.","eng":"rotten"}
+{"eg":"1. The tomatoes were so rotten that they almost turned into mush when I touched them.\n2. The smell of the garbage truck filled the air with the stench of something rotten.\n3. I took a bite of the apple and immediately regretted it; it was completely rotten inside.","eng":"rotten"}

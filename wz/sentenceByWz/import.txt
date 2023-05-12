@@ -1,1 +1,1 @@
-{"eg":"1. I need to import some new software for my computer.2. The company imports high-quality materials from overseas suppliers.3. The government may need to impose restrictions on imported goods to protect local industries.","eng":"import"}
+{"eg":"1. I need to import some new software for my computer.\n2. The company imports high-quality materials from overseas suppliers.\n3. The government may need to impose restrictions on imported goods to protect local industries.","eng":"import"}

@@ -1,1 +1,1 @@
-{"eg":"1. I need to remove the old wallpaper before putting up new wallpaper.2. The teacher had to remove the student from the classroom for disruptive behavior.3. I accidentally spilled coffee on my shirt and had to quickly remove the stain before it set in.","eng":"remove"}
+{"eg":"1. I need to remove the old wallpaper before putting up new wallpaper.\n2. The teacher had to remove the student from the classroom for disruptive behavior.\n3. I accidentally spilled coffee on my shirt and had to quickly remove the stain before it set in.","eng":"remove"}

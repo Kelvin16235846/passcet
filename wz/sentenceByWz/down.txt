@@ -1,1 +1,1 @@
-{"eg":"1. The rain is coming down heavily, making it difficult to see.2. When I heard the news, my spirits immediately went down.3. The stock market has been going down for the past few days.","eng":"down"}
+{"eg":"1. The rain is coming down heavily, making it difficult to see.\n2. When I heard the news, my spirits immediately went down.\n3. The stock market has been going down for the past few days.","eng":"down"}

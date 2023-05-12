@@ -1,1 +1,1 @@
-{"eg":"1. Who is coming to the party tonight?2. Do you know who won the game last night?3. Who is the CEO of this company?","eng":"who"}
+{"eg":"1. Who is coming to the party tonight?\n2. Do you know who won the game last night?\n3. Who is the CEO of this company?","eng":"who"}

@@ -1,1 +1,1 @@
-{"eg":"1. The acute pain in my back made it difficult to stand up straight.2. She had an acute sense of smell and could detect even the slightest odors.3. The hospital immediately admitted the patient with acute symptoms of appendicitis.","eng":"acute"}
+{"eg":"1. The acute pain in my back made it difficult to stand up straight.\n2. She had an acute sense of smell and could detect even the slightest odors.\n3. The hospital immediately admitted the patient with acute symptoms of appendicitis.","eng":"acute"}

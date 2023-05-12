@@ -1,1 +1,1 @@
-{"eg":"1. The pit was dug deep enough to trap even the biggest animals.2. She carefully tossed the apple core into the compost pit.3. The little boy stumbled and fell into the shallow pit, but quickly scrambled back out.","eng":"pit"}
+{"eg":"1. The pit was dug deep enough to trap even the biggest animals.\n2. She carefully tossed the apple core into the compost pit.\n3. The little boy stumbled and fell into the shallow pit, but quickly scrambled back out.","eng":"pit"}

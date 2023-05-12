@@ -1,1 +1,1 @@
-{"eg":"1. Besides studying, I enjoy playing soccer with my friends.2. Besides being a talented musician, she is also an amazing artist.3. Besides his busy work schedule, he always finds time to volunteer at the local food bank.","eng":"besides"}
+{"eg":"1. Besides studying, I enjoy playing soccer with my friends.\n2. Besides being a talented musician, she is also an amazing artist.\n3. Besides his busy work schedule, he always finds time to volunteer at the local food bank.","eng":"besides"}

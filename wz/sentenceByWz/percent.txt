@@ -1,1 +1,1 @@
-{"eg":"1. \"The percentage of students passing the exam this year increased by 10% compared to last year.\"2. \"The company reported a 5% decrease in profits for the third quarter of the year.\"3. \"The population of this city has grown by 15% over the past decade.\"","eng":"percent"}
+{"eg":"1. \"The percentage of students passing the exam this year increased by 10% compared to last year.\"\n2. \"The company reported a 5% decrease in profits for the third quarter of the year.\"\n3. \"The population of this city has grown by 15% over the past decade.\"","eng":"percent"}

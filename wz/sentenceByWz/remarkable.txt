@@ -1,1 +1,1 @@
-{"eg":"1. Her remarkable ability to learn quickly helped her excel in school.2. The remarkable scenery of the Grand Canyon left him in awe.3. His remarkable leadership skills made him an effective CEO.","eng":"remarkable"}
+{"eg":"1. Her remarkable ability to learn quickly helped her excel in school.\n2. The remarkable scenery of the Grand Canyon left him in awe.\n3. His remarkable leadership skills made him an effective CEO.","eng":"remarkable"}

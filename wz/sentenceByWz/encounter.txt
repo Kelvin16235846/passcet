@@ -1,1 +1,1 @@
-{"eg":"1. During my travels, I often encounter interesting people from all walks of life.2. Yesterday, I had an unexpected encounter with an old friend that I haven't seen in years.3. It's not uncommon to encounter obstacles and challenges on the path to success.","eng":"encounter"}
+{"eg":"1. During my travels, I often encounter interesting people from all walks of life.\n2. Yesterday, I had an unexpected encounter with an old friend that I haven't seen in years.\n3. It's not uncommon to encounter obstacles and challenges on the path to success.","eng":"encounter"}

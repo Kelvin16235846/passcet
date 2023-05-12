@@ -1,1 +1,1 @@
-{"eg":"1. My home address is 123 Main Street.2. Please send the package to the following address: 456 Oak Avenue.3. I need your address to put it in my contacts list.","eng":"address"}
+{"eg":"1. My home address is 123 Main Street.\n2. Please send the package to the following address: 456 Oak Avenue.\n3. I need your address to put it in my contacts list.","eng":"address"}

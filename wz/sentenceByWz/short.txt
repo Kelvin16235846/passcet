@@ -1,1 +1,1 @@
-{"eg":"1. I am short in stature but big in heart.2. His attention span was so short that he could never focus for very long.3. The meeting was short and to the point, which everyone appreciated.","eng":"short"}
+{"eg":"1. I am short in stature but big in heart.\n2. His attention span was so short that he could never focus for very long.\n3. The meeting was short and to the point, which everyone appreciated.","eng":"short"}

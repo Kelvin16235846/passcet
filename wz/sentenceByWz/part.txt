@@ -1,1 +1,1 @@
-{"eg":"1. I am only a small part of this big project.2. Her role in the play was a minor part, but she nailed it.3. The missing part of the puzzle was finally found, completing the picture.","eng":"part"}
+{"eg":"1. I am only a small part of this big project.\n2. Her role in the play was a minor part, but she nailed it.\n3. The missing part of the puzzle was finally found, completing the picture.","eng":"part"}

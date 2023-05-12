@@ -1,1 +1,1 @@
-{"eg":"1. I was lost in my own thoughts when suddenly someone called my name.2. Her thought process was unconventional, but it led to some innovative ideas.3. The mere thought of failing the exam made him anxious and nervous.","eng":"thought"}
+{"eg":"1. I was lost in my own thoughts when suddenly someone called my name.\n2. Her thought process was unconventional, but it led to some innovative ideas.\n3. The mere thought of failing the exam made him anxious and nervous.","eng":"thought"}

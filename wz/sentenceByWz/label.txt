@@ -1,1 +1,1 @@
-{"eg":"1. Please label all of your personal belongings before entering the amusement park.2. It's important to label the food containers in the refrigerator so you know what's inside.3. Make sure to label each file correctly when saving documents on your computer.","eng":"label"}
+{"eg":"1. Please label all of your personal belongings before entering the amusement park.\n2. It's important to label the food containers in the refrigerator so you know what's inside.\n3. Make sure to label each file correctly when saving documents on your computer.","eng":"label"}

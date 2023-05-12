@@ -1,1 +1,1 @@
-{"eg":"1. It's important to insure your car against theft and accidents.2. I'm not sure if the travel insurance I bought will insure me for medical emergencies abroad.3. The company offered to insure my home for a reasonable rate, so I decided to go for it.","eng":"insure"}
+{"eg":"1. It's important to insure your car against theft and accidents.\n2. I'm not sure if the travel insurance I bought will insure me for medical emergencies abroad.\n3. The company offered to insure my home for a reasonable rate, so I decided to go for it.","eng":"insure"}

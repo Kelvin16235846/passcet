@@ -1,1 +1,1 @@
-{"eg":"1. The butterfly fluttered its wings delicately as it perched on a flower.2. The bright orange and black butterfly added a pop of color to the garden.3. Watching the butterfly gracefully glide through the air was a breathtaking sight.","eng":"butterfly"}
+{"eg":"1. The butterfly fluttered its wings delicately as it perched on a flower.\n2. The bright orange and black butterfly added a pop of color to the garden.\n3. Watching the butterfly gracefully glide through the air was a breathtaking sight.","eng":"butterfly"}

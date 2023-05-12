@@ -1,1 +1,1 @@
-{"eg":"1. Sorry, I can't make it to your birthday party tonight.2. I'm sorry for accidentally breaking your vase.3. Sorry, I didn't mean to offend you with my comment.","eng":"sorry"}
+{"eg":"1. Sorry, I can't make it to your birthday party tonight.\n2. I'm sorry for accidentally breaking your vase.\n3. Sorry, I didn't mean to offend you with my comment.","eng":"sorry"}

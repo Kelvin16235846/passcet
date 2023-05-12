@@ -1,1 +1,1 @@
-{"eg":"1. I can't afford to lose this game, I've been practicing all week!2. If you don't take care of your health, you'll lose your energy and motivation in life.3. It's easy to lose track of time when you're having fun with friends.","eng":"lose"}
+{"eg":"1. I can't afford to lose this game, I've been practicing all week!\n2. If you don't take care of your health, you'll lose your energy and motivation in life.\n3. It's easy to lose track of time when you're having fun with friends.","eng":"lose"}

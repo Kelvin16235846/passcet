@@ -1,1 +1,1 @@
-{"eg":"1. The force of gravity pulled the apple down from the tree.2. The astronaut experienced weightlessness due to the absence of gravity in space.3. The rock fell from the cliff due to the influence of gravity.","eng":"gravity"}
+{"eg":"1. The force of gravity pulled the apple down from the tree.\n2. The astronaut experienced weightlessness due to the absence of gravity in space.\n3. The rock fell from the cliff due to the influence of gravity.","eng":"gravity"}

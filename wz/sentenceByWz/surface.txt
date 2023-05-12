@@ -1,1 +1,1 @@
-{"eg":"1. I use my Surface to take notes during class and it's super convenient.2. With my Surface, I can draw and sketch to my heart's content.3. The Surface is perfect for on-the-go work and travel, with its lightweight design and long battery life.","eng":"surface"}
+{"eg":"1. I use my Surface to take notes during class and it's super convenient.\n2. With my Surface, I can draw and sketch to my heart's content.\n3. The Surface is perfect for on-the-go work and travel, with its lightweight design and long battery life.","eng":"surface"}

@@ -1,1 +1,1 @@
-{"eg":"1. Sly smiled as he slipped past the security guard unnoticed.2. The Sly fox snuck into the chicken coop and made off with a prize hen.3. Her sly remark left the room in an awkward silence.","eng":"sly"}
+{"eg":"1. Sly smiled as he slipped past the security guard unnoticed.\n2. The Sly fox snuck into the chicken coop and made off with a prize hen.\n3. Her sly remark left the room in an awkward silence.","eng":"sly"}

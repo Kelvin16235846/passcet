@@ -1,1 +1,1 @@
-{"eg":"1. I intend to finish my work before the end of the day.2. She intends to pursue a career in fashion design.3. They intend to travel to Europe next summer.","eng":"intend"}
+{"eg":"1. I intend to finish my work before the end of the day.\n2. She intends to pursue a career in fashion design.\n3. They intend to travel to Europe next summer.","eng":"intend"}

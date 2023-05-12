@@ -1,1 +1,1 @@
-{"eg":"1. From the top of the mountain, we had a stunning view of the valley below.2. From what I gather, the meeting has been cancelled due to the weather.3. From her accent, I could tell that she was originally from Ireland.","eng":"from"}
+{"eg":"1. From the top of the mountain, we had a stunning view of the valley below.\n2. From what I gather, the meeting has been cancelled due to the weather.\n3. From her accent, I could tell that she was originally from Ireland.","eng":"from"}

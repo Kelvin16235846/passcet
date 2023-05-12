@@ -1,1 +1,1 @@
-{"eg":"1. The room was tidy and organized, with everything in its proper place.2. It's important to tidy up after yourself in shared spaces to show respect for others.3. She spent the afternoon tidying her garden, removing weeds and trimming the hedges.","eng":"tidy"}
+{"eg":"1. The room was tidy and organized, with everything in its proper place.\n2. It's important to tidy up after yourself in shared spaces to show respect for others.\n3. She spent the afternoon tidying her garden, removing weeds and trimming the hedges.","eng":"tidy"}

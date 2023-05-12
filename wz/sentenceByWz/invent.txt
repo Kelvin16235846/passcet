@@ -1,1 +1,1 @@
-{"eg":"1. Alexander Graham Bell is credited with inventing the telephone.2. The tablet computer was invented by Microsoft in 2000.3. Leonardo da Vinci is known for inventing numerous machines and devices ahead of his time.","eng":"invent"}
+{"eg":"1. Alexander Graham Bell is credited with inventing the telephone.\n2. The tablet computer was invented by Microsoft in 2000.\n3. Leonardo da Vinci is known for inventing numerous machines and devices ahead of his time.","eng":"invent"}

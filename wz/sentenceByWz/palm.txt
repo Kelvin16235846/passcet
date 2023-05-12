@@ -1,1 +1,1 @@
-{"eg":"1. I used to carry a palm-sized notebook everywhere I went to jot down ideas.2. Despite its small size, the palm tree can grow up to 197 feet tall.3. My grandma always wore her lucky palm leaf necklace when she played bingo.","eng":"palm"}
+{"eg":"1. I used to carry a palm-sized notebook everywhere I went to jot down ideas.\n2. Despite its small size, the palm tree can grow up to 197 feet tall.\n3. My grandma always wore her lucky palm leaf necklace when she played bingo.","eng":"palm"}

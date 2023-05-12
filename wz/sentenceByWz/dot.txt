@@ -1,1 +1,1 @@
-{"eg":"1. The cat chased the mouse around the room, but eventually gave up.2. I love spending quiet evenings at home reading a good book and sipping on hot tea.3. The sun was setting over the horizon, casting a warm glow over the surrounding mountains.","eng":"dot"}
+{"eg":"1. The cat chased the mouse around the room, but eventually gave up.\n2. I love spending quiet evenings at home reading a good book and sipping on hot tea.\n3. The sun was setting over the horizon, casting a warm glow over the surrounding mountains.","eng":"dot"}

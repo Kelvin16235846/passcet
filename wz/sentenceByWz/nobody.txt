@@ -1,1 +1,1 @@
-{"eg":"1. Nobody knew who left the cake on the table.2. Nobody can predict what the future holds.3. Nobody likes to be left out of the group.","eng":"nobody"}
+{"eg":"1. Nobody knew who left the cake on the table.\n2. Nobody can predict what the future holds.\n3. Nobody likes to be left out of the group.","eng":"nobody"}

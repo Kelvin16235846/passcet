@@ -1,1 +1,1 @@
-{"eg":"1. Please clear the table after dinner.2. I need to clear my mind before making a decision.3. The fog will clear in the afternoon.","eng":"clear"}
+{"eg":"1. Please clear the table after dinner.\n2. I need to clear my mind before making a decision.\n3. The fog will clear in the afternoon.","eng":"clear"}

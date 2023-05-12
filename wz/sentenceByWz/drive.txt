@@ -1,1 +1,1 @@
-{"eg":"1. I drove to the store to buy groceries.2. He drives a sports car to work every day.3. She asked her friend to drive her to the airport.","eng":"drive"}
+{"eg":"1. I drove to the store to buy groceries.\n2. He drives a sports car to work every day.\n3. She asked her friend to drive her to the airport.","eng":"drive"}

@@ -1,1 +1,1 @@
-{"eg":"1. I would like to order a pizza with pepperoni and mushrooms.2. Can you please take my order for a cheeseburger and fries?3. She quickly placed an order for a latte and a croissant at the coffee shop.","eng":"order"}
+{"eg":"1. I would like to order a pizza with pepperoni and mushrooms.\n2. Can you please take my order for a cheeseburger and fries?\n3. She quickly placed an order for a latte and a croissant at the coffee shop.","eng":"order"}

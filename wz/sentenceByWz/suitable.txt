@@ -1,1 +1,1 @@
-{"eg":"1. Tennis shoes are the most suitable footwear for playing on the court.2. The public library offers a suitable environment for quiet study and research.3. The candidate demonstrated suitable skills and experience for the job position.","eng":"suitable"}
+{"eg":"1. Tennis shoes are the most suitable footwear for playing on the court.\n2. The public library offers a suitable environment for quiet study and research.\n3. The candidate demonstrated suitable skills and experience for the job position.","eng":"suitable"}

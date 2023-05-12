@@ -1,1 +1,1 @@
-{"eg":"1. She reduced her calorie intake in an effort to lose weight.2. The company decided to reduce their workforce to cut costs.3. He used meditation to reduce his stress levels and improve his mental health.","eng":"reduce"}
+{"eg":"1. She reduced her calorie intake in an effort to lose weight.\n2. The company decided to reduce their workforce to cut costs.\n3. He used meditation to reduce his stress levels and improve his mental health.","eng":"reduce"}

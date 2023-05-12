@@ -1,1 +1,1 @@
-{"eg":"1. I love baking cakes on my days off.2. She requested a chocolate cake for her birthday.3. We decided to have a slice of cake with our afternoon tea.","eng":"cake"}
+{"eg":"1. I love baking cakes on my days off.\n2. She requested a chocolate cake for her birthday.\n3. We decided to have a slice of cake with our afternoon tea.","eng":"cake"}

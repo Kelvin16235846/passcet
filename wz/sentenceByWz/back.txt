@@ -1,1 +1,1 @@
-{"eg":"1. I need to go back home now.2. Can you back up your claims with evidence?3. She fell off the ladder and landed on her back.","eng":"back"}
+{"eg":"1. I need to go back home now.\n2. Can you back up your claims with evidence?\n3. She fell off the ladder and landed on her back.","eng":"back"}

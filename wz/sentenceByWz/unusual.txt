@@ -1,1 +1,1 @@
-{"eg":"1. The unusual pattern on her dress caught everyone's attention.2. He had an unusual talent for solving complex puzzles.3. It was an unusual sight to see a kangaroo jumping down the streets in the city.","eng":"unusual"}
+{"eg":"1. The unusual pattern on her dress caught everyone's attention.\n2. He had an unusual talent for solving complex puzzles.\n3. It was an unusual sight to see a kangaroo jumping down the streets in the city.","eng":"unusual"}

@@ -1,1 +1,1 @@
-{"eg":"1. His appetite was insatiable and he ate everything in sight.2. She lost her appetite after a day of sickness and couldn't eat for hours.3. The smell of the sizzling steak made his appetite soar and he couldn't wait to dig in.","eng":"appetite"}
+{"eg":"1. His appetite was insatiable and he ate everything in sight.\n2. She lost her appetite after a day of sickness and couldn't eat for hours.\n3. The smell of the sizzling steak made his appetite soar and he couldn't wait to dig in.","eng":"appetite"}

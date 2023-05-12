@@ -1,1 +1,1 @@
-{"eg":"1. The fifth day of the week is Thursday.2. She placed fifth in the race.3. This is my fifth time visiting Paris.","eng":"fifth"}
+{"eg":"1. The fifth day of the week is Thursday.\n2. She placed fifth in the race.\n3. This is my fifth time visiting Paris.","eng":"fifth"}

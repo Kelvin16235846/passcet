@@ -1,1 +1,1 @@
-{"eg":"1. \"The future belongs to those who believe in the beauty of their dreams.\" - Eleanor Roosevelt2. \"I have not failed. I've just found 10,000 ways that won't work.\" - Thomas Edison3. \"The only way to do great work is to love what you do.\" - Steve Jobs","eng":"quotation"}
+{"eg":"1. \"The future belongs to those who believe in the beauty of their dreams.\" - Eleanor Roosevelt\n2. \"I have not failed. I've just found 10,000 ways that won't work.\" - Thomas Edison\n3. \"The only way to do great work is to love what you do.\" - Steve Jobs","eng":"quotation"}

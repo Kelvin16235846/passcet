@@ -1,1 +1,1 @@
-{"eg":"1. I paid for my coffee with a coin from my pocket.2. The street performer collected coins from the crowd for his performance.3. The beggar on the corner held out his cup for people to drop in spare coins.","eng":"coin"}
+{"eg":"1. I paid for my coffee with a coin from my pocket.\n2. The street performer collected coins from the crowd for his performance.\n3. The beggar on the corner held out his cup for people to drop in spare coins.","eng":"coin"}

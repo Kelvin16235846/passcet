@@ -1,1 +1,1 @@
-{"eg":"1. The bird swiftly swallowed the worm whole.2. It's best to chew your food properly before you swallow it.3. The medication comes in the form of a small pill that is easy to swallow.","eng":"swallow"}
+{"eg":"1. The bird swiftly swallowed the worm whole.\n2. It's best to chew your food properly before you swallow it.\n3. The medication comes in the form of a small pill that is easy to swallow.","eng":"swallow"}

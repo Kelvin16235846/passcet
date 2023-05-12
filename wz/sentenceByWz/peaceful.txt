@@ -1,1 +1,1 @@
-{"eg":"1. I love to spend my weekends in a peaceful environment.2. The sound of the waves crashing against the shore is so peaceful.3. The peaceful protest gathered thousands of people fighting for change.","eng":"peaceful"}
+{"eg":"1. I love to spend my weekends in a peaceful environment.\n2. The sound of the waves crashing against the shore is so peaceful.\n3. The peaceful protest gathered thousands of people fighting for change.","eng":"peaceful"}

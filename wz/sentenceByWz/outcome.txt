@@ -1,1 +1,1 @@
-{"eg":"1. The outcome of the experiment was unexpected, as it proved the hypothesis wrong.2. The outcome of the game was a tie, leaving both teams disappointed.3. We are still waiting for the outcome of the investigation into the accident.","eng":"outcome"}
+{"eg":"1. The outcome of the experiment was unexpected, as it proved the hypothesis wrong.\n2. The outcome of the game was a tie, leaving both teams disappointed.\n3. We are still waiting for the outcome of the investigation into the accident.","eng":"outcome"}

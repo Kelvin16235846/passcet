@@ -1,1 +1,1 @@
-{"eg":"1. I have sympathy for your situation and hope things get better soon.2. It is difficult not to have sympathy for the homeless during the wintertime.3. Let's all have sympathy for those impacted by the devastating natural disasters occurring around the world.","eng":"sympathy"}
+{"eg":"1. I have sympathy for your situation and hope things get better soon.\n2. It is difficult not to have sympathy for the homeless during the wintertime.\n3. Let's all have sympathy for those impacted by the devastating natural disasters occurring around the world.","eng":"sympathy"}

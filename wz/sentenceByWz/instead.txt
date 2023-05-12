@@ -1,1 +1,1 @@
-{"eg":"1. I forgot to buy milk, so I used cream instead for my coffee.2. Instead of driving, I decided to walk to the store to get some exercise.3. I wanted pizza for dinner, but instead, I ended up making a salad.","eng":"instead"}
+{"eg":"1. I forgot to buy milk, so I used cream instead for my coffee.\n2. Instead of driving, I decided to walk to the store to get some exercise.\n3. I wanted pizza for dinner, but instead, I ended up making a salad.","eng":"instead"}

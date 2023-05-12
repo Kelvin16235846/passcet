@@ -1,1 +1,1 @@
-{"eg":"1. I'm feeling so tired after staying up all night studying for my exam.2. The long day at work has left me feeling extremely tired and drained.3. Even though I just woke up, I still feel tired and groggy this morning.","eng":"tired"}
+{"eg":"1. I'm feeling so tired after staying up all night studying for my exam.\n2. The long day at work has left me feeling extremely tired and drained.\n3. Even though I just woke up, I still feel tired and groggy this morning.","eng":"tired"}

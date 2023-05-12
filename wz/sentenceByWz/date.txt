@@ -1,1 +1,1 @@
-{"eg":"1. Today's date is August 18th, 2021.2. My birthday falls on the same date every year, which is May 23rd.3. The expiration date on the milk carton is February 28th, 2022.","eng":"date"}
+{"eg":"1. Today's date is August 18th, 2021.\n2. My birthday falls on the same date every year, which is May 23rd.\n3. The expiration date on the milk carton is February 28th, 2022.","eng":"date"}

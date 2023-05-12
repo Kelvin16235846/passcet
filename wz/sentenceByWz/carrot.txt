@@ -1,1 +1,1 @@
-{"eg":"1. I love munching on fresh carrots as a healthy snack.2. Carrots are a great source of vitamin A and beta-carotene.3. My mom always adds finely grated carrots to her homemade spaghetti sauce.","eng":"carrot"}
+{"eg":"1. I love munching on fresh carrots as a healthy snack.\n2. Carrots are a great source of vitamin A and beta-carotene.\n3. My mom always adds finely grated carrots to her homemade spaghetti sauce.","eng":"carrot"}

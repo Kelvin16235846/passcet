@@ -1,1 +1,1 @@
-{"eg":"1. She used a nail to hang the picture on the wall.2. The carpenter hammered the nail into the wood to secure the boards together.3. The runner stubbed his toe on a loose nail sticking out of the ground.","eng":"nail"}
+{"eg":"1. She used a nail to hang the picture on the wall.\n2. The carpenter hammered the nail into the wood to secure the boards together.\n3. The runner stubbed his toe on a loose nail sticking out of the ground.","eng":"nail"}

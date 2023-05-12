@@ -1,1 +1,1 @@
-{"eg":"1. I don't know what happened last night, but I woke up with a huge headache.2. It's always interesting to see what will happen when two different cultures collide.3. If you don't study hard, failure will happen sooner or later.","eng":"happen"}
+{"eg":"1. I don't know what happened last night, but I woke up with a huge headache.\n2. It's always interesting to see what will happen when two different cultures collide.\n3. If you don't study hard, failure will happen sooner or later.","eng":"happen"}

@@ -1,1 +1,1 @@
-{"eg":"1. I like to use the broom to sweep up the fallen leaves in my garden.2. The janitor used the broom to clean up the spilled coffee on the floor.3. My mom always tells me to use the broom to clean the dust off the furniture.","eng":"broom"}
+{"eg":"1. I like to use the broom to sweep up the fallen leaves in my garden.\n2. The janitor used the broom to clean up the spilled coffee on the floor.\n3. My mom always tells me to use the broom to clean the dust off the furniture.","eng":"broom"}

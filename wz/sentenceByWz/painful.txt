@@ -1,1 +1,1 @@
-{"eg":"1. The sound of his shrieks was so painful that it made my ears ring for hours.2. Running a marathon without proper training can be a painful experience for your body.3. The emotional pain of losing a loved one is something that stays with you for a long time.","eng":"painful"}
+{"eg":"1. The sound of his shrieks was so painful that it made my ears ring for hours.\n2. Running a marathon without proper training can be a painful experience for your body.\n3. The emotional pain of losing a loved one is something that stays with you for a long time.","eng":"painful"}

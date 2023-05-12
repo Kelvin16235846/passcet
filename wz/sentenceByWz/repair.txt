@@ -1,1 +1,1 @@
-{"eg":"1. I need to repair my bike because the tire is flat.2. The repairman came to fix the broken pipe in the kitchen.3. We are planning to repair the roof before the rainy season begins.","eng":"repair"}
+{"eg":"1. I need to repair my bike because the tire is flat.\n2. The repairman came to fix the broken pipe in the kitchen.\n3. We are planning to repair the roof before the rainy season begins.","eng":"repair"}

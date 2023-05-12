@@ -1,1 +1,1 @@
-{"eg":"1. I need twelve pencils to finish this art project.2. Twelve people have already RSVP'd to the party.3. My dad's car has twelve cylinders and can go really fast.","eng":"twelve"}
+{"eg":"1. I need twelve pencils to finish this art project.\n2. Twelve people have already RSVP'd to the party.\n3. My dad's car has twelve cylinders and can go really fast.","eng":"twelve"}

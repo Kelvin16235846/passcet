@@ -1,1 +1,1 @@
-{"eg":"1. \"Aim for the stars and never settle for anything less\" - Signature.2. \"Love with your heart and lead with your soul\" - Signature.3. \"Chase your dreams and make them a reality\" - Signature.","eng":"signature"}
+{"eg":"1. \"Aim for the stars and never settle for anything less\" - Signature.\n2. \"Love with your heart and lead with your soul\" - Signature.\n3. \"Chase your dreams and make them a reality\" - Signature.","eng":"signature"}

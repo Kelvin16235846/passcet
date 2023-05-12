@@ -1,1 +1,1 @@
-{"eg":"1. \"I just spilled coffee all over my new shirt. Great start to the day.\"2. \"When life gives you lemons, make lemonade... or a margarita, whichever works.\"3. \"I can't believe I fell for his lies again. I need to trust my instincts more often.\"","eng":"vine"}
+{"eg":"1. \"I just spilled coffee all over my new shirt. Great start to the day.\"\n2. \"When life gives you lemons, make lemonade... or a margarita, whichever works.\"\n3. \"I can't believe I fell for his lies again. I need to trust my instincts more often.\"","eng":"vine"}

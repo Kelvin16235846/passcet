@@ -1,1 +1,1 @@
-{"eg":"1. I'm cooking dinner for my whole family tonight.2. Would you like to go out to dinner with me this weekend?3. My favorite type of dinner is a big bowl of pasta with lots of cheese.","eng":"dinner"}
+{"eg":"1. I'm cooking dinner for my whole family tonight.\n2. Would you like to go out to dinner with me this weekend?\n3. My favorite type of dinner is a big bowl of pasta with lots of cheese.","eng":"dinner"}

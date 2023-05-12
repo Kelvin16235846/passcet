@@ -1,1 +1,1 @@
-{"eg":"1. How do you think we can solve this problem?2. How long have you been studying English?3. How did you manage to finish the project so quickly?","eng":"how"}
+{"eg":"1. How do you think we can solve this problem?\n2. How long have you been studying English?\n3. How did you manage to finish the project so quickly?","eng":"how"}

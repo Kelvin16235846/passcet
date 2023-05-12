@@ -1,1 +1,1 @@
-{"eg":"1. The sixth member of our team arrived late to the meeting.2. I was sixth in line for the new iPhone release.3. The sixth chapter of the book is the most exciting one so far.","eng":"sixth"}
+{"eg":"1. The sixth member of our team arrived late to the meeting.\n2. I was sixth in line for the new iPhone release.\n3. The sixth chapter of the book is the most exciting one so far.","eng":"sixth"}

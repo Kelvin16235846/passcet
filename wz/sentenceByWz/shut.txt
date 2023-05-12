@@ -1,1 +1,1 @@
-{"eg":"1. Can you please shut the door behind you?2. I'm sorry, but I need to shut down my computer now.3. He asked me to shut my mouth and listen to what he had to say.","eng":"shut"}
+{"eg":"1. Can you please shut the door behind you?\n2. I'm sorry, but I need to shut down my computer now.\n3. He asked me to shut my mouth and listen to what he had to say.","eng":"shut"}

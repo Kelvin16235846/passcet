@@ -1,1 +1,1 @@
-{"eg":"1. I can't believe I just saw my neighbor tumble down the stairs.2. The gymnast performed a perfect tumble during her routine.3. The toddler's first word was \"tumble,\" presumably referring to her frequent falls while learning to walk.","eng":"tumble"}
+{"eg":"1. I can't believe I just saw my neighbor tumble down the stairs.\n2. The gymnast performed a perfect tumble during her routine.\n3. The toddler's first word was \"tumble,\" presumably referring to her frequent falls while learning to walk.","eng":"tumble"}

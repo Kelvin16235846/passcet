@@ -1,1 +1,1 @@
-{"eg":"1. \"I'm getting impatient waiting for you to finish that task.\"2. \"The slow service at the restaurant made me feel impatient.\"3. \"Don't be impatient, you will get your turn to speak.\"","eng":"impatient"}
+{"eg":"1. \"I'm getting impatient waiting for you to finish that task.\"\n2. \"The slow service at the restaurant made me feel impatient.\"\n3. \"Don't be impatient, you will get your turn to speak.\"","eng":"impatient"}

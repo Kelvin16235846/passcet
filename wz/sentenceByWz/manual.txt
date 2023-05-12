@@ -1,1 +1,1 @@
-{"eg":"1. I prefer to use manual tools for woodworking rather than electric ones.2. The company provided me with a manual for the new software program.3. The manual transmission in my car allows me to have more control over my driving experience.","eng":"manual"}
+{"eg":"1. I prefer to use manual tools for woodworking rather than electric ones.\n2. The company provided me with a manual for the new software program.\n3. The manual transmission in my car allows me to have more control over my driving experience.","eng":"manual"}

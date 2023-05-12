@@ -1,1 +1,1 @@
-{"eg":"1. Madam, would you like me to bring you another cup of tea?2. Excuse me, Madam, do you have a moment to speak with me about our new products?3. The madam of the brothel greeted us with a sly smile, inviting us inside for a night of fun and debauchery.","eng":"madam"}
+{"eg":"1. Madam, would you like me to bring you another cup of tea?\n2. Excuse me, Madam, do you have a moment to speak with me about our new products?\n3. The madam of the brothel greeted us with a sly smile, inviting us inside for a night of fun and debauchery.","eng":"madam"}

@@ -1,1 +1,1 @@
-{"eg":"1. I need to fit exercise into my daily routine to stay healthy.2. The new dress looks great on you. It fits you perfectly.3. We need to find a solution that fits within our budget.","eng":"fit"}
+{"eg":"1. I need to fit exercise into my daily routine to stay healthy.\n2. The new dress looks great on you. It fits you perfectly.\n3. We need to find a solution that fits within our budget.","eng":"fit"}

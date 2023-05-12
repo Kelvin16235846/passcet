@@ -1,1 +1,1 @@
-{"eg":"1. There are 50 states in the United States.2. The Eiffel Tower in Paris stands at 324 meters tall.3. The human body contains approximately 206 bones.","eng":"number"}
+{"eg":"1. There are 50 states in the United States.\n2. The Eiffel Tower in Paris stands at 324 meters tall.\n3. The human body contains approximately 206 bones.","eng":"number"}

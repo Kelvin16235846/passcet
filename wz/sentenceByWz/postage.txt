@@ -1,1 +1,1 @@
-{"eg":"1. I need to calculate the postage for this package before sending it out.2. The postage on international mail can be quite expensive.3. Don't forget to put enough postage on your letter or it might not reach its destination.","eng":"postage"}
+{"eg":"1. I need to calculate the postage for this package before sending it out.\n2. The postage on international mail can be quite expensive.\n3. Don't forget to put enough postage on your letter or it might not reach its destination.","eng":"postage"}

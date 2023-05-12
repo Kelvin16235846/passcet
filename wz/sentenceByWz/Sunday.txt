@@ -1,1 +1,1 @@
-{"eg":"1. I always look forward to Sunday because it's my day off from work.2. Sunday morning is the perfect time for a leisurely breakfast with a cup of coffee.3. My favorite way to spend a Sunday afternoon is reading a good book on the couch.","eng":"Sunday"}
+{"eg":"1. I always look forward to Sunday because it's my day off from work.\n2. Sunday morning is the perfect time for a leisurely breakfast with a cup of coffee.\n3. My favorite way to spend a Sunday afternoon is reading a good book on the couch.","eng":"Sunday"}

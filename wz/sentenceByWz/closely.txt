@@ -1,1 +1,1 @@
-{"eg":"1. The team worked closely together to complete the project on time.2. The police are closely monitoring the situation to ensure public safety.3. The doctor advised the patient to closely follow the prescribed medication regimen.","eng":"closely"}
+{"eg":"1. The team worked closely together to complete the project on time.\n2. The police are closely monitoring the situation to ensure public safety.\n3. The doctor advised the patient to closely follow the prescribed medication regimen.","eng":"closely"}

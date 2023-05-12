@@ -1,1 +1,1 @@
-{"eg":"1. I need to mend my favorite shirt before I can wear it again.2. After the accident, the car required extensive mending in the garage.3. Can you mend the broken vase with glue or will it need professional repair?","eng":"mend"}
+{"eg":"1. I need to mend my favorite shirt before I can wear it again.\n2. After the accident, the car required extensive mending in the garage.\n3. Can you mend the broken vase with glue or will it need professional repair?","eng":"mend"}

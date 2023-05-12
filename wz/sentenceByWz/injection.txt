@@ -1,1 +1,1 @@
-{"eg":"1. She received an injection of antibiotics to treat her infection.2. The doctor administered an injection of pain medication to ease her discomfort.3. He had an allergic reaction to the injection and had to be rushed to the hospital.","eng":"injection"}
+{"eg":"1. She received an injection of antibiotics to treat her infection.\n2. The doctor administered an injection of pain medication to ease her discomfort.\n3. He had an allergic reaction to the injection and had to be rushed to the hospital.","eng":"injection"}

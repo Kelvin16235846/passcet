@@ -1,1 +1,1 @@
-{"eg":"1. Tom is celebrating his tenth birthday today.2. Sarah is ranked tenth in her class.3. The company's tenth anniversary party will be held on Friday.","eng":"tenth"}
+{"eg":"1. Tom is celebrating his tenth birthday today.\n2. Sarah is ranked tenth in her class.\n3. The company's tenth anniversary party will be held on Friday.","eng":"tenth"}

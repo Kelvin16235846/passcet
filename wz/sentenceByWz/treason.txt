@@ -1,1 +1,1 @@
-{"eg":"1. The act of treason against one's own country is considered a grave offense.2. The soldier was accused of committing treason by giving classified information to an enemy nation.3. The king executed his advisor for plotting treason against the crown.","eng":"treason"}
+{"eg":"1. The act of treason against one's own country is considered a grave offense.\n2. The soldier was accused of committing treason by giving classified information to an enemy nation.\n3. The king executed his advisor for plotting treason against the crown.","eng":"treason"}

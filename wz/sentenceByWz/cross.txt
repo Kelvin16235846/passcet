@@ -1,1 +1,1 @@
-{"eg":"1. The church in the village had a tall cross on top of its steeple.2. After the accident, the road was marked with a painted white cross.3. The game ended in a draw, with both teams failing to cross the opposing goal line.","eng":"cross"}
+{"eg":"1. The church in the village had a tall cross on top of its steeple.\n2. After the accident, the road was marked with a painted white cross.\n3. The game ended in a draw, with both teams failing to cross the opposing goal line.","eng":"cross"}

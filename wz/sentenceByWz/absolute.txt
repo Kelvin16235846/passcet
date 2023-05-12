@@ -1,1 +1,1 @@
-{"eg":"1. I have absolute confidence in my ability to complete this project on time.2. The ruler's power was absolute, and no one dared to challenge him.3. The decision to relocate the business was made with absolute certainty that it would lead to increased profits.","eng":"absolute"}
+{"eg":"1. I have absolute confidence in my ability to complete this project on time.\n2. The ruler's power was absolute, and no one dared to challenge him.\n3. The decision to relocate the business was made with absolute certainty that it would lead to increased profits.","eng":"absolute"}

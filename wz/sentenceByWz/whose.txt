@@ -1,1 +1,1 @@
-{"eg":"1. Whose car is parked in front of the house?2. I don't know whose idea it was to have a meeting at 7 am.3. The book, whose cover is torn, still contains valuable information.","eng":"whose"}
+{"eg":"1. Whose car is parked in front of the house?\n2. I don't know whose idea it was to have a meeting at 7 am.\n3. The book, whose cover is torn, still contains valuable information.","eng":"whose"}

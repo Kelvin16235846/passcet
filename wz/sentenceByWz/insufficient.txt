@@ -1,1 +1,1 @@
-{"eg":"1. The amount of food provided was insufficient to feed all of the guests.2. The evidence presented by the prosecution was insufficient to secure a conviction.3. The company's budget for employee training was deemed insufficient by its employees.","eng":"insufficient"}
+{"eg":"1. The amount of food provided was insufficient to feed all of the guests.\n2. The evidence presented by the prosecution was insufficient to secure a conviction.\n3. The company's budget for employee training was deemed insufficient by its employees.","eng":"insufficient"}

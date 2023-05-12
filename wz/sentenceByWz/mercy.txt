@@ -1,1 +1,1 @@
-{"eg":"1. Thanks to the mercy of the kind stranger, I was able to find my way home when I got lost.2. He showed mercy to his opponent by sparing his life in the duel.3. The judge granted mercy to the convicted criminal by reducing their sentence.","eng":"mercy"}
+{"eg":"1. Thanks to the mercy of the kind stranger, I was able to find my way home when I got lost.\n2. He showed mercy to his opponent by sparing his life in the duel.\n3. The judge granted mercy to the convicted criminal by reducing their sentence.","eng":"mercy"}

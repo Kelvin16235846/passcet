@@ -1,1 +1,1 @@
-{"eg":"1. She suggested meeting at a specific place in the park.2. The resort was the perfect place to relax and unwind.3. I'm still trying to find my place in this new city.","eng":"place"}
+{"eg":"1. She suggested meeting at a specific place in the park.\n2. The resort was the perfect place to relax and unwind.\n3. I'm still trying to find my place in this new city.","eng":"place"}

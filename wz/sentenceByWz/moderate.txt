@@ -1,1 +1,1 @@
-{"eg":"1. I appreciate your moderate stance on this controversial topic.2. It's important to take a moderate approach when introducing new policies to avoid drastic changes.3. She always speaks in a moderate tone, even in heated discussions.","eng":"moderate"}
+{"eg":"1. I appreciate your moderate stance on this controversial topic.\n2. It's important to take a moderate approach when introducing new policies to avoid drastic changes.\n3. She always speaks in a moderate tone, even in heated discussions.","eng":"moderate"}

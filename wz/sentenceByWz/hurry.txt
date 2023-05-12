@@ -1,1 +1,1 @@
-{"eg":"1. Hurry up, we are going to be late for the movie!2. I need you to hurry and finish your homework before dinner.3. We must hurry and catch the last train of the night.","eng":"hurry"}
+{"eg":"1. Hurry up, we are going to be late for the movie!\n2. I need you to hurry and finish your homework before dinner.\n3. We must hurry and catch the last train of the night.","eng":"hurry"}

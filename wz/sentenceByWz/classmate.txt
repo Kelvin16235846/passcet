@@ -1,1 +1,1 @@
-{"eg":"1. My classmate Sarah is always smiling and has a positive attitude towards life.2. I often study with my classmate Alex who is a genius in mathematics and science.3. My classmate David is an athlete and has won many medals in school competitions.","eng":"classmate"}
+{"eg":"1. My classmate Sarah is always smiling and has a positive attitude towards life.\n2. I often study with my classmate Alex who is a genius in mathematics and science.\n3. My classmate David is an athlete and has won many medals in school competitions.","eng":"classmate"}

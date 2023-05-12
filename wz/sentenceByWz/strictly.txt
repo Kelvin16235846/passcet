@@ -1,1 +1,1 @@
-{"eg":"1. I strictly adhere to my workout routine every morning.2. The restaurant strictly enforces a dress code for dinner reservations.3. The school has a strictly enforced policy against cheating on exams.","eng":"strictly"}
+{"eg":"1. I strictly adhere to my workout routine every morning.\n2. The restaurant strictly enforces a dress code for dinner reservations.\n3. The school has a strictly enforced policy against cheating on exams.","eng":"strictly"}

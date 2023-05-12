@@ -1,1 +1,1 @@
-{"eg":"1. Can you lend me your car for the weekend?2. I'm sorry, I can't lend you any money right now.3. She agreed to lend me her notes for the exam.","eng":"lend"}
+{"eg":"1. Can you lend me your car for the weekend?\n2. I'm sorry, I can't lend you any money right now.\n3. She agreed to lend me her notes for the exam.","eng":"lend"}

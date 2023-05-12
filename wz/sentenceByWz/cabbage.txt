@@ -1,1 +1,1 @@
-{"eg":"1. Cabbage is a nutritious vegetable that is high in fiber and vitamin C.2. I love to add shredded cabbage to my coleslaw recipe for extra crunch.3. Boiled cabbage with butter and salt is a simple but tasty side dish.","eng":"cabbage"}
+{"eg":"1. Cabbage is a nutritious vegetable that is high in fiber and vitamin C.\n2. I love to add shredded cabbage to my coleslaw recipe for extra crunch.\n3. Boiled cabbage with butter and salt is a simple but tasty side dish.","eng":"cabbage"}

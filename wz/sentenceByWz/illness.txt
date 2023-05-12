@@ -1,1 +1,1 @@
-{"eg":"1. He was absent from work due to illness for a week.2. She was diagnosed with a chronic illness last year.3. The flu outbreak caused many people to fall ill in the community.","eng":"illness"}
+{"eg":"1. He was absent from work due to illness for a week.\n2. She was diagnosed with a chronic illness last year.\n3. The flu outbreak caused many people to fall ill in the community.","eng":"illness"}

@@ -1,1 +1,1 @@
-{"eg":"1. Please remember to close the door when you leave.2. I need to close this deal before the end of the day.3. Can you close the window? It's getting quite chilly in here.","eng":"close"}
+{"eg":"1. Please remember to close the door when you leave.\n2. I need to close this deal before the end of the day.\n3. Can you close the window? It's getting quite chilly in here.","eng":"close"}

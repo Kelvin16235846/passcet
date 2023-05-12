@@ -1,1 +1,1 @@
-{"eg":"1. Surely you must have seen the news about the recent hurricane that hit the coast?2. I surely did not expect to see you here at this time of night.3. Surely we can come up with a better solution to this problem.","eng":"surely"}
+{"eg":"1. Surely you must have seen the news about the recent hurricane that hit the coast?\n2. I surely did not expect to see you here at this time of night.\n3. Surely we can come up with a better solution to this problem.","eng":"surely"}

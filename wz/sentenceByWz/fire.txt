@@ -1,1 +1,1 @@
-{"eg":"1. The fire crackled and snapped as the logs burned brightly in the chilly night.2. She quickly lit a small fire to warm up her freezing fingers and toes.3. The firefighters worked tirelessly to put out the blazing fire that threatened to engulf the entire building.","eng":"fire"}
+{"eg":"1. The fire crackled and snapped as the logs burned brightly in the chilly night.\n2. She quickly lit a small fire to warm up her freezing fingers and toes.\n3. The firefighters worked tirelessly to put out the blazing fire that threatened to engulf the entire building.","eng":"fire"}

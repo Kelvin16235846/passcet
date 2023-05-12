@@ -1,1 +1,1 @@
-{"eg":"1. I have a mild headache today.2. The weather has been quite mild this winter.3. He received a mild reprimand for being late to the meeting.","eng":"mild"}
+{"eg":"1. I have a mild headache today.\n2. The weather has been quite mild this winter.\n3. He received a mild reprimand for being late to the meeting.","eng":"mild"}

@@ -1,1 +1,1 @@
-{"eg":"1. The true identity of the masked man remains unknown.2. The contents of the package are currently unknown to me.3. The origin of the mysterious signal is still unknown to scientists.","eng":"unknown"}
+{"eg":"1. The true identity of the masked man remains unknown.\n2. The contents of the package are currently unknown to me.\n3. The origin of the mysterious signal is still unknown to scientists.","eng":"unknown"}

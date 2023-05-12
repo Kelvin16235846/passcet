@@ -1,1 +1,1 @@
-{"eg":"1. She veiled her face with a scarf to protect herself from the cold wind.2. The bride wore a veil over her face as she walked down the aisle.3. The magician used his veil of illusion to make the audience believe in magic.","eng":"veil"}
+{"eg":"1. She veiled her face with a scarf to protect herself from the cold wind.\n2. The bride wore a veil over her face as she walked down the aisle.\n3. The magician used his veil of illusion to make the audience believe in magic.","eng":"veil"}

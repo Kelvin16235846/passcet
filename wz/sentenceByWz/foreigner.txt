@@ -1,1 +1,1 @@
-{"eg":"1. As a foreigner, I often feel out of place in this new environment.2. The restaurant had a special menu for foreigners who wanted to try local cuisine.3. Despite being a foreigner, she quickly adapted to the culture and made many local friends.","eng":"foreigner"}
+{"eg":"1. As a foreigner, I often feel out of place in this new environment.\n2. The restaurant had a special menu for foreigners who wanted to try local cuisine.\n3. Despite being a foreigner, she quickly adapted to the culture and made many local friends.","eng":"foreigner"}

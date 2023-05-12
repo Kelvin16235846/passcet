@@ -1,1 +1,1 @@
-{"eg":"1. He had to exert all his strength to lift the heavy box.2. She exerted her influence to persuade him to change his mind.3. The athlete needed to exert herself during training in order to achieve her goal.","eng":"exert"}
+{"eg":"1. He had to exert all his strength to lift the heavy box.\n2. She exerted her influence to persuade him to change his mind.\n3. The athlete needed to exert herself during training in order to achieve her goal.","eng":"exert"}

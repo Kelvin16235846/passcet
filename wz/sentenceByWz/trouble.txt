@@ -1,1 +1,1 @@
-{"eg":"1. I had trouble finding my keys this morning.2. She's been having trouble sleeping lately.3. The company is experiencing financial trouble and may have to lay off employees.","eng":"trouble"}
+{"eg":"1. I had trouble finding my keys this morning.\n2. She's been having trouble sleeping lately.\n3. The company is experiencing financial trouble and may have to lay off employees.","eng":"trouble"}

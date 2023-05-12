@@ -1,1 +1,1 @@
-{"eg":"1. She had a lovely smile that lit up the room.2. The garden was filled with lovely flowers of all colors.3. He wrote her a lovely note, expressing his affection and appreciation.","eng":"lovely"}
+{"eg":"1. She had a lovely smile that lit up the room.\n2. The garden was filled with lovely flowers of all colors.\n3. He wrote her a lovely note, expressing his affection and appreciation.","eng":"lovely"}

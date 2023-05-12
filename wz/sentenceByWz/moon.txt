@@ -1,1 +1,1 @@
-{"eg":"1. The full moon shone brightly in the night sky.2. The astronaut gazed out at the barren surface of the moon.3. The werewolf transformed under the light of the full moon.","eng":"moon"}
+{"eg":"1. The full moon shone brightly in the night sky.\n2. The astronaut gazed out at the barren surface of the moon.\n3. The werewolf transformed under the light of the full moon.","eng":"moon"}

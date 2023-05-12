@@ -1,1 +1,1 @@
-{"eg":"1. With a background in finance, she was able to excel in her role as a financial analyst.2. The painting's background adds depth and dimension to the artwork.3. His criminal background prevented him from being hired for certain jobs.","eng":"background"}
+{"eg":"1. With a background in finance, she was able to excel in her role as a financial analyst.\n2. The painting's background adds depth and dimension to the artwork.\n3. His criminal background prevented him from being hired for certain jobs.","eng":"background"}

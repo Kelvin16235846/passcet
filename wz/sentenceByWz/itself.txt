@@ -1,1 +1,1 @@
-{"eg":"1. The technology has improved to the extent that it can now repair itself.2. The plant has a unique ability to fertilize itself and doesn't require any external help.3. The software program is designed to defend itself against any cyber attack or virus.","eng":"itself"}
+{"eg":"1. The technology has improved to the extent that it can now repair itself.\n2. The plant has a unique ability to fertilize itself and doesn't require any external help.\n3. The software program is designed to defend itself against any cyber attack or virus.","eng":"itself"}

@@ -1,1 +1,1 @@
-{"eg":"1. I always try to listen carefully when someone is talking to me.2. Can you listen to this song and tell me what you think of it?3. It's important to listen to your body and rest when you feel tired.","eng":"listen"}
+{"eg":"1. I always try to listen carefully when someone is talking to me.\n2. Can you listen to this song and tell me what you think of it?\n3. It's important to listen to your body and rest when you feel tired.","eng":"listen"}

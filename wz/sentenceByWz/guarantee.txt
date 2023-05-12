@@ -1,1 +1,1 @@
-{"eg":"1. Our company provides a 100% satisfaction guarantee for all of our products.2. The manufacturer gives a lifetime guarantee on the durability of this product.3. I can personally guarantee you that this is the best deal you'll find anywhere.","eng":"guarantee"}
+{"eg":"1. Our company provides a 100% satisfaction guarantee for all of our products.\n2. The manufacturer gives a lifetime guarantee on the durability of this product.\n3. I can personally guarantee you that this is the best deal you'll find anywhere.","eng":"guarantee"}

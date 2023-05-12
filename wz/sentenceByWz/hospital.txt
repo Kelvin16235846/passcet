@@ -1,1 +1,1 @@
-{"eg":"1. I need to go to the hospital because I'm feeling very sick.2. When I broke my arm, I had to go to the hospital to get it checked out.3. The hospital staff were very kind and helpful when my grandmother was hospitalized.","eng":"hospital"}
+{"eg":"1. I need to go to the hospital because I'm feeling very sick.\n2. When I broke my arm, I had to go to the hospital to get it checked out.\n3. The hospital staff were very kind and helpful when my grandmother was hospitalized.","eng":"hospital"}

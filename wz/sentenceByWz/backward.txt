@@ -1,1 +1,1 @@
-{"eg":"1. I walked backwards down the hallway, feeling like I was stuck in a strange dream.2. She stumbled backwards as the gust of wind knocked her off balance.3. As I watched the video in reverse, I couldn't help but feel fascinated by how everything moved backward.","eng":"backward"}
+{"eg":"1. I walked backwards down the hallway, feeling like I was stuck in a strange dream.\n2. She stumbled backwards as the gust of wind knocked her off balance.\n3. As I watched the video in reverse, I couldn't help but feel fascinated by how everything moved backward.","eng":"backward"}

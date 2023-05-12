@@ -1,1 +1,1 @@
-{"eg":"1. Peas are a great source of protein and fiber, making them a healthy addition to any meal.2. I love snacking on sugar snap peas - they're the perfect combination of sweet and crunchy.3. Pea soup is a classic comfort food, especially on a cold winter day.","eng":"pea"}
+{"eg":"1. Peas are a great source of protein and fiber, making them a healthy addition to any meal.\n2. I love snacking on sugar snap peas - they're the perfect combination of sweet and crunchy.\n3. Pea soup is a classic comfort food, especially on a cold winter day.","eng":"pea"}

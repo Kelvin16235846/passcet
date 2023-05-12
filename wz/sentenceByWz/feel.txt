@@ -1,1 +1,1 @@
-{"eg":"1. I feel so happy when I am surrounded by my friends and family.2. She made me feel welcome in her home by preparing a delicious meal.3. Even though it was raining outside, the cozy atmosphere of the coffee shop made me feel relaxed and content.","eng":"feel"}
+{"eg":"1. I feel so happy when I am surrounded by my friends and family.\n2. She made me feel welcome in her home by preparing a delicious meal.\n3. Even though it was raining outside, the cozy atmosphere of the coffee shop made me feel relaxed and content.","eng":"feel"}

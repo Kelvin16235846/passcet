@@ -1,1 +1,1 @@
-{"eg":"1. She is a capable leader who can manage a team effectively.2. The new trainee has proven to be quite capable of handling complex tasks.3. Despite his young age, the boy is very capable in math and science.","eng":"capable"}
+{"eg":"1. She is a capable leader who can manage a team effectively.\n2. The new trainee has proven to be quite capable of handling complex tasks.\n3. Despite his young age, the boy is very capable in math and science.","eng":"capable"}

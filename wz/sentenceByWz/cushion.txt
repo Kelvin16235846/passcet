@@ -1,1 +1,1 @@
-{"eg":"1. She sat on the cushion and watched the sunset.2. The couch needed a cushion to make it more comfortable.3. The cushioned sole of my running shoes helps absorb shock while I exercise.","eng":"cushion"}
+{"eg":"1. She sat on the cushion and watched the sunset.\n2. The couch needed a cushion to make it more comfortable.\n3. The cushioned sole of my running shoes helps absorb shock while I exercise.","eng":"cushion"}

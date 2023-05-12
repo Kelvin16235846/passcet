@@ -1,1 +1,1 @@
-{"eg":"1. I used a slide to quickly present my ideas to the team.2. The children were excited to ride down the slide at the park.3. The presenter added a few slides to enhance the visual appeal of the presentation.","eng":"slide"}
+{"eg":"1. I used a slide to quickly present my ideas to the team.\n2. The children were excited to ride down the slide at the park.\n3. The presenter added a few slides to enhance the visual appeal of the presentation.","eng":"slide"}

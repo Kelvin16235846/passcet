@@ -1,1 +1,1 @@
-{"eg":"1. The quantity of books in the library has increased significantly over the past year.2. Delivery of the product will depend on the quantity ordered.3. The recipe calls for a precise quantity of sugar in order to achieve the desired taste.","eng":"quantity"}
+{"eg":"1. The quantity of books in the library has increased significantly over the past year.\n2. Delivery of the product will depend on the quantity ordered.\n3. The recipe calls for a precise quantity of sugar in order to achieve the desired taste.","eng":"quantity"}

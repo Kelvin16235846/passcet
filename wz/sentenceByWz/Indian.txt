@@ -1,1 +1,1 @@
-{"eg":"1. Indian cuisine is known for its rich and complex flavors.2. The traditional Indian attire, such as the saree and salwar kameez, is colorful and elegant.3. Indian classical music has a unique sound that is based on intricate rhythms and melodic structures.","eng":"Indian"}
+{"eg":"1. Indian cuisine is known for its rich and complex flavors.\n2. The traditional Indian attire, such as the saree and salwar kameez, is colorful and elegant.\n3. Indian classical music has a unique sound that is based on intricate rhythms and melodic structures.","eng":"Indian"}

@@ -1,1 +1,1 @@
-{"eg":"1. My nephew loves playing with his toy cars and trucks.2. When my nephew comes over, we always have a great time playing board games together.3. Last weekend, I took my nephew to the park and we flew a kite for the first time.","eng":"nephew"}
+{"eg":"1. My nephew loves playing with his toy cars and trucks.\n2. When my nephew comes over, we always have a great time playing board games together.\n3. Last weekend, I took my nephew to the park and we flew a kite for the first time.","eng":"nephew"}

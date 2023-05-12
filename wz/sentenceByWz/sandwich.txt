@@ -1,1 +1,1 @@
-{"eg":"1. I usually have a sandwich for lunch with some chips and a soda.2. I made a delicious sandwich with turkey, lettuce, tomato and mayo for my picnic.3. My favorite sandwich is a classic BLT with extra bacon and avocado.","eng":"sandwich"}
+{"eg":"1. I usually have a sandwich for lunch with some chips and a soda.\n2. I made a delicious sandwich with turkey, lettuce, tomato and mayo for my picnic.\n3. My favorite sandwich is a classic BLT with extra bacon and avocado.","eng":"sandwich"}

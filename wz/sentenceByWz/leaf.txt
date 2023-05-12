@@ -1,1 +1,1 @@
-{"eg":"1. The leaves rustled softly in the breeze.2. She pressed a few leaves between the pages of her diary.3. The autumn leaves were ablaze with vibrant shades of red and orange.","eng":"leaf"}
+{"eg":"1. The leaves rustled softly in the breeze.\n2. She pressed a few leaves between the pages of her diary.\n3. The autumn leaves were ablaze with vibrant shades of red and orange.","eng":"leaf"}

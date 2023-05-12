@@ -1,1 +1,1 @@
-{"eg":"1. I had to undo all the sewing I had done because I made a mistake.2. He tried to undo the knot on the rope, but it was too tight.3. Can you please undo the clasp on my necklace?","eng":"undo"}
+{"eg":"1. I had to undo all the sewing I had done because I made a mistake.\n2. He tried to undo the knot on the rope, but it was too tight.\n3. Can you please undo the clasp on my necklace?","eng":"undo"}

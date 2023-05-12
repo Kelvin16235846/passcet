@@ -1,1 +1,1 @@
-{"eg":"1. I like to dip my chicken nuggets in barbecue sauce.2. The spaghetti tasted bland, so I added more tomato sauce.3. Hot sauce is too spicy for me, but my brother douses everything in it.","eng":"sauce"}
+{"eg":"1. I like to dip my chicken nuggets in barbecue sauce.\n2. The spaghetti tasted bland, so I added more tomato sauce.\n3. Hot sauce is too spicy for me, but my brother douses everything in it.","eng":"sauce"}

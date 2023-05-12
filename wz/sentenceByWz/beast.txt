@@ -1,1 +1,1 @@
-{"eg":"1. The beast lurking in the shadows sent shivers down my spine.2. As the beast roared, the ground trembled beneath our feet.3. The villagers lived in constant fear of the beast, never daring to venture too far from their homes.","eng":"beast"}
+{"eg":"1. The beast lurking in the shadows sent shivers down my spine.\n2. As the beast roared, the ground trembled beneath our feet.\n3. The villagers lived in constant fear of the beast, never daring to venture too far from their homes.","eng":"beast"}

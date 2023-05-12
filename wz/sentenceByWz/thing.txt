@@ -1,1 +1,1 @@
-{"eg":"1. I have a favorite thing to do on a lazy Sunday - binge-watching my favorite TV show.2. The one thing I can't live without is my phone.3. My sister has a thing for collecting vintage jewelry.","eng":"thing"}
+{"eg":"1. I have a favorite thing to do on a lazy Sunday - binge-watching my favorite TV show.\n2. The one thing I can't live without is my phone.\n3. My sister has a thing for collecting vintage jewelry.","eng":"thing"}

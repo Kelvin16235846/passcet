@@ -1,1 +1,1 @@
-{"eg":"1. I love spending time in the kitchen, experimenting with new recipes.2. The kitchen was crowded with family members preparing a meal for the holiday.3. He accidentally dropped the glass and it shattered all over the kitchen floor.","eng":"kitchen"}
+{"eg":"1. I love spending time in the kitchen, experimenting with new recipes.\n2. The kitchen was crowded with family members preparing a meal for the holiday.\n3. He accidentally dropped the glass and it shattered all over the kitchen floor.","eng":"kitchen"}

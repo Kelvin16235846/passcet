@@ -1,1 +1,1 @@
-{"eg":"1. The vapour rises from the hot water in the kettle.2. The dense vapour in the forest added an eerie atmosphere.3. The cigarette vapour wafted through the air, causing discomfort for non-smokers.","eng":"vapour"}
+{"eg":"1. The vapour rises from the hot water in the kettle.\n2. The dense vapour in the forest added an eerie atmosphere.\n3. The cigarette vapour wafted through the air, causing discomfort for non-smokers.","eng":"vapour"}

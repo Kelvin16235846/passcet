@@ -1,1 +1,1 @@
-{"eg":"1. She is a generous friend who is always willing to help those in need.2. The generous donation from the local community helped fund the construction of a new community center.3. We appreciate his generous offer to pay for our dinner, it was very kind of him.","eng":"generous"}
+{"eg":"1. She is a generous friend who is always willing to help those in need.\n2. The generous donation from the local community helped fund the construction of a new community center.\n3. We appreciate his generous offer to pay for our dinner, it was very kind of him.","eng":"generous"}

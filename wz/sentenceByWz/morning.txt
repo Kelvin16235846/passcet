@@ -1,1 +1,1 @@
-{"eg":"1. I always start my morning with a cup of coffee.2. The morning dew covered the grass, making it feel fresh and cool.3. The sound of birds chirping in the morning brings a sense of peace and tranquility.","eng":"morning"}
+{"eg":"1. I always start my morning with a cup of coffee.\n2. The morning dew covered the grass, making it feel fresh and cool.\n3. The sound of birds chirping in the morning brings a sense of peace and tranquility.","eng":"morning"}

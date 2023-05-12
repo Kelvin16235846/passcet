@@ -1,1 +1,1 @@
-{"eg":"1. I am an AI language model.2. She is a doctor who works in a hospital.3. They are students studying at a university.","eng":"be"}
+{"eg":"1. I am an AI language model.\n2. She is a doctor who works in a hospital.\n3. They are students studying at a university.","eng":"be"}

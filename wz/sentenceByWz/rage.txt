@@ -1,1 +1,1 @@
-{"eg":"1. I am absolutely raging over the terrible customer service I received today.2. His rude comment sent me into a rage and I couldn't control my temper.3. It's infuriating to see the government's lack of action on important issues, it makes me rage with anger.","eng":"rage"}
+{"eg":"1. I am absolutely raging over the terrible customer service I received today.\n2. His rude comment sent me into a rage and I couldn't control my temper.\n3. It's infuriating to see the government's lack of action on important issues, it makes me rage with anger.","eng":"rage"}

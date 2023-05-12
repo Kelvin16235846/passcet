@@ -1,1 +1,1 @@
-{"eg":"1. She was lost in thought, completely engrossed in her work.2. The cat was curled up in the sunbeam, basking in the warmth.3. He was caught in a dilemma, unable to decide his next course of action.","eng":"in"}
+{"eg":"1. She was lost in thought, completely engrossed in her work.\n2. The cat was curled up in the sunbeam, basking in the warmth.\n3. He was caught in a dilemma, unable to decide his next course of action.","eng":"in"}

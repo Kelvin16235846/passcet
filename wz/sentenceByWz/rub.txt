@@ -1,1 +1,1 @@
-{"eg":"1. Rubbing the lamp, the genie appeared and granted him three wishes.2. The athlete rubbed his sore muscles after the intense workout.3. She rubbed her hands together to warm them up in the icy cold weather.","eng":"rub"}
+{"eg":"1. Rubbing the lamp, the genie appeared and granted him three wishes.\n2. The athlete rubbed his sore muscles after the intense workout.\n3. She rubbed her hands together to warm them up in the icy cold weather.","eng":"rub"}

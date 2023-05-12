@@ -1,1 +1,1 @@
-{"eg":"1. There is plenty of food for everyone at the party.2. We don't need to rush, there is plenty of time to finish the project.3. She has plenty of experience in this field and would make an excellent candidate for the job.","eng":"plenty"}
+{"eg":"1. There is plenty of food for everyone at the party.\n2. We don't need to rush, there is plenty of time to finish the project.\n3. She has plenty of experience in this field and would make an excellent candidate for the job.","eng":"plenty"}

@@ -1,1 +1,1 @@
-{"eg":"1. Don't blame me for your mistakes, you should have been more careful!2. I can't believe you're trying to blame me for your own laziness.3. It's not fair to blame the team for the loss when the coach made questionable decisions.","eng":"blame"}
+{"eg":"1. Don't blame me for your mistakes, you should have been more careful!\n2. I can't believe you're trying to blame me for your own laziness.\n3. It's not fair to blame the team for the loss when the coach made questionable decisions.","eng":"blame"}

@@ -1,1 +1,1 @@
-{"eg":"1. I have decided to quit my job and pursue a new career.2. After years of smoking, I finally decided to quit for the sake of my health.3. Despite my love for sweets, I am trying to quit sugar in order to maintain a healthier lifestyle.","eng":"quit"}
+{"eg":"1. I have decided to quit my job and pursue a new career.\n2. After years of smoking, I finally decided to quit for the sake of my health.\n3. Despite my love for sweets, I am trying to quit sugar in order to maintain a healthier lifestyle.","eng":"quit"}

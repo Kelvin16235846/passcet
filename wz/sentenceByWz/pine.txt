@@ -1,1 +1,1 @@
-{"eg":"1. I love the fresh scent of pine trees in the forest.2. The woodsy aroma of pine-scented candles fills my home with warmth and comfort.3. The pine cone ornaments on my Christmas tree add a rustic touch to the holiday decorations.","eng":"pine"}
+{"eg":"1. I love the fresh scent of pine trees in the forest.\n2. The woodsy aroma of pine-scented candles fills my home with warmth and comfort.\n3. The pine cone ornaments on my Christmas tree add a rustic touch to the holiday decorations.","eng":"pine"}

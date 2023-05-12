@@ -1,1 +1,1 @@
-{"eg":"1. Could you please squeeze the toothpaste from the bottom of the tube instead of the middle?2. The crowd was so tightly packed together that I could barely squeeze through.3. She tried to squeeze in a quick workout before her morning meeting.","eng":"squeeze"}
+{"eg":"1. Could you please squeeze the toothpaste from the bottom of the tube instead of the middle?\n2. The crowd was so tightly packed together that I could barely squeeze through.\n3. She tried to squeeze in a quick workout before her morning meeting.","eng":"squeeze"}

@@ -1,1 +1,1 @@
-{"eg":"1. I need to sweep the floor before the guests arrive.2. She swept her hair back into a ponytail.3. The hurricane swept through the town, leaving destruction in its path.","eng":"sweep"}
+{"eg":"1. I need to sweep the floor before the guests arrive.\n2. She swept her hair back into a ponytail.\n3. The hurricane swept through the town, leaving destruction in its path.","eng":"sweep"}

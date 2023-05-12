@@ -1,1 +1,1 @@
-{"eg":"1. The stability of the economy is of utmost importance for the welfare of the country's citizens.2. His emotional stability was put to the test after he lost his job.3. The structural stability of the building was called into question after the earthquake.","eng":"stability"}
+{"eg":"1. The stability of the economy is of utmost importance for the welfare of the country's citizens.\n2. His emotional stability was put to the test after he lost his job.\n3. The structural stability of the building was called into question after the earthquake.","eng":"stability"}

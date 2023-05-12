@@ -1,1 +1,1 @@
-{"eg":"1. She had a large bruise on her leg from falling down the stairs.2. The basketball player had a bruise on his arm from colliding with another player.3. After the car accident, he had multiple bruises all over his body.","eng":"bruise"}
+{"eg":"1. She had a large bruise on her leg from falling down the stairs.\n2. The basketball player had a bruise on his arm from colliding with another player.\n3. After the car accident, he had multiple bruises all over his body.","eng":"bruise"}

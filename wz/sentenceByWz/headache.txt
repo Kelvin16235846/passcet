@@ -1,1 +1,1 @@
-{"eg":"1. I have a terrible headache after staying up late to finish my project.2. She experiences headaches frequently due to her sinus problems.3. He took a painkiller to alleviate his headache before heading to work.","eng":"headache"}
+{"eg":"1. I have a terrible headache after staying up late to finish my project.\n2. She experiences headaches frequently due to her sinus problems.\n3. He took a painkiller to alleviate his headache before heading to work.","eng":"headache"}

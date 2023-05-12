@@ -1,1 +1,1 @@
-{"eg":"1. I need to pick out a new shirt for the party tonight.2. Can you help me pick some fresh vegetables from the garden?3. Let's pick a movie to watch together.","eng":"pick"}
+{"eg":"1. I need to pick out a new shirt for the party tonight.\n2. Can you help me pick some fresh vegetables from the garden?\n3. Let's pick a movie to watch together.","eng":"pick"}

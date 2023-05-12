@@ -1,1 +1,1 @@
-{"eg":"1. He made a gesture of apology for his mistake.2. She greeted her friend with a warm hug and a gesture of friendship.3. The football player celebrated his goal with a triumphant gesture towards the crowd.","eng":"gesture"}
+{"eg":"1. He made a gesture of apology for his mistake.\n2. She greeted her friend with a warm hug and a gesture of friendship.\n3. The football player celebrated his goal with a triumphant gesture towards the crowd.","eng":"gesture"}

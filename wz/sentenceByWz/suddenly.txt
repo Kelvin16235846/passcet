@@ -1,1 +1,1 @@
-{"eg":"1. Suddenly, a loud bang interrupted our conversation.2. The plane hit turbulence suddenly, causing many passengers to scream.3. The weather turned bad suddenly, and we had to seek shelter.","eng":"suddenly"}
+{"eg":"1. Suddenly, a loud bang interrupted our conversation.\n2. The plane hit turbulence suddenly, causing many passengers to scream.\n3. The weather turned bad suddenly, and we had to seek shelter.","eng":"suddenly"}

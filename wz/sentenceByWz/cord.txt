@@ -1,1 +1,1 @@
-{"eg":"1. The cord of the guitar snapped during his performance, leaving him unable to play.2. She used the cord to tie up the bundle of sticks before heading out on her hike.3. The electrician carefully connected the cord to the wall socket to avoid any potential hazards.","eng":"cord"}
+{"eg":"1. The cord of the guitar snapped during his performance, leaving him unable to play.\n2. She used the cord to tie up the bundle of sticks before heading out on her hike.\n3. The electrician carefully connected the cord to the wall socket to avoid any potential hazards.","eng":"cord"}

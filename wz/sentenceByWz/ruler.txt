@@ -1,1 +1,1 @@
-{"eg":"1. She measured the length of the table with a ruler.2. The ruler was made of plastic and had both metric and imperial measurements.3. He used a ruler to draw a straight line on the paper.","eng":"ruler"}
+{"eg":"1. She measured the length of the table with a ruler.\n2. The ruler was made of plastic and had both metric and imperial measurements.\n3. He used a ruler to draw a straight line on the paper.","eng":"ruler"}

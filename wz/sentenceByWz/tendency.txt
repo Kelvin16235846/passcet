@@ -1,1 +1,1 @@
-{"eg":"1. His tendency to procrastinate often leads to missed deadlines.2. She has a tendency to get lost when driving to unfamiliar places.3. The company's tendency to prioritize profit over ethical considerations has caused controversy among consumers.","eng":"tendency"}
+{"eg":"1. His tendency to procrastinate often leads to missed deadlines.\n2. She has a tendency to get lost when driving to unfamiliar places.\n3. The company's tendency to prioritize profit over ethical considerations has caused controversy among consumers.","eng":"tendency"}

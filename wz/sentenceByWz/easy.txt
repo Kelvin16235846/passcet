@@ -1,1 +1,1 @@
-{"eg":"1. Learning a new language is easy when you have a good teacher.2. My mom's recipe for chili is easy to make and always turns out great.3. The math problem was so easy that I solved it in a matter of seconds.","eng":"easy"}
+{"eg":"1. Learning a new language is easy when you have a good teacher.\n2. My mom's recipe for chili is easy to make and always turns out great.\n3. The math problem was so easy that I solved it in a matter of seconds.","eng":"easy"}

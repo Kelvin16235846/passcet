@@ -1,1 +1,1 @@
-{"eg":"1. I had to use the break pedal to avoid hitting the car in front of me.2. After working for six hours straight, I decided to take a quick break and stretch my legs.3. The teacher told us we could have a 10-minute break before continuing with the lesson.","eng":"break"}
+{"eg":"1. I had to use the break pedal to avoid hitting the car in front of me.\n2. After working for six hours straight, I decided to take a quick break and stretch my legs.\n3. The teacher told us we could have a 10-minute break before continuing with the lesson.","eng":"break"}

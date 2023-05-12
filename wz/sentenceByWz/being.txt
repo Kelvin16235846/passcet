@@ -1,1 +1,1 @@
-{"eg":"1. Being confident is important when giving a presentation.2. Being a good listener is an important quality to have in any relationship.3. Being punctual shows respect for other people's time.","eng":"being"}
+{"eg":"1. Being confident is important when giving a presentation.\n2. Being a good listener is an important quality to have in any relationship.\n3. Being punctual shows respect for other people's time.","eng":"being"}

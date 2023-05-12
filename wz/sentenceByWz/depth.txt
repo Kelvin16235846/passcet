@@ -1,1 +1,1 @@
-{"eg":"1. The depth of her emotions was evident in the way she spoke.2. The diver went down to a depth of 50 meters to explore the reef.3. The depth of knowledge required for this job is quite extensive.","eng":"depth"}
+{"eg":"1. The depth of her emotions was evident in the way she spoke.\n2. The diver went down to a depth of 50 meters to explore the reef.\n3. The depth of knowledge required for this job is quite extensive.","eng":"depth"}

@@ -1,1 +1,1 @@
-{"eg":"1. With every breeze, the leaves dance away, a joyful sway of nature's own ballet.2. The moonlit sky, a canvas of dreams, where stars and clouds play endless themes.3. The sun rises with a golden glow, embracing the world with its warmest hello.","eng":"poet"}
+{"eg":"1. With every breeze, the leaves dance away, a joyful sway of nature's own ballet.\n2. The moonlit sky, a canvas of dreams, where stars and clouds play endless themes.\n3. The sun rises with a golden glow, embracing the world with its warmest hello.","eng":"poet"}

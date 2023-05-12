@@ -1,1 +1,1 @@
-{"eg":"1. I traveled to Paris via a connecting flight in Amsterdam.2. Our internet connection was down, so I sent the report to my boss via email on my phone.3. I learned about the news via social media before it was broadcasted on television.","eng":"via"}
+{"eg":"1. I traveled to Paris via a connecting flight in Amsterdam.\n2. Our internet connection was down, so I sent the report to my boss via email on my phone.\n3. I learned about the news via social media before it was broadcasted on television.","eng":"via"}

@@ -1,1 +1,1 @@
-{"eg":"1. My final decision is that I will take the job offer.2. It's the final countdown before our trip to Paris.3. I hope this is the final time I have to remind you to clean your room.","eng":"final"}
+{"eg":"1. My final decision is that I will take the job offer.\n2. It's the final countdown before our trip to Paris.\n3. I hope this is the final time I have to remind you to clean your room.","eng":"final"}

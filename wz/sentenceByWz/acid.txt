@@ -1,1 +1,1 @@
-{"eg":"1. The acid in my stomach is making me feel sick.2. It is important to use acid-free paper for archival purposes.3. Some people use acid to clean their pipes, but it can be dangerous if not used correctly.","eng":"acid"}
+{"eg":"1. The acid in my stomach is making me feel sick.\n2. It is important to use acid-free paper for archival purposes.\n3. Some people use acid to clean their pipes, but it can be dangerous if not used correctly.","eng":"acid"}

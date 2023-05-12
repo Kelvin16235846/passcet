@@ -1,1 +1,1 @@
-{"eg":"1. I can see through his deception and know that he is lying.2. We walked through the forest and enjoyed the beauty of nature.3. She read through the entire book and found it to be very interesting.","eng":"through"}
+{"eg":"1. I can see through his deception and know that he is lying.\n2. We walked through the forest and enjoyed the beauty of nature.\n3. She read through the entire book and found it to be very interesting.","eng":"through"}

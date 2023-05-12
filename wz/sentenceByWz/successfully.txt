@@ -1,1 +1,1 @@
-{"eg":"1. He successfully completed his project before the deadline.2. She successfully passed the driving test on her first attempt.3. The company was able to successfully increase their sales by 20% in the last quarter.","eng":"successfully"}
+{"eg":"1. He successfully completed his project before the deadline.\n2. She successfully passed the driving test on her first attempt.\n3. The company was able to successfully increase their sales by 20% in the last quarter.","eng":"successfully"}

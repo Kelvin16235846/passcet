@@ -1,1 +1,1 @@
-{"eg":"1. I substituted my usual coffee with green tea for a change.2. The injured player was substituted in the second half of the game.3. We couldn't find any fresh parsley, so we had to substitute with dried parsley.","eng":"substitute"}
+{"eg":"1. I substituted my usual coffee with green tea for a change.\n2. The injured player was substituted in the second half of the game.\n3. We couldn't find any fresh parsley, so we had to substitute with dried parsley.","eng":"substitute"}

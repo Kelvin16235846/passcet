@@ -1,1 +1,1 @@
-{"eg":"1. I scanned the crowd for my friend, but I couldn't spot her anywhere.2. She quickly scanned the recipe, gathering all the necessary ingredients.3. The security guard scanned my ID card before allowing me to enter the building.","eng":"scan"}
+{"eg":"1. I scanned the crowd for my friend, but I couldn't spot her anywhere.\n2. She quickly scanned the recipe, gathering all the necessary ingredients.\n3. The security guard scanned my ID card before allowing me to enter the building.","eng":"scan"}

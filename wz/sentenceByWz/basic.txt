@@ -1,1 +1,1 @@
-{"eg":"1. I like to read books in my free time.2. She enjoys playing basketball after school.3. The cat jumped onto the table and knocked over a vase.","eng":"basic"}
+{"eg":"1. I like to read books in my free time.\n2. She enjoys playing basketball after school.\n3. The cat jumped onto the table and knocked over a vase.","eng":"basic"}

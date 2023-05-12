@@ -1,1 +1,1 @@
-{"eg":"1. I have a lot of work to do.2. She has a beautiful voice when she sings.3. They have been married for 10 years.","eng":"have"}
+{"eg":"1. I have a lot of work to do.\n2. She has a beautiful voice when she sings.\n3. They have been married for 10 years.","eng":"have"}

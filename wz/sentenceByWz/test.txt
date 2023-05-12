@@ -1,1 +1,1 @@
-{"eg":"1. I have to study hard for my upcoming test.2. The test results were better than I expected.3. She aced the math test with flying colors.","eng":"test"}
+{"eg":"1. I have to study hard for my upcoming test.\n2. The test results were better than I expected.\n3. She aced the math test with flying colors.","eng":"test"}

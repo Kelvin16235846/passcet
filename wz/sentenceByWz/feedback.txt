@@ -1,1 +1,1 @@
-{"eg":"1. Your feedback is greatly appreciated and will help us improve our service.2. Please provide us with your feedback so we can better meet your needs.3. We value your feedback and strive to use it to make continuous improvements to our product.","eng":"feedback"}
+{"eg":"1. Your feedback is greatly appreciated and will help us improve our service.\n2. Please provide us with your feedback so we can better meet your needs.\n3. We value your feedback and strive to use it to make continuous improvements to our product.","eng":"feedback"}

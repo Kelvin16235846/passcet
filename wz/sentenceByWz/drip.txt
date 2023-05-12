@@ -1,1 +1,1 @@
-{"eg":"1. The faucet was broken and caused a constant drip, driving me crazy.2. The rain continued to drip down the windowpanes, creating a soothing sound.3. I could hear the old leaky teapot drip onto the stove as I sipped my tea in the morning.","eng":"drip"}
+{"eg":"1. The faucet was broken and caused a constant drip, driving me crazy.\n2. The rain continued to drip down the windowpanes, creating a soothing sound.\n3. I could hear the old leaky teapot drip onto the stove as I sipped my tea in the morning.","eng":"drip"}

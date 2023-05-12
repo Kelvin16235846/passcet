@@ -1,1 +1,1 @@
-{"eg":"1. I am pleased to accept your invitation to the gala dinner next month.2. Our company has decided to accept the proposal put forward by your team.3. Despite my hesitation at first, I have come to accept the changes that have been made to the project plan.","eng":"accept"}
+{"eg":"1. I am pleased to accept your invitation to the gala dinner next month.\n2. Our company has decided to accept the proposal put forward by your team.\n3. Despite my hesitation at first, I have come to accept the changes that have been made to the project plan.","eng":"accept"}

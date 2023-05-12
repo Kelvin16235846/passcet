@@ -1,1 +1,1 @@
-{"eg":"1. He faced his problems outwards instead of bottling them up inside.2. The tree branches extended outwards, reaching towards the sky.3. Her generosity and kind-heartedness radiated outwards, touching the lives of everyone around her.","eng":"outwards"}
+{"eg":"1. He faced his problems outwards instead of bottling them up inside.\n2. The tree branches extended outwards, reaching towards the sky.\n3. Her generosity and kind-heartedness radiated outwards, touching the lives of everyone around her.","eng":"outwards"}

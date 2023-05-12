@@ -1,1 +1,1 @@
-{"eg":"1. The sun's glare was so intense, it made it difficult to see the road ahead.2. She shielded her eyes from the glare of the car headlights coming towards her.3. The glare from the computer screen was causing eye strain and headaches.","eng":"glare"}
+{"eg":"1. The sun's glare was so intense, it made it difficult to see the road ahead.\n2. She shielded her eyes from the glare of the car headlights coming towards her.\n3. The glare from the computer screen was causing eye strain and headaches.","eng":"glare"}

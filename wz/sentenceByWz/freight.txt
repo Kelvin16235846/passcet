@@ -1,1 +1,1 @@
-{"eg":"1. The freight ships were docked at the port, waiting to be unloaded.2. The company offers affordable freight services for both domestic and international shipments.3. The trucking industry plays a vital role in the transportation of freight across the country.","eng":"freight"}
+{"eg":"1. The freight ships were docked at the port, waiting to be unloaded.\n2. The company offers affordable freight services for both domestic and international shipments.\n3. The trucking industry plays a vital role in the transportation of freight across the country.","eng":"freight"}

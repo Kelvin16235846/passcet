@@ -1,1 +1,1 @@
-{"eg":"1. The synthetic leather jacket looked just like the real thing.2. The scientist created a synthetic version of the virus for research purposes.3. The company switched to using synthetic materials in their products to be more environmentally friendly.","eng":"synthetic"}
+{"eg":"1. The synthetic leather jacket looked just like the real thing.\n2. The scientist created a synthetic version of the virus for research purposes.\n3. The company switched to using synthetic materials in their products to be more environmentally friendly.","eng":"synthetic"}

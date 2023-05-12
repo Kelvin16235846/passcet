@@ -1,1 +1,1 @@
-{"eg":"1. I accuse you of stealing my wallet.2. The police accused him of committing the crime.3. She accused her coworker of spreading rumors about her.","eng":"accuse"}
+{"eg":"1. I accuse you of stealing my wallet.\n2. The police accused him of committing the crime.\n3. She accused her coworker of spreading rumors about her.","eng":"accuse"}

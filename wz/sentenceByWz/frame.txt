@@ -1,1 +1,1 @@
-{"eg":"1. The photo frame on the wall is empty and waiting for a new picture.2. The glasses frame is too small for my face and keeps slipping off.3. The frame of the bed creaked as I sat down on it.","eng":"frame"}
+{"eg":"1. The photo frame on the wall is empty and waiting for a new picture.\n2. The glasses frame is too small for my face and keeps slipping off.\n3. The frame of the bed creaked as I sat down on it.","eng":"frame"}

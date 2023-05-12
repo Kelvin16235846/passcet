@@ -1,1 +1,1 @@
-{"eg":"1. I wonder what it would be like to fly like a bird.2. She wondered if he would ever return her phone call.3. He couldn't help but wonder what his life would have been like if he had made different choices.","eng":"wonder"}
+{"eg":"1. I wonder what it would be like to fly like a bird.\n2. She wondered if he would ever return her phone call.\n3. He couldn't help but wonder what his life would have been like if he had made different choices.","eng":"wonder"}

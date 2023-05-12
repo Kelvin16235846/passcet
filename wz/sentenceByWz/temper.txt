@@ -1,1 +1,1 @@
-{"eg":"1. She tried to temper her excitement as she waited for the exam results.2. The artist needed to temper the colors of the painting to make them blend more smoothly.3. His harsh criticisms were tempered by the fact that he truly cared about his students' progress.","eng":"temper"}
+{"eg":"1. She tried to temper her excitement as she waited for the exam results.\n2. The artist needed to temper the colors of the painting to make them blend more smoothly.\n3. His harsh criticisms were tempered by the fact that he truly cared about his students' progress.","eng":"temper"}

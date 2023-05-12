@@ -1,1 +1,1 @@
-{"eg":"1. Bolt had bolted the door tightly to ensure his safety.2. The lightning bolt struck the tree with a loud bang.3. The track star bolted ahead of his competition, effortlessly winning the race.","eng":"bolt"}
+{"eg":"1. Bolt had bolted the door tightly to ensure his safety.\n2. The lightning bolt struck the tree with a loud bang.\n3. The track star bolted ahead of his competition, effortlessly winning the race.","eng":"bolt"}

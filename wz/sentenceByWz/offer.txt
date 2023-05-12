@@ -1,1 +1,1 @@
-{"eg":"1. I am pleased to offer you the position of Marketing Manager at our company.2. We are excited to extend an offer of admission to our prestigious university.3. After carefully reviewing your qualifications, we would like to offer you a job as a Software Engineer.","eng":"offer"}
+{"eg":"1. I am pleased to offer you the position of Marketing Manager at our company.\n2. We are excited to extend an offer of admission to our prestigious university.\n3. After carefully reviewing your qualifications, we would like to offer you a job as a Software Engineer.","eng":"offer"}

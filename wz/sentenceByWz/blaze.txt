@@ -1,1 +1,1 @@
-{"eg":"1. The wildfire blazed through the dry forest, destroying everything in its path.2. Her eyes blazed with fury as she confronted her accuser.3. The sun blazed down on the beach, making the sand scorching hot to walk on.","eng":"blaze"}
+{"eg":"1. The wildfire blazed through the dry forest, destroying everything in its path.\n2. Her eyes blazed with fury as she confronted her accuser.\n3. The sun blazed down on the beach, making the sand scorching hot to walk on.","eng":"blaze"}

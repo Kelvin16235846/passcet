@@ -1,1 +1,1 @@
-{"eg":"1. The loud alarm signaled the start of the race.2. The gesture of waving her hand signaled for us to follow her.3. The traffic lights signaled for the pedestrians to cross the street.","eng":"signal"}
+{"eg":"1. The loud alarm signaled the start of the race.\n2. The gesture of waving her hand signaled for us to follow her.\n3. The traffic lights signaled for the pedestrians to cross the street.","eng":"signal"}

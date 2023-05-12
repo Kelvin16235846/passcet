@@ -1,1 +1,1 @@
-{"eg":"1. The company's dress code policy requires all employees to wear uniforms.2. The students at the school were easily identifiable in their bright blue uniforms.3. The restaurant staff wore crisp, white uniforms to maintain a professional appearance.","eng":"uniform"}
+{"eg":"1. The company's dress code policy requires all employees to wear uniforms.\n2. The students at the school were easily identifiable in their bright blue uniforms.\n3. The restaurant staff wore crisp, white uniforms to maintain a professional appearance.","eng":"uniform"}

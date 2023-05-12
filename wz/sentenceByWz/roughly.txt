@@ -1,1 +1,1 @@
-{"eg":"1. Roughly speaking, we can estimate that the project will cost around $50,000.2. I roughly calculated that we have enough supplies to last us for another month.3. The size of the room is roughly 10 feet by 15 feet.","eng":"roughly"}
+{"eg":"1. Roughly speaking, we can estimate that the project will cost around $50,000.\n2. I roughly calculated that we have enough supplies to last us for another month.\n3. The size of the room is roughly 10 feet by 15 feet.","eng":"roughly"}

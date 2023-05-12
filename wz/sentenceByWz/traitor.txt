@@ -1,1 +1,1 @@
-{"eg":"1. The traitor revealed confidential information to the enemy.2. He was accused of being a traitor to his own country.3. The spy was discovered and labeled a traitor by his former allies.","eng":"traitor"}
+{"eg":"1. The traitor revealed confidential information to the enemy.\n2. He was accused of being a traitor to his own country.\n3. The spy was discovered and labeled a traitor by his former allies.","eng":"traitor"}

@@ -1,1 +1,1 @@
-{"eg":"1. I had a juicy slice of melon for breakfast this morning.2. The farmers market had an abundance of sweet melons on display.3. Melon is a great addition to fruit salads and desserts.","eng":"melon"}
+{"eg":"1. I had a juicy slice of melon for breakfast this morning.\n2. The farmers market had an abundance of sweet melons on display.\n3. Melon is a great addition to fruit salads and desserts.","eng":"melon"}

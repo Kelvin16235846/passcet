@@ -1,1 +1,1 @@
-{"eg":"1. My preference for coffee over tea has never wavered.2. His preference for rock music clashes with my love for jazz.3. She expressed her preference for a quiet night in with a good book rather than going out to a party.","eng":"preference"}
+{"eg":"1. My preference for coffee over tea has never wavered.\n2. His preference for rock music clashes with my love for jazz.\n3. She expressed her preference for a quiet night in with a good book rather than going out to a party.","eng":"preference"}

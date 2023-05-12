@@ -1,1 +1,1 @@
-{"eg":"1. If I had more free time, I would love to travel the world.2. If it were warmer outside, I would go for a run.3. If I could go back in time, I would choose a different career path.","eng":"would"}
+{"eg":"1. If I had more free time, I would love to travel the world.\n2. If it were warmer outside, I would go for a run.\n3. If I could go back in time, I would choose a different career path.","eng":"would"}

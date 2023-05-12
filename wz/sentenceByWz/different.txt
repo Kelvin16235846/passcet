@@ -1,1 +1,1 @@
-{"eg":"1. Different people have different perspectives on life.2. The two paintings may look similar, but on closer inspection, the brushstrokes are different.3. Learning a different language can open up a whole new world.","eng":"different"}
+{"eg":"1. Different people have different perspectives on life.\n2. The two paintings may look similar, but on closer inspection, the brushstrokes are different.\n3. Learning a different language can open up a whole new world.","eng":"different"}

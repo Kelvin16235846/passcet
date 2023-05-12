@@ -1,1 +1,1 @@
-{"eg":"1. The Eiffel Tower is one of the most iconic monuments in Paris.2. The pyramids of Giza are one of the world's oldest and most majestic monuments.3. The Washington Monument is a towering tribute to America's first president.","eng":"monument"}
+{"eg":"1. The Eiffel Tower is one of the most iconic monuments in Paris.\n2. The pyramids of Giza are one of the world's oldest and most majestic monuments.\n3. The Washington Monument is a towering tribute to America's first president.","eng":"monument"}

@@ -1,1 +1,1 @@
-{"eg":"1. I love visiting the zoo on weekends to see all the amazing animals.2. The zookeeper gave us a tour of the new reptile exhibit and it was fascinating.3. The baby elephant at the zoo was so cute, I couldn't stop taking pictures of it.","eng":"zoo"}
+{"eg":"1. I love visiting the zoo on weekends to see all the amazing animals.\n2. The zookeeper gave us a tour of the new reptile exhibit and it was fascinating.\n3. The baby elephant at the zoo was so cute, I couldn't stop taking pictures of it.","eng":"zoo"}

@@ -1,1 +1,1 @@
-{"eg":"1. \"Rob is a diligent worker who always strives to exceed expectations.\"2. \"I can't imagine taking on this project without Rob's expertise and guidance.\"3. \"Rob's witty sense of humor always lightens the mood and makes the office a more enjoyable place to be.\"","eng":"rob"}
+{"eg":"1. \"Rob is a diligent worker who always strives to exceed expectations.\"\n2. \"I can't imagine taking on this project without Rob's expertise and guidance.\"\n3. \"Rob's witty sense of humor always lightens the mood and makes the office a more enjoyable place to be.\"","eng":"rob"}

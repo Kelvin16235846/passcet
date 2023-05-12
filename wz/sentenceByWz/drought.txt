@@ -1,1 +1,1 @@
-{"eg":"1. The prolonged drought has severely affected agricultural production in the region.2. Farmers are struggling to keep their crops alive amidst the ongoing drought.3. The authorities have implemented water rationing measures as a response to the severe drought.","eng":"drought"}
+{"eg":"1. The prolonged drought has severely affected agricultural production in the region.\n2. Farmers are struggling to keep their crops alive amidst the ongoing drought.\n3. The authorities have implemented water rationing measures as a response to the severe drought.","eng":"drought"}

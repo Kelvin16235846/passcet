@@ -1,1 +1,1 @@
-{"eg":"1. Our company is dedicated to providing top-quality products to our customers.2. Our team is working hard to meet the project deadline.3. Our mission is to make a positive impact on the environment through sustainable practices.","eng":"our"}
+{"eg":"1. Our company is dedicated to providing top-quality products to our customers.\n2. Our team is working hard to meet the project deadline.\n3. Our mission is to make a positive impact on the environment through sustainable practices.","eng":"our"}

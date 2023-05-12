@@ -1,1 +1,1 @@
-{"eg":"1. The police have arrested a suspect in connection with the murder of the wealthy businessman.2. The family of the victim is devastated by the senseless murder of their loved one.3. The killer had meticulously planned the murder, leaving no evidence behind.","eng":"murder"}
+{"eg":"1. The police have arrested a suspect in connection with the murder of the wealthy businessman.\n2. The family of the victim is devastated by the senseless murder of their loved one.\n3. The killer had meticulously planned the murder, leaving no evidence behind.","eng":"murder"}

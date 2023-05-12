@@ -1,1 +1,1 @@
-{"eg":"1. I am sixty years old and have lived a rich and fulfilling life.2. Sixty seconds may not seem like much, but they can make all the difference in a race.3. The sixtieth anniversary is a special milestone to celebrate a long and loving marriage.","eng":"sixty"}
+{"eg":"1. I am sixty years old and have lived a rich and fulfilling life.\n2. Sixty seconds may not seem like much, but they can make all the difference in a race.\n3. The sixtieth anniversary is a special milestone to celebrate a long and loving marriage.","eng":"sixty"}

@@ -1,1 +1,1 @@
-{"eg":"1. Can you drive any farther, or should we stop for gas?2. The mountain peak seemed farther away than ever before.3. The train whistle grew fainter as it traveled farther down the tracks.","eng":"farther"}
+{"eg":"1. Can you drive any farther, or should we stop for gas?\n2. The mountain peak seemed farther away than ever before.\n3. The train whistle grew fainter as it traveled farther down the tracks.","eng":"farther"}

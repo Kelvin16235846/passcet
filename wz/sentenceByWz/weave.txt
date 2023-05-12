@@ -1,1 +1,1 @@
-{"eg":"1. Weave together the strands of your story to create a powerful narrative.2. She skillfully wove elements of humor into her speech, keeping the audience engaged.3. The tapestry was beautifully woven, with intricate designs and vibrant colors.","eng":"weave"}
+{"eg":"1. Weave together the strands of your story to create a powerful narrative.\n2. She skillfully wove elements of humor into her speech, keeping the audience engaged.\n3. The tapestry was beautifully woven, with intricate designs and vibrant colors.","eng":"weave"}

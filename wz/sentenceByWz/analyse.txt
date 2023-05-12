@@ -1,1 +1,1 @@
-{"eg":"1. I need to analyse the data before making any conclusions.2. The detective analysed the crime scene for any clues.3. The therapist analysed the patient's behavior to determine the root cause of their issues.","eng":"analyse"}
+{"eg":"1. I need to analyse the data before making any conclusions.\n2. The detective analysed the crime scene for any clues.\n3. The therapist analysed the patient's behavior to determine the root cause of their issues.","eng":"analyse"}

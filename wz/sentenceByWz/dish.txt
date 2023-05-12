@@ -1,1 +1,1 @@
-{"eg":"1. I washed the dishes after dinner.2. Our cat loves to drink water from the dish.3. I asked the waiter to bring me a clean dish for my dessert.","eng":"dish"}
+{"eg":"1. I washed the dishes after dinner.\n2. Our cat loves to drink water from the dish.\n3. I asked the waiter to bring me a clean dish for my dessert.","eng":"dish"}

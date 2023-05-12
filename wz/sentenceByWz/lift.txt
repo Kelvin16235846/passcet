@@ -1,1 +1,1 @@
-{"eg":"1. His spirits were lifted when he received the good news.2. The crane lifted the heavy crate with ease.3. The new workout routine has really lifted my energy levels.","eng":"lift"}
+{"eg":"1. His spirits were lifted when he received the good news.\n2. The crane lifted the heavy crate with ease.\n3. The new workout routine has really lifted my energy levels.","eng":"lift"}

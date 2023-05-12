@@ -1,1 +1,1 @@
-{"eg":"1. I have an appointment with my dentist tomorrow afternoon.2. She had to cancel her appointment with the hairdresser due to an emergency.3. Are you available to schedule an appointment with the doctor next week?","eng":"appoint"}
+{"eg":"1. I have an appointment with my dentist tomorrow afternoon.\n2. She had to cancel her appointment with the hairdresser due to an emergency.\n3. Are you available to schedule an appointment with the doctor next week?","eng":"appoint"}

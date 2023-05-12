@@ -1,1 +1,1 @@
-{"eg":"1. Fry loves to cook and experiment with new recipes.2. I asked Fry to fry up some bacon and eggs for breakfast.3. Fry is a character from the popular TV show, Futurama.","eng":"fry"}
+{"eg":"1. Fry loves to cook and experiment with new recipes.\n2. I asked Fry to fry up some bacon and eggs for breakfast.\n3. Fry is a character from the popular TV show, Futurama.","eng":"fry"}

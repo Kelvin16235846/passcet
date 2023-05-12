@@ -1,1 +1,1 @@
-{"eg":"1. I am considering applying to multiple universities for my undergraduate studies.2. The university campus was bustling with students walking to and fro between classes.3. She attended an Ivy League university and earned a degree in engineering.","eng":"university"}
+{"eg":"1. I am considering applying to multiple universities for my undergraduate studies.\n2. The university campus was bustling with students walking to and fro between classes.\n3. She attended an Ivy League university and earned a degree in engineering.","eng":"university"}

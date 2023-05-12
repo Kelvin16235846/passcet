@@ -1,1 +1,1 @@
-{"eg":"1. The throng of people at the concert made it hard to see the stage.2. Tourists filled the streets, creating a throng of activity.3. The throng of reporters crowded around the candidate, hoping to get a quote.","eng":"throng"}
+{"eg":"1. The throng of people at the concert made it hard to see the stage.\n2. Tourists filled the streets, creating a throng of activity.\n3. The throng of reporters crowded around the candidate, hoping to get a quote.","eng":"throng"}

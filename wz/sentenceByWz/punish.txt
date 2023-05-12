@@ -1,1 +1,1 @@
-{"eg":"1. I will have to punish you for breaking the rules.2. The teacher punished the students for not completing their homework.3. The referee punished the player for committing a foul.","eng":"punish"}
+{"eg":"1. I will have to punish you for breaking the rules.\n2. The teacher punished the students for not completing their homework.\n3. The referee punished the player for committing a foul.","eng":"punish"}

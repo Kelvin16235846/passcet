@@ -1,1 +1,1 @@
-{"eg":"1. The bank needs to verify your identity before approving the loan application.2. The airline will verify your ticket and passport at check-in.3. The restaurant will call to verify your reservation before your arrival.","eng":"verify"}
+{"eg":"1. The bank needs to verify your identity before approving the loan application.\n2. The airline will verify your ticket and passport at check-in.\n3. The restaurant will call to verify your reservation before your arrival.","eng":"verify"}

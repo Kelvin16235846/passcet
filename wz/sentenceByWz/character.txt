@@ -1,1 +1,1 @@
-{"eg":"1. The character of the protagonist in the novel was well-developed and complex.2. His kind and generous character shone through in all his actions.3. The movie's dark and brooding character perfectly captured the ominous tone of the storyline.","eng":"character"}
+{"eg":"1. The character of the protagonist in the novel was well-developed and complex.\n2. His kind and generous character shone through in all his actions.\n3. The movie's dark and brooding character perfectly captured the ominous tone of the storyline.","eng":"character"}

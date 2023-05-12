@@ -1,1 +1,1 @@
-{"eg":"1. \"Could you please tell me where the nearest subway station is?\"2. \"Do you happen to know how much these shoes cost?\"3. \"Would you like to join me for a cup of coffee?\"","eng":"dialog"}
+{"eg":"1. \"Could you please tell me where the nearest subway station is?\"\n2. \"Do you happen to know how much these shoes cost?\"\n3. \"Would you like to join me for a cup of coffee?\"","eng":"dialog"}

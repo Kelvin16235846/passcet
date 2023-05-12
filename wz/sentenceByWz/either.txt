@@ -1,1 +1,1 @@
-{"eg":"1. Either you can choose to attend the party or stay at home.2. We can either do the project now or postpone it until next week.3. Either the movie was very good, or I was just in a fantastic mood.","eng":"either"}
+{"eg":"1. Either you can choose to attend the party or stay at home.\n2. We can either do the project now or postpone it until next week.\n3. Either the movie was very good, or I was just in a fantastic mood.","eng":"either"}

@@ -1,1 +1,1 @@
-{"eg":"1. Despite his pain, he persevered and completed the marathon.2. I can feel the sharp pain in my back after lifting that heavy box.3. Her pain was visible on her face as she recounted the tragic event.","eng":"pain"}
+{"eg":"1. Despite his pain, he persevered and completed the marathon.\n2. I can feel the sharp pain in my back after lifting that heavy box.\n3. Her pain was visible on her face as she recounted the tragic event.","eng":"pain"}

@@ -1,1 +1,1 @@
-{"eg":"1. The flower is too weak to withstand the strong wind.2. My phone battery is weak and needs to be charged.3. The old man's voice was weak and frail after years of speaking softly.","eng":"weak"}
+{"eg":"1. The flower is too weak to withstand the strong wind.\n2. My phone battery is weak and needs to be charged.\n3. The old man's voice was weak and frail after years of speaking softly.","eng":"weak"}

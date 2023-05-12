@@ -1,1 +1,1 @@
-{"eg":"1. She needs to add more vegetables to her diet for better health.2. Can you please add my name to the guest list for the party?3. The recipe calls for you to add two cups of sugar to the mixture.","eng":"add"}
+{"eg":"1. She needs to add more vegetables to her diet for better health.\n2. Can you please add my name to the guest list for the party?\n3. The recipe calls for you to add two cups of sugar to the mixture.","eng":"add"}

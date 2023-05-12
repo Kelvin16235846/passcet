@@ -1,1 +1,1 @@
-{"eg":"1. Yo hablo español con fluidez. (I speak Spanish fluently.)2. Mis amigos y yo vamos a la playa en verano. (My friends and I go to the beach in summer.)3. Me gusta comer tacos y burritos. (I like to eat tacos and burritos.)","eng":"Spanish"}
+{"eg":"1. Yo hablo español con fluidez. (I speak Spanish fluently.)\n2. Mis amigos y yo vamos a la playa en verano. (My friends and I go to the beach in summer.)\n3. Me gusta comer tacos y burritos. (I like to eat tacos and burritos.)","eng":"Spanish"}

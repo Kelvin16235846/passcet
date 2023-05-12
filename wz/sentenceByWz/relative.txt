@@ -1,1 +1,1 @@
-{"eg":"1. The woman who lives next door is a doctor.2. The book that I am reading is very interesting.3. The car which was parked outside my house was stolen.","eng":"relative"}
+{"eg":"1. The woman who lives next door is a doctor.\n2. The book that I am reading is very interesting.\n3. The car which was parked outside my house was stolen.","eng":"relative"}

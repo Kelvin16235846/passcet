@@ -1,1 +1,1 @@
-{"eg":"1. \"Comrade, we must work together to achieve our common goal.\"2. \"As a comrade, I am committed to fighting for the rights of the working class.\"3. \"Let us stand united, comrade, in the face of oppression and injustice.\"","eng":"comrade"}
+{"eg":"1. \"Comrade, we must work together to achieve our common goal.\"\n2. \"As a comrade, I am committed to fighting for the rights of the working class.\"\n3. \"Let us stand united, comrade, in the face of oppression and injustice.\"","eng":"comrade"}

@@ -1,1 +1,1 @@
-{"eg":"1. The new project will involve a team of engineers and designers.2. The crime scene investigation could involve multiple suspects.3. Learning a new language often involves practicing speaking as well as reading and writing.","eng":"involve"}
+{"eg":"1. The new project will involve a team of engineers and designers.\n2. The crime scene investigation could involve multiple suspects.\n3. Learning a new language often involves practicing speaking as well as reading and writing.","eng":"involve"}

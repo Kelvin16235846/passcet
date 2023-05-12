@@ -1,1 +1,1 @@
-{"eg":"1. The company implemented strict security measures after a data breach last year.2. The security guard checked the IDs of everyone entering the building.3. The government agency is responsible for maintaining national security.","eng":"security"}
+{"eg":"1. The company implemented strict security measures after a data breach last year.\n2. The security guard checked the IDs of everyone entering the building.\n3. The government agency is responsible for maintaining national security.","eng":"security"}

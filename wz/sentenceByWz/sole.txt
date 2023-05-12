@@ -1,1 +1,1 @@
-{"eg":"1. She was the sole person responsible for the success of the project.2. The sole purpose of his trip was to visit his family.3. This store is the sole supplier of organic produce in the area.","eng":"sole"}
+{"eg":"1. She was the sole person responsible for the success of the project.\n2. The sole purpose of his trip was to visit his family.\n3. This store is the sole supplier of organic produce in the area.","eng":"sole"}

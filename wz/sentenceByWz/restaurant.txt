@@ -1,1 +1,1 @@
-{"eg":"1. I went to a really fancy restaurant for my anniversary dinner last night.2. The restaurant was packed with people waiting for a table.3. The restaurant had an amazing seafood selection, and the grilled octopus was my favorite dish.","eng":"restaurant"}
+{"eg":"1. I went to a really fancy restaurant for my anniversary dinner last night.\n2. The restaurant was packed with people waiting for a table.\n3. The restaurant had an amazing seafood selection, and the grilled octopus was my favorite dish.","eng":"restaurant"}

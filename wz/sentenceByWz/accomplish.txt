@@ -1,1 +1,1 @@
-{"eg":"1. She finally accomplished her goal of becoming a doctor after years of hard work.2. The team worked tirelessly to accomplish the project before the deadline.3. With determination and patience, he was able to accomplish his dream of climbing Mount Everest.","eng":"accomplish"}
+{"eg":"1. She finally accomplished her goal of becoming a doctor after years of hard work.\n2. The team worked tirelessly to accomplish the project before the deadline.\n3. With determination and patience, he was able to accomplish his dream of climbing Mount Everest.","eng":"accomplish"}

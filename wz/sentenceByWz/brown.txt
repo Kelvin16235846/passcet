@@ -1,1 +1,1 @@
-{"eg":"1. The brown dog chased after the squirrel that scampered up the towering oak tree.2. She wore a cozy brown sweater to keep herself warm on the cold winter day.3. The brown soil in the garden was rich and fertile, perfect for growing vegetables.","eng":"brown"}
+{"eg":"1. The brown dog chased after the squirrel that scampered up the towering oak tree.\n2. She wore a cozy brown sweater to keep herself warm on the cold winter day.\n3. The brown soil in the garden was rich and fertile, perfect for growing vegetables.","eng":"brown"}

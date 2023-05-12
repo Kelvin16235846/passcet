@@ -1,1 +1,1 @@
-{"eg":"1. I was startled by the sudden loud noise behind me.2. The unexpected appearance of the ghost made me startle and drop my book.3. The sudden gust of wind startled the birds, causing them to take off in a flurry of feathers.","eng":"startle"}
+{"eg":"1. I was startled by the sudden loud noise behind me.\n2. The unexpected appearance of the ghost made me startle and drop my book.\n3. The sudden gust of wind startled the birds, causing them to take off in a flurry of feathers.","eng":"startle"}

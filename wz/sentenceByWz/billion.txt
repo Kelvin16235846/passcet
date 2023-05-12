@@ -1,1 +1,1 @@
-{"eg":"1. The new company venture has the potential to make billions of dollars in profits.2. The government's spending bill includes funding for a billion-dollar infrastructure project.3. The world's population is projected to reach 8.5 billion by 2030.","eng":"billion"}
+{"eg":"1. The new company venture has the potential to make billions of dollars in profits.\n2. The government's spending bill includes funding for a billion-dollar infrastructure project.\n3. The world's population is projected to reach 8.5 billion by 2030.","eng":"billion"}

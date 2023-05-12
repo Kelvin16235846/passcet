@@ -1,1 +1,1 @@
-{"eg":"1. I had to kick the door to get it open since the handle was broken.2. He was so angry that he kicked the chair across the room.3. The soccer player kicked the ball with precision and scored a goal.","eng":"kick"}
+{"eg":"1. I had to kick the door to get it open since the handle was broken.\n2. He was so angry that he kicked the chair across the room.\n3. The soccer player kicked the ball with precision and scored a goal.","eng":"kick"}

@@ -1,1 +1,1 @@
-{"eg":"1. My collection of vintage records is one-of-a-kind and truly unique.2. This exotic fruit has a unique flavor that cannot be found anywhere else.3. His quirky personality and eccentric fashion sense make him a truly unique individual.","eng":"unique"}
+{"eg":"1. My collection of vintage records is one-of-a-kind and truly unique.\n2. This exotic fruit has a unique flavor that cannot be found anywhere else.\n3. His quirky personality and eccentric fashion sense make him a truly unique individual.","eng":"unique"}

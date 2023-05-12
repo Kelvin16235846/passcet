@@ -1,1 +1,1 @@
-{"eg":"1. The rat scurried across the kitchen floor and disappeared into a hole.2. Despite their reputation, rats are intelligent animals that have been trained to do tasks.3. We need to set traps to catch the rats that are infesting our home.","eng":"rat"}
+{"eg":"1. The rat scurried across the kitchen floor and disappeared into a hole.\n2. Despite their reputation, rats are intelligent animals that have been trained to do tasks.\n3. We need to set traps to catch the rats that are infesting our home.","eng":"rat"}

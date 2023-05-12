@@ -1,1 +1,1 @@
-{"eg":"1. The company is working on multiple projects simultaneously.2. She has multiple talents, including singing, dancing, and acting.3. The store offers multiple payment options for customer convenience.","eng":"multiple"}
+{"eg":"1. The company is working on multiple projects simultaneously.\n2. She has multiple talents, including singing, dancing, and acting.\n3. The store offers multiple payment options for customer convenience.","eng":"multiple"}

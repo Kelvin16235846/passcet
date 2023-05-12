@@ -1,1 +1,1 @@
-{"eg":"1. I own a black car that I purchased last year.2. She owns a small business selling handmade jewelry.3. They own a beautiful house on the beach with a stunning ocean view.","eng":"own"}
+{"eg":"1. I own a black car that I purchased last year.\n2. She owns a small business selling handmade jewelry.\n3. They own a beautiful house on the beach with a stunning ocean view.","eng":"own"}

@@ -1,1 +1,1 @@
-{"eg":"1. I love playing volleyball at the beach with my friends.2. She dominated the volleyball court with her powerful spikes and precise serves.3. The volleyball team won the championship after a tough season of training and hard work.","eng":"volleyball"}
+{"eg":"1. I love playing volleyball at the beach with my friends.\n2. She dominated the volleyball court with her powerful spikes and precise serves.\n3. The volleyball team won the championship after a tough season of training and hard work.","eng":"volleyball"}

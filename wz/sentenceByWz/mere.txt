@@ -1,1 +1,1 @@
-{"eg":"1. Mere words cannot express the depth of my admiration for her.2. It was a mere coincidence that they both showed up at the same time.3. His actions showed that his apology was a mere formality.","eng":"mere"}
+{"eg":"1. Mere words cannot express the depth of my admiration for her.\n2. It was a mere coincidence that they both showed up at the same time.\n3. His actions showed that his apology was a mere formality.","eng":"mere"}

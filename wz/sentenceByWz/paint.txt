@@ -1,1 +1,1 @@
-{"eg":"1. I love to paint colorful abstract art on canvas.2. She used a paintbrush to meticulously apply the paint to the canvas.3. He made a mistake and accidentally got paint all over his shirt.","eng":"paint"}
+{"eg":"1. I love to paint colorful abstract art on canvas.\n2. She used a paintbrush to meticulously apply the paint to the canvas.\n3. He made a mistake and accidentally got paint all over his shirt.","eng":"paint"}

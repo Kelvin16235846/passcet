@@ -1,1 +1,1 @@
-{"eg":"1. Let's go for a walk in the park today, it's a beautiful day outside.2. Let me know if you need any help with your project, I'd be happy to assist you.3. Let us all work together to make the world a better place for future generations.","eng":"let"}
+{"eg":"1. Let's go for a walk in the park today, it's a beautiful day outside.\n2. Let me know if you need any help with your project, I'd be happy to assist you.\n3. Let us all work together to make the world a better place for future generations.","eng":"let"}

@@ -1,1 +1,1 @@
-{"eg":"1. The leaves were caught up in a whirl as the wind picked up speed.2. As the skater spun faster and faster, she felt the whirl of motion and the rush of adrenaline.3. The dance floor was a whirl of colorful dresses and energetic dancers.","eng":"whirl"}
+{"eg":"1. The leaves were caught up in a whirl as the wind picked up speed.\n2. As the skater spun faster and faster, she felt the whirl of motion and the rush of adrenaline.\n3. The dance floor was a whirl of colorful dresses and energetic dancers.","eng":"whirl"}

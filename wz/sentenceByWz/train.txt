@@ -1,1 +1,1 @@
-{"eg":"1. I take the train to work every day.2. The train was delayed due to a signal failure.3. She likes to read books on the train during her commute.","eng":"train"}
+{"eg":"1. I take the train to work every day.\n2. The train was delayed due to a signal failure.\n3. She likes to read books on the train during her commute.","eng":"train"}

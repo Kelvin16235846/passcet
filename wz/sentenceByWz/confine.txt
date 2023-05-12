@@ -1,1 +1,1 @@
-{"eg":"1. The new security measures confine visitors to only certain areas of the building.2. The tight schedule of rehearsals confine the dancers to the studio for most of their day.3. The small room confine the guests to limited space during the event.","eng":"confine"}
+{"eg":"1. The new security measures confine visitors to only certain areas of the building.\n2. The tight schedule of rehearsals confine the dancers to the studio for most of their day.\n3. The small room confine the guests to limited space during the event.","eng":"confine"}

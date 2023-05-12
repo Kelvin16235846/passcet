@@ -1,1 +1,1 @@
-{"eg":"1. His injury was severely hindering his ability to walk.2. The house was severely damaged in the hurricane.3. The company was severely impacted by the recession.","eng":"severely"}
+{"eg":"1. His injury was severely hindering his ability to walk.\n2. The house was severely damaged in the hurricane.\n3. The company was severely impacted by the recession.","eng":"severely"}

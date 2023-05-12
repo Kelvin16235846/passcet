@@ -1,1 +1,1 @@
-{"eg":"1. I anticipate that my upcoming vacation will be very relaxing and enjoyable.2. We need to anticipate the challenges of starting a new business and plan accordingly.3. The team has to anticipate the opponents' moves in order to successfully win the match.","eng":"anticipate"}
+{"eg":"1. I anticipate that my upcoming vacation will be very relaxing and enjoyable.\n2. We need to anticipate the challenges of starting a new business and plan accordingly.\n3. The team has to anticipate the opponents' moves in order to successfully win the match.","eng":"anticipate"}

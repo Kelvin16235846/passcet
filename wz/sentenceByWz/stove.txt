@@ -1,1 +1,1 @@
-{"eg":"1. I am cooking dinner on the stove.2. She accidentally burned her hand on the hot stove.3. The stove is an essential appliance in every kitchen.","eng":"stove"}
+{"eg":"1. I am cooking dinner on the stove.\n2. She accidentally burned her hand on the hot stove.\n3. The stove is an essential appliance in every kitchen.","eng":"stove"}

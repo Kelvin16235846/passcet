@@ -1,1 +1,1 @@
-{"eg":"1. I saw a child playing in the park.2. The teacher asked the child to answer the question.3. The child was crying because he lost his toy.","eng":"child"}
+{"eg":"1. I saw a child playing in the park.\n2. The teacher asked the child to answer the question.\n3. The child was crying because he lost his toy.","eng":"child"}

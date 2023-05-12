@@ -1,1 +1,1 @@
-{"eg":"1. The queue for the amusement park ride was miles long.2. I stood in the queue for hours just to buy concert tickets.3. The restaurant was so busy that there was a queue out the door.","eng":"queue"}
+{"eg":"1. The queue for the amusement park ride was miles long.\n2. I stood in the queue for hours just to buy concert tickets.\n3. The restaurant was so busy that there was a queue out the door.","eng":"queue"}

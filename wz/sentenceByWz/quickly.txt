@@ -1,1 +1,1 @@
-{"eg":"1. She quickly grabbed her keys and headed out the door.2. The toddler quickly crawled across the room to reach their favorite toy.3. He quickly solved the math problem and moved on to the next one.","eng":"quickly"}
+{"eg":"1. She quickly grabbed her keys and headed out the door.\n2. The toddler quickly crawled across the room to reach their favorite toy.\n3. He quickly solved the math problem and moved on to the next one.","eng":"quickly"}

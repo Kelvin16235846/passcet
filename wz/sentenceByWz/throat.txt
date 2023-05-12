@@ -1,1 +1,1 @@
-{"eg":"1. The singer's throat was sore after giving a long performance on stage.2. The doctor examined the patient's throat and found signs of a bacterial infection.3. The smoker was advised by the dentist to quit smoking to avoid damaging his throat further.","eng":"throat"}
+{"eg":"1. The singer's throat was sore after giving a long performance on stage.\n2. The doctor examined the patient's throat and found signs of a bacterial infection.\n3. The smoker was advised by the dentist to quit smoking to avoid damaging his throat further.","eng":"throat"}

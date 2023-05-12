@@ -1,1 +1,1 @@
-{"eg":"1. The subsequent events proved that their decision was the right one.2. The subsequent chapters of the book were even more thrilling than the first.3. The subsequent analysis of the data led to some surprising conclusions.","eng":"subsequent"}
+{"eg":"1. The subsequent events proved that their decision was the right one.\n2. The subsequent chapters of the book were even more thrilling than the first.\n3. The subsequent analysis of the data led to some surprising conclusions.","eng":"subsequent"}

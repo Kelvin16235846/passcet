@@ -1,1 +1,1 @@
-{"eg":"1. Excuse me, sir, do you know the way to the nearest post office?2. Sir, would you mind moving your car so I can park mine in that space?3. Sir, may I ask you a question about the report you submitted last week?","eng":"sir"}
+{"eg":"1. Excuse me, sir, do you know the way to the nearest post office?\n2. Sir, would you mind moving your car so I can park mine in that space?\n3. Sir, may I ask you a question about the report you submitted last week?","eng":"sir"}

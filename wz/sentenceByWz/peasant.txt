@@ -1,1 +1,1 @@
-{"eg":"1. \"Me peasant, me work hard in the fields every day.\"2. \"The peasant's life may be tough, but it is full of simple joys.\"3. \"The prince may have his riches, but the peasant knows the true value of hard work.\"","eng":"peasant"}
+{"eg":"1. \"Me peasant, me work hard in the fields every day.\"\n2. \"The peasant's life may be tough, but it is full of simple joys.\"\n3. \"The prince may have his riches, but the peasant knows the true value of hard work.\"","eng":"peasant"}

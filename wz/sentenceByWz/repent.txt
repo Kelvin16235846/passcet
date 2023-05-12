@@ -1,1 +1,1 @@
-{"eg":"1. I repent for my past mistakes and vow to make better choices in the future.2. It is important to repent and ask for forgiveness when we have wronged others.3. My heart is filled with regret and I repent for the hurt that I have caused.","eng":"repent"}
+{"eg":"1. I repent for my past mistakes and vow to make better choices in the future.\n2. It is important to repent and ask for forgiveness when we have wronged others.\n3. My heart is filled with regret and I repent for the hurt that I have caused.","eng":"repent"}

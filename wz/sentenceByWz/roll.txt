@@ -1,1 +1,1 @@
-{"eg":"1. I'm going to roll the dice and take a chance on this new opportunity.2. The baby learned how to roll over for the first time today!3. We had to roll up our sleeves and work together to finish the project on time.","eng":"roll"}
+{"eg":"1. I'm going to roll the dice and take a chance on this new opportunity.\n2. The baby learned how to roll over for the first time today!\n3. We had to roll up our sleeves and work together to finish the project on time.","eng":"roll"}

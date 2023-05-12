@@ -1,1 +1,1 @@
-{"eg":"1. I will forever cherish the memories we made together.2. The love they shared was forever imprinted on their hearts.3. The beauty of nature will forever leave me in awe.","eng":"forever"}
+{"eg":"1. I will forever cherish the memories we made together.\n2. The love they shared was forever imprinted on their hearts.\n3. The beauty of nature will forever leave me in awe.","eng":"forever"}

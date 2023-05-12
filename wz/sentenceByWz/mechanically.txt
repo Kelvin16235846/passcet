@@ -1,1 +1,1 @@
-{"eg":"1. The machine worked mechanically, without any intervention by the operator.2. He answered the questions mechanically, without really thinking about his answers.3. I followed the instructions mechanically, step by step.","eng":"mechanically"}
+{"eg":"1. The machine worked mechanically, without any intervention by the operator.\n2. He answered the questions mechanically, without really thinking about his answers.\n3. I followed the instructions mechanically, step by step.","eng":"mechanically"}

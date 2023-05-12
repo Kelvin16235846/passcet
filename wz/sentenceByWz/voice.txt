@@ -1,1 +1,1 @@
-{"eg":"1. \"Hello, this is your virtual assistant speaking in a cheerful voice!\"2. \"I'm sorry, I didn't quite understand what you said. Can you please repeat?\"3. \"Goodbye, it was a pleasure assisting you today. Have a wonderful day!\"","eng":"voice"}
+{"eg":"1. \"Hello, this is your virtual assistant speaking in a cheerful voice!\"\n2. \"I'm sorry, I didn't quite understand what you said. Can you please repeat?\"\n3. \"Goodbye, it was a pleasure assisting you today. Have a wonderful day!\"","eng":"voice"}

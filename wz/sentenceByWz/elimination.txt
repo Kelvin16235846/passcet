@@ -1,1 +1,1 @@
-{"eg":"1. To solve the system of equations, we can use the elimination method.2. The elimination of toxins from the body is important for maintaining overall health.3. The elimination of certain foods from the diet can improve digestive symptoms.","eng":"elimination"}
+{"eg":"1. To solve the system of equations, we can use the elimination method.\n2. The elimination of toxins from the body is important for maintaining overall health.\n3. The elimination of certain foods from the diet can improve digestive symptoms.","eng":"elimination"}

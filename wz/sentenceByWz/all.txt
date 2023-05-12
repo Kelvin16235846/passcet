@@ -1,1 +1,1 @@
-{"eg":"1. All the books in the library were organized by genre and author.2. All of us enjoyed the outdoor barbecue party last weekend.3. All of the students in the classroom were attentive and engaged during the lecture.","eng":"all"}
+{"eg":"1. All the books in the library were organized by genre and author.\n2. All of us enjoyed the outdoor barbecue party last weekend.\n3. All of the students in the classroom were attentive and engaged during the lecture.","eng":"all"}

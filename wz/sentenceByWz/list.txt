@@ -1,1 +1,1 @@
-{"eg":"1. The grocery list includes bread, milk, and eggs.2. She made a to-do list for the day which included cleaning the house and doing laundry.3. He checked his bucket list to see what adventures he still needed to experience.","eng":"list"}
+{"eg":"1. The grocery list includes bread, milk, and eggs.\n2. She made a to-do list for the day which included cleaning the house and doing laundry.\n3. He checked his bucket list to see what adventures he still needed to experience.","eng":"list"}

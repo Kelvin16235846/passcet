@@ -1,1 +1,1 @@
-{"eg":"1. The cake was delicious and moist, thanks to the addition of applesauce.2. After a long day of hiking, my clothes were damp and moist from the sweat.3. The plant thrived in the moist soil, growing tall and vibrant.","eng":"moist"}
+{"eg":"1. The cake was delicious and moist, thanks to the addition of applesauce.\n2. After a long day of hiking, my clothes were damp and moist from the sweat.\n3. The plant thrived in the moist soil, growing tall and vibrant.","eng":"moist"}

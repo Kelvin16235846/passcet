@@ -1,1 +1,1 @@
-{"eg":"1. I'm planning to meet my friends at the park this afternoon.2. It was great to finally meet my online friend in person after months of chatting.3. I have a busy schedule this week, but I'll try my best to meet with you for coffee on Friday.","eng":"meet"}
+{"eg":"1. I'm planning to meet my friends at the park this afternoon.\n2. It was great to finally meet my online friend in person after months of chatting.\n3. I have a busy schedule this week, but I'll try my best to meet with you for coffee on Friday.","eng":"meet"}

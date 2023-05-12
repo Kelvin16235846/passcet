@@ -1,1 +1,1 @@
-{"eg":"1. The flock of sheep roamed around in the green pasture.2. From my window, I could see a flock of birds flying south.3. The shepherd closely watched over his flock of goats as they grazed by the river.","eng":"flock"}
+{"eg":"1. The flock of sheep roamed around in the green pasture.\n2. From my window, I could see a flock of birds flying south.\n3. The shepherd closely watched over his flock of goats as they grazed by the river.","eng":"flock"}

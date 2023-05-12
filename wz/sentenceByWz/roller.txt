@@ -1,1 +1,1 @@
-{"eg":"1. I'm going to the park with my rollerblades.2. She used a paint roller to cover the walls with color.3. He released the roller onto the board, creating a mesmerizing image.","eng":"roller"}
+{"eg":"1. I'm going to the park with my rollerblades.\n2. She used a paint roller to cover the walls with color.\n3. He released the roller onto the board, creating a mesmerizing image.","eng":"roller"}

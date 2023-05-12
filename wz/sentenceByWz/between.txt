@@ -1,1 +1,1 @@
-{"eg":"1. The meeting will take place between 2pm and 4pm.2. The temperature will be between 20 and 25 degrees Celsius today.3. The store is located between the bank and the post office.","eng":"between"}
+{"eg":"1. The meeting will take place between 2pm and 4pm.\n2. The temperature will be between 20 and 25 degrees Celsius today.\n3. The store is located between the bank and the post office.","eng":"between"}

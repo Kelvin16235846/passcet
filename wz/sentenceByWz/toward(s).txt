@@ -1,1 +1,1 @@
-{"eg":"1. John always acts kindly toward animals.2. The government has taken steps toward improving public transportation.3. She felt a sense of resentment toward her boss after being passed over for a promotion.","eng":"toward(s)"}
+{"eg":"1. John always acts kindly toward animals.\n2. The government has taken steps toward improving public transportation.\n3. She felt a sense of resentment toward her boss after being passed over for a promotion.","eng":"toward(s)"}

@@ -1,1 +1,1 @@
-{"eg":"1. Fall is my favorite season because of the beautiful colors of the leaves.2. Summer is a great season for enjoying outdoor activities like swimming and hiking.3. The winter season brings snow and cozy nights by the fireplace.","eng":"season"}
+{"eg":"1. Fall is my favorite season because of the beautiful colors of the leaves.\n2. Summer is a great season for enjoying outdoor activities like swimming and hiking.\n3. The winter season brings snow and cozy nights by the fireplace.","eng":"season"}

@@ -1,1 +1,1 @@
-{"eg":"1. I love browsing the net for interesting articles and videos.2. The net has revolutionized the way we communicate and access information.3. With the power of the net, we can connect with people from all over the world.","eng":"net"}
+{"eg":"1. I love browsing the net for interesting articles and videos.\n2. The net has revolutionized the way we communicate and access information.\n3. With the power of the net, we can connect with people from all over the world.","eng":"net"}

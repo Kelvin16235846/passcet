@@ -1,1 +1,1 @@
-{"eg":"1. The ripe smell of freshly picked strawberries lingered in the air.2. The farmer checked the watermelon for ripeness by thumping on it with his hand.3. It's best to eat the avocado when it's ripe and soft to the touch.","eng":"ripe"}
+{"eg":"1. The ripe smell of freshly picked strawberries lingered in the air.\n2. The farmer checked the watermelon for ripeness by thumping on it with his hand.\n3. It's best to eat the avocado when it's ripe and soft to the touch.","eng":"ripe"}

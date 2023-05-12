@@ -1,1 +1,1 @@
-{"eg":"1. Here's the link to the website where you can find all the information you need.2. He sent me a link to the article he wrote for the local newspaper.3. Click on the link in the email to access the online survey.","eng":"link"}
+{"eg":"1. Here's the link to the website where you can find all the information you need.\n2. He sent me a link to the article he wrote for the local newspaper.\n3. Click on the link in the email to access the online survey.","eng":"link"}

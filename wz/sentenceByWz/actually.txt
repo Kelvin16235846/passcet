@@ -1,1 +1,1 @@
-{"eg":"1. Actually, I have already made up my mind about what to do next.2. The movie wasn't as good as I thought it would be. Actually, it was rather disappointing.3. I wasn't really sure about the answer, but actually, I was able to figure it out on my own.","eng":"actually"}
+{"eg":"1. Actually, I have already made up my mind about what to do next.\n2. The movie wasn't as good as I thought it would be. Actually, it was rather disappointing.\n3. I wasn't really sure about the answer, but actually, I was able to figure it out on my own.","eng":"actually"}

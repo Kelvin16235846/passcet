@@ -1,1 +1,1 @@
-{"eg":"1. I need to vacuum the carpet before guests arrive.2. The carpet in the living room is soft and plush.3. Our cat loves to scratch at the carpet in the hallway.","eng":"carpet"}
+{"eg":"1. I need to vacuum the carpet before guests arrive.\n2. The carpet in the living room is soft and plush.\n3. Our cat loves to scratch at the carpet in the hallway.","eng":"carpet"}

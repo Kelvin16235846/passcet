@@ -1,1 +1,1 @@
-{"eg":"1. The farmer sheared the sheep's wool carefully to ensure a high-quality fleece.2. Harry's hair was so long that he decided to get it sheared off at the barber shop.3. The metal worker used a power shear to cut through the thick sheet metal with ease.","eng":"shear"}
+{"eg":"1. The farmer sheared the sheep's wool carefully to ensure a high-quality fleece.\n2. Harry's hair was so long that he decided to get it sheared off at the barber shop.\n3. The metal worker used a power shear to cut through the thick sheet metal with ease.","eng":"shear"}

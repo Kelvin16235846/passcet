@@ -1,1 +1,1 @@
-{"eg":"1. I love listening to music through my earbuds.2. I can't hear you very well, could you speak into my ear please?3. My earlobe is sensitive, so please be gentle when putting in my earring.","eng":"ear"}
+{"eg":"1. I love listening to music through my earbuds.\n2. I can't hear you very well, could you speak into my ear please?\n3. My earlobe is sensitive, so please be gentle when putting in my earring.","eng":"ear"}

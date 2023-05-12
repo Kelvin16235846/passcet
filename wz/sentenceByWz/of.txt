@@ -1,1 +1,1 @@
-{"eg":"1. The color of the sky was a brilliant shade of blue.2. The taste of the steak was juicy and flavorful.3. The sound of the waves crashing against the shore was soothing.","eng":"of"}
+{"eg":"1. The color of the sky was a brilliant shade of blue.\n2. The taste of the steak was juicy and flavorful.\n3. The sound of the waves crashing against the shore was soothing.","eng":"of"}

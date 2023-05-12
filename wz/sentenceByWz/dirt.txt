@@ -1,1 +1,1 @@
-{"eg":"1. The car was covered in dirt after driving through the muddy field.2. She had to scrub the dirt out of her clothes after falling down in the dirt.3. The construction site was full of dirt and dust, making it hard to breathe.","eng":"dirt"}
+{"eg":"1. The car was covered in dirt after driving through the muddy field.\n2. She had to scrub the dirt out of her clothes after falling down in the dirt.\n3. The construction site was full of dirt and dust, making it hard to breathe.","eng":"dirt"}

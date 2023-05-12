@@ -1,1 +1,1 @@
-{"eg":"1. I left something important in my office and now I have to go back and get it.2. Could you please bring me something to drink? I'm really thirsty.3. I don't know what to wear to the party tonight, I need to find something suitable.","eng":"something"}
+{"eg":"1. I left something important in my office and now I have to go back and get it.\n2. Could you please bring me something to drink? I'm really thirsty.\n3. I don't know what to wear to the party tonight, I need to find something suitable.","eng":"something"}

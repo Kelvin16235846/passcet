@@ -1,1 +1,1 @@
-{"eg":"1. After the rain stopped, a beautiful rainbow appeared in the sky.2. She painted a rainbow on the canvas using all the colors of the spectrum.3. The children ran through the sprinkler, catching glimpses of rainbow colors in the water droplets.","eng":"rainbow"}
+{"eg":"1. After the rain stopped, a beautiful rainbow appeared in the sky.\n2. She painted a rainbow on the canvas using all the colors of the spectrum.\n3. The children ran through the sprinkler, catching glimpses of rainbow colors in the water droplets.","eng":"rainbow"}

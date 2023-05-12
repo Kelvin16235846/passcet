@@ -1,1 +1,1 @@
-{"eg":"1. I dare you to try the spicy hot wings challenge at that restaurant.2. Do you dare to jump off the high diving board at the pool?3. I double-dare you to sing in front of the whole audience at the talent show.","eng":"dare"}
+{"eg":"1. I dare you to try the spicy hot wings challenge at that restaurant.\n2. Do you dare to jump off the high diving board at the pool?\n3. I double-dare you to sing in front of the whole audience at the talent show.","eng":"dare"}

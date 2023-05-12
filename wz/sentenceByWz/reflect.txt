@@ -1,1 +1,1 @@
-{"eg":"1. The mirror reflected the image of the beautiful sunset over the ocean.2. The sunlight reflecting off the building's windows was blinding to the pedestrians below.3. The music reflected the mood of the party, with upbeat and lively tunes filling the room.","eng":"reflect"}
+{"eg":"1. The mirror reflected the image of the beautiful sunset over the ocean.\n2. The sunlight reflecting off the building's windows was blinding to the pedestrians below.\n3. The music reflected the mood of the party, with upbeat and lively tunes filling the room.","eng":"reflect"}

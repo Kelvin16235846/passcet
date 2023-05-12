@@ -1,1 +1,1 @@
-{"eg":"1. \"I'm utterly exhausted after running that marathon.\"2. \"The absurdity of the situation left me utterly speechless.\"3. \"I was utterly blown away by the beauty of the sunset over the ocean.\"","eng":"utter"}
+{"eg":"1. \"I'm utterly exhausted after running that marathon.\"\n2. \"The absurdity of the situation left me utterly speechless.\"\n3. \"I was utterly blown away by the beauty of the sunset over the ocean.\"","eng":"utter"}

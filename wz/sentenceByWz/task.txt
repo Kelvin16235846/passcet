@@ -1,1 +1,1 @@
-{"eg":"1. My task for today is to finish writing my essay before the deadline.2. John's task at the office is to organize the company's files and records.3. The teacher assigned a new task for the students to complete over the weekend.","eng":"task"}
+{"eg":"1. My task for today is to finish writing my essay before the deadline.\n2. John's task at the office is to organize the company's files and records.\n3. The teacher assigned a new task for the students to complete over the weekend.","eng":"task"}

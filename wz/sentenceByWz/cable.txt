@@ -1,1 +1,1 @@
-{"eg":"1. I need to buy a new cable for my phone charger.2. The cable company is coming to install high-speed internet tomorrow.3. The cable connecting the printer to the computer is loose.","eng":"cable"}
+{"eg":"1. I need to buy a new cable for my phone charger.\n2. The cable company is coming to install high-speed internet tomorrow.\n3. The cable connecting the printer to the computer is loose.","eng":"cable"}

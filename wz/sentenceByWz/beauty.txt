@@ -1,1 +1,1 @@
-{"eg":"1. The beauty of nature is truly breathtaking.2. She was surprised by the beauty of the sunset.3. The beauty of her smile made my heart skip a beat.","eng":"beauty"}
+{"eg":"1. The beauty of nature is truly breathtaking.\n2. She was surprised by the beauty of the sunset.\n3. The beauty of her smile made my heart skip a beat.","eng":"beauty"}

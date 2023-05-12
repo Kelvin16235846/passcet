@@ -1,1 +1,1 @@
-{"eg":"1. I decided to cut my hair short for the summer.2. The chef used a sharp knife to cut the vegetables into small pieces.3. The company is planning to cut costs by reducing employee benefits.","eng":"cut"}
+{"eg":"1. I decided to cut my hair short for the summer.\n2. The chef used a sharp knife to cut the vegetables into small pieces.\n3. The company is planning to cut costs by reducing employee benefits.","eng":"cut"}

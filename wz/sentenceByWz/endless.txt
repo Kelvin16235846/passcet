@@ -1,1 +1,1 @@
-{"eg":"1. The possibilities of learning are endless in today's digital world.2. The ocean seemed endless as we sailed towards the horizon.3. My love for you is endless, like the stars in the sky.","eng":"endless"}
+{"eg":"1. The possibilities of learning are endless in today's digital world.\n2. The ocean seemed endless as we sailed towards the horizon.\n3. My love for you is endless, like the stars in the sky.","eng":"endless"}

@@ -1,1 +1,1 @@
-{"eg":"1. Hi, how are you doing today?2. Good morning, it's great to see you!3. Hello there, how's your day been so far?","eng":"greet"}
+{"eg":"1. Hi, how are you doing today?\n2. Good morning, it's great to see you!\n3. Hello there, how's your day been so far?","eng":"greet"}

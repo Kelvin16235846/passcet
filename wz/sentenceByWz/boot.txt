@@ -1,1 +1,1 @@
-{"eg":"1. I need to boot up my computer before I can start working.2. He had to wear his boots when he went hiking in the mountains.3. The sales team decided to boot the project because it wasn't profitable.","eng":"boot"}
+{"eg":"1. I need to boot up my computer before I can start working.\n2. He had to wear his boots when he went hiking in the mountains.\n3. The sales team decided to boot the project because it wasn't profitable.","eng":"boot"}

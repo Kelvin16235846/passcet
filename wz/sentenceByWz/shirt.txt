@@ -1,1 +1,1 @@
-{"eg":"1. I bought a new shirt for the party tonight.2. His favorite shirt has a big stain on it.3. She borrowed her dad's shirt for the interview.","eng":"shirt"}
+{"eg":"1. I bought a new shirt for the party tonight.\n2. His favorite shirt has a big stain on it.\n3. She borrowed her dad's shirt for the interview.","eng":"shirt"}

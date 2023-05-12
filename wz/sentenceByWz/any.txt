@@ -1,1 +1,1 @@
-{"eg":"1. I am open to any suggestions you may have for improving our project.2. Any help you can offer would be greatly appreciated.3. She didn't have any experience in marketing, but she was eager to learn.","eng":"any"}
+{"eg":"1. I am open to any suggestions you may have for improving our project.\n2. Any help you can offer would be greatly appreciated.\n3. She didn't have any experience in marketing, but she was eager to learn.","eng":"any"}

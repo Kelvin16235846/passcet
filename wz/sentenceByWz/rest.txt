@@ -1,1 +1,1 @@
-{"eg":"1. I decided to take a rest after a long day at work.2. The doctor advised him to rest his injured leg for a few days.3. It's important to give your mind a rest and take breaks from studying.","eng":"rest"}
+{"eg":"1. I decided to take a rest after a long day at work.\n2. The doctor advised him to rest his injured leg for a few days.\n3. It's important to give your mind a rest and take breaks from studying.","eng":"rest"}

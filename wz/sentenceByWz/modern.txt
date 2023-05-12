@@ -1,1 +1,1 @@
-{"eg":"1. The modern age has brought about significant advancements in technology.2. The modern style of architecture is characterized by a minimalist approach.3. Modern art often challenges traditional notions of beauty and aesthetics.","eng":"modern"}
+{"eg":"1. The modern age has brought about significant advancements in technology.\n2. The modern style of architecture is characterized by a minimalist approach.\n3. Modern art often challenges traditional notions of beauty and aesthetics.","eng":"modern"}

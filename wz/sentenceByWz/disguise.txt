@@ -1,1 +1,1 @@
-{"eg":"1. She disguised herself as a man and snuck into the army camp.2. The thief tried to disguise his identity by wearing a wig and fake mustache.3. We need to disguise the fact that we're throwing a surprise party for her.","eng":"disguise"}
+{"eg":"1. She disguised herself as a man and snuck into the army camp.\n2. The thief tried to disguise his identity by wearing a wig and fake mustache.\n3. We need to disguise the fact that we're throwing a surprise party for her.","eng":"disguise"}

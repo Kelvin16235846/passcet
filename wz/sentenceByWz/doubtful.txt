@@ -1,1 +1,1 @@
-{"eg":"1. I am doubtful about his ability to complete the task on time.2. The evidence presented in court was doubtful and lacked credibility.3. I am doubtful that the company will meet its sales target this quarter.","eng":"doubtful"}
+{"eg":"1. I am doubtful about his ability to complete the task on time.\n2. The evidence presented in court was doubtful and lacked credibility.\n3. I am doubtful that the company will meet its sales target this quarter.","eng":"doubtful"}

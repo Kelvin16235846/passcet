@@ -1,1 +1,1 @@
-{"eg":"1. The host was gracious enough to offer us a room for the night.2. Despite facing many setbacks, he remained gracious and thanked everyone for their support.3. She showed her guests a gracious welcome and made them feel right at home.","eng":"gracious"}
+{"eg":"1. The host was gracious enough to offer us a room for the night.\n2. Despite facing many setbacks, he remained gracious and thanked everyone for their support.\n3. She showed her guests a gracious welcome and made them feel right at home.","eng":"gracious"}

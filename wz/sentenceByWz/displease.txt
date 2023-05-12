@@ -1,1 +1,1 @@
-{"eg":"1. The poor quality of service at this restaurant greatly displeased me.2. The constant bickering and arguing among my colleagues really displeases me.3. It displeases me that my neighbor always parks their car in front of my driveway.","eng":"displease"}
+{"eg":"1. The poor quality of service at this restaurant greatly displeased me.\n2. The constant bickering and arguing among my colleagues really displeases me.\n3. It displeases me that my neighbor always parks their car in front of my driveway.","eng":"displease"}

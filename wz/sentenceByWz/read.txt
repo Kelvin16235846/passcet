@@ -1,1 +1,1 @@
-{"eg":"1. I love to read books for leisure.2. Can you read the instructions out loud for me?3. She reads the newspaper every morning to stay informed.","eng":"read"}
+{"eg":"1. I love to read books for leisure.\n2. Can you read the instructions out loud for me?\n3. She reads the newspaper every morning to stay informed.","eng":"read"}

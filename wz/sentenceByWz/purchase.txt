@@ -1,1 +1,1 @@
-{"eg":"1. I will purchase a new laptop for my online classes.2. She decided to purchase a car after years of relying on public transportation.3. They are planning to purchase a house in the suburbs next year.","eng":"purchase"}
+{"eg":"1. I will purchase a new laptop for my online classes.\n2. She decided to purchase a car after years of relying on public transportation.\n3. They are planning to purchase a house in the suburbs next year.","eng":"purchase"}

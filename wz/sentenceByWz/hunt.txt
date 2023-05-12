@@ -1,1 +1,1 @@
-{"eg":"1. I love to hunt for treasures at thrift stores.2. My grandfather taught me how to hunt for ducks in the early morning.3. It's important to hunt for opportunities to learn and grow in life.","eng":"hunt"}
+{"eg":"1. I love to hunt for treasures at thrift stores.\n2. My grandfather taught me how to hunt for ducks in the early morning.\n3. It's important to hunt for opportunities to learn and grow in life.","eng":"hunt"}

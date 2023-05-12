@@ -1,1 +1,1 @@
-{"eg":"1. The smell in the room was unpleasant, making it hard to breathe.2. The experience of eating the raw fish was very unpleasant and left a bad taste in my mouth.3. The sight of the dead animal on the side of the road was unpleasant and disturbing.","eng":"unpleasant"}
+{"eg":"1. The smell in the room was unpleasant, making it hard to breathe.\n2. The experience of eating the raw fish was very unpleasant and left a bad taste in my mouth.\n3. The sight of the dead animal on the side of the road was unpleasant and disturbing.","eng":"unpleasant"}

@@ -1,1 +1,1 @@
-{"eg":"1. The exhibition was held in the city centre and attracted thousands of visitors.2. The community centre provides a space for local events and activities.3. This study aims to investigate the role of the family in the centre of a child's development.","eng":"centre"}
+{"eg":"1. The exhibition was held in the city centre and attracted thousands of visitors.\n2. The community centre provides a space for local events and activities.\n3. This study aims to investigate the role of the family in the centre of a child's development.","eng":"centre"}

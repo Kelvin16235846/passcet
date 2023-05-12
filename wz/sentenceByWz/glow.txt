@@ -1,1 +1,1 @@
-{"eg":"1. The glow of the morning sun greeted me as I stepped outside.2. The fireflies' glow added a magical touch to the summer night.3. The city's skyline looked mesmerizing with the glowing lights of skyscrapers.","eng":"glow"}
+{"eg":"1. The glow of the morning sun greeted me as I stepped outside.\n2. The fireflies' glow added a magical touch to the summer night.\n3. The city's skyline looked mesmerizing with the glowing lights of skyscrapers.","eng":"glow"}

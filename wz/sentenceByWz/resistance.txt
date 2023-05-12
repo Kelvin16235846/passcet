@@ -1,1 +1,1 @@
-{"eg":"1. The resistance of the material to high temperatures was impressive.2. The soldiers showed great resistance during the intense training sessions.3. The resistance of the circuit was too high, causing the lightbulb to flicker.","eng":"resistance"}
+{"eg":"1. The resistance of the material to high temperatures was impressive.\n2. The soldiers showed great resistance during the intense training sessions.\n3. The resistance of the circuit was too high, causing the lightbulb to flicker.","eng":"resistance"}

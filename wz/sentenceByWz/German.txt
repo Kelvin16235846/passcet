@@ -1,1 +1,1 @@
-{"eg":"1. Ich liebe dich - I love you.2. Ich habe Hunger - I'm hungry.3. Wo ist der Bahnhof? - Where is the train station?","eng":"German"}
+{"eg":"1. Ich liebe dich - I love you.\n2. Ich habe Hunger - I'm hungry.\n3. Wo ist der Bahnhof? - Where is the train station?","eng":"German"}

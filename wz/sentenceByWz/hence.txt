@@ -1,1 +1,1 @@
-{"eg":"1. The plane will arrive in two hours, hence we should start getting ready to leave.2. She failed to submit her assignment on time, hence she received a lower grade.3. He ate too much junk food, hence his health deteriorated.","eng":"hence"}
+{"eg":"1. The plane will arrive in two hours, hence we should start getting ready to leave.\n2. She failed to submit her assignment on time, hence she received a lower grade.\n3. He ate too much junk food, hence his health deteriorated.","eng":"hence"}

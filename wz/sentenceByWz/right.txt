@@ -1,1 +1,1 @@
-{"eg":"1. You are right, I should have listened to your advice.2. You have the right answer, congratulations!3. I never thought of it that way before, but you're absolutely right.","eng":"right"}
+{"eg":"1. You are right, I should have listened to your advice.\n2. You have the right answer, congratulations!\n3. I never thought of it that way before, but you're absolutely right.","eng":"right"}

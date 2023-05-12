@@ -1,1 +1,1 @@
-{"eg":"1. The dying flowers in the garden need to be watered immediately.2. She spent her last moments holding the hand of her dying mother.3. The sound of the dying bird in the distance was a sad reminder of the fragility of life.","eng":"dying"}
+{"eg":"1. The dying flowers in the garden need to be watered immediately.\n2. She spent her last moments holding the hand of her dying mother.\n3. The sound of the dying bird in the distance was a sad reminder of the fragility of life.","eng":"dying"}

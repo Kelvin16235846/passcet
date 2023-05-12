@@ -1,1 +1,1 @@
-{"eg":"1. I am here to support you in any way I can.2. The company provides excellent customer support services.3. Don't hesitate to reach out to the support team if you have any questions or concerns.","eng":"support"}
+{"eg":"1. I am here to support you in any way I can.\n2. The company provides excellent customer support services.\n3. Don't hesitate to reach out to the support team if you have any questions or concerns.","eng":"support"}

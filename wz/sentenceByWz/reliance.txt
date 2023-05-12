@@ -1,1 +1,1 @@
-{"eg":"1. I have reliance on my team's ability to deliver excellent results.2. The success of the project depends on the reliance we have on each other's expertise.3. His overreliance on technology has hindered his ability to think creatively.","eng":"reliance"}
+{"eg":"1. I have reliance on my team's ability to deliver excellent results.\n2. The success of the project depends on the reliance we have on each other's expertise.\n3. His overreliance on technology has hindered his ability to think creatively.","eng":"reliance"}

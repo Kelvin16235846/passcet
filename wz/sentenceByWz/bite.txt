@@ -1,1 +1,1 @@
-{"eg":"1. The mosquito gave me a nasty bite on my arm last night.2. Please be careful not to get bitten by the stray dog in the park.3. I accidentally bit my tongue while eating lunch today.","eng":"bite"}
+{"eg":"1. The mosquito gave me a nasty bite on my arm last night.\n2. Please be careful not to get bitten by the stray dog in the park.\n3. I accidentally bit my tongue while eating lunch today.","eng":"bite"}

@@ -1,1 +1,1 @@
-{"eg":"1. The police suspect that the thief entered the building through a window.2. I suspect that my neighbor is stealing my newspaper every morning.3. The doctor suspects that the patient's symptoms may be indicative of a more serious illness.","eng":"suspect"}
+{"eg":"1. The police suspect that the thief entered the building through a window.\n2. I suspect that my neighbor is stealing my newspaper every morning.\n3. The doctor suspects that the patient's symptoms may be indicative of a more serious illness.","eng":"suspect"}

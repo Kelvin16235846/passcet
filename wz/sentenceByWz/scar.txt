@@ -1,1 +1,1 @@
-{"eg":"1. The scar on his face told the tale of a long-ago battle.2. She cried as her doctor stitched up the deep scar on her leg.3. Despite the noticeable scar on her arm, she refused to let it hold her back from pursuing her dreams.","eng":"scar"}
+{"eg":"1. The scar on his face told the tale of a long-ago battle.\n2. She cried as her doctor stitched up the deep scar on her leg.\n3. Despite the noticeable scar on her arm, she refused to let it hold her back from pursuing her dreams.","eng":"scar"}

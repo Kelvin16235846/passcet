@@ -1,1 +1,1 @@
-{"eg":"1. It is likely that it will rain tomorrow.2. He is likely to succeed in his new job with his skills and experience.3. It is not likely that she will be able to attend the meeting as she has a prior commitment.","eng":"likely"}
+{"eg":"1. It is likely that it will rain tomorrow.\n2. He is likely to succeed in his new job with his skills and experience.\n3. It is not likely that she will be able to attend the meeting as she has a prior commitment.","eng":"likely"}

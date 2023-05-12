@@ -1,1 +1,1 @@
-{"eg":"1. The nurse checked the patient's vital signs and administered medication.2. As a registered nurse, she has experience working in a variety of healthcare settings.3. The compassionate nurse comforted the family during their loved one's final moments.","eng":"nurse"}
+{"eg":"1. The nurse checked the patient's vital signs and administered medication.\n2. As a registered nurse, she has experience working in a variety of healthcare settings.\n3. The compassionate nurse comforted the family during their loved one's final moments.","eng":"nurse"}

@@ -1,1 +1,1 @@
-{"eg":"1. I love listening to old-school music on my cassette player.2. My dad used to make mixtapes for my mom on cassettes back in the day.3. It's hard to find a working cassette recorder nowadays, but I still enjoy collecting vintage cassettes.","eng":"cassette"}
+{"eg":"1. I love listening to old-school music on my cassette player.\n2. My dad used to make mixtapes for my mom on cassettes back in the day.\n3. It's hard to find a working cassette recorder nowadays, but I still enjoy collecting vintage cassettes.","eng":"cassette"}

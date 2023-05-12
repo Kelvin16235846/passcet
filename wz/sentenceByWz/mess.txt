@@ -1,1 +1,1 @@
-{"eg":"1. I made a mess in the kitchen while trying to bake a cake.2. The children created a mess in the living room during their playtime.3. He always leaves a mess in his room, despite repeated reminders to clean it up.","eng":"mess"}
+{"eg":"1. I made a mess in the kitchen while trying to bake a cake.\n2. The children created a mess in the living room during their playtime.\n3. He always leaves a mess in his room, despite repeated reminders to clean it up.","eng":"mess"}

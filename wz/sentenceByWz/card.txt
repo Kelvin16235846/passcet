@@ -1,1 +1,1 @@
-{"eg":"1. I need to get a new credit card because my old one expired last month.2. My favorite card game is poker because it involves strategy and bluffing.3. The magician asked me to choose a card from the deck, and then he magically made it appear in his hand.","eng":"card"}
+{"eg":"1. I need to get a new credit card because my old one expired last month.\n2. My favorite card game is poker because it involves strategy and bluffing.\n3. The magician asked me to choose a card from the deck, and then he magically made it appear in his hand.","eng":"card"}

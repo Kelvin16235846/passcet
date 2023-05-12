@@ -1,1 +1,1 @@
-{"eg":"1. He was so immersed in his work that he forgot to take care of himself.2. He always puts others before himself, which is why he is such a selfless person.3. He couldn't help but feel proud of himself after completing the challenging task.","eng":"himself"}
+{"eg":"1. He was so immersed in his work that he forgot to take care of himself.\n2. He always puts others before himself, which is why he is such a selfless person.\n3. He couldn't help but feel proud of himself after completing the challenging task.","eng":"himself"}

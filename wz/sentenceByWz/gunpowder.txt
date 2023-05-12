@@ -1,1 +1,1 @@
-{"eg":"1. The use of gunpowder in warfare revolutionized the way battles were fought.2. Gunpowder is a volatile substance that requires careful handling and storage.3. The invention of gunpowder by the Chinese in the 9th century had a profound impact on world history.","eng":"gunpowder"}
+{"eg":"1. The use of gunpowder in warfare revolutionized the way battles were fought.\n2. Gunpowder is a volatile substance that requires careful handling and storage.\n3. The invention of gunpowder by the Chinese in the 9th century had a profound impact on world history.","eng":"gunpowder"}

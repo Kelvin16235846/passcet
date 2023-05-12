@@ -1,1 +1,1 @@
-{"eg":"1. She frowns at me every time I suggest a new idea.2. He couldn't help but frown when his boss criticized his work.3. The teacher's frown signaled to the students that they needed to quiet down.","eng":"frown"}
+{"eg":"1. She frowns at me every time I suggest a new idea.\n2. He couldn't help but frown when his boss criticized his work.\n3. The teacher's frown signaled to the students that they needed to quiet down.","eng":"frown"}

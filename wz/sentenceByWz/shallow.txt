@@ -1,1 +1,1 @@
-{"eg":"1. The shallow stream trickled peacefully over the smooth pebbles.2. The pool was too shallow to dive into, so the children played games in the shallows.3. The sailor looked out over the shallow bay, searching for a safe place to anchor the boat.","eng":"shallow"}
+{"eg":"1. The shallow stream trickled peacefully over the smooth pebbles.\n2. The pool was too shallow to dive into, so the children played games in the shallows.\n3. The sailor looked out over the shallow bay, searching for a safe place to anchor the boat.","eng":"shallow"}

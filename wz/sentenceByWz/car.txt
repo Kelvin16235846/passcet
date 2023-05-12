@@ -1,1 +1,1 @@
-{"eg":"1. I rented a car for my road trip across the country.2. My favorite car is a classic red convertible.3. We drove our car to the beach for a weekend getaway.","eng":"car"}
+{"eg":"1. I rented a car for my road trip across the country.\n2. My favorite car is a classic red convertible.\n3. We drove our car to the beach for a weekend getaway.","eng":"car"}

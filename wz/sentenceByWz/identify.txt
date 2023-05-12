@@ -1,1 +1,1 @@
-{"eg":"1. I can easily identify the species of this bird by its distinct markings and call.2. She had trouble identifying the culprit of the crime because there were no witnesses.3. You can easily identify a fake diamond by testing its hardness and refractivity.","eng":"identify"}
+{"eg":"1. I can easily identify the species of this bird by its distinct markings and call.\n2. She had trouble identifying the culprit of the crime because there were no witnesses.\n3. You can easily identify a fake diamond by testing its hardness and refractivity.","eng":"identify"}

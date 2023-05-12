@@ -1,1 +1,1 @@
-{"eg":"1. Maybe I will go to the movie theater tonight.2. Maybe she forgot to text me back.3. Maybe it's going to rain tomorrow.","eng":"maybe"}
+{"eg":"1. Maybe I will go to the movie theater tonight.\n2. Maybe she forgot to text me back.\n3. Maybe it's going to rain tomorrow.","eng":"maybe"}

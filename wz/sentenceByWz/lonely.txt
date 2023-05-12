@@ -1,1 +1,1 @@
-{"eg":"1. She felt so lonely without her family around.2. After his wife passed away, the old man lived a lonely life.3. The empty streets made him feel even more lonely than he already was.","eng":"lonely"}
+{"eg":"1. She felt so lonely without her family around.\n2. After his wife passed away, the old man lived a lonely life.\n3. The empty streets made him feel even more lonely than he already was.","eng":"lonely"}

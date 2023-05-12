@@ -1,1 +1,1 @@
-{"eg":"1. I have an important meeting on Tuesday, which is my busiest weekday.2. On weekdays, I usually go to the gym after work to stay healthy and fit.3. My favorite weekday is Friday because it marks the end of the workweek and the start of the weekend.","eng":"weekday"}
+{"eg":"1. I have an important meeting on Tuesday, which is my busiest weekday.\n2. On weekdays, I usually go to the gym after work to stay healthy and fit.\n3. My favorite weekday is Friday because it marks the end of the workweek and the start of the weekend.","eng":"weekday"}

@@ -1,1 +1,1 @@
-{"eg":"1. This restaurant exclusively serves vegetarian cuisine.2. The concert tickets were exclusively available to members of the fan club.3. The company's products are exclusively sold online.","eng":"exclusively"}
+{"eg":"1. This restaurant exclusively serves vegetarian cuisine.\n2. The concert tickets were exclusively available to members of the fan club.\n3. The company's products are exclusively sold online.","eng":"exclusively"}

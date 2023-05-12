@@ -1,1 +1,1 @@
-{"eg":"1. I decided to loaf around on the beach all day and soak up the sun.2. He spent the whole weekend loafing on the couch and binge-watching his favorite TV shows.3. After finishing his work early, he had some time to loaf and explore the city.","eng":"loaf"}
+{"eg":"1. I decided to loaf around on the beach all day and soak up the sun.\n2. He spent the whole weekend loafing on the couch and binge-watching his favorite TV shows.\n3. After finishing his work early, he had some time to loaf and explore the city.","eng":"loaf"}

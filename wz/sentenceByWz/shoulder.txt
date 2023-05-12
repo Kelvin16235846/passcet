@@ -1,1 +1,1 @@
-{"eg":"1. I injured my shoulder last week while playing basketball.2. She carried the heavy box on her shoulder all the way to the top floor.3. He put his arm around her shoulder as a sign of comfort.","eng":"shoulder"}
+{"eg":"1. I injured my shoulder last week while playing basketball.\n2. She carried the heavy box on her shoulder all the way to the top floor.\n3. He put his arm around her shoulder as a sign of comfort.","eng":"shoulder"}

@@ -1,1 +1,1 @@
-{"eg":"1. What time is the meeting scheduled for?2. Could you tell me where the nearest restroom is located?3. Have you finished reading the book I lent you?","eng":"question"}
+{"eg":"1. What time is the meeting scheduled for?\n2. Could you tell me where the nearest restroom is located?\n3. Have you finished reading the book I lent you?","eng":"question"}

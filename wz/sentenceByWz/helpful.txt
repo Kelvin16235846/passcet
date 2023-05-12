@@ -1,1 +1,1 @@
-{"eg":"1. The advice you gave me was extremely helpful in solving the problem.2. I found the online tutorial to be really helpful in understanding the software better.3. The tips and suggestions in the guide were very helpful in preparing for the exam.","eng":"helpful"}
+{"eg":"1. The advice you gave me was extremely helpful in solving the problem.\n2. I found the online tutorial to be really helpful in understanding the software better.\n3. The tips and suggestions in the guide were very helpful in preparing for the exam.","eng":"helpful"}

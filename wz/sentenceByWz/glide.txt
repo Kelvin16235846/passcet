@@ -1,1 +1,1 @@
-{"eg":"1. I glide gracefully across the ice, feeling the cool breeze in my face.2. The eagle glides effortlessly through the sky, its powerful wings barely flapping.3. The boat glides smoothly over the calm waters of the lake, creating gentle ripples in its wake.","eng":"glide"}
+{"eg":"1. I glide gracefully across the ice, feeling the cool breeze in my face.\n2. The eagle glides effortlessly through the sky, its powerful wings barely flapping.\n3. The boat glides smoothly over the calm waters of the lake, creating gentle ripples in its wake.","eng":"glide"}

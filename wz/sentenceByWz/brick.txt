@@ -1,1 +1,1 @@
-{"eg":"1. The brick house stood strong against the raging storm.2. The mason carefully placed each brick for the new building.3. The wall was adorned with colorful bricks, creating a beautiful mosaic.","eng":"brick"}
+{"eg":"1. The brick house stood strong against the raging storm.\n2. The mason carefully placed each brick for the new building.\n3. The wall was adorned with colorful bricks, creating a beautiful mosaic.","eng":"brick"}

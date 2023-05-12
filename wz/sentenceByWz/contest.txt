@@ -1,1 +1,1 @@
-{"eg":"1. I have entered a photography contest and am hoping to win first place.2. The contest was fierce, but she managed to come out on top and take home the prize.3. We are organizing a baking contest to raise money for charity.","eng":"contest"}
+{"eg":"1. I have entered a photography contest and am hoping to win first place.\n2. The contest was fierce, but she managed to come out on top and take home the prize.\n3. We are organizing a baking contest to raise money for charity.","eng":"contest"}

@@ -1,1 +1,1 @@
-{"eg":"1. His name is John and he works in finance.2. The doctor recommended his patient to take his medication every morning.3. His favorite hobby is playing basketball on the weekends.","eng":"his"}
+{"eg":"1. His name is John and he works in finance.\n2. The doctor recommended his patient to take his medication every morning.\n3. His favorite hobby is playing basketball on the weekends.","eng":"his"}

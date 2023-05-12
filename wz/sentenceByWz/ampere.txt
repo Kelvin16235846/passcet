@@ -1,1 +1,1 @@
-{"eg":"1. The current flowing through the wire was measured in amperes.2. The electric car requires an ampere-rated charging station.3. To safely operate the circuit, ensure that the amperage rating of the wires exceeds the expected current.","eng":"ampere"}
+{"eg":"1. The current flowing through the wire was measured in amperes.\n2. The electric car requires an ampere-rated charging station.\n3. To safely operate the circuit, ensure that the amperage rating of the wires exceeds the expected current.","eng":"ampere"}

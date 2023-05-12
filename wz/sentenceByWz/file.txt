@@ -1,1 +1,1 @@
-{"eg":"1. I need to create a new file for the project proposal.2. The file size is too large to be sent via email.3. We should save the important document as a backup file.","eng":"file"}
+{"eg":"1. I need to create a new file for the project proposal.\n2. The file size is too large to be sent via email.\n3. We should save the important document as a backup file.","eng":"file"}

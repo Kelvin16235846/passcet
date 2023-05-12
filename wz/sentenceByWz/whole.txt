@@ -1,1 +1,1 @@
-{"eg":"1. The whole family went to the beach for the weekend.2. She ate the whole cake in one sitting.3. The whole city was covered in snow overnight.","eng":"whole"}
+{"eg":"1. The whole family went to the beach for the weekend.\n2. She ate the whole cake in one sitting.\n3. The whole city was covered in snow overnight.","eng":"whole"}

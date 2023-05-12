@@ -1,1 +1,1 @@
-{"eg":"1. She loves to play the piano and has been practicing for hours.2. The sky turned a beautiful shade of pink as the sun began to set.3. My favorite food is sushi and I could eat it every day if I could.","eng":"playground"}
+{"eg":"1. She loves to play the piano and has been practicing for hours.\n2. The sky turned a beautiful shade of pink as the sun began to set.\n3. My favorite food is sushi and I could eat it every day if I could.","eng":"playground"}

@@ -1,1 +1,1 @@
-{"eg":"1. I left my keys on the kitchen counter.2. He left his job last month to start his own business.3. Don't forget to turn off the lights before you leave the room.","eng":"left"}
+{"eg":"1. I left my keys on the kitchen counter.\n2. He left his job last month to start his own business.\n3. Don't forget to turn off the lights before you leave the room.","eng":"left"}

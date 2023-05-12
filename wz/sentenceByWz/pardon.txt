@@ -1,1 +1,1 @@
-{"eg":"1. Pardon me, I didn't catch your name.2. I beg your pardon but could you please repeat that?3. Pardon us for the interruption, but we need your assistance.","eng":"pardon"}
+{"eg":"1. Pardon me, I didn't catch your name.\n2. I beg your pardon but could you please repeat that?\n3. Pardon us for the interruption, but we need your assistance.","eng":"pardon"}

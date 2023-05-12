@@ -1,1 +1,1 @@
-{"eg":"1. \"You are such a talented musician, I could listen to you play all day.\"2. \"You look absolutely stunning in that outfit, it really suits you.\"3. \"You always know how to make me laugh, you have such a great sense of humor.\"","eng":"you"}
+{"eg":"1. \"You are such a talented musician, I could listen to you play all day.\"\n2. \"You look absolutely stunning in that outfit, it really suits you.\"\n3. \"You always know how to make me laugh, you have such a great sense of humor.\"","eng":"you"}

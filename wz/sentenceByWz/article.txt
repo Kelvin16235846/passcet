@@ -1,1 +1,1 @@
-{"eg":"1. The article discusses the impact of climate change on marine ecosystems.2. The author of the article argues that technology has revolutionized the way we communicate.3. The article explores the history of jazz music and its influence on popular culture.","eng":"article"}
+{"eg":"1. The article discusses the impact of climate change on marine ecosystems.\n2. The author of the article argues that technology has revolutionized the way we communicate.\n3. The article explores the history of jazz music and its influence on popular culture.","eng":"article"}

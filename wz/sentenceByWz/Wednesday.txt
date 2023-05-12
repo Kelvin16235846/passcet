@@ -1,1 +1,1 @@
-{"eg":"1. I have a meeting on Wednesday afternoon.2. She always goes to yoga class on Wednesday mornings.3. Wednesday is halfway through the workweek.","eng":"Wednesday"}
+{"eg":"1. I have a meeting on Wednesday afternoon.\n2. She always goes to yoga class on Wednesday mornings.\n3. Wednesday is halfway through the workweek.","eng":"Wednesday"}

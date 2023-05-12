@@ -1,1 +1,1 @@
-{"eg":"1. His suspicious behavior made me doubt his intentions.2. The police had a suspicion that the suspect was involved in the crime.3. She couldn't help but feel a suspicion that her friend had lied to her.","eng":"suspicion"}
+{"eg":"1. His suspicious behavior made me doubt his intentions.\n2. The police had a suspicion that the suspect was involved in the crime.\n3. She couldn't help but feel a suspicion that her friend had lied to her.","eng":"suspicion"}

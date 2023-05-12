@@ -1,1 +1,1 @@
-{"eg":"1. I finally managed to fulfil my lifelong dream of travelling to Japan.2. The company must fulfil its contractual obligations to avoid legal consequences.3. Running a marathon has always been a goal of mine, and I'm determined to fulfil it this year.","eng":"fulfil"}
+{"eg":"1. I finally managed to fulfil my lifelong dream of travelling to Japan.\n2. The company must fulfil its contractual obligations to avoid legal consequences.\n3. Running a marathon has always been a goal of mine, and I'm determined to fulfil it this year.","eng":"fulfil"}

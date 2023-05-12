@@ -1,1 +1,1 @@
-{"eg":"1. The wide river flowed majestically towards the sea.2. The wide variety of dishes offered at the restaurant cater to different tastes.3. The wide smile on her face showed how happy she was to see her old friend.","eng":"wide"}
+{"eg":"1. The wide river flowed majestically towards the sea.\n2. The wide variety of dishes offered at the restaurant cater to different tastes.\n3. The wide smile on her face showed how happy she was to see her old friend.","eng":"wide"}

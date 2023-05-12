@@ -1,1 +1,1 @@
-{"eg":"1. I had a full day at work and just want to relax now.2. The restaurant serves full meals at lunchtime.3. The concert hall was filled to its full capacity for the performance.","eng":"full"}
+{"eg":"1. I had a full day at work and just want to relax now.\n2. The restaurant serves full meals at lunchtime.\n3. The concert hall was filled to its full capacity for the performance.","eng":"full"}

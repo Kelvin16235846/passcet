@@ -1,1 +1,1 @@
-{"eg":"1. Buongiorno, come stai? (Good morning, how are you?)2. Sono italiano e mi piace la pizza. (I am Italian and I love pizza.)3. Mi dispiace, non parlo inglese. (I'm sorry, I don't speak English.)","eng":"Italian"}
+{"eg":"1. Buongiorno, come stai? (Good morning, how are you?)\n2. Sono italiano e mi piace la pizza. (I am Italian and I love pizza.)\n3. Mi dispiace, non parlo inglese. (I'm sorry, I don't speak English.)","eng":"Italian"}

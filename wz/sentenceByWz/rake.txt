@@ -1,1 +1,1 @@
-{"eg":"1. I always wake up early to start my day off on the right foot.2. The key to success is perseverance and hard work.3. She decided to take a break and indulge in a day of pampering at the spa.","eng":"rake"}
+{"eg":"1. I always wake up early to start my day off on the right foot.\n2. The key to success is perseverance and hard work.\n3. She decided to take a break and indulge in a day of pampering at the spa.","eng":"rake"}

@@ -1,1 +1,1 @@
-{"eg":"1. Breakfast is the most important meal of the day.2. I usually have cereal or oatmeal for breakfast.3. Meeting friends for breakfast on weekends is one of my favorite things to do.","eng":"breakfast"}
+{"eg":"1. Breakfast is the most important meal of the day.\n2. I usually have cereal or oatmeal for breakfast.\n3. Meeting friends for breakfast on weekends is one of my favorite things to do.","eng":"breakfast"}

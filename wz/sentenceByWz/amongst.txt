@@ -1,1 +1,1 @@
-{"eg":"1. Amongst all the flowers in the garden, the rose is my favorite.2. He was the most respected leader amongst his peers.3. Whilst walking amongst the tall trees, I felt a sense of peace and solitude.","eng":"amongst"}
+{"eg":"1. Amongst all the flowers in the garden, the rose is my favorite.\n2. He was the most respected leader amongst his peers.\n3. Whilst walking amongst the tall trees, I felt a sense of peace and solitude.","eng":"amongst"}

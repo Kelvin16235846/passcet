@@ -1,1 +1,1 @@
-{"eg":"1. The agony of losing someone you love is immeasurable.2. I could see the agony in his eyes as he struggled to complete the task.3. The agony of defeat is a harsh reality for athletes, but it also fuels their determination to succeed.","eng":"agony"}
+{"eg":"1. The agony of losing someone you love is immeasurable.\n2. I could see the agony in his eyes as he struggled to complete the task.\n3. The agony of defeat is a harsh reality for athletes, but it also fuels their determination to succeed.","eng":"agony"}

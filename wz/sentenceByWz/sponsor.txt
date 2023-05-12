@@ -1,1 +1,1 @@
-{"eg":"1. Our company is looking for a sponsor to support our upcoming charity event.2. Without a generous sponsor, we would not be able to fund this project.3. Thanks to our sponsor, we were able to provide scholarships for several deserving students.","eng":"sponsor"}
+{"eg":"1. Our company is looking for a sponsor to support our upcoming charity event.\n2. Without a generous sponsor, we would not be able to fund this project.\n3. Thanks to our sponsor, we were able to provide scholarships for several deserving students.","eng":"sponsor"}

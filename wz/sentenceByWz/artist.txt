@@ -1,1 +1,1 @@
-{"eg":"1. The artist's latest masterpiece was sold for millions at the auction.2. I admire the artist's ability to capture emotion in their paintings.3. The exhibition featured works by various artists from around the world.","eng":"artist"}
+{"eg":"1. The artist's latest masterpiece was sold for millions at the auction.\n2. I admire the artist's ability to capture emotion in their paintings.\n3. The exhibition featured works by various artists from around the world.","eng":"artist"}

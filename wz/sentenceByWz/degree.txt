@@ -1,1 +1,1 @@
-{"eg":"1. I have a Bachelor's degree in Marketing from the University of London.2. After completing her Master's degree in Linguistics, she went on to pursue a PhD.3. He has a degree in Business Administration and is now a successful entrepreneur.","eng":"degree"}
+{"eg":"1. I have a Bachelor's degree in Marketing from the University of London.\n2. After completing her Master's degree in Linguistics, she went on to pursue a PhD.\n3. He has a degree in Business Administration and is now a successful entrepreneur.","eng":"degree"}

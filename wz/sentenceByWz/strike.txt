@@ -1,1 +1,1 @@
-{"eg":"1. The workers threatened to go on strike if their demands were not met.2. The pitcher threw a perfect strike and struck out the batter.3. The lightning strike caused a power outage across the entire city.","eng":"strike"}
+{"eg":"1. The workers threatened to go on strike if their demands were not met.\n2. The pitcher threw a perfect strike and struck out the batter.\n3. The lightning strike caused a power outage across the entire city.","eng":"strike"}

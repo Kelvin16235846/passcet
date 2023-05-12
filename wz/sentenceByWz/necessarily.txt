@@ -1,1 +1,1 @@
-{"eg":"1. Just because someone is wealthy doesn't necessarily mean they are happy.2. Being popular in high school doesn't necessarily guarantee success in life.3. A higher salary doesn't necessarily equate to job satisfaction.","eng":"necessarily"}
+{"eg":"1. Just because someone is wealthy doesn't necessarily mean they are happy.\n2. Being popular in high school doesn't necessarily guarantee success in life.\n3. A higher salary doesn't necessarily equate to job satisfaction.","eng":"necessarily"}

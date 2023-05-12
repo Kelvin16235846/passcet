@@ -1,1 +1,1 @@
-{"eg":"1. My dream is to travel around the world and experience different cultures.2. She followed her dream of becoming a famous actress and eventually landed her breakout role.3. Despite setbacks and failures, he never gave up on his dream of starting his own business.","eng":"dream"}
+{"eg":"1. My dream is to travel around the world and experience different cultures.\n2. She followed her dream of becoming a famous actress and eventually landed her breakout role.\n3. Despite setbacks and failures, he never gave up on his dream of starting his own business.","eng":"dream"}

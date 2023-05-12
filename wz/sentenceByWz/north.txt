@@ -1,1 +1,1 @@
-{"eg":"1. The north wind blew fiercely, scattering the leaves and bending the trees.2. We walked to the north of the city and found ourselves in a beautiful park.3. The Aurora Borealis is a stunning natural display that can only be seen in the far north.","eng":"north"}
+{"eg":"1. The north wind blew fiercely, scattering the leaves and bending the trees.\n2. We walked to the north of the city and found ourselves in a beautiful park.\n3. The Aurora Borealis is a stunning natural display that can only be seen in the far north.","eng":"north"}

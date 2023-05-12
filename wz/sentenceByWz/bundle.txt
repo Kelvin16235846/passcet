@@ -1,1 +1,1 @@
-{"eg":"1. I bundled up in my warmest coat and scarf to brave the icy winds outside.2. She bundled the clothes into the washing machine and added detergent.3. The company offered a bundle deal where customers could buy a phone, tablet, and laptop for a discounted price.","eng":"bundle"}
+{"eg":"1. I bundled up in my warmest coat and scarf to brave the icy winds outside.\n2. She bundled the clothes into the washing machine and added detergent.\n3. The company offered a bundle deal where customers could buy a phone, tablet, and laptop for a discounted price.","eng":"bundle"}

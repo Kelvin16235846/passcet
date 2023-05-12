@@ -1,1 +1,1 @@
-{"eg":"1. The dense forest was difficult to navigate through.2. The city's population density was much higher than that of the rural areas.3. The air was thick and dense with smoke from the nearby wildfire.","eng":"dense"}
+{"eg":"1. The dense forest was difficult to navigate through.\n2. The city's population density was much higher than that of the rural areas.\n3. The air was thick and dense with smoke from the nearby wildfire.","eng":"dense"}

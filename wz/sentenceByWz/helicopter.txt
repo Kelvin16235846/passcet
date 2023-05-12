@@ -1,1 +1,1 @@
-{"eg":"1. The helicopter flew over the city and landed on top of the skyscraper.2. The rescue team used a helicopter to rescue the hikers stranded on the mountain.3. The millionaire arrived at his private island in a luxurious helicopter.","eng":"helicopter"}
+{"eg":"1. The helicopter flew over the city and landed on top of the skyscraper.\n2. The rescue team used a helicopter to rescue the hikers stranded on the mountain.\n3. The millionaire arrived at his private island in a luxurious helicopter.","eng":"helicopter"}

@@ -1,1 +1,1 @@
-{"eg":"1. I will finish my homework before going out to play.2. My mom will bake a cake for my birthday party next week.3. We will visit New York City next summer for a family vacation.","eng":"will"}
+{"eg":"1. I will finish my homework before going out to play.\n2. My mom will bake a cake for my birthday party next week.\n3. We will visit New York City next summer for a family vacation.","eng":"will"}

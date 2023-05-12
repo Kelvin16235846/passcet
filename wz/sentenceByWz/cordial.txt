@@ -1,1 +1,1 @@
-{"eg":"1. Cordial greetings to all the attendees of this important conference.2. Despite their differences, the two leaders tried to maintain a cordial relationship.3. Thank you for your cordial invitation to attend your wedding.","eng":"cordial"}
+{"eg":"1. Cordial greetings to all the attendees of this important conference.\n2. Despite their differences, the two leaders tried to maintain a cordial relationship.\n3. Thank you for your cordial invitation to attend your wedding.","eng":"cordial"}

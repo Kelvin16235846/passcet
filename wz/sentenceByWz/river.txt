@@ -1,1 +1,1 @@
-{"eg":"1. The river flowed gently through the meadow, reflecting the bright blue sky above.2. Standing on the banks of the river, we watched as the sun set behind the distant hills.3. The group set off on a canoe trip down the river, eager to explore its twists and turns.","eng":"river"}
+{"eg":"1. The river flowed gently through the meadow, reflecting the bright blue sky above.\n2. Standing on the banks of the river, we watched as the sun set behind the distant hills.\n3. The group set off on a canoe trip down the river, eager to explore its twists and turns.","eng":"river"}

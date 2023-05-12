@@ -1,1 +1,1 @@
-{"eg":"1. The voltage reading on the multimeter indicated a power surge in the circuit.2. The voltage drop across the resistor was the reason for the reduced current flow.3. The high voltage transmission lines were clearly visible against the blue sky.","eng":"voltage"}
+{"eg":"1. The voltage reading on the multimeter indicated a power surge in the circuit.\n2. The voltage drop across the resistor was the reason for the reduced current flow.\n3. The high voltage transmission lines were clearly visible against the blue sky.","eng":"voltage"}

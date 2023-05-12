@@ -1,1 +1,1 @@
-{"eg":"1. I will do my utmost to ensure the project is completed on time.2. Despite her injury, she gave it her utmost effort and won the race.3. The soldier showed his utmost bravery in the face of danger.","eng":"utmost"}
+{"eg":"1. I will do my utmost to ensure the project is completed on time.\n2. Despite her injury, she gave it her utmost effort and won the race.\n3. The soldier showed his utmost bravery in the face of danger.","eng":"utmost"}

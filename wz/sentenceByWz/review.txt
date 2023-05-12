@@ -1,1 +1,1 @@
-{"eg":"1. I read a glowing review of the new restaurant and decided to give it a try.2. The negative review of the movie convinced me not to see it.3. Her book received mixed reviews from critics and readers alike.","eng":"review"}
+{"eg":"1. I read a glowing review of the new restaurant and decided to give it a try.\n2. The negative review of the movie convinced me not to see it.\n3. Her book received mixed reviews from critics and readers alike.","eng":"review"}

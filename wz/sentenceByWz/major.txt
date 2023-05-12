@@ -1,1 +1,1 @@
-{"eg":"1. My major in college was psychology.2. He decided to switch his major from engineering to accounting.3. She graduated with honors in her major of communications.","eng":"major"}
+{"eg":"1. My major in college was psychology.\n2. He decided to switch his major from engineering to accounting.\n3. She graduated with honors in her major of communications.","eng":"major"}

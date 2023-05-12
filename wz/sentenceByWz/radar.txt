@@ -1,1 +1,1 @@
-{"eg":"1. The radar detected a group of planes approaching from the east.2. The ship's radar picked up a large iceberg ahead.3. The weather radar predicted heavy rainfall in the area.","eng":"radar"}
+{"eg":"1. The radar detected a group of planes approaching from the east.\n2. The ship's radar picked up a large iceberg ahead.\n3. The weather radar predicted heavy rainfall in the area.","eng":"radar"}

@@ -1,1 +1,1 @@
-{"eg":"1. As the weather became dry, the farmers had to irrigate their crops more frequently.2. The dry humor of the stand-up comedian left the audience in stitches.3. The dry conditions in the desert made it difficult for the expedition to find water.","eng":"dry"}
+{"eg":"1. As the weather became dry, the farmers had to irrigate their crops more frequently.\n2. The dry humor of the stand-up comedian left the audience in stitches.\n3. The dry conditions in the desert made it difficult for the expedition to find water.","eng":"dry"}

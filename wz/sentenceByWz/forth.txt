@@ -1,1 +1,1 @@
-{"eg":"1. I love spending time with my family on weekends.2. She enjoys reading books in her free time.3. He is a talented musician who plays the guitar and piano.","eng":"forth"}
+{"eg":"1. I love spending time with my family on weekends.\n2. She enjoys reading books in her free time.\n3. He is a talented musician who plays the guitar and piano.","eng":"forth"}

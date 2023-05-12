@@ -1,1 +1,1 @@
-{"eg":"1. It's always nice to spend time with family and friends.2. I received a nice compliment from my boss today.3. Taking a walk outside in the nice weather is so refreshing.","eng":"nice"}
+{"eg":"1. It's always nice to spend time with family and friends.\n2. I received a nice compliment from my boss today.\n3. Taking a walk outside in the nice weather is so refreshing.","eng":"nice"}

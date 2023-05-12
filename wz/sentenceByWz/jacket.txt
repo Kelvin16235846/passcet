@@ -1,1 +1,1 @@
-{"eg":"1. I always wear my denim jacket when I go out on a cool evening.2. His leather jacket made him look like a cool biker.3. She draped her jacket over the chair and settled into the cozy armchair by the fireplace.","eng":"jacket"}
+{"eg":"1. I always wear my denim jacket when I go out on a cool evening.\n2. His leather jacket made him look like a cool biker.\n3. She draped her jacket over the chair and settled into the cozy armchair by the fireplace.","eng":"jacket"}

@@ -1,1 +1,1 @@
-{"eg":"1. The temperature is trending upwards, so we might want to turn on the air conditioning.2. The stock market has been moving upwards steadily for the past week.3. His career has been on an upwards trajectory since he joined the company.","eng":"upwards"}
+{"eg":"1. The temperature is trending upwards, so we might want to turn on the air conditioning.\n2. The stock market has been moving upwards steadily for the past week.\n3. His career has been on an upwards trajectory since he joined the company.","eng":"upwards"}

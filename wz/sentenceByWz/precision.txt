@@ -1,1 +1,1 @@
-{"eg":"1. The precision of the measuring instrument ensured accurate readings.2. Due to the precision of the surgeon's hands, the delicate procedure was successful.3. The precision of the athlete's movements allowed them to set a new world record.","eng":"precision"}
+{"eg":"1. The precision of the measuring instrument ensured accurate readings.\n2. Due to the precision of the surgeon's hands, the delicate procedure was successful.\n3. The precision of the athlete's movements allowed them to set a new world record.","eng":"precision"}

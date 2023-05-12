@@ -1,1 +1,1 @@
-{"eg":"1. I am a master and he is my loyal slave.2. The slave revolt against their masters brought about a significant change in society.3. The plantation owner treated his slaves with cruelty and disregard for their humanity.","eng":"slave"}
+{"eg":"1. I am a master and he is my loyal slave.\n2. The slave revolt against their masters brought about a significant change in society.\n3. The plantation owner treated his slaves with cruelty and disregard for their humanity.","eng":"slave"}

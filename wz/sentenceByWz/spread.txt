@@ -1,1 +1,1 @@
-{"eg":"1. The rumor about the celebrity's wedding quickly spread across social media.2. My aunt always spreads butter on her toast before adding jam or honey.3. The fire department advised residents to spread out and avoid congested areas during the wildfire.","eng":"spread"}
+{"eg":"1. The rumor about the celebrity's wedding quickly spread across social media.\n2. My aunt always spreads butter on her toast before adding jam or honey.\n3. The fire department advised residents to spread out and avoid congested areas during the wildfire.","eng":"spread"}

@@ -1,1 +1,1 @@
-{"eg":"1. She received a beautiful gift from her best friend on her birthday.2. He gave his girlfriend a thoughtful gift for their anniversary.3. The company handed out gifts to its employees as a token of appreciation for their hard work.","eng":"gift"}
+{"eg":"1. She received a beautiful gift from her best friend on her birthday.\n2. He gave his girlfriend a thoughtful gift for their anniversary.\n3. The company handed out gifts to its employees as a token of appreciation for their hard work.","eng":"gift"}

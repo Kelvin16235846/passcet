@@ -1,1 +1,1 @@
-{"eg":"1. I love trying new types of food, especially when I travel to different countries.2. My favorite comfort food is macaroni and cheese, it always makes me feel better.3. My mom is an amazing cook, she can make any food taste delicious.","eng":"food"}
+{"eg":"1. I love trying new types of food, especially when I travel to different countries.\n2. My favorite comfort food is macaroni and cheese, it always makes me feel better.\n3. My mom is an amazing cook, she can make any food taste delicious.","eng":"food"}

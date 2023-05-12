@@ -1,1 +1,1 @@
-{"eg":"1. You can choose your favorite dish from our extensive menu.2. The restaurant changed its menu, adding several new vegetarian options.3. The waiter handed me a menu and took my drink order.","eng":"menu"}
+{"eg":"1. You can choose your favorite dish from our extensive menu.\n2. The restaurant changed its menu, adding several new vegetarian options.\n3. The waiter handed me a menu and took my drink order.","eng":"menu"}

@@ -1,1 +1,1 @@
-{"eg":"1. Mental discipline is essential for achieving success in any endeavor.2. The mental health crisis in our society must be addressed with urgency.3. Meditation and mindfulness practices can greatly improve one's mental clarity and emotional well-being.","eng":"mental"}
+{"eg":"1. Mental discipline is essential for achieving success in any endeavor.\n2. The mental health crisis in our society must be addressed with urgency.\n3. Meditation and mindfulness practices can greatly improve one's mental clarity and emotional well-being.","eng":"mental"}

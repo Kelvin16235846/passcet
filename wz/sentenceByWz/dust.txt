@@ -1,1 +1,1 @@
-{"eg":"1. The old room had a thick layer of dust on every surface.2. The wind blew the dust off the road and into our eyes.3. I tried to sweep away the dust under the couch, but it seemed to multiply.","eng":"dust"}
+{"eg":"1. The old room had a thick layer of dust on every surface.\n2. The wind blew the dust off the road and into our eyes.\n3. I tried to sweep away the dust under the couch, but it seemed to multiply.","eng":"dust"}

@@ -1,1 +1,1 @@
-{"eg":"1. She baked a delicious pie for dessert tonight.2. I couldn't resist the smell of freshly baked apple pie.3. Their family tradition was to bake a pumpkin pie every Thanksgiving.","eng":"pie"}
+{"eg":"1. She baked a delicious pie for dessert tonight.\n2. I couldn't resist the smell of freshly baked apple pie.\n3. Their family tradition was to bake a pumpkin pie every Thanksgiving.","eng":"pie"}

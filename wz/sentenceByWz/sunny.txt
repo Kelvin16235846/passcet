@@ -1,1 +1,1 @@
-{"eg":"1. Sunny’s smile brightens up even the gloomiest of days.2. Whenever I’m feeling down, a walk in the sunny park never fails to lift my spirits.3. The sunny weather made for perfect beach day conditions.","eng":"sunny"}
+{"eg":"1. Sunny’s smile brightens up even the gloomiest of days.\n2. Whenever I’m feeling down, a walk in the sunny park never fails to lift my spirits.\n3. The sunny weather made for perfect beach day conditions.","eng":"sunny"}

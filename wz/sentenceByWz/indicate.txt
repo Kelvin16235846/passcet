@@ -1,1 +1,1 @@
-{"eg":"1. The weather forecast indicates that it will be sunny tomorrow.2. The rising unemployment rate indicates an unstable economy.3. The study's results indicate a strong correlation between diet and heart disease.","eng":"indicate"}
+{"eg":"1. The weather forecast indicates that it will be sunny tomorrow.\n2. The rising unemployment rate indicates an unstable economy.\n3. The study's results indicate a strong correlation between diet and heart disease.","eng":"indicate"}

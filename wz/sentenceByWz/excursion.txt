@@ -1,1 +1,1 @@
-{"eg":"1. Yesterday, we went on a beach excursion and swam in the crystal-clear water.2. The travel agency is organizing an exciting excursion to the famous Mayan ruins next weekend.3. During our mountain excursion, we had a breathtaking view of the valley below.","eng":"excursion"}
+{"eg":"1. Yesterday, we went on a beach excursion and swam in the crystal-clear water.\n2. The travel agency is organizing an exciting excursion to the famous Mayan ruins next weekend.\n3. During our mountain excursion, we had a breathtaking view of the valley below.","eng":"excursion"}

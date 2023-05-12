@@ -1,1 +1,1 @@
-{"eg":"1. I always add nuts to my oatmeal for added protein and crunch.2. The recipe calls for chopped nuts, but I accidentally used whole nuts instead.3. My favorite snack is a handful of mixed nuts, such as almonds, cashews, and peanuts.","eng":"nut"}
+{"eg":"1. I always add nuts to my oatmeal for added protein and crunch.\n2. The recipe calls for chopped nuts, but I accidentally used whole nuts instead.\n3. My favorite snack is a handful of mixed nuts, such as almonds, cashews, and peanuts.","eng":"nut"}

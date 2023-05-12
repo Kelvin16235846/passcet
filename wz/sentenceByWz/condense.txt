@@ -1,1 +1,1 @@
-{"eg":"1. I need to condense all of my notes into a shorter summary for the presentation.2. The article was too long, so I condensed it into a brief summary.3. In order to save space, I had to condense my luggage into a smaller suitcase.","eng":"condense"}
+{"eg":"1. I need to condense all of my notes into a shorter summary for the presentation.\n2. The article was too long, so I condensed it into a brief summary.\n3. In order to save space, I had to condense my luggage into a smaller suitcase.","eng":"condense"}

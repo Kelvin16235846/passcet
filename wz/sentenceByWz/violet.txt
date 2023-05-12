@@ -1,1 +1,1 @@
-{"eg":"1. Violet loves to paint beautiful landscapes with vibrant colors.2. The violet flower symbolizes loyalty, devotion and faithfulness.3. She wore a stunning violet dress to the gala event last night.","eng":"violet"}
+{"eg":"1. Violet loves to paint beautiful landscapes with vibrant colors.\n2. The violet flower symbolizes loyalty, devotion and faithfulness.\n3. She wore a stunning violet dress to the gala event last night.","eng":"violet"}

@@ -1,1 +1,1 @@
-{"eg":"1. I can be cracked, made, told, and played. What am I? (Answer: a joke)2. I am always hungry, I must always be fed. The finger I touch, will soon turn red. What am I? (Answer: fire)3. The more you take, the more you leave behind. What am I? (Answer: footsteps)","eng":"riddle"}
+{"eg":"1. I can be cracked, made, told, and played. What am I? (Answer: a joke)\n2. I am always hungry, I must always be fed. The finger I touch, will soon turn red. What am I? (Answer: fire)\n3. The more you take, the more you leave behind. What am I? (Answer: footsteps)","eng":"riddle"}

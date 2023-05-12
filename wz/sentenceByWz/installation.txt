@@ -1,1 +1,1 @@
-{"eg":"1. The installation process for this software is quick and simple.2. The installation of new equipment will require additional training for our employees.3. The installation of solar panels on our roof will greatly reduce our energy costs.","eng":"installation"}
+{"eg":"1. The installation process for this software is quick and simple.\n2. The installation of new equipment will require additional training for our employees.\n3. The installation of solar panels on our roof will greatly reduce our energy costs.","eng":"installation"}

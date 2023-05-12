@@ -1,1 +1,1 @@
-{"eg":"1. The puff of smoke rose into the air, signaling the start of the fireworks display.2. With a puff of air, she blew out the candles on her birthday cake.3. The cute puppy let out a puff of air as he settled into his cozy bed.","eng":"puff"}
+{"eg":"1. The puff of smoke rose into the air, signaling the start of the fireworks display.\n2. With a puff of air, she blew out the candles on her birthday cake.\n3. The cute puppy let out a puff of air as he settled into his cozy bed.","eng":"puff"}

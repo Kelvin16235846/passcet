@@ -1,1 +1,1 @@
-{"eg":"1. I couldn't help but stare at the stunning sunset over the mountains.2. He stared at his computer screen, trying to solve the complex coding problem.3. The creepy old man made me feel uncomfortable with his unending stare.","eng":"stare"}
+{"eg":"1. I couldn't help but stare at the stunning sunset over the mountains.\n2. He stared at his computer screen, trying to solve the complex coding problem.\n3. The creepy old man made me feel uncomfortable with his unending stare.","eng":"stare"}

@@ -1,1 +1,1 @@
-{"eg":"1. She made a conscious effort to be more mindful of her thoughts and emotions.2. The conscious decision to prioritize her health and well-being paid off in the long run.3. He knew he was lying, but he couldn't bring himself to be conscious of the truth.","eng":"conscious"}
+{"eg":"1. She made a conscious effort to be more mindful of her thoughts and emotions.\n2. The conscious decision to prioritize her health and well-being paid off in the long run.\n3. He knew he was lying, but he couldn't bring himself to be conscious of the truth.","eng":"conscious"}

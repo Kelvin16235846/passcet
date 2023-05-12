@@ -1,1 +1,1 @@
-{"eg":"1. Her appearance left a lasting impression on everyone who met her.2. The sudden change in his appearance raised concerns among his colleagues.3. The store's appearance was so appealing that it attracted customers from all over town.","eng":"appearance"}
+{"eg":"1. Her appearance left a lasting impression on everyone who met her.\n2. The sudden change in his appearance raised concerns among his colleagues.\n3. The store's appearance was so appealing that it attracted customers from all over town.","eng":"appearance"}

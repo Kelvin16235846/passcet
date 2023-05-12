@@ -1,1 +1,1 @@
-{"eg":"1. The horse was fitted with a sturdy harness to pull the heavy wagon.2. The team of sled dogs wore colorful harnesses to help guide their movements.3. The firefighter quickly put on his harness before scaling the burning building.","eng":"harness"}
+{"eg":"1. The horse was fitted with a sturdy harness to pull the heavy wagon.\n2. The team of sled dogs wore colorful harnesses to help guide their movements.\n3. The firefighter quickly put on his harness before scaling the burning building.","eng":"harness"}

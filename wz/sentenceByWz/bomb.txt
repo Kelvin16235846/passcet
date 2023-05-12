@@ -1,1 +1,1 @@
-{"eg":"1. The enemy base was bombed relentlessly until it was completely destroyed.2. In order to diffuse the bomb, the bomb squad had to work quickly and carefully.3. The terrorist threatened to plant a bomb in the city center if their demands were not met.","eng":"bomb"}
+{"eg":"1. The enemy base was bombed relentlessly until it was completely destroyed.\n2. In order to diffuse the bomb, the bomb squad had to work quickly and carefully.\n3. The terrorist threatened to plant a bomb in the city center if their demands were not met.","eng":"bomb"}

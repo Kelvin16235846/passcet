@@ -1,1 +1,1 @@
-{"eg":"1. The mistress of the house was satisfied with the new décor.2. He had a mistress on the side for years, but his wife never found out.3. The CEO's mistress flew first-class to meet him at his hotel for their secret rendezvous.","eng":"mistress"}
+{"eg":"1. The mistress of the house was satisfied with the new décor.\n2. He had a mistress on the side for years, but his wife never found out.\n3. The CEO's mistress flew first-class to meet him at his hotel for their secret rendezvous.","eng":"mistress"}

@@ -1,1 +1,1 @@
-{"eg":"1. My best friend and I have been inseparable since we were in preschool.2. I love catching up with old friends and reminiscing about the good old days.3. A true friend is someone who is always there for you, no matter what.","eng":"friend"}
+{"eg":"1. My best friend and I have been inseparable since we were in preschool.\n2. I love catching up with old friends and reminiscing about the good old days.\n3. A true friend is someone who is always there for you, no matter what.","eng":"friend"}

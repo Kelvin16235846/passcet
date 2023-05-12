@@ -1,1 +1,1 @@
-{"eg":"1. Swiss watches are renowned for their precision and quality.2. Switzerland is known for its stunning alpine scenery.3. Swiss chocolate is considered some of the best in the world.","eng":"Swiss"}
+{"eg":"1. Swiss watches are renowned for their precision and quality.\n2. Switzerland is known for its stunning alpine scenery.\n3. Swiss chocolate is considered some of the best in the world.","eng":"Swiss"}

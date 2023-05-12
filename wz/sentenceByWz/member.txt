@@ -1,1 +1,1 @@
-{"eg":"1. As a member of the team, I will do my best to contribute to our success.2. You must be a member to access the exclusive benefits of this club.3. Being a member of this organization has given me valuable networking opportunities.","eng":"member"}
+{"eg":"1. As a member of the team, I will do my best to contribute to our success.\n2. You must be a member to access the exclusive benefits of this club.\n3. Being a member of this organization has given me valuable networking opportunities.","eng":"member"}

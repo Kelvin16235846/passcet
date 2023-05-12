@@ -1,1 +1,1 @@
-{"eg":"1. She was ragged after a long day of hiking in the mountains.2. The old cloth was turned into a rag and used for cleaning the kitchen.3. His clothes were torn and ragged, evidence of his struggle to survive in the wilderness.","eng":"rag"}
+{"eg":"1. She was ragged after a long day of hiking in the mountains.\n2. The old cloth was turned into a rag and used for cleaning the kitchen.\n3. His clothes were torn and ragged, evidence of his struggle to survive in the wilderness.","eng":"rag"}

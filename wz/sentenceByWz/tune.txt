@@ -1,1 +1,1 @@
-{"eg":"1. I need to tune my guitar before the concert tonight.2. The pianist spent hours tuning the piano to perfection.3. The mechanic had to tune the car's engine to make it more fuel-efficient.","eng":"tune"}
+{"eg":"1. I need to tune my guitar before the concert tonight.\n2. The pianist spent hours tuning the piano to perfection.\n3. The mechanic had to tune the car's engine to make it more fuel-efficient.","eng":"tune"}

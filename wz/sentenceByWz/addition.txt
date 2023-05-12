@@ -1,1 +1,1 @@
-{"eg":"1. I need to do some addition to figure out how much money I have left.2. The student struggled with addition at first but eventually got the hang of it.3. The businessman quickly did the addition in his head to calculate the total profit.","eng":"addition"}
+{"eg":"1. I need to do some addition to figure out how much money I have left.\n2. The student struggled with addition at first but eventually got the hang of it.\n3. The businessman quickly did the addition in his head to calculate the total profit.","eng":"addition"}

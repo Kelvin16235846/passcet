@@ -1,1 +1,1 @@
-{"eg":"1. His new job greatly increased his income.2. She greatly enjoyed the concert last night.3. The discovery of a cure for cancer would greatly benefit society.","eng":"greatly"}
+{"eg":"1. His new job greatly increased his income.\n2. She greatly enjoyed the concert last night.\n3. The discovery of a cure for cancer would greatly benefit society.","eng":"greatly"}

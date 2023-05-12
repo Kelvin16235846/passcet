@@ -1,1 +1,1 @@
-{"eg":"1. Nor do I have any interest in attending the party.2. I cannot afford to buy a new car, nor do I have the time to research one.3. She didn't like the movie, nor did she enjoy the popcorn.","eng":"nor"}
+{"eg":"1. Nor do I have any interest in attending the party.\n2. I cannot afford to buy a new car, nor do I have the time to research one.\n3. She didn't like the movie, nor did she enjoy the popcorn.","eng":"nor"}

@@ -1,1 +1,1 @@
-{"eg":"1. I can derive happiness from spending time with loved ones.2. The company was able to derive valuable insights from analyzing customer feedback.3. The scientist was able to derive a new theory based on his observations and experiments.","eng":"derive"}
+{"eg":"1. I can derive happiness from spending time with loved ones.\n2. The company was able to derive valuable insights from analyzing customer feedback.\n3. The scientist was able to derive a new theory based on his observations and experiments.","eng":"derive"}

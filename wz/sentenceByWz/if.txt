@@ -1,1 +1,1 @@
-{"eg":"1. If it rains today, we will have to cancel our picnic.2. If I have time after work, I will stop by the grocery store.3. If you don't study for your exam, you might not do well.","eng":"if"}
+{"eg":"1. If it rains today, we will have to cancel our picnic.\n2. If I have time after work, I will stop by the grocery store.\n3. If you don't study for your exam, you might not do well.","eng":"if"}

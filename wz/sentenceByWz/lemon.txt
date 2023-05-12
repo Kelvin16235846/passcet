@@ -1,1 +1,1 @@
-{"eg":"1. I added a slice of lemon to my water for some extra flavor.2. The lemon tree in my backyard produces juicy, yellow fruit.3. A squeeze of lemon can add a tangy kick to your salad dressing.","eng":"lemon"}
+{"eg":"1. I added a slice of lemon to my water for some extra flavor.\n2. The lemon tree in my backyard produces juicy, yellow fruit.\n3. A squeeze of lemon can add a tangy kick to your salad dressing.","eng":"lemon"}

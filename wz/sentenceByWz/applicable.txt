@@ -1,1 +1,1 @@
-{"eg":"1. The new regulations are only applicable to companies with more than 50 employees.2. This discount code is only applicable for purchases made online.3. The lesson plan was not applicable to the students' learning level and had to be revised.","eng":"applicable"}
+{"eg":"1. The new regulations are only applicable to companies with more than 50 employees.\n2. This discount code is only applicable for purchases made online.\n3. The lesson plan was not applicable to the students' learning level and had to be revised.","eng":"applicable"}

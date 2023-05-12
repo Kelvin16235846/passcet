@@ -1,1 +1,1 @@
-{"eg":"1. The top of the mountain was covered in snow.2. He placed the cake on top of the table.3. The student performed at the top of her class.","eng":"top"}
+{"eg":"1. The top of the mountain was covered in snow.\n2. He placed the cake on top of the table.\n3. The student performed at the top of her class.","eng":"top"}

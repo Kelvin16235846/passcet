@@ -1,1 +1,1 @@
-{"eg":"1. One of the characteristic features of lions is their mane.2. The characteristic scent of lavender can be detected from a distance.3. His intellectual curiosity is one of his strongest characteristic traits.","eng":"characteristic"}
+{"eg":"1. One of the characteristic features of lions is their mane.\n2. The characteristic scent of lavender can be detected from a distance.\n3. His intellectual curiosity is one of his strongest characteristic traits.","eng":"characteristic"}

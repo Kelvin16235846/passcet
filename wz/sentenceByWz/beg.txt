@@ -1,1 +1,1 @@
-{"eg":"1. Let me beg your forgiveness for my mistake.2. I'm going to beg my parents for a new car for my birthday.3. She had to beg for food on the streets when she lost her job.","eng":"beg"}
+{"eg":"1. Let me beg your forgiveness for my mistake.\n2. I'm going to beg my parents for a new car for my birthday.\n3. She had to beg for food on the streets when she lost her job.","eng":"beg"}

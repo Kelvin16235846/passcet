@@ -1,1 +1,1 @@
-{"eg":"1. The teacher gave very specific instructions on how to solve the math problem.2. My boss requested a specific type of coffee for her morning meetings.3. The doctor prescribed a specific dosage of medication for each day.","eng":"specific"}
+{"eg":"1. The teacher gave very specific instructions on how to solve the math problem.\n2. My boss requested a specific type of coffee for her morning meetings.\n3. The doctor prescribed a specific dosage of medication for each day.","eng":"specific"}

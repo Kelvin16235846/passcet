@@ -1,1 +1,1 @@
-{"eg":"1. He seemed indifferent to what was going on around him, lost in his own thoughts.2. She gave an indifferent shrug when asked if she wanted to go out that night.3. The critics were largely indifferent to the director's latest film, finding it unremarkable.","eng":"indifferent"}
+{"eg":"1. He seemed indifferent to what was going on around him, lost in his own thoughts.\n2. She gave an indifferent shrug when asked if she wanted to go out that night.\n3. The critics were largely indifferent to the director's latest film, finding it unremarkable.","eng":"indifferent"}

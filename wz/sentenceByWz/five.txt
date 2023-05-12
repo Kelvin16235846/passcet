@@ -1,1 +1,1 @@
-{"eg":"1. I have five friends who like to go hiking with me.2. My little sister can only count to five, but she can already spell her name.3. After five years of hard work, I finally achieved my dream of becoming a doctor.","eng":"five"}
+{"eg":"1. I have five friends who like to go hiking with me.\n2. My little sister can only count to five, but she can already spell her name.\n3. After five years of hard work, I finally achieved my dream of becoming a doctor.","eng":"five"}

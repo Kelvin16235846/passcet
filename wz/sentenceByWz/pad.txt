@@ -1,1 +1,1 @@
-{"eg":"1. I use my iPad to read books and browse the internet.2. My cat likes to sleep on my lap while I use my tablet.3. I always bring my pad with me when I travel so I can stay connected with family and friends.","eng":"pad"}
+{"eg":"1. I use my iPad to read books and browse the internet.\n2. My cat likes to sleep on my lap while I use my tablet.\n3. I always bring my pad with me when I travel so I can stay connected with family and friends.","eng":"pad"}

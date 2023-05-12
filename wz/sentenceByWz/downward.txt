@@ -1,1 +1,1 @@
-{"eg":"1. The water flowed downward through the narrow tunnel.2. The bird swooped downward towards its prey.3. The stock prices continued to trend downward for the third consecutive day.","eng":"downward"}
+{"eg":"1. The water flowed downward through the narrow tunnel.\n2. The bird swooped downward towards its prey.\n3. The stock prices continued to trend downward for the third consecutive day.","eng":"downward"}

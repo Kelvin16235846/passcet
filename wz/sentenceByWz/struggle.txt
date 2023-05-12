@@ -1,1 +1,1 @@
-{"eg":"1. She continued to struggle with the math problem until she finally solved it.2. The workers went on strike to struggle for better pay and working conditions.3. Despite facing many obstacles, she never gave up and continued to struggle towards her goals.","eng":"struggle"}
+{"eg":"1. She continued to struggle with the math problem until she finally solved it.\n2. The workers went on strike to struggle for better pay and working conditions.\n3. Despite facing many obstacles, she never gave up and continued to struggle towards her goals.","eng":"struggle"}

@@ -1,1 +1,1 @@
-{"eg":"1. I need to dial a phone number to reach my friend.2. To make a call, just dial the area code and the number.3. She dialed the emergency services when she saw the fire.","eng":"dial"}
+{"eg":"1. I need to dial a phone number to reach my friend.\n2. To make a call, just dial the area code and the number.\n3. She dialed the emergency services when she saw the fire.","eng":"dial"}

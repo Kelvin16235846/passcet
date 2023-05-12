@@ -1,1 +1,1 @@
-{"eg":"1. I need to withdraw some cash from the ATM before we go shopping.2. He asked the bank teller to withdraw $500 from his checking account.3. The company decided to withdraw its proposal after receiving negative feedback from customers.","eng":"withdraw"}
+{"eg":"1. I need to withdraw some cash from the ATM before we go shopping.\n2. He asked the bank teller to withdraw $500 from his checking account.\n3. The company decided to withdraw its proposal after receiving negative feedback from customers.","eng":"withdraw"}

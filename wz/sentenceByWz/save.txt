@@ -1,1 +1,1 @@
-{"eg":"1. I will save my money to buy a new car next year.2. He wants to save his relationship with his girlfriend before it's too late.3. We can save time by taking a shortcut to the airport.","eng":"save"}
+{"eg":"1. I will save my money to buy a new car next year.\n2. He wants to save his relationship with his girlfriend before it's too late.\n3. We can save time by taking a shortcut to the airport.","eng":"save"}

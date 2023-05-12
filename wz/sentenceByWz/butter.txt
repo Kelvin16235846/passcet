@@ -1,1 +1,1 @@
-{"eg":"1. I love to add a generous amount of butter to my popcorn when watching a movie.2. The buttery croissants at that French bakery are some of the best I've ever had.3. She's buttering up her boss in hopes of getting a promotion.","eng":"butter"}
+{"eg":"1. I love to add a generous amount of butter to my popcorn when watching a movie.\n2. The buttery croissants at that French bakery are some of the best I've ever had.\n3. She's buttering up her boss in hopes of getting a promotion.","eng":"butter"}

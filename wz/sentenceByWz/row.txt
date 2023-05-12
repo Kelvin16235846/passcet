@@ -1,1 +1,1 @@
-{"eg":"1. She sat in the front row of the theater, eager to watch the play.2. The row between the two neighbors over the property line escalated into a legal battle.3. The row of colorful tulips in the garden added a cheerful touch to the scenery.","eng":"row"}
+{"eg":"1. She sat in the front row of the theater, eager to watch the play.\n2. The row between the two neighbors over the property line escalated into a legal battle.\n3. The row of colorful tulips in the garden added a cheerful touch to the scenery.","eng":"row"}

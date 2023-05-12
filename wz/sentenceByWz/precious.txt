@@ -1,1 +1,1 @@
-{"eg":"1. The precious diamond necklace sparkled in the light.2. The baby's laughter was a precious sound to her mother's ears.3. The old photo album is filled with precious memories of my childhood.","eng":"precious"}
+{"eg":"1. The precious diamond necklace sparkled in the light.\n2. The baby's laughter was a precious sound to her mother's ears.\n3. The old photo album is filled with precious memories of my childhood.","eng":"precious"}

@@ -1,1 +1,1 @@
-{"eg":"1. We need to take care of ourselves before taking care of others.2. We can accomplish anything if we believe in ourselves.3. Let's challenge ourselves to try something new every day.","eng":"ourselves"}
+{"eg":"1. We need to take care of ourselves before taking care of others.\n2. We can accomplish anything if we believe in ourselves.\n3. Let's challenge ourselves to try something new every day.","eng":"ourselves"}

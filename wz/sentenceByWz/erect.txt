@@ -1,1 +1,1 @@
-{"eg":"1. The boy stood erect with his head held high, proud of his accomplishments.2. The soldiers marched through the streets in perfect formation, their bodies erect and disciplined.3. The tall buildings rose erect into the sky, towering over the bustling city below.","eng":"erect"}
+{"eg":"1. The boy stood erect with his head held high, proud of his accomplishments.\n2. The soldiers marched through the streets in perfect formation, their bodies erect and disciplined.\n3. The tall buildings rose erect into the sky, towering over the bustling city below.","eng":"erect"}

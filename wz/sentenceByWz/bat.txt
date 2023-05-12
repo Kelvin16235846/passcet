@@ -1,1 +1,1 @@
-{"eg":"1. I am Batman!2. The bat flew out of the cave and disappeared into the night.3. The baseball player swung the bat with all his might and hit a home run.","eng":"bat"}
+{"eg":"1. I am Batman!\n2. The bat flew out of the cave and disappeared into the night.\n3. The baseball player swung the bat with all his might and hit a home run.","eng":"bat"}

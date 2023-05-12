@@ -1,1 +1,1 @@
-{"eg":"1. Clearly, the company's profits have been steadily declining over the past few quarters.2. The instructions were not clearly written, causing confusion among the participants.3. It is clearly evident that she has a natural talent for music.","eng":"clearly"}
+{"eg":"1. Clearly, the company's profits have been steadily declining over the past few quarters.\n2. The instructions were not clearly written, causing confusion among the participants.\n3. It is clearly evident that she has a natural talent for music.","eng":"clearly"}

@@ -1,1 +1,1 @@
-{"eg":"1. The car navigated the curve in the road with ease.2. We walked along the winding curve of the river, enjoying the scenery.3. The graph showed a steep upward curve indicating increasing profits.","eng":"curve"}
+{"eg":"1. The car navigated the curve in the road with ease.\n2. We walked along the winding curve of the river, enjoying the scenery.\n3. The graph showed a steep upward curve indicating increasing profits.","eng":"curve"}

@@ -1,1 +1,1 @@
-{"eg":"1. I forbid you from touching my belongings without my permission.2. The school forbids students from using their cellphones during class time.3. The doctor forbids the patient from taking any medication with alcohol.","eng":"forbid"}
+{"eg":"1. I forbid you from touching my belongings without my permission.\n2. The school forbids students from using their cellphones during class time.\n3. The doctor forbids the patient from taking any medication with alcohol.","eng":"forbid"}

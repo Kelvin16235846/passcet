@@ -1,1 +1,1 @@
-{"eg":"1. The athlete suffered a strain in his hamstring during the marathon race.2. I strained my arm muscles lifting a heavy box.3. The singer's vocal strain was evident during the concert.","eng":"strain"}
+{"eg":"1. The athlete suffered a strain in his hamstring during the marathon race.\n2. I strained my arm muscles lifting a heavy box.\n3. The singer's vocal strain was evident during the concert.","eng":"strain"}

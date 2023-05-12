@@ -1,1 +1,1 @@
-{"eg":"1. I need to go to the supermarket to buy some groceries for the week.2. The supermarket was crowded with people trying to get their shopping done before closing time.3. After work, I stopped by the supermarket to pick up a few things for dinner.","eng":"supermarket"}
+{"eg":"1. I need to go to the supermarket to buy some groceries for the week.\n2. The supermarket was crowded with people trying to get their shopping done before closing time.\n3. After work, I stopped by the supermarket to pick up a few things for dinner.","eng":"supermarket"}

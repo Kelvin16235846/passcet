@@ -1,1 +1,1 @@
-{"eg":"1. The hotel room comes with complimentary breakfast provided by the hotel.2. The required textbooks will be provided by the school upon enrollment.3. All necessary equipment will be provided by the rental company for your outdoor excursion.","eng":"provided"}
+{"eg":"1. The hotel room comes with complimentary breakfast provided by the hotel.\n2. The required textbooks will be provided by the school upon enrollment.\n3. All necessary equipment will be provided by the rental company for your outdoor excursion.","eng":"provided"}

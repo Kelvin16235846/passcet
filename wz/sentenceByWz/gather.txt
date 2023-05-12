@@ -1,1 +1,1 @@
-{"eg":"1. The whole family gathers around the dinner table every Sunday evening.2. Let's gather all the necessary materials for the project before we begin.3. The protesters gathered outside the government building to demand change.","eng":"gather"}
+{"eg":"1. The whole family gathers around the dinner table every Sunday evening.\n2. Let's gather all the necessary materials for the project before we begin.\n3. The protesters gathered outside the government building to demand change.","eng":"gather"}

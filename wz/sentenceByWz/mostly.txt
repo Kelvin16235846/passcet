@@ -1,1 +1,1 @@
-{"eg":"1. Mostly, I enjoy spending time with my family on the weekends.2. The weather has been mostly sunny and warm this week.3. My favorite color is mostly blue, but I also like shades of green.","eng":"mostly"}
+{"eg":"1. Mostly, I enjoy spending time with my family on the weekends.\n2. The weather has been mostly sunny and warm this week.\n3. My favorite color is mostly blue, but I also like shades of green.","eng":"mostly"}

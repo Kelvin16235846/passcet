@@ -1,1 +1,1 @@
-{"eg":"1. I am feeling sick and dizzy today, I think I might have caught a cold.2. The smell of the seafood made me feel sick, so I couldn't eat it.3. He had to call in sick to work because he was vomiting all night.","eng":"sick"}
+{"eg":"1. I am feeling sick and dizzy today, I think I might have caught a cold.\n2. The smell of the seafood made me feel sick, so I couldn't eat it.\n3. He had to call in sick to work because he was vomiting all night.","eng":"sick"}

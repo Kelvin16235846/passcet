@@ -1,1 +1,1 @@
-{"eg":"1. I absolutely love bold and vibrant colors in my artwork.2. Your bold decision to quit your job and start your own business was truly inspirational.3. She wore a bold red dress to the party and immediately caught everyone's attention.","eng":"bold"}
+{"eg":"1. I absolutely love bold and vibrant colors in my artwork.\n2. Your bold decision to quit your job and start your own business was truly inspirational.\n3. She wore a bold red dress to the party and immediately caught everyone's attention.","eng":"bold"}

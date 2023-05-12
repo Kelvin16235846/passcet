@@ -1,1 +1,1 @@
-{"eg":"1. The desperate cries of the trapped hiker echoed through the canyon.2. The family was in a desperate situation, caught between paying the bills and putting food on the table.3. She felt desperate to find a solution to her problem before it became too late.","eng":"desperate"}
+{"eg":"1. The desperate cries of the trapped hiker echoed through the canyon.\n2. The family was in a desperate situation, caught between paying the bills and putting food on the table.\n3. She felt desperate to find a solution to her problem before it became too late.","eng":"desperate"}

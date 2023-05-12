@@ -1,1 +1,1 @@
-{"eg":"1. I placed the dirty dishes on the tray and took them to the kitchen sink.2. The flight attendant handed me a tray with my meal and drink on it.3. My cat knocked over the tray of cookies and made a mess on the floor.","eng":"tray"}
+{"eg":"1. I placed the dirty dishes on the tray and took them to the kitchen sink.\n2. The flight attendant handed me a tray with my meal and drink on it.\n3. My cat knocked over the tray of cookies and made a mess on the floor.","eng":"tray"}

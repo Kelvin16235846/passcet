@@ -1,1 +1,1 @@
-{"eg":"1. I am nervous about my final examination in calculus.2. The examination was challenging, but I feel confident that I did well.3. The teacher carefully reviewed each question on the examination with the students.","eng":"examination"}
+{"eg":"1. I am nervous about my final examination in calculus.\n2. The examination was challenging, but I feel confident that I did well.\n3. The teacher carefully reviewed each question on the examination with the students.","eng":"examination"}

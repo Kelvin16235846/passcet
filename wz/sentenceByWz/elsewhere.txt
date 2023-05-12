@@ -1,1 +1,1 @@
-{"eg":"1. Jane looked around the room, realizing that she'd left her phone elsewhere.2. I can't seem to find my favorite book, it must be elsewhere in the house.3. After walking for hours through the forest, we finally stumbled upon a clearing that led elsewhere.","eng":"elsewhere"}
+{"eg":"1. Jane looked around the room, realizing that she'd left her phone elsewhere.\n2. I can't seem to find my favorite book, it must be elsewhere in the house.\n3. After walking for hours through the forest, we finally stumbled upon a clearing that led elsewhere.","eng":"elsewhere"}

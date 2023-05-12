@@ -1,1 +1,1 @@
-{"eg":"1. The pavement was cracked and uneven, making it difficult to walk on.2. The sound of heels clicking against the pavement echoed through the empty streets.3. The city workers were hard at work repairing the damaged pavement on the busy road.","eng":"pavement"}
+{"eg":"1. The pavement was cracked and uneven, making it difficult to walk on.\n2. The sound of heels clicking against the pavement echoed through the empty streets.\n3. The city workers were hard at work repairing the damaged pavement on the busy road.","eng":"pavement"}

@@ -1,1 +1,1 @@
-{"eg":"1. The dog repeatedly barked at the mailman, causing him to hurry away.2. She repeatedly checked her phone for messages, hoping to hear from her friend.3. The child repeatedly asked for a cookie, until his mother finally gave in.","eng":"repeatedly"}
+{"eg":"1. The dog repeatedly barked at the mailman, causing him to hurry away.\n2. She repeatedly checked her phone for messages, hoping to hear from her friend.\n3. The child repeatedly asked for a cookie, until his mother finally gave in.","eng":"repeatedly"}

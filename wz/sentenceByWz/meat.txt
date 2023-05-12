@@ -1,1 +1,1 @@
-{"eg":"1. I'm not a vegetarian, so I love eating meat with every meal.2. The restaurant specializes in serving a variety of exotic meats like ostrich and kangaroo.3. I have to be careful about how much meat I consume because of my high cholesterol levels.","eng":"meat"}
+{"eg":"1. I'm not a vegetarian, so I love eating meat with every meal.\n2. The restaurant specializes in serving a variety of exotic meats like ostrich and kangaroo.\n3. I have to be careful about how much meat I consume because of my high cholesterol levels.","eng":"meat"}

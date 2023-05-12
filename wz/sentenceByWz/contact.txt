@@ -1,1 +1,1 @@
-{"eg":"1. Please use the contact form on our website to schedule an appointment with us.2. If you have any questions or comments, please don't hesitate to contact us.3. Our customer service team is available 24/7, so feel free to contact us anytime.","eng":"contact"}
+{"eg":"1. Please use the contact form on our website to schedule an appointment with us.\n2. If you have any questions or comments, please don't hesitate to contact us.\n3. Our customer service team is available 24/7, so feel free to contact us anytime.","eng":"contact"}

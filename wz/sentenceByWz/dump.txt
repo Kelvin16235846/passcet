@@ -1,1 +1,1 @@
-{"eg":"1. The garbage truck dumped its load of trash into the landfill.2. My phone's battery died and all of my important files were dumped.3. When the company went bankrupt, they had to dump a lot of their inventory.","eng":"dump"}
+{"eg":"1. The garbage truck dumped its load of trash into the landfill.\n2. My phone's battery died and all of my important files were dumped.\n3. When the company went bankrupt, they had to dump a lot of their inventory.","eng":"dump"}

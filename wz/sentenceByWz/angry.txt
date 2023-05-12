@@ -1,1 +1,1 @@
-{"eg":"1. I'm so angry that you would even suggest such a rude thing!2. He got me so angry with his constant lies and manipulations.3. Don't you dare try to brush off my feelings and act like my anger is unwarranted.","eng":"angry"}
+{"eg":"1. I'm so angry that you would even suggest such a rude thing!\n2. He got me so angry with his constant lies and manipulations.\n3. Don't you dare try to brush off my feelings and act like my anger is unwarranted.","eng":"angry"}

@@ -1,1 +1,1 @@
-{"eg":"1. I built a small hut in the woods for my weekend getaway.2. The homeless man lived in a makeshift hut made of cardboard and old blankets.3. The hut on the beach was the perfect spot to relax and watch the waves.","eng":"hut"}
+{"eg":"1. I built a small hut in the woods for my weekend getaway.\n2. The homeless man lived in a makeshift hut made of cardboard and old blankets.\n3. The hut on the beach was the perfect spot to relax and watch the waves.","eng":"hut"}

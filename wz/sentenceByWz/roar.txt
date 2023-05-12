@@ -1,1 +1,1 @@
-{"eg":"1. The fierce lion let out a loud roar that echoed through the jungle.2. As the motorcycle revved up its engine, it began to roar down the open highway.3. The raging storm caused the waves to roar against the rocky shore.","eng":"roar"}
+{"eg":"1. The fierce lion let out a loud roar that echoed through the jungle.\n2. As the motorcycle revved up its engine, it began to roar down the open highway.\n3. The raging storm caused the waves to roar against the rocky shore.","eng":"roar"}

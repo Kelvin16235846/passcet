@@ -1,1 +1,1 @@
-{"eg":"1. I always keep a guard up when meeting new people.2. The security guard at the museum checked my bag before allowing me in.3. It's important to guard your personal information online to avoid identity theft.","eng":"guard"}
+{"eg":"1. I always keep a guard up when meeting new people.\n2. The security guard at the museum checked my bag before allowing me in.\n3. It's important to guard your personal information online to avoid identity theft.","eng":"guard"}

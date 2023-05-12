@@ -1,1 +1,1 @@
-{"eg":"1. The court ruled in favor of the defendant and dismissed the case.2. The judge presiding over the court case requested additional evidence from both sides.3. The court proceedings were delayed due to a lack of available jurors.","eng":"court"}
+{"eg":"1. The court ruled in favor of the defendant and dismissed the case.\n2. The judge presiding over the court case requested additional evidence from both sides.\n3. The court proceedings were delayed due to a lack of available jurors.","eng":"court"}

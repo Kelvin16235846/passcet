@@ -1,1 +1,1 @@
-{"eg":"1. Can you please cut the sandwich in half?2. I only ate half of the pizza before feeling full.3. Let's split the cost of the meal in half.","eng":"half"}
+{"eg":"1. Can you please cut the sandwich in half?\n2. I only ate half of the pizza before feeling full.\n3. Let's split the cost of the meal in half.","eng":"half"}

@@ -1,1 +1,1 @@
-{"eg":"1. \"I will keep practicing until I achieve my goal.\"2. \"She didn't stop studying until she passed the exam.\"3. \"We worked overtime until the project was completed.\"","eng":"until"}
+{"eg":"1. \"I will keep practicing until I achieve my goal.\"\n2. \"She didn't stop studying until she passed the exam.\"\n3. \"We worked overtime until the project was completed.\"","eng":"until"}

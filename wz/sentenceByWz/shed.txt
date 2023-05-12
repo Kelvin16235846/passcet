@@ -1,1 +1,1 @@
-{"eg":"1. I need to go to the shed to get my gardening tools.2. After the storm, we had to rebuild the shed in our backyard.3. The old shed was full of cobwebs and spiders.","eng":"shed"}
+{"eg":"1. I need to go to the shed to get my gardening tools.\n2. After the storm, we had to rebuild the shed in our backyard.\n3. The old shed was full of cobwebs and spiders.","eng":"shed"}

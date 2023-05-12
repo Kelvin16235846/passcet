@@ -1,1 +1,1 @@
-{"eg":"1. I found the perfect recipe for homemade pizza on this cooking site.2. Have you checked out the reviews for that new restaurant on the travel site yet?3. The author's biography on the book site gave me an interesting perspective on their writings.","eng":"site"}
+{"eg":"1. I found the perfect recipe for homemade pizza on this cooking site.\n2. Have you checked out the reviews for that new restaurant on the travel site yet?\n3. The author's biography on the book site gave me an interesting perspective on their writings.","eng":"site"}

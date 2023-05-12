@@ -1,1 +1,1 @@
-{"eg":"1. I use Microsoft Edge as my default web browser.2. The harsh wind caused the ship to edge closer to the rocky coastline.3. After hours of practice, he finally managed to edge out his opponent in the race.","eng":"edge"}
+{"eg":"1. I use Microsoft Edge as my default web browser.\n2. The harsh wind caused the ship to edge closer to the rocky coastline.\n3. After hours of practice, he finally managed to edge out his opponent in the race.","eng":"edge"}

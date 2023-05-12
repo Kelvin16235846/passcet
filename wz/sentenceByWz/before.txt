@@ -1,1 +1,1 @@
-{"eg":"1. Before I leave, I need to make sure I have my keys.2. Before the concert starts, we should grab some food.3. Before we proceed with the project, we must discuss our goals and objectives.","eng":"before"}
+{"eg":"1. Before I leave, I need to make sure I have my keys.\n2. Before the concert starts, we should grab some food.\n3. Before we proceed with the project, we must discuss our goals and objectives.","eng":"before"}

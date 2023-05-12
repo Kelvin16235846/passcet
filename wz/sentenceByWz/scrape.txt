@@ -1,1 +1,1 @@
-{"eg":"1. I scraped my knee when I fell off my bike.2. My parents had to scrape together enough money for my college tuition.3. The chef scraped the burnt bits off the bottom of the pan before making the sauce.","eng":"scrape"}
+{"eg":"1. I scraped my knee when I fell off my bike.\n2. My parents had to scrape together enough money for my college tuition.\n3. The chef scraped the burnt bits off the bottom of the pan before making the sauce.","eng":"scrape"}

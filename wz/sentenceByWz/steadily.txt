@@ -1,1 +1,1 @@
-{"eg":"1. The economy has been steadily growing over the past few years.2. She worked steadily on her project, putting in long hours every day.3. He maintained a steadily positive attitude even during difficult times.","eng":"steadily"}
+{"eg":"1. The economy has been steadily growing over the past few years.\n2. She worked steadily on her project, putting in long hours every day.\n3. He maintained a steadily positive attitude even during difficult times.","eng":"steadily"}

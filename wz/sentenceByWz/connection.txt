@@ -1,1 +1,1 @@
-{"eg":"1. The internet connection in my hotel room is very slow.2. The poor weather conditions led to a disruption in the train connection between the two cities.3. He has a strong connection with his childhood friend who he met in kindergarten.","eng":"connection"}
+{"eg":"1. The internet connection in my hotel room is very slow.\n2. The poor weather conditions led to a disruption in the train connection between the two cities.\n3. He has a strong connection with his childhood friend who he met in kindergarten.","eng":"connection"}

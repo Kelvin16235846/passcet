@@ -1,1 +1,1 @@
-{"eg":"1. Our company offers excellent customer service for all of our products.2. The service provided by the hotel staff was exceptional during our stay.3. The repair service for my car was completed in a timely manner and at a reasonable cost.","eng":"service"}
+{"eg":"1. Our company offers excellent customer service for all of our products.\n2. The service provided by the hotel staff was exceptional during our stay.\n3. The repair service for my car was completed in a timely manner and at a reasonable cost.","eng":"service"}

@@ -1,1 +1,1 @@
-{"eg":"1. The goose honked loudly as it waddled across the pond.2. The farmer found a nest of goose eggs hidden in the field.3. The aggressive goose flapped its wings and chased away the intruder.","eng":"goose"}
+{"eg":"1. The goose honked loudly as it waddled across the pond.\n2. The farmer found a nest of goose eggs hidden in the field.\n3. The aggressive goose flapped its wings and chased away the intruder.","eng":"goose"}

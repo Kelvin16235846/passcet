@@ -1,1 +1,1 @@
-{"eg":"1. The elephant was huge, towering over everything else in sight.2. The warehouse was huge, with rows upon rows of shelves stacked to the ceiling.3. The task seemed huge, daunting and overwhelming to tackle alone.","eng":"huge"}
+{"eg":"1. The elephant was huge, towering over everything else in sight.\n2. The warehouse was huge, with rows upon rows of shelves stacked to the ceiling.\n3. The task seemed huge, daunting and overwhelming to tackle alone.","eng":"huge"}

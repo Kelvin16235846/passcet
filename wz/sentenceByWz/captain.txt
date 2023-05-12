@@ -1,1 +1,1 @@
-{"eg":"1. Captain, please steer the ship to the port on the starboard side.2. As the captain of this team, I expect everyone to give their best effort.3. The captain of the football team led his team to victory in the championship game.","eng":"captain"}
+{"eg":"1. Captain, please steer the ship to the port on the starboard side.\n2. As the captain of this team, I expect everyone to give their best effort.\n3. The captain of the football team led his team to victory in the championship game.","eng":"captain"}

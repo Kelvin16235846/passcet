@@ -1,1 +1,1 @@
-{"eg":"1. I need to buy a waterproof jacket before going hiking in the rainforest.2. The phone case I purchased is waterproof, so I can take my phone swimming with me.3. The construction workers wore waterproof boots during the rainy season to keep their feet dry.","eng":"waterproof"}
+{"eg":"1. I need to buy a waterproof jacket before going hiking in the rainforest.\n2. The phone case I purchased is waterproof, so I can take my phone swimming with me.\n3. The construction workers wore waterproof boots during the rainy season to keep their feet dry.","eng":"waterproof"}

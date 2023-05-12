@@ -1,1 +1,1 @@
-{"eg":"1. The side of the building was covered in vines.2. The driver's side of the car was badly damaged.3. I prefer to sleep on my side rather than my back.","eng":"side"}
+{"eg":"1. The side of the building was covered in vines.\n2. The driver's side of the car was badly damaged.\n3. I prefer to sleep on my side rather than my back.","eng":"side"}

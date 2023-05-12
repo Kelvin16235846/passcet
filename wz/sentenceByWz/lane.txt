@@ -1,1 +1,1 @@
-{"eg":"1. Driving in the fast lane always gets my heart racing.2. I prefer to stay in my own lane and not get involved in other people's business.3. The bicycle lane is so narrow, I'm always worried about getting hit by a car.","eng":"lane"}
+{"eg":"1. Driving in the fast lane always gets my heart racing.\n2. I prefer to stay in my own lane and not get involved in other people's business.\n3. The bicycle lane is so narrow, I'm always worried about getting hit by a car.","eng":"lane"}

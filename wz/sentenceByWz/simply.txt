@@ -1,1 +1,1 @@
-{"eg":"1. Simply put, there is no better time than now to pursue your dreams.2. If you want to be successful, it's simply a matter of working hard and staying motivated.3. The solution to this problem is simply to be more efficient with your time and resources.","eng":"simply"}
+{"eg":"1. Simply put, there is no better time than now to pursue your dreams.\n2. If you want to be successful, it's simply a matter of working hard and staying motivated.\n3. The solution to this problem is simply to be more efficient with your time and resources.","eng":"simply"}

@@ -1,1 +1,1 @@
-{"eg":"1. National parks are an important part of preserving our natural heritage.2. The national anthem is a symbol of our country's unity and pride.3. The national football team is extremely popular among sports fans in our country.","eng":"national"}
+{"eg":"1. National parks are an important part of preserving our natural heritage.\n2. The national anthem is a symbol of our country's unity and pride.\n3. The national football team is extremely popular among sports fans in our country.","eng":"national"}

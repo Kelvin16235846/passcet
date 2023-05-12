@@ -1,1 +1,1 @@
-{"eg":"1. The oriental flavors in this dish are simply divine.2. She wore a beautiful oriental-inspired dress to the party.3. My favorite part of the museum was the section with oriental art pieces.","eng":"oriental"}
+{"eg":"1. The oriental flavors in this dish are simply divine.\n2. She wore a beautiful oriental-inspired dress to the party.\n3. My favorite part of the museum was the section with oriental art pieces.","eng":"oriental"}

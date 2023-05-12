@@ -1,1 +1,1 @@
-{"eg":"1. My world feels upside-down when I'm standing on my head.2. The whole situation turned upside-down when the truth was revealed.3. I couldn't believe my eyes when I saw the upside-down house on the street corner.","eng":"upside-down"}
+{"eg":"1. My world feels upside-down when I'm standing on my head.\n2. The whole situation turned upside-down when the truth was revealed.\n3. I couldn't believe my eyes when I saw the upside-down house on the street corner.","eng":"upside-down"}

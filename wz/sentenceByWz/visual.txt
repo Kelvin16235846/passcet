@@ -1,1 +1,1 @@
-{"eg":"1. She is a talented musician who can play multiple instruments with ease.2. He enjoys traveling to different countries and trying new foods.3. The sunset over the ocean was one of the most breathtaking sights she had ever seen.","eng":"visual"}
+{"eg":"1. She is a talented musician who can play multiple instruments with ease.\n2. He enjoys traveling to different countries and trying new foods.\n3. The sunset over the ocean was one of the most breathtaking sights she had ever seen.","eng":"visual"}

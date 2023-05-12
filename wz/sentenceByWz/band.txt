@@ -1,1 +1,1 @@
-{"eg":"1. My favorite band is Queen.2. The marching band performed at the halftime show.3. I bought tickets to see my favorite band in concert next month.","eng":"band"}
+{"eg":"1. My favorite band is Queen.\n2. The marching band performed at the halftime show.\n3. I bought tickets to see my favorite band in concert next month.","eng":"band"}

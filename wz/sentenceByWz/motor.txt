@@ -1,1 +1,1 @@
-{"eg":"1. The motor of my car started making a strange noise this morning.2. It took a lot of effort to fix the motor of the boat before we went out to sea.3. The factory production line relies heavily on the powerful motor system to keep up with demand.","eng":"motor"}
+{"eg":"1. The motor of my car started making a strange noise this morning.\n2. It took a lot of effort to fix the motor of the boat before we went out to sea.\n3. The factory production line relies heavily on the powerful motor system to keep up with demand.","eng":"motor"}

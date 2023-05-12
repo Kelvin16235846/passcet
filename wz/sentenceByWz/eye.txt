@@ -1,1 +1,1 @@
-{"eg":"1. The eye is a powerful organ that allows us to see the beauty of the world around us.2. I caught a glimpse of her from the corner of my eye as she walked past me.3. The detective had an eagle eye for detail, noticing every clue and solving the mystery.","eng":"eye"}
+{"eg":"1. The eye is a powerful organ that allows us to see the beauty of the world around us.\n2. I caught a glimpse of her from the corner of my eye as she walked past me.\n3. The detective had an eagle eye for detail, noticing every clue and solving the mystery.","eng":"eye"}

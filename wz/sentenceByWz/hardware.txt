@@ -1,1 +1,1 @@
-{"eg":"1. I need to upgrade my hardware to improve the performance of my computer.2. The hardware of the new smartphone is very advanced and provides excellent user experience.3. The hardware of this machine is not compatible with the software I want to run.","eng":"hardware"}
+{"eg":"1. I need to upgrade my hardware to improve the performance of my computer.\n2. The hardware of the new smartphone is very advanced and provides excellent user experience.\n3. The hardware of this machine is not compatible with the software I want to run.","eng":"hardware"}

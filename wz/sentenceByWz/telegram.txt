@@ -1,1 +1,1 @@
-{"eg":"1. I use Telegram to stay connected with friends and family all around the world.2. Telegram's encryption ensures secure messaging for sensitive information.3. Telegram's support for large group chats makes it a great option for organizing events or discussions.","eng":"telegram"}
+{"eg":"1. I use Telegram to stay connected with friends and family all around the world.\n2. Telegram's encryption ensures secure messaging for sensitive information.\n3. Telegram's support for large group chats makes it a great option for organizing events or discussions.","eng":"telegram"}

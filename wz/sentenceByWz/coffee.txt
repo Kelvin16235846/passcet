@@ -1,1 +1,1 @@
-{"eg":"1. I like to start my day with a cup of hot coffee and a good book.2. The aroma of freshly brewed coffee always puts me in a better mood.3. I can't imagine getting through a long day at the office without my trusty coffee mug.","eng":"coffee"}
+{"eg":"1. I like to start my day with a cup of hot coffee and a good book.\n2. The aroma of freshly brewed coffee always puts me in a better mood.\n3. I can't imagine getting through a long day at the office without my trusty coffee mug.","eng":"coffee"}

@@ -1,1 +1,1 @@
-{"eg":"1. My roommate is really cool, he's also gay just like me.2. We went to a gay club last night and danced until dawn.3. I'm proud to be gay and nothing will ever change that.","eng":"gay"}
+{"eg":"1. My roommate is really cool, he's also gay just like me.\n2. We went to a gay club last night and danced until dawn.\n3. I'm proud to be gay and nothing will ever change that.","eng":"gay"}

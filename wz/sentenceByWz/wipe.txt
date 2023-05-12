@@ -1,1 +1,1 @@
-{"eg":"1. After eating a messy meal, she used a wipe to clean her hands and face.2. The nurse used a wipe to clean the patient's arm before administering the injection.3. Instead of using paper towels, he opted for reusable wipes to reduce his environmental impact.","eng":"wipe"}
+{"eg":"1. After eating a messy meal, she used a wipe to clean her hands and face.\n2. The nurse used a wipe to clean the patient's arm before administering the injection.\n3. Instead of using paper towels, he opted for reusable wipes to reduce his environmental impact.","eng":"wipe"}

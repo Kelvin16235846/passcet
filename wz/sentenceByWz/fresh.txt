@@ -1,1 +1,1 @@
-{"eg":"1. The salad was really delicious thanks to the fresh ingredients.2. I love the feeling of fresh air in the mountains.3. The new paint job gives my room a fresh and modern look.","eng":"fresh"}
+{"eg":"1. The salad was really delicious thanks to the fresh ingredients.\n2. I love the feeling of fresh air in the mountains.\n3. The new paint job gives my room a fresh and modern look.","eng":"fresh"}

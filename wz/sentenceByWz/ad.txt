@@ -1,1 +1,1 @@
-{"eg":"1. The ad for the new car was everywhere I turned.2. I saw a catchy ad for the latest fashion trend in the fashion magazine.3. The TV ad about the holiday sale made me want to go shopping.","eng":"ad"}
+{"eg":"1. The ad for the new car was everywhere I turned.\n2. I saw a catchy ad for the latest fashion trend in the fashion magazine.\n3. The TV ad about the holiday sale made me want to go shopping.","eng":"ad"}

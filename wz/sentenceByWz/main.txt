@@ -1,1 +1,1 @@
-{"eg":"1. Main Street is the busiest street in town.2. The main character in the story was a brave warrior.3. The main focus of our business is to provide excellent customer service.","eng":"main"}
+{"eg":"1. Main Street is the busiest street in town.\n2. The main character in the story was a brave warrior.\n3. The main focus of our business is to provide excellent customer service.","eng":"main"}

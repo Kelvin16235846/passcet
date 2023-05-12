@@ -1,1 +1,1 @@
-{"eg":"1. I hung a picture on the wall of my bedroom.2. The graffiti on the walls of the abandoned building was impressive.3. The wind blew the curtains against the wall, making a tapping sound.","eng":"wall"}
+{"eg":"1. I hung a picture on the wall of my bedroom.\n2. The graffiti on the walls of the abandoned building was impressive.\n3. The wind blew the curtains against the wall, making a tapping sound.","eng":"wall"}

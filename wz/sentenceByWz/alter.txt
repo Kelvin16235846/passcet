@@ -1,1 +1,1 @@
-{"eg":"1. I am going to alter my outfit for the party tonight.2. The company decided to alter their marketing strategy for the new product launch.3. She had to alter her travel plans due to the unexpected storm.","eng":"alter"}
+{"eg":"1. I am going to alter my outfit for the party tonight.\n2. The company decided to alter their marketing strategy for the new product launch.\n3. She had to alter her travel plans due to the unexpected storm.","eng":"alter"}

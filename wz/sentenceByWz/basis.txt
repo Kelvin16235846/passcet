@@ -1,1 +1,1 @@
-{"eg":"1. Having a strong basis in math is essential for success in many fields.2. Our understanding of climate change is based on a solid scientific basis.3. The company's decision to expand was grounded in a thorough market research basis.","eng":"basis"}
+{"eg":"1. Having a strong basis in math is essential for success in many fields.\n2. Our understanding of climate change is based on a solid scientific basis.\n3. The company's decision to expand was grounded in a thorough market research basis.","eng":"basis"}

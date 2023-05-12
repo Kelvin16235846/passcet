@@ -1,1 +1,1 @@
-{"eg":"1. Continual learning is essential for personal and professional growth.2. The continual rain has made the roads slippery and dangerous.3. His continual complaints about the weather were getting on everyone's nerves.","eng":"continual"}
+{"eg":"1. Continual learning is essential for personal and professional growth.\n2. The continual rain has made the roads slippery and dangerous.\n3. His continual complaints about the weather were getting on everyone's nerves.","eng":"continual"}

@@ -1,1 +1,1 @@
-{"eg":"1. She stripped the bed of its covers and washed them.2. The dancer stripped off her costume as the audience cheered.3. He stripped the wires of their insulation to expose them for testing.","eng":"strip"}
+{"eg":"1. She stripped the bed of its covers and washed them.\n2. The dancer stripped off her costume as the audience cheered.\n3. He stripped the wires of their insulation to expose them for testing.","eng":"strip"}

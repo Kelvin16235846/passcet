@@ -1,1 +1,1 @@
-{"eg":"1. I watched a movie yesterday with my best friend.2. Yesterday, I forgot to update my to-do list before leaving the office.3. Yesterday's weather was perfect for a picnic in the park.","eng":"yesterday"}
+{"eg":"1. I watched a movie yesterday with my best friend.\n2. Yesterday, I forgot to update my to-do list before leaving the office.\n3. Yesterday's weather was perfect for a picnic in the park.","eng":"yesterday"}

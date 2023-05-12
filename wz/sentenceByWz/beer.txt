@@ -1,1 +1,1 @@
-{"eg":"1. I love to relax with a cold beer after a long day at work.2. My friends and I often gather at the local pub to share a round of beers.3. A crisp, refreshing beer is the perfect accompaniment to a summer barbecue.","eng":"beer"}
+{"eg":"1. I love to relax with a cold beer after a long day at work.\n2. My friends and I often gather at the local pub to share a round of beers.\n3. A crisp, refreshing beer is the perfect accompaniment to a summer barbecue.","eng":"beer"}

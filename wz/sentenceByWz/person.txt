@@ -1,1 +1,1 @@
-{"eg":"1. As a person, I believe that honesty is the best policy.2. Every person deserves to be treated with kindness and respect.3. A successful person never gives up on their dreams, no matter the obstacles in their way.","eng":"person"}
+{"eg":"1. As a person, I believe that honesty is the best policy.\n2. Every person deserves to be treated with kindness and respect.\n3. A successful person never gives up on their dreams, no matter the obstacles in their way.","eng":"person"}

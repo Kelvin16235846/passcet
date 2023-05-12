@@ -1,1 +1,1 @@
-{"eg":"1. Hardly had I begun to study for the exam when my phone rang.2. She could hardly contain her excitement when she saw the Eiffel Tower for the first time.3. Hardly a day goes by without him questioning his decision to quit his job.","eng":"hardly"}
+{"eg":"1. Hardly had I begun to study for the exam when my phone rang.\n2. She could hardly contain her excitement when she saw the Eiffel Tower for the first time.\n3. Hardly a day goes by without him questioning his decision to quit his job.","eng":"hardly"}

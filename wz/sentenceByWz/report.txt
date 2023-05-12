@@ -1,1 +1,1 @@
-{"eg":"1. The annual report highlights the company's financial performance for the fiscal year.2. Our team produced a comprehensive report on the market research findings.3. The investigative report exposed the harmful environmental practices of the oil company.","eng":"report"}
+{"eg":"1. The annual report highlights the company's financial performance for the fiscal year.\n2. Our team produced a comprehensive report on the market research findings.\n3. The investigative report exposed the harmful environmental practices of the oil company.","eng":"report"}

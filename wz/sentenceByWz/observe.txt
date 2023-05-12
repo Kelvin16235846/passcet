@@ -1,1 +1,1 @@
-{"eg":"1. She observed the birds flying in formation overhead.2. He carefully observed the reflection in the window to ensure his tie was straight.3. Through binoculars, they observed the rare species of butterfly fluttering between the flowers.","eng":"observe"}
+{"eg":"1. She observed the birds flying in formation overhead.\n2. He carefully observed the reflection in the window to ensure his tie was straight.\n3. Through binoculars, they observed the rare species of butterfly fluttering between the flowers.","eng":"observe"}

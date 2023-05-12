@@ -1,1 +1,1 @@
-{"eg":"1. \"I delivered a pitch to the investors outlining the benefits of our new product.\"2. \"His pitch was so compelling that I couldn't resist investing in his startup.\"3. \"She practiced her pitch in front of the mirror, perfecting every word and gesture.\"","eng":"pitch"}
+{"eg":"1. \"I delivered a pitch to the investors outlining the benefits of our new product.\"\n2. \"His pitch was so compelling that I couldn't resist investing in his startup.\"\n3. \"She practiced her pitch in front of the mirror, perfecting every word and gesture.\"","eng":"pitch"}

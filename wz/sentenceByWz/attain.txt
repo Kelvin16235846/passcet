@@ -1,1 +1,1 @@
-{"eg":"1. She worked hard to attain a high level of proficiency in Mandarin.2. It took him several years to attain his dream of becoming a successful businessman.3. The team's goal is to attain victory in the upcoming championship game.","eng":"attain"}
+{"eg":"1. She worked hard to attain a high level of proficiency in Mandarin.\n2. It took him several years to attain his dream of becoming a successful businessman.\n3. The team's goal is to attain victory in the upcoming championship game.","eng":"attain"}

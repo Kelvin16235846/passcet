@@ -1,1 +1,1 @@
-{"eg":"1. I love to travel and explore new cultures, join me on my next adventure!2. Let's all join together and work towards a common goal of creating a better future for our planet.3. The cooking class is starting in 10 minutes, make sure to join us in the kitchen!","eng":"join"}
+{"eg":"1. I love to travel and explore new cultures, join me on my next adventure!\n2. Let's all join together and work towards a common goal of creating a better future for our planet.\n3. The cooking class is starting in 10 minutes, make sure to join us in the kitchen!","eng":"join"}

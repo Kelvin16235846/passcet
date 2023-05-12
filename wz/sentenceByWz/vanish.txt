@@ -1,1 +1,1 @@
-{"eg":"1. The stain on my shirt vanished after washing it with Vanish.2. The magician made the rabbit vanish from the hat.3. The fog slowly began to vanish as the sun rose higher in the sky.","eng":"vanish"}
+{"eg":"1. The stain on my shirt vanished after washing it with Vanish.\n2. The magician made the rabbit vanish from the hat.\n3. The fog slowly began to vanish as the sun rose higher in the sky.","eng":"vanish"}

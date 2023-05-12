@@ -1,1 +1,1 @@
-{"eg":"1. I need to buy a new pair of pants for my interview tomorrow.2. She always wears brightly colored pants to stand out in a crowd.3. He ripped his pants while trying to climb over the fence.","eng":"pant"}
+{"eg":"1. I need to buy a new pair of pants for my interview tomorrow.\n2. She always wears brightly colored pants to stand out in a crowd.\n3. He ripped his pants while trying to climb over the fence.","eng":"pant"}

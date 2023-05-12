@@ -1,1 +1,1 @@
-{"eg":"1. He opened the door and let her in.2. She knocked on the door but there was no answer.3. The front door was painted a bright shade of red.","eng":"door"}
+{"eg":"1. He opened the door and let her in.\n2. She knocked on the door but there was no answer.\n3. The front door was painted a bright shade of red.","eng":"door"}

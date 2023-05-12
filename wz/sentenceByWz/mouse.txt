@@ -1,1 +1,1 @@
-{"eg":"1. The mouse scurried across the kitchen floor, searching for crumbs.2. I had to replace my old mouse with a new one because the cursor would jump around uncontrollably.3. When I clicked the mouse, nothing happened, so I had to reboot my computer.","eng":"mouse"}
+{"eg":"1. The mouse scurried across the kitchen floor, searching for crumbs.\n2. I had to replace my old mouse with a new one because the cursor would jump around uncontrollably.\n3. When I clicked the mouse, nothing happened, so I had to reboot my computer.","eng":"mouse"}

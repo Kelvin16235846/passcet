@@ -1,1 +1,1 @@
-{"eg":"1. Yielding to temptation, she indulged in a slice of cake despite being on a strict diet.2. The farmer's crops yielded a bountiful harvest this year, much to his delight.3. He yielded to his opponent's demands, realizing that compromise was the best solution.","eng":"yield"}
+{"eg":"1. Yielding to temptation, she indulged in a slice of cake despite being on a strict diet.\n2. The farmer's crops yielded a bountiful harvest this year, much to his delight.\n3. He yielded to his opponent's demands, realizing that compromise was the best solution.","eng":"yield"}

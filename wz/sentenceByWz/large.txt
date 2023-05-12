@@ -1,1 +1,1 @@
-{"eg":"1. I always order a large pizza when I have friends over for movie night.2. The concert venue had a large seating capacity, so there were plenty of tickets available.3. My sister's new house has a large backyard that's perfect for hosting outdoor gatherings.","eng":"large"}
+{"eg":"1. I always order a large pizza when I have friends over for movie night.\n2. The concert venue had a large seating capacity, so there were plenty of tickets available.\n3. My sister's new house has a large backyard that's perfect for hosting outdoor gatherings.","eng":"large"}

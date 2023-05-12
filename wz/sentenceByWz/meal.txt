@@ -1,1 +1,1 @@
-{"eg":"1. I had a delicious meal at the fancy restaurant last night.2. My mom always makes a healthy meal for me after school.3. I'm looking forward to enjoying a home-cooked meal with my family this weekend.","eng":"meal"}
+{"eg":"1. I had a delicious meal at the fancy restaurant last night.\n2. My mom always makes a healthy meal for me after school.\n3. I'm looking forward to enjoying a home-cooked meal with my family this weekend.","eng":"meal"}

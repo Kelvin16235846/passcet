@@ -1,1 +1,1 @@
-{"eg":"1. The floor was so slippery that I had to walk slowly and carefully.2. I keep slipping on this slippery path despite wearing proper shoes.3. The soap made my hands so slippery that I dropped the dish.","eng":"slippery"}
+{"eg":"1. The floor was so slippery that I had to walk slowly and carefully.\n2. I keep slipping on this slippery path despite wearing proper shoes.\n3. The soap made my hands so slippery that I dropped the dish.","eng":"slippery"}

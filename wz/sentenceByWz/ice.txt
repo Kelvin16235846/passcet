@@ -1,1 +1,1 @@
-{"eg":"1. Ice melts under the scorching sun in the summer heat.2. The icy grip of fear tightened around his heart as he heard footsteps approaching.3. With each passing winter, the thick layer of ice that covers the pond becomes more treacherous to walk on.","eng":"ice"}
+{"eg":"1. Ice melts under the scorching sun in the summer heat.\n2. The icy grip of fear tightened around his heart as he heard footsteps approaching.\n3. With each passing winter, the thick layer of ice that covers the pond becomes more treacherous to walk on.","eng":"ice"}

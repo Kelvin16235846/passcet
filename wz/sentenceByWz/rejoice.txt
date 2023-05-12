@@ -1,1 +1,1 @@
-{"eg":"1. We rejoice in the beauty of nature.2. Let us rejoice and celebrate this moment of triumph.3. I cannot help but rejoice in the success of my loved ones.","eng":"rejoice"}
+{"eg":"1. We rejoice in the beauty of nature.\n2. Let us rejoice and celebrate this moment of triumph.\n3. I cannot help but rejoice in the success of my loved ones.","eng":"rejoice"}

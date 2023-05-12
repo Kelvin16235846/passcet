@@ -1,1 +1,1 @@
-{"eg":"1. I need to see a dentist because I have a toothache.2. I brush my teeth twice a day to keep them healthy.3. My son's first tooth just came in and he looks so cute with it!","eng":"tooth"}
+{"eg":"1. I need to see a dentist because I have a toothache.\n2. I brush my teeth twice a day to keep them healthy.\n3. My son's first tooth just came in and he looks so cute with it!","eng":"tooth"}

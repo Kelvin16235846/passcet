@@ -1,1 +1,1 @@
-{"eg":"1. The nearest hospital is located just a kilometer away from here.2. We had to walk for several kilometers before reaching the summit of the mountain.3. The trip to the beach is about a hundred kilometers from our house.","eng":"kilometer"}
+{"eg":"1. The nearest hospital is located just a kilometer away from here.\n2. We had to walk for several kilometers before reaching the summit of the mountain.\n3. The trip to the beach is about a hundred kilometers from our house.","eng":"kilometer"}

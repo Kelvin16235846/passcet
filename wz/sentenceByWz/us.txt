@@ -1,1 +1,1 @@
-{"eg":"1. I love to travel across the US and explore its diverse culture and history.2. The US is home to some of the world's top universities and research institutions.3. The US is a melting pot of cultures and traditions, making it a fascinating place to live and visit.","eng":"us"}
+{"eg":"1. I love to travel across the US and explore its diverse culture and history.\n2. The US is home to some of the world's top universities and research institutions.\n3. The US is a melting pot of cultures and traditions, making it a fascinating place to live and visit.","eng":"us"}

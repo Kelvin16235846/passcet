@@ -1,1 +1,1 @@
-{"eg":"1. Sideways glances from the other diners suggested that the man's behavior was inappropriate.2. The car spun sideways on the icy road before finally coming to a stop in the ditch.3. She tilted her head sideways, studying the painting from a new angle.","eng":"sideways"}
+{"eg":"1. Sideways glances from the other diners suggested that the man's behavior was inappropriate.\n2. The car spun sideways on the icy road before finally coming to a stop in the ditch.\n3. She tilted her head sideways, studying the painting from a new angle.","eng":"sideways"}

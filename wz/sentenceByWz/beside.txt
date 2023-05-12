@@ -1,1 +1,1 @@
-{"eg":"1. Beside the lake, I found a peaceful spot to sit and reflect.2. She stood beside her sister, holding her hand tightly as they faced the crowd.3. Beside the towering skyscrapers, the small cottage looked quaint and charming.","eng":"beside"}
+{"eg":"1. Beside the lake, I found a peaceful spot to sit and reflect.\n2. She stood beside her sister, holding her hand tightly as they faced the crowd.\n3. Beside the towering skyscrapers, the small cottage looked quaint and charming.","eng":"beside"}

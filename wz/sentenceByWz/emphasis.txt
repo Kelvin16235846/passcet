@@ -1,1 +1,1 @@
-{"eg":"1. I am absolutely overjoyed to receive this prestigious award.2. The scenery at the top of the mountain was truly breathtaking.3. I deeply appreciate all the hard work and dedication you have put into this project.","eng":"emphasis"}
+{"eg":"1. I am absolutely overjoyed to receive this prestigious award.\n2. The scenery at the top of the mountain was truly breathtaking.\n3. I deeply appreciate all the hard work and dedication you have put into this project.","eng":"emphasis"}

@@ -1,1 +1,1 @@
-{"eg":"1. I am eager to develop my skills in programming.2. The company's main goal is to develop innovative products.3. We need to develop a better understanding of the situation before making any decisions.","eng":"develop"}
+{"eg":"1. I am eager to develop my skills in programming.\n2. The company's main goal is to develop innovative products.\n3. We need to develop a better understanding of the situation before making any decisions.","eng":"develop"}

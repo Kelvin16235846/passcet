@@ -1,1 +1,1 @@
-{"eg":"1. I need to take my car to the garage for a tune-up.2. The garage is packed with old boxes and clutter.3. The mechanic at the garage fixed the problem with my brakes.","eng":"garage"}
+{"eg":"1. I need to take my car to the garage for a tune-up.\n2. The garage is packed with old boxes and clutter.\n3. The mechanic at the garage fixed the problem with my brakes.","eng":"garage"}

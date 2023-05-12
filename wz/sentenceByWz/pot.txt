@@ -1,1 +1,1 @@
-{"eg":"1. I need a pot to boil water for my tea.2. She planted a beautiful flower in the pot on her windowsill.3. The pot of stew simmered on the stove, filling the house with a delicious aroma.","eng":"pot"}
+{"eg":"1. I need a pot to boil water for my tea.\n2. She planted a beautiful flower in the pot on her windowsill.\n3. The pot of stew simmered on the stove, filling the house with a delicious aroma.","eng":"pot"}

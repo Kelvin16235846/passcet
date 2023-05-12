@@ -1,1 +1,1 @@
-{"eg":"1. The Olympic bronze medal is a great achievement for any athlete.2. The antique shop displayed a stunning collection of bronze sculptures.3. We chose to decorate our garden with a beautiful bronze fountain.","eng":"bronze"}
+{"eg":"1. The Olympic bronze medal is a great achievement for any athlete.\n2. The antique shop displayed a stunning collection of bronze sculptures.\n3. We chose to decorate our garden with a beautiful bronze fountain.","eng":"bronze"}

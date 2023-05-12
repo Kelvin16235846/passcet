@@ -1,1 +1,1 @@
-{"eg":"1. I need a pin to fasten my shirt collar.2. The map is pinned on the wall for easy reference.3. Can you hand me a safety pin to fix my broken zipper?","eng":"pin"}
+{"eg":"1. I need a pin to fasten my shirt collar.\n2. The map is pinned on the wall for easy reference.\n3. Can you hand me a safety pin to fix my broken zipper?","eng":"pin"}

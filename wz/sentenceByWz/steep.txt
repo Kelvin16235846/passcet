@@ -1,1 +1,1 @@
-{"eg":"1. The tea leaves need to steep in hot water for at least five minutes.2. She likes her tea steeped in milk with a little sugar.3. The longer you steep the tea, the stronger the flavor will be.","eng":"steep"}
+{"eg":"1. The tea leaves need to steep in hot water for at least five minutes.\n2. She likes her tea steeped in milk with a little sugar.\n3. The longer you steep the tea, the stronger the flavor will be.","eng":"steep"}

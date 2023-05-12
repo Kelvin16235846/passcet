@@ -1,1 +1,1 @@
-{"eg":"1. Justice should always prevail in all societal institutions.2. It is the responsibility of lawmakers to ensure justice for all citizens.3. The pursuit of justice is a fundamental principle of the legal system.","eng":"justice"}
+{"eg":"1. Justice should always prevail in all societal institutions.\n2. It is the responsibility of lawmakers to ensure justice for all citizens.\n3. The pursuit of justice is a fundamental principle of the legal system.","eng":"justice"}

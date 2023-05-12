@@ -1,1 +1,1 @@
-{"eg":"1. She relied solely on her own abilities to succeed in her career.2. The new policy is solely designed to increase profits for the company.3. He chose to live a simple life with solely the essentials needed for survival.","eng":"solely"}
+{"eg":"1. She relied solely on her own abilities to succeed in her career.\n2. The new policy is solely designed to increase profits for the company.\n3. He chose to live a simple life with solely the essentials needed for survival.","eng":"solely"}

@@ -1,1 +1,1 @@
-{"eg":"1. I hate how you always make excuses for your mistakes.2. Your self-centered attitude is absolutely hateful.3. Your constant complaining is so hateful and draining.","eng":"hateful"}
+{"eg":"1. I hate how you always make excuses for your mistakes.\n2. Your self-centered attitude is absolutely hateful.\n3. Your constant complaining is so hateful and draining.","eng":"hateful"}

@@ -1,1 +1,1 @@
-{"eg":"1. Time really flies, it feels like only a moment ago that we started this project.2. I wish I could turn back time, and make a different decision in that moment.3. Time heals all wounds, they say, but it's still hard to let go of the pain.","eng":"time"}
+{"eg":"1. Time really flies, it feels like only a moment ago that we started this project.\n2. I wish I could turn back time, and make a different decision in that moment.\n3. Time heals all wounds, they say, but it's still hard to let go of the pain.","eng":"time"}

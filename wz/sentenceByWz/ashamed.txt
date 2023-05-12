@@ -1,1 +1,1 @@
-{"eg":"1. I was so ashamed of my behavior at the party last night.2. She felt ashamed after lying to her parents about where she had been.3. He was ashamed when he realized he had accidentally sent the email to the wrong person.","eng":"ashamed"}
+{"eg":"1. I was so ashamed of my behavior at the party last night.\n2. She felt ashamed after lying to her parents about where she had been.\n3. He was ashamed when he realized he had accidentally sent the email to the wrong person.","eng":"ashamed"}

@@ -1,1 +1,1 @@
-{"eg":"1. I will open the door for you, so you can come inside.2. Can you please open the window to let some fresh air in?3. The store is now open, so you can go and start shopping.","eng":"open"}
+{"eg":"1. I will open the door for you, so you can come inside.\n2. Can you please open the window to let some fresh air in?\n3. The store is now open, so you can go and start shopping.","eng":"open"}

@@ -1,1 +1,1 @@
-{"eg":"1. I am obliged to attend this meeting even though I have many other things to do.2. She felt obliged to help her neighbor who has just moved in.3. The hotel staff kindly obliged our request for a late check-out.","eng":"oblige"}
+{"eg":"1. I am obliged to attend this meeting even though I have many other things to do.\n2. She felt obliged to help her neighbor who has just moved in.\n3. The hotel staff kindly obliged our request for a late check-out.","eng":"oblige"}

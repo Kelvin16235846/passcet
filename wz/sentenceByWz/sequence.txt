@@ -1,1 +1,1 @@
-{"eg":"1. I woke up, brushed my teeth, and had breakfast.2. She opened the book, read the first chapter, and took notes.3. He tied his shoelaces, put on his jacket, and walked out the door.","eng":"sequence"}
+{"eg":"1. I woke up, brushed my teeth, and had breakfast.\n2. She opened the book, read the first chapter, and took notes.\n3. He tied his shoelaces, put on his jacket, and walked out the door.","eng":"sequence"}

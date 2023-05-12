@@ -1,1 +1,1 @@
-{"eg":"1. I will forward your email to the appropriate department.2. Please forward any further information to me as soon as possible.3. Can you forward me the contact information for that supplier?","eng":"forward"}
+{"eg":"1. I will forward your email to the appropriate department.\n2. Please forward any further information to me as soon as possible.\n3. Can you forward me the contact information for that supplier?","eng":"forward"}

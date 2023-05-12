@@ -1,1 +1,1 @@
-{"eg":"1. The fare for the train ride to the next town is reasonable and affordable.2. The taxi driver charged me an exorbitant fare for the short ride to the airport.3. We purchased our tickets and paid the fare in advance for the bus tour of the city.","eng":"fare"}
+{"eg":"1. The fare for the train ride to the next town is reasonable and affordable.\n2. The taxi driver charged me an exorbitant fare for the short ride to the airport.\n3. We purchased our tickets and paid the fare in advance for the bus tour of the city.","eng":"fare"}

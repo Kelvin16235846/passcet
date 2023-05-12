@@ -1,1 +1,1 @@
-{"eg":"1. Perhaps I'll go to the movies tonight, but I'm not sure yet.2. Perhaps it was fate that brought us together.3. There is perhaps some truth to the saying that laughter is the best medicine.","eng":"perhaps"}
+{"eg":"1. Perhaps I'll go to the movies tonight, but I'm not sure yet.\n2. Perhaps it was fate that brought us together.\n3. There is perhaps some truth to the saying that laughter is the best medicine.","eng":"perhaps"}

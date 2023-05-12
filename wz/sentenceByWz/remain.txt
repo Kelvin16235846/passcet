@@ -1,1 +1,1 @@
-{"eg":"1. Despite the storm, a few brave hikers remained on the mountain.2. Please remain seated until the plane comes to a complete stop.3. The remnants of the old castle remain standing as a testament to its history.","eng":"remain"}
+{"eg":"1. Despite the storm, a few brave hikers remained on the mountain.\n2. Please remain seated until the plane comes to a complete stop.\n3. The remnants of the old castle remain standing as a testament to its history.","eng":"remain"}

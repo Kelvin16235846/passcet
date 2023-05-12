@@ -1,1 +1,1 @@
-{"eg":"1. The clerk at the store rang up my items and gave me my receipt.2. As a clerk, it is important to maintain professionalism and provide excellent customer service.3. The clerk processed my application and made sure all of my information was correct.","eng":"clerk"}
+{"eg":"1. The clerk at the store rang up my items and gave me my receipt.\n2. As a clerk, it is important to maintain professionalism and provide excellent customer service.\n3. The clerk processed my application and made sure all of my information was correct.","eng":"clerk"}

@@ -1,1 +1,1 @@
-{"eg":"1. The family had to abandon their home due to the impending flood.2. After repeatedly failing to win, the athlete decided to abandon their dream of becoming an Olympic champion.3. The company had to abandon their plans for expansion due to a lack of funding.","eng":"abandon"}
+{"eg":"1. The family had to abandon their home due to the impending flood.\n2. After repeatedly failing to win, the athlete decided to abandon their dream of becoming an Olympic champion.\n3. The company had to abandon their plans for expansion due to a lack of funding.","eng":"abandon"}

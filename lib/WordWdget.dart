@@ -66,7 +66,6 @@ class WordWidgetState extends State<WordWdget> {
   @override
   Widget build(BuildContext context) {
     var content=_builderOfPage.builder(context);
-   content=buildSentencePage();
     if(_showRemainWzCnt) {
       return Scaffold(
         body: content
@@ -356,6 +355,9 @@ class WordWidgetState extends State<WordWdget> {
       ,"中文释义":Builder(builder: (context){
         return  buildChinesePage(wzs[curIndexOfWz],  context);
       })
+      ,"例句":Builder(builder: (context){
+        return  buildSentencePage();
+      })
       ,"音频播放":Builder(builder: (context){
         return  buildAudioPage(tag: "${DateTime.now().second}");
       })
@@ -432,10 +434,10 @@ class WordWidgetState extends State<WordWdget> {
         maxLines:1,presetFontSizes: const [
           180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
     );
-    var scfd= Scaffold(
+    var scf= Scaffold(
       body: content,);
 
-    return  scfd;
+    return  scf;
   }
   Widget buildSentencePage({str=""}){
    /* str="abandon"
@@ -445,6 +447,9 @@ class WordWidgetState extends State<WordWdget> {
    " \n3. The company had to abandon their plans for expansion "
     "due to a lack of funding.";
     */
+    if(str==""){
+      str=wzs[curIndexOfWz].abouts[0];
+    }
 
     Widget wgt=Center(child:
      AutoSizeText(str
@@ -453,7 +458,7 @@ class WordWidgetState extends State<WordWdget> {
         130,120,110,100,90,80,70,60,50,40,25,16,12],
     ),
     );
-    return wgt;
+    return Scaffold(body: wgt,);
   }
 
   Widget buildAudioPage({String tag=""}) {

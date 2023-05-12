@@ -1,1 +1,1 @@
-{"eg":"1. The room was small but cozy, with a comfortable bed and a window overlooking the garden.2. She walked into the room, surveying the mess left behind by her children.3. The hotel room was spacious and luxurious, with a breathtaking view of the ocean.","eng":"room"}
+{"eg":"1. The room was small but cozy, with a comfortable bed and a window overlooking the garden.\n2. She walked into the room, surveying the mess left behind by her children.\n3. The hotel room was spacious and luxurious, with a breathtaking view of the ocean.","eng":"room"}

@@ -1,1 +1,1 @@
-{"eg":"1. I need to go to the store to buy some bread.2. The store clerk was very helpful in finding what I needed.3. She received a discount at the store because she was a loyal customer.","eng":"store"}
+{"eg":"1. I need to go to the store to buy some bread.\n2. The store clerk was very helpful in finding what I needed.\n3. She received a discount at the store because she was a loyal customer.","eng":"store"}

@@ -1,1 +1,1 @@
-{"eg":"1. The singer's voice was so powerful it filled the entire room.2. As a child, the singer dreamed of one day performing on the big stage.3. The audience was captivated by the singer's emotional performance.","eng":"singer"}
+{"eg":"1. The singer's voice was so powerful it filled the entire room.\n2. As a child, the singer dreamed of one day performing on the big stage.\n3. The audience was captivated by the singer's emotional performance.","eng":"singer"}

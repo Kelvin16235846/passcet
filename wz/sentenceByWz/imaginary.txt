@@ -1,1 +1,1 @@
-{"eg":"1. The child's imaginary friend always accompanies him on his adventures.2. She found solace in the imaginary world she created to escape her reality.3. The artist's painting depicted a fantastical landscape filled with imaginary creatures.","eng":"imaginary"}
+{"eg":"1. The child's imaginary friend always accompanies him on his adventures.\n2. She found solace in the imaginary world she created to escape her reality.\n3. The artist's painting depicted a fantastical landscape filled with imaginary creatures.","eng":"imaginary"}

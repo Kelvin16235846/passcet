@@ -1,1 +1,1 @@
-{"eg":"1. Hey, wanna grab some pizza later?2. I'm just gonna chill at home and binge-watch some TV.3. Sorry dude, can't make it to the party tonight.","eng":"casual"}
+{"eg":"1. Hey, wanna grab some pizza later?\n2. I'm just gonna chill at home and binge-watch some TV.\n3. Sorry dude, can't make it to the party tonight.","eng":"casual"}

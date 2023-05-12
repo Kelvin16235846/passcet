@@ -1,1 +1,1 @@
-{"eg":"1. I can work anywhere with my laptop and internet connection.2. Do you know anywhere good to eat in this area?3. She is flexible and can meet you anywhere that is convenient for you.","eng":"anywhere"}
+{"eg":"1. I can work anywhere with my laptop and internet connection.\n2. Do you know anywhere good to eat in this area?\n3. She is flexible and can meet you anywhere that is convenient for you.","eng":"anywhere"}

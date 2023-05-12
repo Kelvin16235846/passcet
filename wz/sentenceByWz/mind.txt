@@ -1,1 +1,1 @@
-{"eg":"1. \"My mind is constantly racing with ideas and creative concepts.\"2. \"I always try to keep an open mind and embrace new perspectives.\"3. \"After a long day, I like to clear my mind and relax with a good book or movie.\"","eng":"mind"}
+{"eg":"1. \"My mind is constantly racing with ideas and creative concepts.\"\n2. \"I always try to keep an open mind and embrace new perspectives.\"\n3. \"After a long day, I like to clear my mind and relax with a good book or movie.\"","eng":"mind"}

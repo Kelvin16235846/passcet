@@ -1,1 +1,1 @@
-{"eg":"1. The concentration of pollutants in the air has reached dangerous levels.2. The athlete struggled with his concentration during the final moments of the game.3. The company implemented a new program to improve employee concentration and productivity.","eng":"concentration"}
+{"eg":"1. The concentration of pollutants in the air has reached dangerous levels.\n2. The athlete struggled with his concentration during the final moments of the game.\n3. The company implemented a new program to improve employee concentration and productivity.","eng":"concentration"}

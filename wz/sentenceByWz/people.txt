@@ -1,1 +1,1 @@
-{"eg":"1. People are the most important resource in any organization.2. The voices of the people can bring about positive change in society.3. It's important for people to take care of their physical and mental health.","eng":"people"}
+{"eg":"1. People are the most important resource in any organization.\n2. The voices of the people can bring about positive change in society.\n3. It's important for people to take care of their physical and mental health.","eng":"people"}

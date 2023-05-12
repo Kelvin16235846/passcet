@@ -1,1 +1,1 @@
-{"eg":"1. I need to fill my water bottle before we leave for the hike.2. Can you please fill out this form with your personal information?3. The bakery will fill your custom cake order according to your specifications.","eng":"fill"}
+{"eg":"1. I need to fill my water bottle before we leave for the hike.\n2. Can you please fill out this form with your personal information?\n3. The bakery will fill your custom cake order according to your specifications.","eng":"fill"}

@@ -1,1 +1,1 @@
-{"eg":"1. I love playing golf with my friends on weekends.2. Golf is a challenging sport that requires precision and patience.3. The golf course was beautifully landscaped with lush greenery and sparkling water features.","eng":"golf"}
+{"eg":"1. I love playing golf with my friends on weekends.\n2. Golf is a challenging sport that requires precision and patience.\n3. The golf course was beautifully landscaped with lush greenery and sparkling water features.","eng":"golf"}

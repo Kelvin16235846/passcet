@@ -1,1 +1,1 @@
-{"eg":"1. The stars in the night sky sparkle like diamonds.2. As she walked down the aisle, her wedding dress sparkled in the sunlight.3. The children's eyes sparkled with excitement as they opened their Christmas presents.","eng":"sparkle"}
+{"eg":"1. The stars in the night sky sparkle like diamonds.\n2. As she walked down the aisle, her wedding dress sparkled in the sunlight.\n3. The children's eyes sparkled with excitement as they opened their Christmas presents.","eng":"sparkle"}

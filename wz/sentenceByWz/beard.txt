@@ -1,1 +1,1 @@
-{"eg":"1. His beard was so long that it brushed against the ground when he walked.2. She admired how well her husband's beard was growing in and how handsome he looked.3. The old man's beard was tangled and unkempt, giving him a wild and rugged appearance.","eng":"beard"}
+{"eg":"1. His beard was so long that it brushed against the ground when he walked.\n2. She admired how well her husband's beard was growing in and how handsome he looked.\n3. The old man's beard was tangled and unkempt, giving him a wild and rugged appearance.","eng":"beard"}

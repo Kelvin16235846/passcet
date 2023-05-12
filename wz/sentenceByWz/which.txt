@@ -1,1 +1,1 @@
-{"eg":"1. I'm not sure which movie I want to watch tonight.2. Which restaurant do you prefer for dinner tonight?3. Can you tell me which aisle the baking soda is in?","eng":"which"}
+{"eg":"1. I'm not sure which movie I want to watch tonight.\n2. Which restaurant do you prefer for dinner tonight?\n3. Can you tell me which aisle the baking soda is in?","eng":"which"}

@@ -1,1 +1,1 @@
-{"eg":"1. The Christmas tree was adorned with beautiful ornaments.2. She wore a delicate necklace with an ornamental pendant.3. The palace was decorated with intricate ornamental details.","eng":"ornament"}
+{"eg":"1. The Christmas tree was adorned with beautiful ornaments.\n2. She wore a delicate necklace with an ornamental pendant.\n3. The palace was decorated with intricate ornamental details.","eng":"ornament"}

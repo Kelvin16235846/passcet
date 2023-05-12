@@ -1,1 +1,1 @@
-{"eg":"1. You must finish your homework before you can go outside to play.2. We must remember to bring our passports with us when we travel internationally.3. In order to pass the test, you must study hard and review all of the material.","eng":"must"}
+{"eg":"1. You must finish your homework before you can go outside to play.\n2. We must remember to bring our passports with us when we travel internationally.\n3. In order to pass the test, you must study hard and review all of the material.","eng":"must"}

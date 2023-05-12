@@ -1,1 +1,1 @@
-{"eg":"1. I enjoy watching movies on television late at night.2. The television in the living room is too big for the space.3. We bought a new television for the family room during the holiday sale.","eng":"television"}
+{"eg":"1. I enjoy watching movies on television late at night.\n2. The television in the living room is too big for the space.\n3. We bought a new television for the family room during the holiday sale.","eng":"television"}

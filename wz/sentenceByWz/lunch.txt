@@ -1,1 +1,1 @@
-{"eg":"1. I am going to have lunch with my colleagues at the new Italian restaurant in town.2. After a morning of sightseeing, my family and I stopped to grab a quick lunch at a local cafe.3. During my lunch break, I like to take a walk outside and enjoy the fresh air.","eng":"lunch"}
+{"eg":"1. I am going to have lunch with my colleagues at the new Italian restaurant in town.\n2. After a morning of sightseeing, my family and I stopped to grab a quick lunch at a local cafe.\n3. During my lunch break, I like to take a walk outside and enjoy the fresh air.","eng":"lunch"}

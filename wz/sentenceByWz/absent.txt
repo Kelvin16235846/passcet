@@ -1,1 +1,1 @@
-{"eg":"1. Jim was absent from work yesterday due to his illness.2. The teacher marked Sarah absent for missing three consecutive classes.3. Despite sending several reminders, John remained absent for the important meeting.","eng":"absent"}
+{"eg":"1. Jim was absent from work yesterday due to his illness.\n2. The teacher marked Sarah absent for missing three consecutive classes.\n3. Despite sending several reminders, John remained absent for the important meeting.","eng":"absent"}

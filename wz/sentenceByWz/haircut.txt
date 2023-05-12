@@ -1,1 +1,1 @@
-{"eg":"1. I need a haircut, my hair is getting too long.2. I'm excited to get a new haircut this weekend.3. She went to the hair salon to get a haircut and change up her look.","eng":"haircut"}
+{"eg":"1. I need a haircut, my hair is getting too long.\n2. I'm excited to get a new haircut this weekend.\n3. She went to the hair salon to get a haircut and change up her look.","eng":"haircut"}

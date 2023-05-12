@@ -1,1 +1,1 @@
-{"eg":"1. The fluid nature of water allows it to take the shape of any container it is placed in.2. The dancers moved gracefully, their movements fluid and seamless.3. The doctor recommended drinking plenty of fluids to relieve dehydration.","eng":"fluid"}
+{"eg":"1. The fluid nature of water allows it to take the shape of any container it is placed in.\n2. The dancers moved gracefully, their movements fluid and seamless.\n3. The doctor recommended drinking plenty of fluids to relieve dehydration.","eng":"fluid"}

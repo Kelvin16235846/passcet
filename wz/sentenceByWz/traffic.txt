@@ -1,1 +1,1 @@
-{"eg":"1. The traffic on the highway was backed up for miles due to an accident.2. The city implemented a new plan to reduce traffic congestion during rush hour.3. The pedestrian was hit by a car while crossing the street during heavy traffic.","eng":"traffic"}
+{"eg":"1. The traffic on the highway was backed up for miles due to an accident.\n2. The city implemented a new plan to reduce traffic congestion during rush hour.\n3. The pedestrian was hit by a car while crossing the street during heavy traffic.","eng":"traffic"}

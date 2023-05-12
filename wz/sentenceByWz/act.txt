@@ -1,1 +1,1 @@
-{"eg":"1. She decided to act on her dreams and pursue a career in music.2. He was hesitant to act on his suspicions, fearing he would be wrong.3. The play required her to act out a scene of intense emotion.","eng":"act"}
+{"eg":"1. She decided to act on her dreams and pursue a career in music.\n2. He was hesitant to act on his suspicions, fearing he would be wrong.\n3. The play required her to act out a scene of intense emotion.","eng":"act"}

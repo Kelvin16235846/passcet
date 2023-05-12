@@ -1,1 +1,1 @@
-{"eg":"1. The diameter of the circle is 10 centimeters.2. The diameter of the pipe is too large to fit in the hole.3. To find the circumference of the wheel, you need to know its diameter.","eng":"diameter"}
+{"eg":"1. The diameter of the circle is 10 centimeters.\n2. The diameter of the pipe is too large to fit in the hole.\n3. To find the circumference of the wheel, you need to know its diameter.","eng":"diameter"}

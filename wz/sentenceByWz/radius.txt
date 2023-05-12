@@ -1,1 +1,1 @@
-{"eg":"1. The radius of the circle is 5 cm.2. The radius of the Earth is approximately 6,371 km.3. The length of the circumference of a circle can be calculated using the formula 2πr, where r is the radius.","eng":"radius"}
+{"eg":"1. The radius of the circle is 5 cm.\n2. The radius of the Earth is approximately 6,371 km.\n3. The length of the circumference of a circle can be calculated using the formula 2πr, where r is the radius.","eng":"radius"}

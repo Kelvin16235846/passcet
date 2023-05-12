@@ -1,1 +1,1 @@
-{"eg":"1. I sprained my ankle playing soccer yesterday.2. The athlete wore ankle braces to prevent injury during the match.3. The doctor recommended exercises to strengthen the muscles around my ankle.","eng":"ankle"}
+{"eg":"1. I sprained my ankle playing soccer yesterday.\n2. The athlete wore ankle braces to prevent injury during the match.\n3. The doctor recommended exercises to strengthen the muscles around my ankle.","eng":"ankle"}

@@ -1,1 +1,1 @@
-{"eg":"1. Learning a second language is a useful skill that can open up new career opportunities.2. Wearing sunscreen daily is a useful tip to prevent skin damage caused by sun exposure.3. Keeping a budget tracker is a useful tool to manage personal finances effectively.","eng":"useful"}
+{"eg":"1. Learning a second language is a useful skill that can open up new career opportunities.\n2. Wearing sunscreen daily is a useful tip to prevent skin damage caused by sun exposure.\n3. Keeping a budget tracker is a useful tool to manage personal finances effectively.","eng":"useful"}

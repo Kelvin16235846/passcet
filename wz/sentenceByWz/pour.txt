@@ -1,1 +1,1 @@
-{"eg":"1. She carefully poured the hot tea into the delicate china cup.2. The bartender poured another round of drinks for the rowdy customers.3. I don't think that vase can hold all the flowers you want to pour into it.","eng":"pour"}
+{"eg":"1. She carefully poured the hot tea into the delicate china cup.\n2. The bartender poured another round of drinks for the rowdy customers.\n3. I don't think that vase can hold all the flowers you want to pour into it.","eng":"pour"}

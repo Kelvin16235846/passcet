@@ -1,1 +1,1 @@
-{"eg":"1. My friend is expected to arrive at the airport at 5 pm.2. I always arrive early to my appointments to avoid being late.3. The package is scheduled to arrive at my house tomorrow morning.","eng":"arrive"}
+{"eg":"1. My friend is expected to arrive at the airport at 5 pm.\n2. I always arrive early to my appointments to avoid being late.\n3. The package is scheduled to arrive at my house tomorrow morning.","eng":"arrive"}

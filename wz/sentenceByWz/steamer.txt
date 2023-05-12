@@ -1,1 +1,1 @@
-{"eg":"1. Steaming vegetables is a healthy way to cook them and retain their natural nutrients.2. The steamer gently infused the room with the aroma of freshly brewed tea.3. This steamer is ideal for removing wrinkles from clothing without the use of an iron.","eng":"steamer"}
+{"eg":"1. Steaming vegetables is a healthy way to cook them and retain their natural nutrients.\n2. The steamer gently infused the room with the aroma of freshly brewed tea.\n3. This steamer is ideal for removing wrinkles from clothing without the use of an iron.","eng":"steamer"}

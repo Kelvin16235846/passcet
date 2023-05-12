@@ -1,1 +1,1 @@
-{"eg":"1. I can't seem to find my keys.2. He spent hours trying to find his phone.3. Have you been able to find a solution to the problem yet?","eng":"find"}
+{"eg":"1. I can't seem to find my keys.\n2. He spent hours trying to find his phone.\n3. Have you been able to find a solution to the problem yet?","eng":"find"}

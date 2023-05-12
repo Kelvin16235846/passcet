@@ -1,1 +1,1 @@
-{"eg":"1. I always carry my purse with me when I leave the house.2. She reached into her purse and pulled out a pen to write down the address.3. He was surprised to find a small note inside his purse, left for him by his girlfriend.","eng":"purse"}
+{"eg":"1. I always carry my purse with me when I leave the house.\n2. She reached into her purse and pulled out a pen to write down the address.\n3. He was surprised to find a small note inside his purse, left for him by his girlfriend.","eng":"purse"}

@@ -1,1 +1,1 @@
-{"eg":"1. Rule number one of success is to never give up on your dreams.2. Following this rule will help you to stay focused and achieve your goals.3. The golden rule states that we should treat others the way we would like to be treated.","eng":"rule"}
+{"eg":"1. Rule number one of success is to never give up on your dreams.\n2. Following this rule will help you to stay focused and achieve your goals.\n3. The golden rule states that we should treat others the way we would like to be treated.","eng":"rule"}

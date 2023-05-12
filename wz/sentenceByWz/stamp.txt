@@ -1,1 +1,1 @@
-{"eg":"1. I need to stamp this letter before I send it in the mail.2. The teacher gave me a gold star stamp for finishing my homework on time.3. The collector was excited to add the rare stamp to his collection.","eng":"stamp"}
+{"eg":"1. I need to stamp this letter before I send it in the mail.\n2. The teacher gave me a gold star stamp for finishing my homework on time.\n3. The collector was excited to add the rare stamp to his collection.","eng":"stamp"}

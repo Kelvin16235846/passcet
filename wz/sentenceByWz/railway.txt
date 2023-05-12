@@ -1,1 +1,1 @@
-{"eg":"1. I've always wanted to take a scenic railway trip through the mountains.2. The railway system in Japan is known for its efficiency and punctuality.3. My grandfather used to work as a railway conductor for 40 years.","eng":"railway"}
+{"eg":"1. I've always wanted to take a scenic railway trip through the mountains.\n2. The railway system in Japan is known for its efficiency and punctuality.\n3. My grandfather used to work as a railway conductor for 40 years.","eng":"railway"}

@@ -1,1 +1,1 @@
-{"eg":"1. I am wearing a T-shirt with my initials on it.2. The company logo consists of the initials of the founder's name.3. We use initials to abbreviate words and names in shorthand writing.","eng":"initial"}
+{"eg":"1. I am wearing a T-shirt with my initials on it.\n2. The company logo consists of the initials of the founder's name.\n3. We use initials to abbreviate words and names in shorthand writing.","eng":"initial"}

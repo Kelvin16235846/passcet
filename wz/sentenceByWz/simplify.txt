@@ -1,1 +1,1 @@
-{"eg":"1. The instructions were too complicated to follow, so I asked for a simplified version.2. The company's goal is to simplify the process of ordering online.3. To simplify the math problem, I broke it down into smaller steps.","eng":"simplify"}
+{"eg":"1. The instructions were too complicated to follow, so I asked for a simplified version.\n2. The company's goal is to simplify the process of ordering online.\n3. To simplify the math problem, I broke it down into smaller steps.","eng":"simplify"}

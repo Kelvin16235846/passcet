@@ -1,1 +1,1 @@
-{"eg":"1. The temperature outside is 20 degrees centigrade.2. My oven is set to 180 degrees centigrade for baking.3. The swimming pool is kept at a comfortable 25 degrees centigrade for swimming.","eng":"centigrade"}
+{"eg":"1. The temperature outside is 20 degrees centigrade.\n2. My oven is set to 180 degrees centigrade for baking.\n3. The swimming pool is kept at a comfortable 25 degrees centigrade for swimming.","eng":"centigrade"}

@@ -1,1 +1,1 @@
-{"eg":"1. Welcome to our team! We're glad to have you on board.2. Welcome to our city! We hope you enjoy all it has to offer.3. Welcome to our home! Make yourself comfortable and feel free to ask if you need anything.","eng":"welcome"}
+{"eg":"1. Welcome to our team! We're glad to have you on board.\n2. Welcome to our city! We hope you enjoy all it has to offer.\n3. Welcome to our home! Make yourself comfortable and feel free to ask if you need anything.","eng":"welcome"}

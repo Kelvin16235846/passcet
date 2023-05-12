@@ -1,1 +1,1 @@
-{"eg":"1. Fact: Elephants are the only mammal that can't jump.2. Fact: The shortest war in history was between Great Britain and Zanzibar, lasting only 38 minutes.3. Fact: A group of flamingos is called a flamboyance.","eng":"fact"}
+{"eg":"1. Fact: Elephants are the only mammal that can't jump.\n2. Fact: The shortest war in history was between Great Britain and Zanzibar, lasting only 38 minutes.\n3. Fact: A group of flamingos is called a flamboyance.","eng":"fact"}

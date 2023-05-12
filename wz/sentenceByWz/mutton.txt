@@ -1,1 +1,1 @@
-{"eg":"1. I love the rich flavor of mutton in my curry.2. Mutton kebabs are a popular street food in many countries.3. Mutton stew is a hearty and comforting dish, especially in cold weather.","eng":"mutton"}
+{"eg":"1. I love the rich flavor of mutton in my curry.\n2. Mutton kebabs are a popular street food in many countries.\n3. Mutton stew is a hearty and comforting dish, especially in cold weather.","eng":"mutton"}

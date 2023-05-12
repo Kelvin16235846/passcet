@@ -1,1 +1,1 @@
-{"eg":"1. The cake layer was so thick and moist, it was a delight to eat.2. She added another layer of paint to the canvas to create a more textured effect.3. The company implemented multiple layers of security to protect its sensitive information from cyber attacks.","eng":"layer"}
+{"eg":"1. The cake layer was so thick and moist, it was a delight to eat.\n2. She added another layer of paint to the canvas to create a more textured effect.\n3. The company implemented multiple layers of security to protect its sensitive information from cyber attacks.","eng":"layer"}

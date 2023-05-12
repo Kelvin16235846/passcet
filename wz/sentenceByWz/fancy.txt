@@ -1,1 +1,1 @@
-{"eg":"1. The fanciful flowers in her garden were a sight to behold.2. He spoke in a fancy tone, using ornate language to impress his audience.3. The wedding reception was a fancy affair, featuring elaborate decorations and a gourmet meal.","eng":"fancy"}
+{"eg":"1. The fanciful flowers in her garden were a sight to behold.\n2. He spoke in a fancy tone, using ornate language to impress his audience.\n3. The wedding reception was a fancy affair, featuring elaborate decorations and a gourmet meal.","eng":"fancy"}

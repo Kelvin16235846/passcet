@@ -1,1 +1,1 @@
-{"eg":"1. I love drinking tea from my favorite mug every morning.2. My co-worker gave me a new mug as a gift for my birthday.3. I accidentally dropped my mug, and now it's shattered into a million pieces.","eng":"mug"}
+{"eg":"1. I love drinking tea from my favorite mug every morning.\n2. My co-worker gave me a new mug as a gift for my birthday.\n3. I accidentally dropped my mug, and now it's shattered into a million pieces.","eng":"mug"}

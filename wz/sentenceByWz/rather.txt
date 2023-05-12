@@ -1,1 +1,1 @@
-{"eg":"1. I would rather stay at home and read a book than go to a loud party.2. She would rather take the scenic route than drive on the highway.3. They would rather eat at a local restaurant than at a chain restaurant.","eng":"rather"}
+{"eg":"1. I would rather stay at home and read a book than go to a loud party.\n2. She would rather take the scenic route than drive on the highway.\n3. They would rather eat at a local restaurant than at a chain restaurant.","eng":"rather"}

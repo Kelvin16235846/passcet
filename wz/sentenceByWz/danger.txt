@@ -1,1 +1,1 @@
-{"eg":"1. Danger! Do not enter the construction zone without proper safety gear.2. The slippery roads pose a real danger to drivers during heavy rain.3. It is important to understand the danger of a potential gas leak and to take immediate action to ensure safety.","eng":"danger"}
+{"eg":"1. Danger! Do not enter the construction zone without proper safety gear.\n2. The slippery roads pose a real danger to drivers during heavy rain.\n3. It is important to understand the danger of a potential gas leak and to take immediate action to ensure safety.","eng":"danger"}

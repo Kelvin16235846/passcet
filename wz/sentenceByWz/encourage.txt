@@ -1,1 +1,1 @@
-{"eg":"1. I always try to encourage my students to pursue their passions in life.2. My friends often encourage me to take risks and try new things.3. The coach's words of encouragement helped the team win the championship game.","eng":"encourage"}
+{"eg":"1. I always try to encourage my students to pursue their passions in life.\n2. My friends often encourage me to take risks and try new things.\n3. The coach's words of encouragement helped the team win the championship game.","eng":"encourage"}

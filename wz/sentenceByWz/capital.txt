@@ -1,1 +1,1 @@
-{"eg":"1. The capital of France is Paris.2. I need to raise some capital to start my business.3. The United States has its capital in Washington D.C.","eng":"capital"}
+{"eg":"1. The capital of France is Paris.\n2. I need to raise some capital to start my business.\n3. The United States has its capital in Washington D.C.","eng":"capital"}

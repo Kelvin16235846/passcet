@@ -1,1 +1,1 @@
-{"eg":"1. The taste of the soup was awful, I couldn't even finish a spoonful.2. The weather was awful yesterday, it rained nonstop all day.3. The movie was so awful, I regretted wasting my money on a ticket.","eng":"awful"}
+{"eg":"1. The taste of the soup was awful, I couldn't even finish a spoonful.\n2. The weather was awful yesterday, it rained nonstop all day.\n3. The movie was so awful, I regretted wasting my money on a ticket.","eng":"awful"}

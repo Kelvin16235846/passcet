@@ -1,1 +1,1 @@
-{"eg":"1. The diamond necklace was too expensive for me to afford.2. His taste in clothing is always expensive and designer.3. Living in New York City is notoriously expensive due to the high cost of living.","eng":"expensive"}
+{"eg":"1. The diamond necklace was too expensive for me to afford.\n2. His taste in clothing is always expensive and designer.\n3. Living in New York City is notoriously expensive due to the high cost of living.","eng":"expensive"}

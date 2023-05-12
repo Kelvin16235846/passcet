@@ -1,1 +1,1 @@
-{"eg":"1. She had a daring plan to climb the tallest mountain in the world.2. The daring actor performed his own stunts in the movie.3. I admire her daring fashion sense and willingness to take fashion risks.","eng":"daring"}
+{"eg":"1. She had a daring plan to climb the tallest mountain in the world.\n2. The daring actor performed his own stunts in the movie.\n3. I admire her daring fashion sense and willingness to take fashion risks.","eng":"daring"}

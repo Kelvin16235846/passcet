@@ -1,1 +1,1 @@
-{"eg":"1. The crust on this pizza is perfectly crispy and delicious.2. The earth's crust is made up of several different layers.3. I always save the crust of my bread for the last bite because it's my favorite part.","eng":"crust"}
+{"eg":"1. The crust on this pizza is perfectly crispy and delicious.\n2. The earth's crust is made up of several different layers.\n3. I always save the crust of my bread for the last bite because it's my favorite part.","eng":"crust"}

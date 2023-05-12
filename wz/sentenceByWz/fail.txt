@@ -1,1 +1,1 @@
-{"eg":"1. I failed my driving test for the third time yesterday.2. Despite studying hard all week, I still managed to fail the math quiz.3. The company's new product launch was a complete fail due to a major technical glitch.","eng":"fail"}
+{"eg":"1. I failed my driving test for the third time yesterday.\n2. Despite studying hard all week, I still managed to fail the math quiz.\n3. The company's new product launch was a complete fail due to a major technical glitch.","eng":"fail"}

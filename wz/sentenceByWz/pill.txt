@@ -1,1 +1,1 @@
-{"eg":"1. I always take a pill before bed to help me sleep better.2. If you have a headache, take a pill and drink plenty of water.3. My doctor prescribed me a pill to control my blood pressure.","eng":"pill"}
+{"eg":"1. I always take a pill before bed to help me sleep better.\n2. If you have a headache, take a pill and drink plenty of water.\n3. My doctor prescribed me a pill to control my blood pressure.","eng":"pill"}

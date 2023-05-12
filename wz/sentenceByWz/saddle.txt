@@ -1,1 +1,1 @@
-{"eg":"1. The saddle on the horse was worn and in need of repair.2. I struggled to adjust my saddle while my horse impatiently stomped his hooves.3. The cowboy gracefully mounted his horse, adjusting his saddle expertly before taking off into the sunset.","eng":"saddle"}
+{"eg":"1. The saddle on the horse was worn and in need of repair.\n2. I struggled to adjust my saddle while my horse impatiently stomped his hooves.\n3. The cowboy gracefully mounted his horse, adjusting his saddle expertly before taking off into the sunset.","eng":"saddle"}

@@ -1,1 +1,1 @@
-{"eg":"1. Don't waste your time on things that don't matter.2. He threw away a full plate of food, what a waste!3. It's a waste of money to buy that expensive gadget.","eng":"waste"}
+{"eg":"1. Don't waste your time on things that don't matter.\n2. He threw away a full plate of food, what a waste!\n3. It's a waste of money to buy that expensive gadget.","eng":"waste"}

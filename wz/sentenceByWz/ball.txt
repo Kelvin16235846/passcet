@@ -1,1 +1,1 @@
-{"eg":"1. Sarah threw the ball to her friend across the field.2. The basketball game was intense as the players passed the ball back and forth.3. The little boy was overjoyed to find a bouncy ball in the park.","eng":"ball"}
+{"eg":"1. Sarah threw the ball to her friend across the field.\n2. The basketball game was intense as the players passed the ball back and forth.\n3. The little boy was overjoyed to find a bouncy ball in the park.","eng":"ball"}

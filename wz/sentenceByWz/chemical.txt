@@ -1,1 +1,1 @@
-{"eg":"1. Chemical reactions play a key role in the formation of new compounds.2. The use of chemical fertilizers has greatly increased agricultural productivity.3. The chemical properties of a substance determine its behavior and interactions with other substances.","eng":"chemical"}
+{"eg":"1. Chemical reactions play a key role in the formation of new compounds.\n2. The use of chemical fertilizers has greatly increased agricultural productivity.\n3. The chemical properties of a substance determine its behavior and interactions with other substances.","eng":"chemical"}

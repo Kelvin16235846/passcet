@@ -1,1 +1,1 @@
-{"eg":"1. I put a sticky note on my computer screen to remind myself to call my boss back.2. The sticky candy coated my teeth and left a sugary taste in my mouth.3. My daughter loves to play with sticky slime and make different shapes and figures with it.","eng":"sticky"}
+{"eg":"1. I put a sticky note on my computer screen to remind myself to call my boss back.\n2. The sticky candy coated my teeth and left a sugary taste in my mouth.\n3. My daughter loves to play with sticky slime and make different shapes and figures with it.","eng":"sticky"}

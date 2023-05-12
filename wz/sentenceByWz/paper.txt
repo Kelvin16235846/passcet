@@ -1,1 +1,1 @@
-{"eg":"1. The teacher asked the students to turn in their papers by the end of the week.2. The newspaper reported on the latest developments in the political scandal.3. The gift was wrapped in colorful paper and tied with a ribbon.","eng":"paper"}
+{"eg":"1. The teacher asked the students to turn in their papers by the end of the week.\n2. The newspaper reported on the latest developments in the political scandal.\n3. The gift was wrapped in colorful paper and tied with a ribbon.","eng":"paper"}

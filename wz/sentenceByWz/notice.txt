@@ -1,1 +1,1 @@
-{"eg":"1. The notice on the bulletin board announces a meeting for next Monday.2. We received a notice from the landlord that rent is due next week.3. I didn't notice the sign that said \"No parking\" and ended up getting a ticket.","eng":"notice"}
+{"eg":"1. The notice on the bulletin board announces a meeting for next Monday.\n2. We received a notice from the landlord that rent is due next week.\n3. I didn't notice the sign that said \"No parking\" and ended up getting a ticket.","eng":"notice"}

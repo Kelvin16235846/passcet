@@ -1,1 +1,1 @@
-{"eg":"1. The claw of the eagle was sharp and strong, capable of catching prey with ease.2. The lobster's claw is a formidable weapon that can both crush and slice its enemies.3. Claw marks on the door indicated that a bear had been trying to get inside.","eng":"claw"}
+{"eg":"1. The claw of the eagle was sharp and strong, capable of catching prey with ease.\n2. The lobster's claw is a formidable weapon that can both crush and slice its enemies.\n3. Claw marks on the door indicated that a bear had been trying to get inside.","eng":"claw"}

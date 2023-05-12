@@ -1,1 +1,1 @@
-{"eg":"1. I can always rely on my best friend to cheer me up.2. We need to rely on renewable energy sources to protect the environment.3. As a pilot, I have to rely on my training and experience to navigate through difficult weather conditions.","eng":"rely"}
+{"eg":"1. I can always rely on my best friend to cheer me up.\n2. We need to rely on renewable energy sources to protect the environment.\n3. As a pilot, I have to rely on my training and experience to navigate through difficult weather conditions.","eng":"rely"}

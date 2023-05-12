@@ -1,1 +1,1 @@
-{"eg":"1. The vase lay shattered on the floor, broken into a million tiny pieces.2. The relationship between them was broken beyond repair after their last argument.3. The old car was left abandoned in the junkyard, broken and rusted from years of neglect.","eng":"broken"}
+{"eg":"1. The vase lay shattered on the floor, broken into a million tiny pieces.\n2. The relationship between them was broken beyond repair after their last argument.\n3. The old car was left abandoned in the junkyard, broken and rusted from years of neglect.","eng":"broken"}

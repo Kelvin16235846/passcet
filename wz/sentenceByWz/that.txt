@@ -1,1 +1,1 @@
-{"eg":"1. I couldn't believe that he actually managed to complete the marathon.2. It was clear that she had put a lot of effort into her presentation.3. It's always a good idea to double check that you have everything you need before leaving the house.","eng":"that"}
+{"eg":"1. I couldn't believe that he actually managed to complete the marathon.\n2. It was clear that she had put a lot of effort into her presentation.\n3. It's always a good idea to double check that you have everything you need before leaving the house.","eng":"that"}

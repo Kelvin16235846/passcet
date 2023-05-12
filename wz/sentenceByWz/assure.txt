@@ -1,1 +1,1 @@
-{"eg":"1. I can assure you that our company takes customer satisfaction very seriously.2. The doctor assured me that the medicine would alleviate my symptoms.3. We can assure you that the product meets all safety standards and regulations.","eng":"assure"}
+{"eg":"1. I can assure you that our company takes customer satisfaction very seriously.\n2. The doctor assured me that the medicine would alleviate my symptoms.\n3. We can assure you that the product meets all safety standards and regulations.","eng":"assure"}

@@ -1,1 +1,1 @@
-{"eg":"1. \"The quick brown fox jumps over the lazy dog.\"2. \"I am the walrus, goo goo g'joob.\"3. \"To be or not to be, that is the question.\"","eng":"echo"}
+{"eg":"1. \"The quick brown fox jumps over the lazy dog.\"\n2. \"I am the walrus, goo goo g'joob.\"\n3. \"To be or not to be, that is the question.\"","eng":"echo"}

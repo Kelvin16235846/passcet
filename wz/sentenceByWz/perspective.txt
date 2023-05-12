@@ -1,1 +1,1 @@
-{"eg":"1. From my perspective, the situation seems to be improving.2. The novel is written from the perspective of the main character.3. It's important to consider multiple perspectives when making a decision.","eng":"perspective"}
+{"eg":"1. From my perspective, the situation seems to be improving.\n2. The novel is written from the perspective of the main character.\n3. It's important to consider multiple perspectives when making a decision.","eng":"perspective"}

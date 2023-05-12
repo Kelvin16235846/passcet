@@ -1,1 +1,1 @@
-{"eg":"1. The two dogs were chasing each other around the park.2. I only have two apples left in my basket.3. Can you give me two reasons why you didn't do your homework?","eng":"two"}
+{"eg":"1. The two dogs were chasing each other around the park.\n2. I only have two apples left in my basket.\n3. Can you give me two reasons why you didn't do your homework?","eng":"two"}

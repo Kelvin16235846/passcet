@@ -1,1 +1,1 @@
-{"eg":"1. Following our meeting yesterday, we have decided to move forward with the proposed project.2. Following the instructions provided, I was able to successfully assemble the product.3. Following his resignation, the company has begun searching for a new CEO.","eng":"following"}
+{"eg":"1. Following our meeting yesterday, we have decided to move forward with the proposed project.\n2. Following the instructions provided, I was able to successfully assemble the product.\n3. Following his resignation, the company has begun searching for a new CEO.","eng":"following"}

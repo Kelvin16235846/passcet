@@ -1,1 +1,1 @@
-{"eg":"1. During the summer months, I like to spend my free time at the beach.2. I always make sure to stay hydrated during my workouts.3. My parents always remind me to be cautious while driving, especially during winter when the roads are icy.","eng":"during"}
+{"eg":"1. During the summer months, I like to spend my free time at the beach.\n2. I always make sure to stay hydrated during my workouts.\n3. My parents always remind me to be cautious while driving, especially during winter when the roads are icy.","eng":"during"}

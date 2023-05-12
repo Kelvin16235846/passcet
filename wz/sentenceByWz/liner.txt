@@ -1,1 +1,1 @@
-{"eg":"1. Life is a journey, enjoy the ride.2. The only way to do great work is to love what you do.3. When life knocks you down, stay down for a moment and then get back up stronger.","eng":"liner"}
+{"eg":"1. Life is a journey, enjoy the ride.\n2. The only way to do great work is to love what you do.\n3. When life knocks you down, stay down for a moment and then get back up stronger.","eng":"liner"}

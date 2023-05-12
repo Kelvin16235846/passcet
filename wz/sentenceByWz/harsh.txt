@@ -1,1 +1,1 @@
-{"eg":"1. The harsh reality of life hit me hard when I lost my job.2. The harsh wind whipped through the tree branches, causing them to sway violently.3. Her words were harsh and unkind, leaving him feeling hurt and offended.","eng":"harsh"}
+{"eg":"1. The harsh reality of life hit me hard when I lost my job.\n2. The harsh wind whipped through the tree branches, causing them to sway violently.\n3. Her words were harsh and unkind, leaving him feeling hurt and offended.","eng":"harsh"}

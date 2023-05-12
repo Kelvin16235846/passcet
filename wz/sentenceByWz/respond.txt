@@ -1,1 +1,1 @@
-{"eg":"1. I need you to respond to my email as soon as possible.2. When the teacher asked the question, the students were quick to respond.3. I'm curious to see how people will respond to the new product launch.","eng":"respond"}
+{"eg":"1. I need you to respond to my email as soon as possible.\n2. When the teacher asked the question, the students were quick to respond.\n3. I'm curious to see how people will respond to the new product launch.","eng":"respond"}

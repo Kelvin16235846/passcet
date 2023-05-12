@@ -1,1 +1,1 @@
-{"eg":"1. She rotated the key in the lock, but it wouldn't turn.2. The earth rotates on its axis once every 24 hours.3. The farmers rotate their crops to maintain soil fertility.","eng":"rotate"}
+{"eg":"1. She rotated the key in the lock, but it wouldn't turn.\n2. The earth rotates on its axis once every 24 hours.\n3. The farmers rotate their crops to maintain soil fertility.","eng":"rotate"}

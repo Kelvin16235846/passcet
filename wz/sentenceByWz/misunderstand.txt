@@ -1,1 +1,1 @@
-{"eg":"1. She always misunderstands my intentions.2. They misunderstood the instructions and made a mistake.3. Don't misunderstand me, I just don't agree with your opinion.","eng":"misunderstand"}
+{"eg":"1. She always misunderstands my intentions.\n2. They misunderstood the instructions and made a mistake.\n3. Don't misunderstand me, I just don't agree with your opinion.","eng":"misunderstand"}

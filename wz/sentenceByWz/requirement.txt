@@ -1,1 +1,1 @@
-{"eg":"1. Meeting this requirement is essential for the successful completion of the project.2. The applicant's qualifications did not meet the stated requirement for the job.3. The company was unable to fulfill the customer's requirement for a customized product.","eng":"requirement"}
+{"eg":"1. Meeting this requirement is essential for the successful completion of the project.\n2. The applicant's qualifications did not meet the stated requirement for the job.\n3. The company was unable to fulfill the customer's requirement for a customized product.","eng":"requirement"}

@@ -1,1 +1,1 @@
-{"eg":"1. I took a photograph of my cat sitting on the windowsill.2. She brought out an old photograph of her grandparents from the 1920s.3. The professional photographer captured the perfect moment of the newlyweds kissing.","eng":"photograph"}
+{"eg":"1. I took a photograph of my cat sitting on the windowsill.\n2. She brought out an old photograph of her grandparents from the 1920s.\n3. The professional photographer captured the perfect moment of the newlyweds kissing.","eng":"photograph"}

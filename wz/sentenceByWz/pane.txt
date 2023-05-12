@@ -1,1 +1,1 @@
-{"eg":"1. I love cooking on a pane of cast iron because it distributes heat evenly.2. The sunlight streamed in through the window pane, illuminating the room beautifully.3. He accidentally broke a pane of glass when he slammed the door shut.","eng":"pane"}
+{"eg":"1. I love cooking on a pane of cast iron because it distributes heat evenly.\n2. The sunlight streamed in through the window pane, illuminating the room beautifully.\n3. He accidentally broke a pane of glass when he slammed the door shut.","eng":"pane"}

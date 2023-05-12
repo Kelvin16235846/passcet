@@ -1,1 +1,1 @@
-{"eg":"1. The music was loud and energetic, and the crowd began to rock back and forth.2. He found a perfectly smooth rock on the side of the river and skipped it across the water.3. The mountains were so tall and magnificent, they seemed to be made entirely of solid rock.","eng":"rock"}
+{"eg":"1. The music was loud and energetic, and the crowd began to rock back and forth.\n2. He found a perfectly smooth rock on the side of the river and skipped it across the water.\n3. The mountains were so tall and magnificent, they seemed to be made entirely of solid rock.","eng":"rock"}

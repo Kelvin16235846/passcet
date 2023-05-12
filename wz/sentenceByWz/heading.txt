@@ -1,1 +1,1 @@
-{"eg":"1. Importance of Regular Exercise for a Healthy Lifestyle2. The Impact of Social Media on Mental Health3. Strategies for Effective Time Management in a Busy World","eng":"heading"}
+{"eg":"1. Importance of Regular Exercise for a Healthy Lifestyle\n2. The Impact of Social Media on Mental Health\n3. Strategies for Effective Time Management in a Busy World","eng":"heading"}

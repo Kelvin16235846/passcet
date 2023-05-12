@@ -1,1 +1,1 @@
-{"eg":"1. My age is 25 years old.2. At the age of 18, I started college.3. As we age, our bodies undergo various changes.","eng":"age"}
+{"eg":"1. My age is 25 years old.\n2. At the age of 18, I started college.\n3. As we age, our bodies undergo various changes.","eng":"age"}

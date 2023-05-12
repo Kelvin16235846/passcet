@@ -1,1 +1,1 @@
-{"eg":"1. Can you please bring me a glass of water?2. I always bring my favorite book with me when I travel.3. Don't forget to bring your umbrella, it's going to rain later.","eng":"bring"}
+{"eg":"1. Can you please bring me a glass of water?\n2. I always bring my favorite book with me when I travel.\n3. Don't forget to bring your umbrella, it's going to rain later.","eng":"bring"}

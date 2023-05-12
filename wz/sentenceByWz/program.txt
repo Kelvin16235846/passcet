@@ -1,1 +1,1 @@
-{"eg":"1. I am learning how to program in Python.2. The program was designed to analyze financial data.3. She wrote a program that helps people learn a new language.","eng":"program"}
+{"eg":"1. I am learning how to program in Python.\n2. The program was designed to analyze financial data.\n3. She wrote a program that helps people learn a new language.","eng":"program"}

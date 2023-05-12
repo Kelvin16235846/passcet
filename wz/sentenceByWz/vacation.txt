@@ -1,1 +1,1 @@
-{"eg":"1. I'm looking forward to my vacation next month.2. My family and I are planning to go on a beach vacation in Hawaii.3. After a stressful year of work, I really need a relaxing vacation.","eng":"vacation"}
+{"eg":"1. I'm looking forward to my vacation next month.\n2. My family and I are planning to go on a beach vacation in Hawaii.\n3. After a stressful year of work, I really need a relaxing vacation.","eng":"vacation"}

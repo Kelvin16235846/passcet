@@ -1,1 +1,1 @@
-{"eg":"1. I need to complete the assignment before the deadline.2. She was unable to complete the race due to an injury.3. The puzzle took me a while to complete, but it was worth it.","eng":"complete"}
+{"eg":"1. I need to complete the assignment before the deadline.\n2. She was unable to complete the race due to an injury.\n3. The puzzle took me a while to complete, but it was worth it.","eng":"complete"}

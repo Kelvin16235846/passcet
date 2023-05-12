@@ -1,1 +1,1 @@
-{"eg":"1. I enjoy playing badminton with my friends on weekends.2. Badminton is a popular sport in many countries, especially in Asia.3. She is the best badminton player in our school team.","eng":"badminton"}
+{"eg":"1. I enjoy playing badminton with my friends on weekends.\n2. Badminton is a popular sport in many countries, especially in Asia.\n3. She is the best badminton player in our school team.","eng":"badminton"}

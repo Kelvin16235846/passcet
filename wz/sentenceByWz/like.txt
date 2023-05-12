@@ -1,1 +1,1 @@
-{"eg":"1. I like to read books in my free time.2. She likes to listen to music while she works.3. They like to play soccer on weekends.","eng":"like"}
+{"eg":"1. I like to read books in my free time.\n2. She likes to listen to music while she works.\n3. They like to play soccer on weekends.","eng":"like"}

@@ -1,1 +1,1 @@
-{"eg":"1. I enjoy going to the theatre to watch live performances.2. My favorite play is currently showing at the local theatre.3. The theatre is a great way to experience different cultures through their plays and performances.","eng":"theatre"}
+{"eg":"1. I enjoy going to the theatre to watch live performances.\n2. My favorite play is currently showing at the local theatre.\n3. The theatre is a great way to experience different cultures through their plays and performances.","eng":"theatre"}

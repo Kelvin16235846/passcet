@@ -1,1 +1,1 @@
-{"eg":"1. She held the baby close to her bosom and rocked him gently to sleep.2. The secret was kept close to his bosom for fear of betrayal.3. The old man put his hand over his bosom and said a prayer.","eng":"bosom"}
+{"eg":"1. She held the baby close to her bosom and rocked him gently to sleep.\n2. The secret was kept close to his bosom for fear of betrayal.\n3. The old man put his hand over his bosom and said a prayer.","eng":"bosom"}

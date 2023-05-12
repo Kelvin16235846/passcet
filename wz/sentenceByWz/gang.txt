@@ -1,1 +1,1 @@
-{"eg":"1. The gang of robbers was finally caught by the police.2. He joined a gang of street artists and started creating graffiti.3. The gang of friends was excited about their upcoming road trip.","eng":"gang"}
+{"eg":"1. The gang of robbers was finally caught by the police.\n2. He joined a gang of street artists and started creating graffiti.\n3. The gang of friends was excited about their upcoming road trip.","eng":"gang"}

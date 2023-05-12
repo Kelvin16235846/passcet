@@ -1,1 +1,1 @@
-{"eg":"1. The weather in this region can vary greatly from day to day.2. The price of this product may vary depending on where you purchase it.3. Our opinions on this matter vary widely, so we need to discuss it further.","eng":"vary"}
+{"eg":"1. The weather in this region can vary greatly from day to day.\n2. The price of this product may vary depending on where you purchase it.\n3. Our opinions on this matter vary widely, so we need to discuss it further.","eng":"vary"}

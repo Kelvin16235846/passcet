@@ -1,1 +1,1 @@
-{"eg":"1. The flavor of this dish is similar to that of a traditional Indian curry.2. Her writing style is similar to that of a famous poet from the 19th century.3. The structure of this building is very similar to the one we saw in Paris.","eng":"similar"}
+{"eg":"1. The flavor of this dish is similar to that of a traditional Indian curry.\n2. Her writing style is similar to that of a famous poet from the 19th century.\n3. The structure of this building is very similar to the one we saw in Paris.","eng":"similar"}

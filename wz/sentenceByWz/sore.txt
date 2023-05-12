@@ -1,1 +1,1 @@
-{"eg":"1. My muscles are sore after the intense workout yesterday.2. She felt sore about being left out of the project.3. The wound on his leg was still sore and required medical attention.","eng":"sore"}
+{"eg":"1. My muscles are sore after the intense workout yesterday.\n2. She felt sore about being left out of the project.\n3. The wound on his leg was still sore and required medical attention.","eng":"sore"}

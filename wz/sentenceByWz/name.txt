@@ -1,1 +1,1 @@
-{"eg":"1. My name is John, and I'm from New York City.2. Lisa wasn't sure if she recognized the name on the envelope.3. The singer's name is Michael Jackson, but everyone knows him as the King of Pop.","eng":"name"}
+{"eg":"1. My name is John, and I'm from New York City.\n2. Lisa wasn't sure if she recognized the name on the envelope.\n3. The singer's name is Michael Jackson, but everyone knows him as the King of Pop.","eng":"name"}

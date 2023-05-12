@@ -1,1 +1,1 @@
-{"eg":"1. She was a single mother, struggling to provide for her children on her own.2. After their breakup, he struggled to adjust to being single again.3. The hotel offered both single and double occupancy rooms for guests to choose from.","eng":"single"}
+{"eg":"1. She was a single mother, struggling to provide for her children on her own.\n2. After their breakup, he struggled to adjust to being single again.\n3. The hotel offered both single and double occupancy rooms for guests to choose from.","eng":"single"}

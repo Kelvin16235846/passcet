@@ -1,1 +1,1 @@
-{"eg":"1. Gauge the level of water in the tank before you start the engine.2. It's important to gauge your audience's interest before giving a presentation.3. You can gauge the temperature of the oven with a thermometer.","eng":"gauge"}
+{"eg":"1. Gauge the level of water in the tank before you start the engine.\n2. It's important to gauge your audience's interest before giving a presentation.\n3. You can gauge the temperature of the oven with a thermometer.","eng":"gauge"}

@@ -1,1 +1,1 @@
-{"eg":"1. The rousing speech by the president inspired the crowd to cheer and applaud.2. The sound of the rousing music filled the stadium and energized the athletes.3. The rousing victory of the team brought tears to the eyes of their devoted fans.","eng":"rouse"}
+{"eg":"1. The rousing speech by the president inspired the crowd to cheer and applaud.\n2. The sound of the rousing music filled the stadium and energized the athletes.\n3. The rousing victory of the team brought tears to the eyes of their devoted fans.","eng":"rouse"}

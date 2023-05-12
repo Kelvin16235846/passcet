@@ -1,1 +1,1 @@
-{"eg":"1. His presence in the room made everyone feel more comfortable.2. She felt overwhelmed by the presence of so many important people at the event.3. The absence of his presence was felt strongly by his friends and family.","eng":"presence"}
+{"eg":"1. His presence in the room made everyone feel more comfortable.\n2. She felt overwhelmed by the presence of so many important people at the event.\n3. The absence of his presence was felt strongly by his friends and family.","eng":"presence"}

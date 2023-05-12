@@ -1,1 +1,1 @@
-{"eg":"1. Holy moly, that was one of the best meals I've ever had!2. Heavens to holy, did you see the size of that spider?3. Holy smokes, I can't believe I just won the lottery!","eng":"holy"}
+{"eg":"1. Holy moly, that was one of the best meals I've ever had!\n2. Heavens to holy, did you see the size of that spider?\n3. Holy smokes, I can't believe I just won the lottery!","eng":"holy"}

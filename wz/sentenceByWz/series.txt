@@ -1,1 +1,1 @@
-{"eg":"1. My favorite TV series is Game of Thrones.2. I always read the Harry Potter book series every year.3. The Walking Dead is a popular zombie apocalypse series.","eng":"series"}
+{"eg":"1. My favorite TV series is Game of Thrones.\n2. I always read the Harry Potter book series every year.\n3. The Walking Dead is a popular zombie apocalypse series.","eng":"series"}

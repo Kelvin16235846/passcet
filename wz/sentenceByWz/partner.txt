@@ -1,1 +1,1 @@
-{"eg":"1. My partner and I are working together to launch our new business venture.2. I love spending time with my partner, we always have so much fun together.3. My dance partner and I have been practicing for weeks for the upcoming competition.","eng":"partner"}
+{"eg":"1. My partner and I are working together to launch our new business venture.\n2. I love spending time with my partner, we always have so much fun together.\n3. My dance partner and I have been practicing for weeks for the upcoming competition.","eng":"partner"}

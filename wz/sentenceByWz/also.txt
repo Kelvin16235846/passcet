@@ -1,1 +1,1 @@
-{"eg":"1. I love to read books, and I also enjoy watching movies.2. She is a great chef, and she also has a passion for photography.3. He is a talented musician, and he also loves to paint in his spare time.","eng":"also"}
+{"eg":"1. I love to read books, and I also enjoy watching movies.\n2. She is a great chef, and she also has a passion for photography.\n3. He is a talented musician, and he also loves to paint in his spare time.","eng":"also"}

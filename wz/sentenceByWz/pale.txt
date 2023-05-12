@@ -1,1 +1,1 @@
-{"eg":"1. The walls of the old castle were painted in a pale green color.2. The pale light of dawn barely illuminated the empty street.3. She looked pale and exhausted after staying up all night to finish her assignment.","eng":"pale"}
+{"eg":"1. The walls of the old castle were painted in a pale green color.\n2. The pale light of dawn barely illuminated the empty street.\n3. She looked pale and exhausted after staying up all night to finish her assignment.","eng":"pale"}

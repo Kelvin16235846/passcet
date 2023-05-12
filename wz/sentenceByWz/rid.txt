@@ -1,1 +1,1 @@
-{"eg":"1. I rid myself of all bad habits and am now living a healthier lifestyle.2. The company rid itself of all underperforming employees to improve productivity.3. It took me a while, but I finally rid my closet of all the clothes I haven't worn in years.","eng":"rid"}
+{"eg":"1. I rid myself of all bad habits and am now living a healthier lifestyle.\n2. The company rid itself of all underperforming employees to improve productivity.\n3. It took me a while, but I finally rid my closet of all the clothes I haven't worn in years.","eng":"rid"}

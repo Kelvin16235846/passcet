@@ -1,1 +1,1 @@
-{"eg":"1. He was seriously injured in a car accident.2. The athlete injured his ankle during a match.3. The explosion injured several people who were nearby.","eng":"injure"}
+{"eg":"1. He was seriously injured in a car accident.\n2. The athlete injured his ankle during a match.\n3. The explosion injured several people who were nearby.","eng":"injure"}

@@ -1,1 +1,1 @@
-{"eg":"1. \"I observed a group of birds fluttering in the nearby trees.\"2. \"Upon closer observation, I noticed a small crack in the windshield.\"3. \"Her behavior changed drastically after the observation that she was being watched.\"","eng":"observation"}
+{"eg":"1. \"I observed a group of birds fluttering in the nearby trees.\"\n2. \"Upon closer observation, I noticed a small crack in the windshield.\"\n3. \"Her behavior changed drastically after the observation that she was being watched.\"","eng":"observation"}

@@ -1,1 +1,1 @@
-{"eg":"1. The rhythm of the ocean waves lulled me to sleep.2. The DJ played a catchy rhythm that got everyone on the dance floor.3. The beating rhythm of the drums echoed through the streets during the parade.","eng":"rhythm"}
+{"eg":"1. The rhythm of the ocean waves lulled me to sleep.\n2. The DJ played a catchy rhythm that got everyone on the dance floor.\n3. The beating rhythm of the drums echoed through the streets during the parade.","eng":"rhythm"}

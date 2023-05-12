@@ -1,1 +1,1 @@
-{"eg":"1. The juicy pear was ripe and ready to be picked from the tree.2. She added sliced pears to the spinach salad for a sweet and tangy flavor.3. His favourite fruit was a ripe and juicy pear, which he enjoyed eating for breakfast.","eng":"pear"}
+{"eg":"1. The juicy pear was ripe and ready to be picked from the tree.\n2. She added sliced pears to the spinach salad for a sweet and tangy flavor.\n3. His favourite fruit was a ripe and juicy pear, which he enjoyed eating for breakfast.","eng":"pear"}

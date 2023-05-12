@@ -1,1 +1,1 @@
-{"eg":"1. I need to concentrate on studying for my upcoming exam.2. It's hard to concentrate with all the noise outside.3. She finds it easier to concentrate when she listens to classical music.","eng":"concentrate"}
+{"eg":"1. I need to concentrate on studying for my upcoming exam.\n2. It's hard to concentrate with all the noise outside.\n3. She finds it easier to concentrate when she listens to classical music.","eng":"concentrate"}

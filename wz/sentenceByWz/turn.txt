@@ -1,1 +1,1 @@
-{"eg":"1. He turned the key and the engine roared to life.2. She turned the page of the book and continued to read.3. They turned the corner and were greeted by a stunning view of the ocean.","eng":"turn"}
+{"eg":"1. He turned the key and the engine roared to life.\n2. She turned the page of the book and continued to read.\n3. They turned the corner and were greeted by a stunning view of the ocean.","eng":"turn"}

@@ -1,1 +1,1 @@
-{"eg":"1. The bell rang loudly, signaling the start of the school day.2. She rang the bell twice before giving up and knocking on the door.3. The sleigh bells jingled merrily as the horse pulled the carriage through the snowy countryside.","eng":"bell"}
+{"eg":"1. The bell rang loudly, signaling the start of the school day.\n2. She rang the bell twice before giving up and knocking on the door.\n3. The sleigh bells jingled merrily as the horse pulled the carriage through the snowy countryside.","eng":"bell"}

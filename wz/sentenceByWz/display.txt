@@ -1,1 +1,1 @@
-{"eg":"1. The company's mission statement was prominently displayed on the office wall.2. The artist's masterpiece was displayed in a prominent position at the art gallery.3. The latest fashion trends were showcased on the runway, beautifully displayed for all to see.","eng":"display"}
+{"eg":"1. The company's mission statement was prominently displayed on the office wall.\n2. The artist's masterpiece was displayed in a prominent position at the art gallery.\n3. The latest fashion trends were showcased on the runway, beautifully displayed for all to see.","eng":"display"}

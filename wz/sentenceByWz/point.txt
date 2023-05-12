@@ -1,1 +1,1 @@
-{"eg":"1. From my point of view, the company's decision was not the right one.2. He made a valid point during the meeting that no one had considered before.3. The whole point of the exercise was to improve our teamwork skills.","eng":"point"}
+{"eg":"1. From my point of view, the company's decision was not the right one.\n2. He made a valid point during the meeting that no one had considered before.\n3. The whole point of the exercise was to improve our teamwork skills.","eng":"point"}

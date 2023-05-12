@@ -1,1 +1,1 @@
-{"eg":"1. I need to boil some water for my tea.2. If you want to cook pasta, you need to boil a large pot of water first.3. Don't forget to boil the eggs for exactly 5 minutes.","eng":"boil"}
+{"eg":"1. I need to boil some water for my tea.\n2. If you want to cook pasta, you need to boil a large pot of water first.\n3. Don't forget to boil the eggs for exactly 5 minutes.","eng":"boil"}

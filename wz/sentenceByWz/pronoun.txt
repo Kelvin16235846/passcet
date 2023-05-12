@@ -1,1 +1,1 @@
-{"eg":"1. She saw a bird on the tree and she pointed to it.2. They went to the beach to swim, but it started raining before they could get in the water.3. He grabbed his book and decided to read it outside under the shade of the tree.","eng":"pronoun"}
+{"eg":"1. She saw a bird on the tree and she pointed to it.\n2. They went to the beach to swim, but it started raining before they could get in the water.\n3. He grabbed his book and decided to read it outside under the shade of the tree.","eng":"pronoun"}

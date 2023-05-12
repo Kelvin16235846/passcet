@@ -1,1 +1,1 @@
-{"eg":"1. The little girl skipped happily down the street.2. He made a little mistake, but quickly corrected it.3. The tiny bird perched on a little branch.","eng":"little"}
+{"eg":"1. The little girl skipped happily down the street.\n2. He made a little mistake, but quickly corrected it.\n3. The tiny bird perched on a little branch.","eng":"little"}

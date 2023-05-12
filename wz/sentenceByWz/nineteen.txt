@@ -1,1 +1,1 @@
-{"eg":"1. I started my first job at the age of nineteen.2. Nineteen is the legal drinking age in some countries.3. The novel tells the story of a group of nineteen-year-olds struggling with adulthood.","eng":"nineteen"}
+{"eg":"1. I started my first job at the age of nineteen.\n2. Nineteen is the legal drinking age in some countries.\n3. The novel tells the story of a group of nineteen-year-olds struggling with adulthood.","eng":"nineteen"}

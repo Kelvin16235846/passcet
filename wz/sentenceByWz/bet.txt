@@ -1,1 +1,1 @@
-{"eg":"1. I bet you can't run a mile faster than me.2. She's going to bet all her savings on the horse race tomorrow.3. Let's make a bet - if I win, you have to do my laundry for a week.","eng":"bet"}
+{"eg":"1. I bet you can't run a mile faster than me.\n2. She's going to bet all her savings on the horse race tomorrow.\n3. Let's make a bet - if I win, you have to do my laundry for a week.","eng":"bet"}

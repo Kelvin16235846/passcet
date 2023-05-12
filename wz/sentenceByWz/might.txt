@@ -1,1 +1,1 @@
-{"eg":"1. I might go to the gym after work today.2. He might not be able to attend the meeting due to a family emergency.3. It might rain tomorrow, so bring your umbrella just in case.","eng":"might"}
+{"eg":"1. I might go to the gym after work today.\n2. He might not be able to attend the meeting due to a family emergency.\n3. It might rain tomorrow, so bring your umbrella just in case.","eng":"might"}

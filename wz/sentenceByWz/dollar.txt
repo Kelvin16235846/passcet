@@ -1,1 +1,1 @@
-{"eg":"1. I only have a dollar left in my wallet, so I can only buy a small snack.2. If we work hard and save our money, we can eventually save up a thousand dollars.3. He left a five-dollar bill as a tip for the waitress who provided excellent service.","eng":"dollar"}
+{"eg":"1. I only have a dollar left in my wallet, so I can only buy a small snack.\n2. If we work hard and save our money, we can eventually save up a thousand dollars.\n3. He left a five-dollar bill as a tip for the waitress who provided excellent service.","eng":"dollar"}

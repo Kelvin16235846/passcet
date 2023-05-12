@@ -1,1 +1,1 @@
-{"eg":"1. The box contained a surprise gift from my friend.2. I used a box to store my old letters and photographs.3. The mailman dropped off a box full of packages at my doorstep.","eng":"box"}
+{"eg":"1. The box contained a surprise gift from my friend.\n2. I used a box to store my old letters and photographs.\n3. The mailman dropped off a box full of packages at my doorstep.","eng":"box"}

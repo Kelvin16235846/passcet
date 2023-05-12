@@ -1,1 +1,1 @@
-{"eg":"1. I recognize that the situation is difficult, but I believe we can find a solution.2. It's important to recognize that everyone has their own unique perspective and experiences.3. She couldn't recognize her own reflection in the mirror after the accident.","eng":"recognize"}
+{"eg":"1. I recognize that the situation is difficult, but I believe we can find a solution.\n2. It's important to recognize that everyone has their own unique perspective and experiences.\n3. She couldn't recognize her own reflection in the mirror after the accident.","eng":"recognize"}

@@ -1,1 +1,1 @@
-{"eg":"1. These shoes are too small for my feet.2. I need to return these books to the library.3. These flowers are the perfect gift for my friend's birthday.","eng":"these"}
+{"eg":"1. These shoes are too small for my feet.\n2. I need to return these books to the library.\n3. These flowers are the perfect gift for my friend's birthday.","eng":"these"}

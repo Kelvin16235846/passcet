@@ -1,1 +1,1 @@
-{"eg":"1. The cat sat quietly in the corner of the room.2. Don't forget to check the corners of the room for any missed dust.3. The little boy was crying in the corner after he lost his favorite toy.","eng":"corner"}
+{"eg":"1. The cat sat quietly in the corner of the room.\n2. Don't forget to check the corners of the room for any missed dust.\n3. The little boy was crying in the corner after he lost his favorite toy.","eng":"corner"}

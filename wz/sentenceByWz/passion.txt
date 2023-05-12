@@ -1,1 +1,1 @@
-{"eg":"1. I have a passion for cooking and love experimenting with new recipes.2. His passion for music drove him to pursue a career as a musician.3. She discovered her passion for helping others while volunteering at a local homeless shelter.","eng":"passion"}
+{"eg":"1. I have a passion for cooking and love experimenting with new recipes.\n2. His passion for music drove him to pursue a career as a musician.\n3. She discovered her passion for helping others while volunteering at a local homeless shelter.","eng":"passion"}

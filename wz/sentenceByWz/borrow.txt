@@ -1,1 +1,1 @@
-{"eg":"1. I need to borrow a pencil for the test.2. Can I borrow your book for the weekend?3. My friend asked to borrow some money for a bus ticket.","eng":"borrow"}
+{"eg":"1. I need to borrow a pencil for the test.\n2. Can I borrow your book for the weekend?\n3. My friend asked to borrow some money for a bus ticket.","eng":"borrow"}

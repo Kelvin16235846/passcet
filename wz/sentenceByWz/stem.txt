@@ -1,1 +1,1 @@
-{"eg":"1. The flowers in my garden are beautifully stemmed.2. The chef carefully stemmed the herbs before using them in the dish.3. We need to stem the tide of pollution before it's too late.","eng":"stem"}
+{"eg":"1. The flowers in my garden are beautifully stemmed.\n2. The chef carefully stemmed the herbs before using them in the dish.\n3. We need to stem the tide of pollution before it's too late.","eng":"stem"}

@@ -1,1 +1,1 @@
-{"eg":"1. The funny joke that the comedian told really amused the entire audience.2. The playful puppy amuses us with its playful antics and boundless energy.3. I find reading humorous comics and watching comedy movies to be the best way to amuse myself on lazy weekends.","eng":"amuse"}
+{"eg":"1. The funny joke that the comedian told really amused the entire audience.\n2. The playful puppy amuses us with its playful antics and boundless energy.\n3. I find reading humorous comics and watching comedy movies to be the best way to amuse myself on lazy weekends.","eng":"amuse"}

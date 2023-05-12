@@ -1,1 +1,1 @@
-{"eg":"1. I'm sorry, but I have to exit this conversation now.2. Could you please exit the room so that I can have a private conversation?3. The program has encountered an error and will now exit.","eng":"exit"}
+{"eg":"1. I'm sorry, but I have to exit this conversation now.\n2. Could you please exit the room so that I can have a private conversation?\n3. The program has encountered an error and will now exit.","eng":"exit"}

@@ -1,1 +1,1 @@
-{"eg":"1. I almost forgot to take my keys before leaving the house.2. The movie was almost over when I arrived at the theater.3. I almost dropped my phone when I received the exciting news.","eng":"almost"}
+{"eg":"1. I almost forgot to take my keys before leaving the house.\n2. The movie was almost over when I arrived at the theater.\n3. I almost dropped my phone when I received the exciting news.","eng":"almost"}

@@ -1,1 +1,1 @@
-{"eg":"1. She measured out the flour carefully before adding it to the mix.2. The baker sifted the flour to ensure a smooth texture for the cake.3. He added more flour to the dough to make it less sticky.","eng":"flour"}
+{"eg":"1. She measured out the flour carefully before adding it to the mix.\n2. The baker sifted the flour to ensure a smooth texture for the cake.\n3. He added more flour to the dough to make it less sticky.","eng":"flour"}

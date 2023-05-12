@@ -1,1 +1,1 @@
-{"eg":"1. The usage of smartphones has increased exponentially in the past decade.2. The proper usage of grammar and punctuation is essential in writing.3. The usage of renewable energy sources is crucial for a sustainable future.","eng":"usage"}
+{"eg":"1. The usage of smartphones has increased exponentially in the past decade.\n2. The proper usage of grammar and punctuation is essential in writing.\n3. The usage of renewable energy sources is crucial for a sustainable future.","eng":"usage"}

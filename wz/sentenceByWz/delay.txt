@@ -1,1 +1,1 @@
-{"eg":"1. I can't respond right away due to a delay in my internet connection.2. The flight was delayed by two hours, causing frustration among the passengers.3. Please allow for a delay in the delivery of your package due to unforeseen circumstances.","eng":"delay"}
+{"eg":"1. I can't respond right away due to a delay in my internet connection.\n2. The flight was delayed by two hours, causing frustration among the passengers.\n3. Please allow for a delay in the delivery of your package due to unforeseen circumstances.","eng":"delay"}

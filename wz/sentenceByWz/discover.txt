@@ -1,1 +1,1 @@
-{"eg":"1. I discovered a hidden gem in the city while walking around yesterday.2. During my research, I discovered a new method of achieving higher productivity.3. She discovered that her grandfather had written a book during his time in the war.","eng":"discover"}
+{"eg":"1. I discovered a hidden gem in the city while walking around yesterday.\n2. During my research, I discovered a new method of achieving higher productivity.\n3. She discovered that her grandfather had written a book during his time in the war.","eng":"discover"}

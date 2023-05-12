@@ -1,1 +1,1 @@
-{"eg":"1. Normally, I wake up at 7am every day.2. It's normally quiet in this neighborhood, but today there's a lot of construction noise.3. We normally take the train to work, but today we're driving because of the heavy snow.","eng":"normally"}
+{"eg":"1. Normally, I wake up at 7am every day.\n2. It's normally quiet in this neighborhood, but today there's a lot of construction noise.\n3. We normally take the train to work, but today we're driving because of the heavy snow.","eng":"normally"}

@@ -1,1 +1,1 @@
-{"eg":"1. Nodding his head in agreement, he signaled that he understood and accepted the proposal.2. She gave him a nod of approval, letting him know that he had done a great job.3. The teacher nodded to the student to continue with their presentation.","eng":"nod"}
+{"eg":"1. Nodding his head in agreement, he signaled that he understood and accepted the proposal.\n2. She gave him a nod of approval, letting him know that he had done a great job.\n3. The teacher nodded to the student to continue with their presentation.","eng":"nod"}

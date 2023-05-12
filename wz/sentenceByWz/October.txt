@@ -1,1 +1,1 @@
-{"eg":"1. October is a beautiful month with falling leaves and cozy sweaters.2. My birthday is in October, so I love this month more than any other.3. October is a time for pumpkin carving, hayrides, and all things spooky!","eng":"October"}
+{"eg":"1. October is a beautiful month with falling leaves and cozy sweaters.\n2. My birthday is in October, so I love this month more than any other.\n3. October is a time for pumpkin carving, hayrides, and all things spooky!","eng":"October"}

@@ -1,1 +1,1 @@
-{"eg":"1. I love to watch live concerts because the energy of the performers is palpable.2. The live broadcast of the game made me feel like I was sitting in the stadium.3. Attending a live theatre performance is an experience like no other.","eng":"live"}
+{"eg":"1. I love to watch live concerts because the energy of the performers is palpable.\n2. The live broadcast of the game made me feel like I was sitting in the stadium.\n3. Attending a live theatre performance is an experience like no other.","eng":"live"}

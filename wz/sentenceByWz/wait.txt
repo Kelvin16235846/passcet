@@ -1,1 +1,1 @@
-{"eg":"1. Please wait a moment while I retrieve your file from the archive.2. Can you wait until I finish this call before we continue our conversation?3. We apologize for the delay, please wait patiently as we work to resolve the issue.","eng":"wait"}
+{"eg":"1. Please wait a moment while I retrieve your file from the archive.\n2. Can you wait until I finish this call before we continue our conversation?\n3. We apologize for the delay, please wait patiently as we work to resolve the issue.","eng":"wait"}

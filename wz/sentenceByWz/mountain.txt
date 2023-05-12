@@ -1,1 +1,1 @@
-{"eg":"1. I love hiking in the mountains, the crisp air and breathtaking views are simply magical.2. The mountain range is a natural barrier that separates the two countries.3. The mountaineer embarked on a treacherous journey to summit the highest peak in the world.","eng":"mountain"}
+{"eg":"1. I love hiking in the mountains, the crisp air and breathtaking views are simply magical.\n2. The mountain range is a natural barrier that separates the two countries.\n3. The mountaineer embarked on a treacherous journey to summit the highest peak in the world.","eng":"mountain"}

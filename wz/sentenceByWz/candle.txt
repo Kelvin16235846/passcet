@@ -1,1 +1,1 @@
-{"eg":"1. The flickering candle cast a warm glow over the cozy room.2. She closed her eyes and prayed silently before blowing out the candle.3. The scent of vanilla filled the air as the candle burned steadily on the mantelpiece.","eng":"candle"}
+{"eg":"1. The flickering candle cast a warm glow over the cozy room.\n2. She closed her eyes and prayed silently before blowing out the candle.\n3. The scent of vanilla filled the air as the candle burned steadily on the mantelpiece.","eng":"candle"}

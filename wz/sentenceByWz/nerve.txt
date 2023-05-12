@@ -1,1 +1,1 @@
-{"eg":"1. I could feel my nerves fray as I approached the stage for my big speech.2. She had the nerve to interrupt me mid-sentence and start speaking over me.3. My nerves were shot after the long, stressful day at work.","eng":"nerve"}
+{"eg":"1. I could feel my nerves fray as I approached the stage for my big speech.\n2. She had the nerve to interrupt me mid-sentence and start speaking over me.\n3. My nerves were shot after the long, stressful day at work.","eng":"nerve"}

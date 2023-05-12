@@ -1,1 +1,1 @@
-{"eg":"1. Our house is located in a quiet neighborhood.2. Our team won the championship tournament.3. Our family enjoys going on hikes in the mountains.","eng":"ours"}
+{"eg":"1. Our house is located in a quiet neighborhood.\n2. Our team won the championship tournament.\n3. Our family enjoys going on hikes in the mountains.","eng":"ours"}

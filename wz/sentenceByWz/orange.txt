@@ -1,1 +1,1 @@
-{"eg":"1. Orange is my favorite fruit to have for breakfast.2. The vibrant shade of orange in the sunset tonight was breathtaking.3. I like to wear orange clothing in the summer because it's a cheerful color.","eng":"orange"}
+{"eg":"1. Orange is my favorite fruit to have for breakfast.\n2. The vibrant shade of orange in the sunset tonight was breathtaking.\n3. I like to wear orange clothing in the summer because it's a cheerful color.","eng":"orange"}

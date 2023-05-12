@@ -1,1 +1,1 @@
-{"eg":"1. Anyway, let's not dwell on the past and focus on moving forward.2. I'm sure we'll figure out a solution to this problem anyway.3. Anyway, it's getting late, so I think we should call it a night.","eng":"anyway"}
+{"eg":"1. Anyway, let's not dwell on the past and focus on moving forward.\n2. I'm sure we'll figure out a solution to this problem anyway.\n3. Anyway, it's getting late, so I think we should call it a night.","eng":"anyway"}

@@ -1,1 +1,1 @@
-{"eg":"1. He tried to imitate his favorite actor's signature move but failed miserably.2. The parrot was able to imitate the sound of a car horn perfectly.3. She found it difficult to imitate the French accent, despite taking multiple language classes.","eng":"imitate"}
+{"eg":"1. He tried to imitate his favorite actor's signature move but failed miserably.\n2. The parrot was able to imitate the sound of a car horn perfectly.\n3. She found it difficult to imitate the French accent, despite taking multiple language classes.","eng":"imitate"}

@@ -1,1 +1,1 @@
-{"eg":"1. The continuous rain made the streets slippery and dangerous to walk on.2. He complained about the continuous noise from the construction site next door.3. The company is working towards achieving continuous improvement in their products and services.","eng":"continuous"}
+{"eg":"1. The continuous rain made the streets slippery and dangerous to walk on.\n2. He complained about the continuous noise from the construction site next door.\n3. The company is working towards achieving continuous improvement in their products and services.","eng":"continuous"}

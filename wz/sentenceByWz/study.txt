@@ -1,1 +1,1 @@
-{"eg":"1. I plan to study all night for tomorrow's exam.2. She is currently studying abroad in Paris, France.3. He wants to study architecture and design buildings in the future.","eng":"study"}
+{"eg":"1. I plan to study all night for tomorrow's exam.\n2. She is currently studying abroad in Paris, France.\n3. He wants to study architecture and design buildings in the future.","eng":"study"}

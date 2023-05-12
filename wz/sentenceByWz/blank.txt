@@ -1,1 +1,1 @@
-{"eg":"1. Can you grab me a blank sheet of paper? I need to write down some notes.2. I have a blank look on my face because I don't understand what you're saying.3. The teacher handed out a blank quiz and told the students to fill in the answers themselves.","eng":"blank"}
+{"eg":"1. Can you grab me a blank sheet of paper? I need to write down some notes.\n2. I have a blank look on my face because I don't understand what you're saying.\n3. The teacher handed out a blank quiz and told the students to fill in the answers themselves.","eng":"blank"}

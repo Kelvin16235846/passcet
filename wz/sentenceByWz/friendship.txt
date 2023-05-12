@@ -1,1 +1,1 @@
-{"eg":"1. Friendship is the foundation of any great relationship.2. True friendship means being there for each other through thick and thin.3. The best friendships are the ones that stand the test of time.","eng":"friendship"}
+{"eg":"1. Friendship is the foundation of any great relationship.\n2. True friendship means being there for each other through thick and thin.\n3. The best friendships are the ones that stand the test of time.","eng":"friendship"}

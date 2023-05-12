@@ -1,1 +1,1 @@
-{"eg":"1. I need to solve this math problem before the end of class.2. The detective was determined to solve the mystery of the missing diamonds.3. We must find a way to solve the problem of pollution before it's too late.","eng":"solve"}
+{"eg":"1. I need to solve this math problem before the end of class.\n2. The detective was determined to solve the mystery of the missing diamonds.\n3. We must find a way to solve the problem of pollution before it's too late.","eng":"solve"}

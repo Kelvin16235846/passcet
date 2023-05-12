@@ -1,1 +1,1 @@
-{"eg":"1. The team was devastated by the loss of their star player.2. The company suffered a significant financial loss due to poor investments.3. The loss of power during the storm caused widespread damage and disruption.","eng":"loss"}
+{"eg":"1. The team was devastated by the loss of their star player.\n2. The company suffered a significant financial loss due to poor investments.\n3. The loss of power during the storm caused widespread damage and disruption.","eng":"loss"}

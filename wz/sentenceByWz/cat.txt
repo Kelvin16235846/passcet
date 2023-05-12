@@ -1,1 +1,1 @@
-{"eg":"1. The cat curled up in a ball and purred contentedly.2. The mischievous cat knocked over a vase and then sauntered away.3. The black and white cat looked up at me with piercing green eyes.","eng":"cat"}
+{"eg":"1. The cat curled up in a ball and purred contentedly.\n2. The mischievous cat knocked over a vase and then sauntered away.\n3. The black and white cat looked up at me with piercing green eyes.","eng":"cat"}

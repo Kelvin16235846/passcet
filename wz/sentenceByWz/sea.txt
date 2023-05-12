@@ -1,1 +1,1 @@
-{"eg":"1. I love the sea because it is mesmerizing and calming.2. The sea was rough today, with waves crashing against the shore.3. We went on a sea adventure and saw dolphins swimming alongside our boat.","eng":"sea"}
+{"eg":"1. I love the sea because it is mesmerizing and calming.\n2. The sea was rough today, with waves crashing against the shore.\n3. We went on a sea adventure and saw dolphins swimming alongside our boat.","eng":"sea"}

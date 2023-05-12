@@ -1,1 +1,1 @@
-{"eg":"1. The unit of measurement for length is meters.2. Our office building contains several hundred unit apartments.3. My fitness goal is to increase my running endurance by 10 units on the treadmill.","eng":"unit"}
+{"eg":"1. The unit of measurement for length is meters.\n2. Our office building contains several hundred unit apartments.\n3. My fitness goal is to increase my running endurance by 10 units on the treadmill.","eng":"unit"}

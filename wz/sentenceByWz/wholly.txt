@@ -1,1 +1,1 @@
-{"eg":"1. The project was wholly funded by the government.2. She was wholly committed to her goals, working tirelessly to achieve them.3. The company was wholly owned by the family, with all members playing a role in its success.","eng":"wholly"}
+{"eg":"1. The project was wholly funded by the government.\n2. She was wholly committed to her goals, working tirelessly to achieve them.\n3. The company was wholly owned by the family, with all members playing a role in its success.","eng":"wholly"}

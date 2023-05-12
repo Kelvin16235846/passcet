@@ -1,1 +1,1 @@
-{"eg":"1. The actual cost of the project turned out to be higher than expected.2. Despite our predictions, the actual turnout for the event was quite impressive.3. The actual cause of the accident is still under investigation.","eng":"actual"}
+{"eg":"1. The actual cost of the project turned out to be higher than expected.\n2. Despite our predictions, the actual turnout for the event was quite impressive.\n3. The actual cause of the accident is still under investigation.","eng":"actual"}

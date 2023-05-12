@@ -1,1 +1,1 @@
-{"eg":"1. The cute little duck waddled through the grassy meadow.2. I spotted a group of ducks swimming gracefully in the lake.3. The ducklings followed their mother as she led them to safety.","eng":"duck"}
+{"eg":"1. The cute little duck waddled through the grassy meadow.\n2. I spotted a group of ducks swimming gracefully in the lake.\n3. The ducklings followed their mother as she led them to safety.","eng":"duck"}

@@ -1,1 +1,1 @@
-{"eg":"1. The desk in my room is a simple wooden one with three drawers.2. She put her books and laptop on the desk and started working on her project.3. The teacher stood at the front of the class and rested her hands on the desk as she spoke.","eng":"desk"}
+{"eg":"1. The desk in my room is a simple wooden one with three drawers.\n2. She put her books and laptop on the desk and started working on her project.\n3. The teacher stood at the front of the class and rested her hands on the desk as she spoke.","eng":"desk"}

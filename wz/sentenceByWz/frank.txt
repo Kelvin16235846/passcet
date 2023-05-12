@@ -1,1 +1,1 @@
-{"eg":"1. Frank enjoys playing basketball with his friends on the weekends.2. Despite his busy schedule, Frank always finds time to read a good book.3. Frank is a talented musician and can play several instruments including the guitar and piano.","eng":"frank"}
+{"eg":"1. Frank enjoys playing basketball with his friends on the weekends.\n2. Despite his busy schedule, Frank always finds time to read a good book.\n3. Frank is a talented musician and can play several instruments including the guitar and piano.","eng":"frank"}

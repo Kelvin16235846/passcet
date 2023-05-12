@@ -1,1 +1,1 @@
-{"eg":"1. He looked at her with contempt, as if she was beneath his notice.2. The speech was filled with contempt towards those who disagreed with the speaker's views.3. The boss treated his employees with contempt, making them feel unimportant and insignificant.","eng":"contempt"}
+{"eg":"1. He looked at her with contempt, as if she was beneath his notice.\n2. The speech was filled with contempt towards those who disagreed with the speaker's views.\n3. The boss treated his employees with contempt, making them feel unimportant and insignificant.","eng":"contempt"}

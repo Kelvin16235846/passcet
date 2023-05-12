@@ -1,1 +1,1 @@
-{"eg":"1. She stuck out her tongue as a sign of disapproval.2. The baby kept sticking out his tongue and giggling.3. The doctor examined the patient's tongue to check for any abnormalities.","eng":"tongue"}
+{"eg":"1. She stuck out her tongue as a sign of disapproval.\n2. The baby kept sticking out his tongue and giggling.\n3. The doctor examined the patient's tongue to check for any abnormalities.","eng":"tongue"}

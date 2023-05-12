@@ -1,1 +1,1 @@
-{"eg":"1. I won a lot of money in the lottery last week.2. We have a lot of work to do before the deadline.3. My new apartment has a lot of natural light, making it feel spacious and welcoming.","eng":"lot"}
+{"eg":"1. I won a lot of money in the lottery last week.\n2. We have a lot of work to do before the deadline.\n3. My new apartment has a lot of natural light, making it feel spacious and welcoming.","eng":"lot"}

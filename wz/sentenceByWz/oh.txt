@@ -1,1 +1,1 @@
-{"eg":"1. Oh no! I forgot my keys again!2. Oh my goodness, that movie was so scary!3. Oh, I see what you mean now.","eng":"oh"}
+{"eg":"1. Oh no! I forgot my keys again!\n2. Oh my goodness, that movie was so scary!\n3. Oh, I see what you mean now.","eng":"oh"}

@@ -1,1 +1,1 @@
-{"eg":"1. Tuck your shirt in before you go out.2. She always tucks her hair behind her ears when she's nervous.3. Can you tuck the blankets around the baby so he doesn't get cold during the night?","eng":"tuck"}
+{"eg":"1. Tuck your shirt in before you go out.\n2. She always tucks her hair behind her ears when she's nervous.\n3. Can you tuck the blankets around the baby so he doesn't get cold during the night?","eng":"tuck"}

@@ -1,1 +1,1 @@
-{"eg":"1. She decided to pursue her dreams of becoming a doctor despite the challenges she faced.2. It takes a lot of determination and effort to pursue excellence in any field.3. John had to quit his job in order to pursue his passion for music full-time.","eng":"pursue"}
+{"eg":"1. She decided to pursue her dreams of becoming a doctor despite the challenges she faced.\n2. It takes a lot of determination and effort to pursue excellence in any field.\n3. John had to quit his job in order to pursue his passion for music full-time.","eng":"pursue"}

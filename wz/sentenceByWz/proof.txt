@@ -1,1 +1,1 @@
-{"eg":"1. We need proof that the suspect was at the crime scene.2. Without concrete proof, I cannot believe what you are claiming.3. The company provided ample proof of their financial stability.","eng":"proof"}
+{"eg":"1. We need proof that the suspect was at the crime scene.\n2. Without concrete proof, I cannot believe what you are claiming.\n3. The company provided ample proof of their financial stability.","eng":"proof"}

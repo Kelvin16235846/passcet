@@ -1,1 +1,1 @@
-{"eg":"1. I need to wash my hands before eating dinner.2. It's important to wash your clothes on a regular basis to keep them clean and smelling fresh.3. I usually have to wash my hair every other day to avoid it getting greasy.","eng":"wash"}
+{"eg":"1. I need to wash my hands before eating dinner.\n2. It's important to wash your clothes on a regular basis to keep them clean and smelling fresh.\n3. I usually have to wash my hair every other day to avoid it getting greasy.","eng":"wash"}

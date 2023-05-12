@@ -1,1 +1,1 @@
-{"eg":"1. Despite his efforts, he could not help but feel scorned by his colleagues.2. The teacher's constant scorn towards her students only served to demotivate them.3. She was met with scorn and ridicule when she presented her unconventional ideas to the board.","eng":"scorn"}
+{"eg":"1. Despite his efforts, he could not help but feel scorned by his colleagues.\n2. The teacher's constant scorn towards her students only served to demotivate them.\n3. She was met with scorn and ridicule when she presented her unconventional ideas to the board.","eng":"scorn"}

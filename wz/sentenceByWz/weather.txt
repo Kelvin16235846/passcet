@@ -1,1 +1,1 @@
-{"eg":"1. The weather is sunny and warm, perfect for a day at the beach.2. I always check the weather forecast before planning outdoor activities.3. Heavy rain and thunderstorms are expected in the area, so it's best to stay indoors.","eng":"weather"}
+{"eg":"1. The weather is sunny and warm, perfect for a day at the beach.\n2. I always check the weather forecast before planning outdoor activities.\n3. Heavy rain and thunderstorms are expected in the area, so it's best to stay indoors.","eng":"weather"}

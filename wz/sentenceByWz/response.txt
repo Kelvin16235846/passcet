@@ -1,1 +1,1 @@
-{"eg":"1. Thank you for your quick response to my inquiry.2. I appreciate your timely response to my email.3. Your response to the question was both insightful and helpful.","eng":"response"}
+{"eg":"1. Thank you for your quick response to my inquiry.\n2. I appreciate your timely response to my email.\n3. Your response to the question was both insightful and helpful.","eng":"response"}

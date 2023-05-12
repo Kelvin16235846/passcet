@@ -1,1 +1,1 @@
-{"eg":"1. I swear I didn't steal your wallet!2. I swear to tell the truth, the whole truth, and nothing but the truth.3. I swear I will never forgive you for what you did to me.","eng":"swear"}
+{"eg":"1. I swear I didn't steal your wallet!\n2. I swear to tell the truth, the whole truth, and nothing but the truth.\n3. I swear I will never forgive you for what you did to me.","eng":"swear"}

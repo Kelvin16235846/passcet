@@ -1,1 +1,1 @@
-{"eg":"1. She couldn't help but smile when she saw the adorable puppy wagging its tail.2. As soon as he heard the news, he dashed to the airport to catch the last flight out.3. After several failed attempts, she finally hit the bullseye with her arrow.","eng":"arrow"}
+{"eg":"1. She couldn't help but smile when she saw the adorable puppy wagging its tail.\n2. As soon as he heard the news, he dashed to the airport to catch the last flight out.\n3. After several failed attempts, she finally hit the bullseye with her arrow.","eng":"arrow"}

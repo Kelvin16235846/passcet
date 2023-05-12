@@ -1,1 +1,1 @@
-{"eg":"1. The use of violence to solve conflicts only leads to more violence and destruction.2. Domestic violence is a serious issue that affects millions of people worldwide.3. The government should not resort to violence to suppress the voices of peaceful protestors.","eng":"violence"}
+{"eg":"1. The use of violence to solve conflicts only leads to more violence and destruction.\n2. Domestic violence is a serious issue that affects millions of people worldwide.\n3. The government should not resort to violence to suppress the voices of peaceful protestors.","eng":"violence"}

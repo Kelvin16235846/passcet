@@ -1,1 +1,1 @@
-{"eg":"1. I insist that we follow the safety protocol and wear our seat belts while driving.2. Despite his objections, I insist that we stick to the original plan for the project.3. She insisted on paying for our meal even though we offered to split the bill.","eng":"insist"}
+{"eg":"1. I insist that we follow the safety protocol and wear our seat belts while driving.\n2. Despite his objections, I insist that we stick to the original plan for the project.\n3. She insisted on paying for our meal even though we offered to split the bill.","eng":"insist"}

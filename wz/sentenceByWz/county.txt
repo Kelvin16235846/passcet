@@ -1,1 +1,1 @@
-{"eg":"1. I grew up in a small county in upstate New York.2. My family owns a farm in a rural county in the Midwest.3. The government in this county has been implementing new policies to promote tourism.","eng":"county"}
+{"eg":"1. I grew up in a small county in upstate New York.\n2. My family owns a farm in a rural county in the Midwest.\n3. The government in this county has been implementing new policies to promote tourism.","eng":"county"}

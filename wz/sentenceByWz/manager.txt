@@ -1,1 +1,1 @@
-{"eg":"1. The manager was impressed with the team's hard work and dedication.2. Our manager is always willing to offer support and guidance to help us succeed.3. It's important for the manager to prioritize tasks and delegate responsibilities effectively.","eng":"manager"}
+{"eg":"1. The manager was impressed with the team's hard work and dedication.\n2. Our manager is always willing to offer support and guidance to help us succeed.\n3. It's important for the manager to prioritize tasks and delegate responsibilities effectively.","eng":"manager"}

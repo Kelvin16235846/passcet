@@ -1,1 +1,1 @@
-{"eg":"1. I need to buy a plug so I can charge my phone.2. The plug didn't fit into the outlet, so I had to use an adapter.3. Don't forget to unplug the toaster before you clean it.","eng":"plug"}
+{"eg":"1. I need to buy a plug so I can charge my phone.\n2. The plug didn't fit into the outlet, so I had to use an adapter.\n3. Don't forget to unplug the toaster before you clean it.","eng":"plug"}

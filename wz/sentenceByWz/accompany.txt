@@ -1,1 +1,1 @@
-{"eg":"1. My best friend agreed to accompany me to the concert tonight.2. The tour guide will accompany the group on the hike through the mountains.3. I always like to accompany my morning coffee with a good book.","eng":"accompany"}
+{"eg":"1. My best friend agreed to accompany me to the concert tonight.\n2. The tour guide will accompany the group on the hike through the mountains.\n3. I always like to accompany my morning coffee with a good book.","eng":"accompany"}

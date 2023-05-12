@@ -1,1 +1,1 @@
-{"eg":"1. I have a blind trust in your judgment.2. The referee made a blind call that cost us the game.3. The artist created a beautiful sculpture by using only his blind intuition.","eng":"blind"}
+{"eg":"1. I have a blind trust in your judgment.\n2. The referee made a blind call that cost us the game.\n3. The artist created a beautiful sculpture by using only his blind intuition.","eng":"blind"}

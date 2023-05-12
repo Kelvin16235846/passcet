@@ -1,1 +1,1 @@
-{"eg":"1. He brought dishonor to his family by committing a heinous crime.2. The company's unethical practices have brought dishonor upon their reputation.3. Cheating on exams is a dishonorable act that diminishes one's integrity.","eng":"dishonor"}
+{"eg":"1. He brought dishonor to his family by committing a heinous crime.\n2. The company's unethical practices have brought dishonor upon their reputation.\n3. Cheating on exams is a dishonorable act that diminishes one's integrity.","eng":"dishonor"}

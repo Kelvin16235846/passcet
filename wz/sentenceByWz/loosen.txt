@@ -1,1 +1,1 @@
-{"eg":"1. She used a wrench to loosen the bolts on the car's tire.2. He applied pressure to the stubborn lid of the jar in order to loosen it.3. The athlete stretched and loosened her muscles before the competition.","eng":"loosen"}
+{"eg":"1. She used a wrench to loosen the bolts on the car's tire.\n2. He applied pressure to the stubborn lid of the jar in order to loosen it.\n3. The athlete stretched and loosened her muscles before the competition.","eng":"loosen"}

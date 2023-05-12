@@ -1,1 +1,1 @@
-{"eg":"1. The crash was fatal, and unfortunately, no one survived.2. The patient's condition was declared fatal, and the family was advised to say their goodbyes.3. The mistake was fatal, and it cost the company millions of dollars in damages.","eng":"fatal"}
+{"eg":"1. The crash was fatal, and unfortunately, no one survived.\n2. The patient's condition was declared fatal, and the family was advised to say their goodbyes.\n3. The mistake was fatal, and it cost the company millions of dollars in damages.","eng":"fatal"}

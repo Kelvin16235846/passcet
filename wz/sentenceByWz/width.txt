@@ -1,1 +1,1 @@
-{"eg":"1. The width of the river was so great that we had to take a boat to cross it.2. The width of the road allowed for two cars to pass side by side.3. The width of the table was perfect for the large family dinner that we had.","eng":"width"}
+{"eg":"1. The width of the river was so great that we had to take a boat to cross it.\n2. The width of the road allowed for two cars to pass side by side.\n3. The width of the table was perfect for the large family dinner that we had.","eng":"width"}

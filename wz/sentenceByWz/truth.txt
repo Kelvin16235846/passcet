@@ -1,1 +1,1 @@
-{"eg":"1. Truth is a powerful force that can bring justice and equality to the world.2. Speaking the truth may be difficult, but it is always the right thing to do.3. In the pursuit of knowledge, uncovering the truth is essential to progress and innovation.","eng":"truth"}
+{"eg":"1. Truth is a powerful force that can bring justice and equality to the world.\n2. Speaking the truth may be difficult, but it is always the right thing to do.\n3. In the pursuit of knowledge, uncovering the truth is essential to progress and innovation.","eng":"truth"}

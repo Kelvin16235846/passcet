@@ -1,1 +1,1 @@
-{"eg":"1. He was sympathetic to her plight and offered her a helping hand.2. The audience was sympathetic to the speaker's emotional story.3. It was hard not to feel sympathetic towards the stray dog wandering the streets.","eng":"sympathetic"}
+{"eg":"1. He was sympathetic to her plight and offered her a helping hand.\n2. The audience was sympathetic to the speaker's emotional story.\n3. It was hard not to feel sympathetic towards the stray dog wandering the streets.","eng":"sympathetic"}

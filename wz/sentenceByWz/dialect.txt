@@ -1,1 +1,1 @@
-{"eg":"1. \"Y'all reckon we could head down to the creek for a spell?\"2. \"I ain't fixin' to do nothin' until Momma gets back.\"3. \"That thar's a mighty fine-lookin' truck you got yonder, partner.\"","eng":"dialect"}
+{"eg":"1. \"Y'all reckon we could head down to the creek for a spell?\"\n2. \"I ain't fixin' to do nothin' until Momma gets back.\"\n3. \"That thar's a mighty fine-lookin' truck you got yonder, partner.\"","eng":"dialect"}
