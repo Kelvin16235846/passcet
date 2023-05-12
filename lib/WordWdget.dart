@@ -35,6 +35,8 @@ class WordWidgetState extends State<WordWdget> {
       "_volumeForNextPage":_volumeForNextPage,
       "_showRemainWzCnt":_showRemainWzCnt,
       "_reviewPattern":_reviewPattern,
+      "backPage":backPage,
+      "frontpage":frontpage,
       "divide":divide,"meanFirst": meanFirst,"_ListenPatternValue":_ListenPatternValue};
     return jsonEncode(stateMap);
   }
@@ -47,6 +49,9 @@ class WordWidgetState extends State<WordWdget> {
     _volumeForNextPage=mp["_volumeForNextPage"];
     if (mp.containsKey("_showRemainWzCnt"))_showRemainWzCnt=mp["_showRemainWzCnt"];
     if(mp.containsKey("_reviewPattern"))_reviewPattern=mp["_reviewPattern"];
+    if(mp.containsKey("backPage"))backPage=mp["backPage"];
+    if(mp.containsKey("frontpage"))frontpage=mp["frontpage"];
+
   }
   void saveStateToFile()async{
     Future(()async{
@@ -65,7 +70,7 @@ class WordWidgetState extends State<WordWdget> {
   int curIndexOfWz=0;
   @override
   Widget build(BuildContext context) {
-    return Scaffold(body: _builderOfPage.builder(context) ,)  ;
+    return   _builderOfPage.builder(context);
   }
   late Builder _builderOfPage;
 
@@ -347,7 +352,7 @@ class WordWidgetState extends State<WordWdget> {
       })
     };
   }
-  String frontpage="英文";
+  String frontpage="音频播放";
   String backPage="中文释义";
   void showFrontPage( ){
     showPage(Builder(builder: (context){
@@ -413,7 +418,7 @@ class WordWidgetState extends State<WordWdget> {
 
       ],);
 
-    return content;
+    return  Scaffold(body:content ,);
   }
   void showPage(Builder builder){
 
@@ -447,15 +452,17 @@ class WordWidgetState extends State<WordWdget> {
     showPage(patterns[curPattern][0]);
   }
 
-  ElevatedButton buildAudioPage({String tag=""}) {
+  Widget buildAudioPage({String tag=""}) {
     playAudio();
-    return ElevatedButton(
+
+    var bt= ElevatedButton(
         onPressed: (){
           playAudio();
         }, child:   AutoSizeText( "play $tag",
       maxLines:1,presetFontSizes: const [
         180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],)
     );
+    return Scaffold(body:   Center(child: Container(width:200*2 ,height: 50*3, child: bt,) ,),);
   }
 
 }
