@@ -10,10 +10,8 @@ import 'package:path_provider/path_provider.dart';
 import 'package:perfect_volume_control/perfect_volume_control.dart';
 import 'Word.dart';
 import 'package:audioplayers/audioplayers.dart';
-class WordWdget extends StatefulWidget{
-  String v;
-  WordWdget({super.key, this.v="WORD"});
-
+class WordWidget extends StatefulWidget{
+  const WordWidget({super.key});
   @override
   State<StatefulWidget> createState() {
     // TODO: implement createState
@@ -22,7 +20,7 @@ class WordWdget extends StatefulWidget{
 
 
 }
-class WordWidgetState extends State<WordWdget> {
+class WordWidgetState extends State<WordWidget> {
   bool msupOnReset=true;
   final player = AudioPlayer();
   static const    String cfgPath="WordWidgetState1.json";
@@ -68,8 +66,9 @@ class WordWidgetState extends State<WordWdget> {
   @override
   Widget build(BuildContext context) {
     var content=_builderOfPage.builder(context);
+    Widget scfd=content;
     if(_showRemainWzCnt) {
-      return Scaffold(
+      scfd= Scaffold(
         body: content
         , floatingActionButton: FloatingActionButton(
         mini: true
@@ -79,8 +78,10 @@ class WordWidgetState extends State<WordWdget> {
       );
     }
     else {
-      return Scaffold(body: content,);
+      scfd= Scaffold(body: content,);
     }
+    // Color.fromRGBO(255, 235, 205, 1.0);
+    return Container(child: scfd,color: Colors.grey,);
   }
   late Builder _builderOfPage;
 
@@ -124,14 +125,14 @@ class WordWidgetState extends State<WordWdget> {
     ofstCtl.text=Word.ofst.toString();
     Widget ctc= ListView(
         children: [
-          Padding(padding: EdgeInsets.only(bottom: 10.0,top: 20),
+          Padding(padding: EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
             child: ElevatedButton( onPressed: (){
               actionReset();
               exitSettingPage();
             },
                 child:const AutoSizeText("重置",presetFontSizes:
                 [50,100,90,80,70,60,50,20,16,10])), ),
-          Padding(padding: EdgeInsets.only(bottom: 10.0),
+          Padding(padding:  EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
             child: ElevatedButton( onPressed: (){
               messUp();
               exitSettingPage();
@@ -139,7 +140,7 @@ class WordWidgetState extends State<WordWdget> {
                 child:const AutoSizeText("打乱",
                     presetFontSizes: [50,100,90,80,70,60,50,20,16,10])),
           ),
-          Padding(padding: EdgeInsets.only(bottom: 10.0),
+          Padding(padding:  EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
             child:
             ElevatedButton(onPressed: (){
               nextWordsGroup();
@@ -150,7 +151,7 @@ class WordWidgetState extends State<WordWdget> {
             )
             ,
           ),
-          Padding(padding: EdgeInsets.only(bottom: 10.0),
+          Padding(padding:  EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
             child:
             ElevatedButton(onPressed: (){
               Navigator.push(context,MaterialPageRoute(builder: (ct){
@@ -161,7 +162,7 @@ class WordWidgetState extends State<WordWdget> {
                 });
               });
 
-            }, child:const AutoSizeText("查看全部单词"
+            }, child:const AutoSizeText("全部卡片"
               ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),
             )
             ,
@@ -367,8 +368,8 @@ class WordWidgetState extends State<WordWdget> {
   }
   String frontpage="音频播放";
   String backPage="中文释义";
-  GestureDetector wrapBaseAction(Widget wgt){
-    return GestureDetector(child: wgt
+  Widget wrapBaseAction(Widget wgt){
+    Widget gst= GestureDetector(child: wgt
         , onVerticalDragEnd: (details){
           nextWz();
           if(_playAudioAfterNewCard)playAudio();
@@ -381,6 +382,7 @@ class WordWidgetState extends State<WordWdget> {
         ,onDoubleTap: (){
           entrySettingPage();
         });
+    return gst;
   }
   void showFrontPage( ){
     showPage(Builder(builder: (context){
@@ -411,7 +413,7 @@ class WordWidgetState extends State<WordWdget> {
       180,170,160,150,140,
       130,120,110,100,90,80,70,60,50,40,25,16,12]);
 
-    var content=Column(mainAxisAlignment: MainAxisAlignment.center
+    Widget content=Column(mainAxisAlignment: MainAxisAlignment.center
       ,crossAxisAlignment: CrossAxisAlignment.center
       ,children: [
         Align(child: eng,)
@@ -460,11 +462,13 @@ class WordWidgetState extends State<WordWdget> {
         130,120,110,100,90,80,70,60,50,40,25,16,12],
     ),
     );
-    return Scaffold( appBar: AppBar(title:Text(wzs[curIndexOfWz].eng)
+    return Scaffold(
+      appBar: AppBar(title:Text(wzs[curIndexOfWz].eng,
+      style: TextStyle(fontSize: 30,color: Colors.black),)
       ,centerTitle: true
-      ,toolbarHeight: 18
-      ,),
-      body: Padding(padding: EdgeInsets.fromLTRB(10, 0, 10, 10),
+        , backgroundColor:Colors.white
+      ),
+      body: Padding(padding: const EdgeInsets.fromLTRB(10, 0, 10, 10),
       child:wgt ,) ,);
   }
 

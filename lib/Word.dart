@@ -14,7 +14,7 @@ class Word{
   late String eng;
   late String phonics;
   late List<String> abouts;
-  Word({this.eng="ENGLISH",this.phonics="phonics",this.mean=const ["中文意思"]});
+  Word({this.eng="ENGLISH",this.phonics="phonics",this.mean=const ["中文意思"],  this.abouts=const  ["no eg"]});
   static List<Word> displayList=[];
   static List<Word> allOfWord=[];
   static int pos=0;
@@ -33,7 +33,7 @@ class Word{
     //SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
   }
   Word coloneMyself(){
-    return Word( eng:this.eng, phonics:this.phonics, mean:this.mean);
+    return Word( eng:this.eng, phonics:this.phonics, mean:this.mean,abouts:this.abouts);
   }
   List<Word> divideMeans( ){
 

@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: '过四级!!!',
       theme: ThemeData(
-          primarySwatch: Colors.blue
+          colorScheme: ColorScheme.fromSwatch(primarySwatch: Colors.blue)
       ),
       home: const MyHomePage(title: '过四级!'),
     );
@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
-    return  WordWdget();
+    return  WordWidget();
   }
   @override
   void initState()  {
