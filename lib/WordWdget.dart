@@ -369,7 +369,7 @@ class WordWidgetState extends State<WordWidget> {
         return  buildSentencePage();
       })
       ,"音频播放":Builder(builder: (context){
-        return  buildAudioPage(tag: "${DateTime.now().second}");
+        return  buildAudioPage(tag: "${DateTime.now().microsecond%100}");
       })
     };
   }
