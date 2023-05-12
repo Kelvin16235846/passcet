@@ -87,7 +87,7 @@ class WordWidgetState extends State<WordWdget> {
     await player.resume();
 
   }
-  void alreadMastered() {
+  void alreadyMastered() {
     if(wzs.length>1) {
       wzs.removeAt(curIndexOfWz);
     }
@@ -303,7 +303,7 @@ class WordWidgetState extends State<WordWdget> {
           nextWz();
           showFrontPage();
         },onLongPress: (){
-          alreadMastered();
+          alreadyMastered();
           showFrontPage();
         }
         ,onDoubleTap: (){
@@ -353,7 +353,6 @@ class WordWidgetState extends State<WordWdget> {
     return  Scaffold(body:content ,);
   }
   void showPage(Builder builder){
-
     setState(() {
       _builderOfPage=builder;
     });
@@ -365,7 +364,14 @@ class WordWidgetState extends State<WordWdget> {
         maxLines:1,presetFontSizes: const [
           180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],),
     );
-    var scfd= Scaffold(body: content,);
+    var scfd= Scaffold(
+      appBar: AppBar(title: Text("remian:${wzs.length}")
+        ,titleTextStyle: TextStyle(fontSize: 16,)
+        ,centerTitle: true
+        ,toolbarHeight:18
+      ),
+      body: content,);
+
     return  scfd;
   }
 
