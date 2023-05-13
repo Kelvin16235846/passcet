@@ -22,7 +22,6 @@ class Word{
   static Future<ByteData?> fileExistsInAssets(String filePath) async {
     try {
       ByteData data = await rootBundle.load(filePath);
-      print("the len of data is ${data.lengthInBytes}");
       return (data.lengthInBytes != 0)? data:null;
     } catch (e) {
       return null;
