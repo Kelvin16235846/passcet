@@ -327,6 +327,7 @@ class WordWidgetState extends State<WordWidget> {
     if(msupOnReset){
       messUp();
     }
+    curIndexOfWz=0;
   }
 
   void nextWordsGroup() {

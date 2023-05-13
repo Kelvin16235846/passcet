@@ -117,10 +117,13 @@ class Word{
     flush(p:pos, o:ofst);
   }
   static void divideDisplayList(){
-    displayList.clear();
+
+    List<Word> ans=[];
     for(var m in displayList){
-      displayList.addAll(m.divideMeans());
+      ans.addAll(m.divideMeans());
     }
+    displayList.clear();
+    displayList.addAll(ans);
 
   }
   static String  cfgPath="cfg0.txt";
