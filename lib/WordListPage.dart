@@ -15,7 +15,7 @@ class WordListPage extends StatefulWidget {
   final List<Word> wzs;
 }
 class WordListPageState extends State<WordListPage>{
-  bool _showMean=true;
+  bool _showMean=false;
   List<bool> _listShowMeans=[];
   @override
   Widget build(BuildContext context) {
@@ -30,25 +30,24 @@ class WordListPageState extends State<WordListPage>{
            }, child: Text("打乱")
            )
             ,Padding(padding:EdgeInsets.only(left: 5))
-             ,ElevatedButton(onPressed: (){
+             ,Row(children: [
+               const Text("释义")
+             ,  Checkbox(value: _showMean, onChanged: (val){
                setState(() {
-                  _showMean=true;
-                  resetListShowMeans();
-               });
-             }, child: Text("释义")
-             )
-             ,Padding(padding:EdgeInsets.only(left: 5))
-             ,ElevatedButton(onPressed: (){
-               setState(() {
-                 _showMean=false;
+                 _showMean=val!;
                  resetListShowMeans();
                });
-             }, child: Text("英文")
+             }
              )
+             ],
+             )
+
+
              ,Padding(padding:EdgeInsets.only(left: 5))
              ,ElevatedButton(onPressed: (){
                setState(() {
                   Word.flush();
+                  resetListShowMeans();
                });
              }, child: const Text("重置")
              )
