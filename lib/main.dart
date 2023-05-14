@@ -1,5 +1,6 @@
 import 'dart:developer';
 import 'package:flutter/material.dart' ;
+import 'package:fsfsfsf/ChooseWzFile.dart';
 import 'dart:math' as math;
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
@@ -23,15 +24,17 @@ void main() async{
     File f= File(dir);
     if(f.existsSync()){
       await Word.readStateFromFile();
+      await Word.inialize();
+      SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
+      runApp(  MyApp());
     }
-    await Word.inialize();
-
-
-
+    else {
+      runApp(ChooseWzFile());
+    }
 
   });
-  SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
-  runApp(  MyApp());
+
+
 }
 
 class MyApp extends StatelessWidget {

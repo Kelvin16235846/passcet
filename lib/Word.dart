@@ -14,7 +14,7 @@ class Word{
   late String eng;
   late String phonics;
   late List<String> abouts;
-  Word({this.eng="ENGLISH",this.phonics="phonics",this.mean=const ["中文意思"],  this.abouts=const  ["no eg"]});
+  Word({this.eng="ENGLISH",this.phonics="phonics",this.mean=const ["中文意思"],  this.abouts=const  []});
   static List<Word> displayList=[];
   static List<Word> allOfWord=[];
   static int pos=0;
@@ -52,35 +52,76 @@ class Word{
       }
       return ans;
   }
+  static String path_wzfile="wz/out_1500wzimwztxt_out.txt";
+  static void setPathOfWzFile(String wzpath){
+    path_wzfile="wz/"+wzpath;
+    pos=0;
+    ofst=20;
+    saveStateToFile();
+  }
   static Future<bool> inialize()async{
 
-    allOfWord=[];
-    String s=await loadAsset(path:"wz/c4_ECP.txt");
+
+    //await readFWzFile();
+    //log("文件加载完成${allOfWord?.length}");
+    readJsonWzFile(path_wzfile);
+
+    return true;
+  }
+  static void readJsonWzFile(String path_res)async{
+    // 从资源文件中读取
+    ByteData data = await rootBundle.load(path_res);
+    List<int> bytes = data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
+    // 使用Utf8Decoder和LineSplitter逐行读取
+    Stream<String> lines = utf8.decoder.bind(Stream.fromIterable(
+        bytes.map((e) => [e]))).transform(const LineSplitter());
+    try {
+      // 处理每一行
+      await for (String line in lines) {
+         Map mp= jsonDecode(line);
+         String phonics="";
+         if(mp.containsKey("phonics"))phonics=mp["phonics"];
+         Word w=Word(eng: mp["english"],phonics: phonics,mean:[mp["chinese"]] );
+         allOfWord.add(w);
+         addSentence(w);
+      }
+    } catch (e) {
+      print('Error: $e');
+    }
+
+  }
+
+  static Future<void> readFWzFile() async {
+     String s=await loadAsset(path:"wz/c4_ECP.txt");
     var lst= s.split("\r\n");
     for(int i=0;i+2<lst.length;i+=3){
       allOfWord.add(Word(eng:lst[i+0].trim(),phonics: lst[i+2].trim() ,mean: [lst[i+1].trim()]));
-        var word=allOfWord[allOfWord.length-1];
-      fileExistsInAssets("wz/sentenceByWz/${word.eng}.txt").then((val)
-        {
-          if(val==null){
-            word.abouts=["eg is no exist"];
-          }
-          else {
-            final mp= jsonDecode(utf8.decode(val.buffer.asUint8List()));
-            word.abouts=[ "${mp["eg"]}"];
-          }
-        }
-        );
+        addSentence(allOfWord[allOfWord.length-1]);
     }
-    //log("文件加载完成${allOfWord?.length}");
 
-    return true;
+  }
+
+  static void addSentence(Word word) {
+    var pt="wz/sentenceByWz/${word.eng}.txt";
+    //print("sentence_path is $pt");
+          fileExistsInAssets(pt).then((val)
+    {
+      if(val==null){
+        word.abouts=["eg is no exist"];
+      }
+      else {
+        final mp= jsonDecode(utf8.decode(val.buffer.asUint8List()));
+        word.abouts=[ "${mp["eg"]}"];
+      }
+    }
+    );
   }
 
   static String encodeState(){
     Map<String,dynamic> stateMap={
       "pos":pos,
       "ofst":ofst,
+      "path_wzfile":path_wzfile,
     };
     return jsonEncode(stateMap);
   }
@@ -88,6 +129,7 @@ class Word{
     Map<String,dynamic> mp=jsonDecode(jsonstr);
     ofst=mp["ofst"];
     pos=mp["pos"];
+    path_wzfile=mp["path_wzfile"];
      }
   static void saveStateToFile()async{
     Future(()async{
