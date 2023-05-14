@@ -393,15 +393,28 @@ class WordWidgetState extends State<WordWidget> {
   String backPage="中文释义";
   Widget wrapBaseAction(Widget wgt){
     Widget gst= GestureDetector(child: wgt
-        , onVerticalDragEnd: (details){
-          nextWz();
+        , onVerticalDragEnd: (details) {
+          if (details.velocity.pixelsPerSecond.dy > 0) {
+            // 向下滑动
+            nextWz();
+          } else if (details.velocity.pixelsPerSecond.dy < 0) {
+            prevWz();
+          }
+
           if(_playAudioAfterNewCard)playAudio();
           showFrontPage();
-        },onLongPress: (){
-          alreadyMastered();
+        },
+        onHorizontalDragEnd: (details){
+          if (details.velocity.pixelsPerSecond.dx > 0) {
+            alreadyMastered();
+          } else if (details.velocity.pixelsPerSecond.dx < 0) {
+             wzs.add(wzs[curIndexOfWz]);
+             nextWz();
+          }
           if(_playAudioAfterNewCard)playAudio();
           showFrontPage();
         }
+        ,onLongPress: (){playAudio();}
         ,onDoubleTap: (){
           entrySettingPage();
         });
@@ -412,7 +425,6 @@ class WordWidgetState extends State<WordWidget> {
       return wrapBaseAction(
           GestureDetector(
             child:cardTypes[frontpage]?.build(context)
-            ,onHorizontalDragEnd: (details){showBackPage();}
             ,onTap: (){showBackPage();},
           )) ;
     }));
@@ -422,9 +434,6 @@ class WordWidgetState extends State<WordWidget> {
       return wrapBaseAction(GestureDetector(
         child: cardTypes[backPage]?.build(context)
         ,onTap: (){showFrontPage();}
-        ,onHorizontalDragEnd: (details){
-        showFrontPage();
-      },
       ));
     }));
   }
