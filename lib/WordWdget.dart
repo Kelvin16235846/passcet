@@ -24,7 +24,7 @@ class WordWidgetState extends State<WordWidget> {
   static bool msupOnReset=true;
   static final player = AudioPlayer();
   static const    String cfgPath="WordWidgetState1.json";
-  bool _reviewPattern=true;
+  bool _reviewPattern=false;
   String encodeState(){
     Map<String,dynamic> stateMap={
       "msupOnReset":msupOnReset,
@@ -33,6 +33,7 @@ class WordWidgetState extends State<WordWidget> {
       "backPage":backPage,
       "frontpage":frontpage,
       "divide":divide,
+      "_compressPattern":_compressPattern,
       "_playAudioAfterNewCard":_playAudioAfterNewCard,
     };
     return jsonEncode(stateMap);
@@ -46,7 +47,7 @@ class WordWidgetState extends State<WordWidget> {
     if(mp.containsKey("backPage"))backPage=mp["backPage"];
     if(mp.containsKey("frontpage"))frontpage=mp["frontpage"];
     if(mp.containsKey("_playAudioAfterNewCard"))_playAudioAfterNewCard=mp["_playAudioAfterNewCard"];
-
+   if(mp.containsKey("_compressPattern"))_compressPattern=mp["_compressPattern"];
   }
   void saveStateToFile()async{
     Future(()async{
@@ -128,6 +129,7 @@ class WordWidgetState extends State<WordWidget> {
   TextEditingController posCtl=TextEditingController();
   TextEditingController ofstCtl=TextEditingController();
   static bool divide=false;
+  bool _compressPattern=false;
   Widget buildSettingPage() {
     posCtl.text=Word.pos.toString();
     ofstCtl.text=Word.ofst.toString();
@@ -219,6 +221,14 @@ class WordWidgetState extends State<WordWidget> {
               setState(() {
                 _reviewPattern=v;
                 actionReset();
+              });
+
+              saveStateToFile();
+            })],),
+          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("复杂操作模式"), Switch(value: _compressPattern, onChanged: (v){
+              setState(() {
+                _compressPattern=v;
               });
 
               saveStateToFile();
@@ -403,21 +413,22 @@ class WordWidgetState extends State<WordWidget> {
 
           if(_playAudioAfterNewCard)playAudio();
           showFrontPage();
-        },
-        onHorizontalDragEnd: (details){
-          if (details.velocity.pixelsPerSecond.dx > 0) {
-            alreadyMastered();
-          } else if (details.velocity.pixelsPerSecond.dx < 0) {
-             wzs.add(wzs[curIndexOfWz]);
-             nextWz();
-          }
-          if(_playAudioAfterNewCard)playAudio();
-          showFrontPage();
         }
-        ,onLongPress: (){playAudio();}
+        ,onLongPress: (){
+      if(_compressPattern){
+        playAudio();
+      }
+      else {
+        alreadyMastered();
+        if(_playAudioAfterNewCard)playAudio();
+        showFrontPage();
+      }
+
+      }
         ,onDoubleTap: (){
           entrySettingPage();
         });
+
     return gst;
   }
   void showFrontPage( ){
@@ -425,8 +436,26 @@ class WordWidgetState extends State<WordWidget> {
       return wrapBaseAction(
           GestureDetector(
             child:cardTypes[frontpage]?.build(context)
-            ,onTap: (){showBackPage();},
-          )) ;
+            ,onTap: (){showBackPage();}
+              , onHorizontalDragEnd: (details){
+              if(!_compressPattern){
+                showBackPage();
+              }
+              else {
+                if (details.velocity.pixelsPerSecond.dx < 0) {
+                  wzs.add(wzs[curIndexOfWz]);
+                  nextWz();
+                }
+                else  {
+                  alreadyMastered();
+                }
+                if(_playAudioAfterNewCard)playAudio();
+                showFrontPage();
+              }
+
+          }
+          )
+      ) ;
     }));
   }
   void showBackPage(){
@@ -434,6 +463,23 @@ class WordWidgetState extends State<WordWidget> {
       return wrapBaseAction(GestureDetector(
         child: cardTypes[backPage]?.build(context)
         ,onTap: (){showFrontPage();}
+          , onHorizontalDragEnd: (details){
+        if(!_compressPattern){
+          showFrontPage();
+        }
+        else {
+          if (details.velocity.pixelsPerSecond.dx < 0) {
+            wzs.add(wzs[curIndexOfWz]);
+            nextWz();
+          }
+          else  {
+            alreadyMastered();
+          }
+          if(_playAudioAfterNewCard)playAudio();
+          showFrontPage();
+        }
+
+      }
       ));
     }));
   }
