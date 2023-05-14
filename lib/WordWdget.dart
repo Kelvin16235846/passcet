@@ -105,9 +105,10 @@ class WordWidgetState extends State<WordWidget> {
 
     await player.stop();
      Word.fileExistsInAssets("wz/mp3file/${eng.trim()}_$type.mp3").then((a) async {
-        if(a==null){
-          a=await Word.fileExistsInAssets("wz/__no_audio_hint.mp3");
-        }
+        // if(a==null){
+        //   //a=await Word.fileExistsInAssets("wz/__no_audio_hint.mp3");
+        //   return;
+        // }
         if(a!=null){
           await player.setSourceBytes(a.buffer.asUint8List());
           await player.resume();
