@@ -406,9 +406,9 @@ class WordWidgetState extends State<WordWidget> {
         , onVerticalDragEnd: (details) {
           if (details.velocity.pixelsPerSecond.dy > 0) {
             // 向下滑动
-            nextWz();
-          } else if (details.velocity.pixelsPerSecond.dy < 0) {
             prevWz();
+          } else if (details.velocity.pixelsPerSecond.dy < 0) {
+            nextWz();
           }
 
           if(_playAudioAfterNewCard)playAudio();
