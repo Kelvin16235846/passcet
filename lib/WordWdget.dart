@@ -21,8 +21,8 @@ class WordWidget extends StatefulWidget{
 
 }
 class WordWidgetState extends State<WordWidget> {
-  bool msupOnReset=true;
-  final player = AudioPlayer();
+  static bool msupOnReset=true;
+  static final player = AudioPlayer();
   static const    String cfgPath="WordWidgetState1.json";
   bool _reviewPattern=true;
   String encodeState(){
@@ -62,7 +62,7 @@ class WordWidgetState extends State<WordWidget> {
 
 
   //当前显示的单词在MyModel.displayList的索引
-  int curIndexOfWz=0;
+  static int curIndexOfWz=0;
   @override
   Widget build(BuildContext context) {
     var content=_builderOfPage.builder(context);
@@ -96,7 +96,7 @@ class WordWidgetState extends State<WordWidget> {
   }
 
 
-  void playAudio({String eng ="_None_",String type ="0"})async{
+  static void playAudio({String eng ="_None_",String type ="0"})async{
      if(eng=="_None_"){
       eng=Word.displayList[curIndexOfWz].eng;
       type="${DateTime.now().microsecondsSinceEpoch%2}";
@@ -337,6 +337,9 @@ class WordWidgetState extends State<WordWidget> {
   }
   void nextWz(){
     curIndexOfWz=(curIndexOfWz+1)%wzs.length;
+  }
+  void prevWz(){
+    curIndexOfWz=(curIndexOfWz-1+wzs.length)%wzs.length;
   }
 
   void messUp() {

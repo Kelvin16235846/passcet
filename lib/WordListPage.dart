@@ -2,6 +2,8 @@ import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:fsfsfsf/Utils.dart';
+import 'package:fsfsfsf/WordWdget.dart';
 
 import 'Word.dart';
 
@@ -64,17 +66,34 @@ class WordListPageState extends State<WordListPage>{
              crossAxisAlignment: CrossAxisAlignment.center,
              children: [Text(wzs[index].eng
            ,style: TextStyle(fontSize: 30),)
-             ,Text(_listShowMeans[index]?wzs[index].mean[0]:""
-                 ,style: TextStyle(fontSize: 30)),
-           ],);
+           ],
+           );
+           if(_listShowMeans[index]){
+             content= Column(
+               mainAxisAlignment: MainAxisAlignment.center,
+               crossAxisAlignment: CrossAxisAlignment.center,
+               children: [Text(wzs[index].eng
+                 ,style: TextStyle(fontSize: 30),)
+                 ,Text(wzs[index].mean[0]
+                     ,style: TextStyle(fontSize: 30))
+               ],
+             );
+           }
+
            Widget gest= GestureDetector(
              child:ElevatedButton(onPressed: () {
                setState(() {
-                  _listShowMeans[index]=!_listShowMeans[index];
+                 var t=!_listShowMeans[index];
+                 resetListShowMeans();
+                  _listShowMeans[index]=t;
                });
              },
-               child:content ,)
-             ,onLongPress: (){
+               onLongPress: (){
+                Utils.playAudio(eng: wzs[index].eng);
+               },
+               child:content ,
+             )
+             ,onHorizontalDragEnd: (details){
                if(wzs.length>1){
                  setState(() {
                    wzs.removeAt(index);
@@ -82,7 +101,7 @@ class WordListPageState extends State<WordListPage>{
                  });
                }
            },);
-           return Padding(padding:EdgeInsets.only(left: 30,right: 30,top: 15)
+           return Padding(padding:EdgeInsets.only(left: 30,right: 30,top: 7,bottom: 7)
              ,child: gest,
            );
          }
