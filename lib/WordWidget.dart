@@ -4,6 +4,7 @@ import 'dart:math';
 import 'package:flutter/material.dart' ;
 import 'package:auto_size_text/auto_size_text.dart';
 import  'package:flutter/services.dart';
+import 'package:fsfsfsf/ChooseWzFile.dart';
 import 'package:fsfsfsf/WordListPage.dart';
 import 'package:fsfsfsf/myDropdownButton.dart';
 import 'package:path_provider/path_provider.dart';
@@ -295,13 +296,27 @@ class WordWidgetState extends State<WordWidget> {
             ),
 
           )
+     , Padding(padding:
+      const EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
+            child: ElevatedButton(onPressed: (){
+              Navigator.push(context, MaterialPageRoute(builder: (context){
+                return ChooseWzFile();
+              }));
+            }, child:
+            Text("更换单词本",
+              style: const TextStyle(
+                fontSize: 20,
+              ),),),
+          )
+
           , Padding(padding:
-          EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
+          const EdgeInsets.only(bottom: 80.0,top: 10,left: 30,right: 30),
     child:Text("总词数:${Word.allOfWord.length}",
     style: const TextStyle(
         fontSize: 30,
-    ),)),
-          const SizedBox(height: 40*2,width: 20,)
+    ),)
+          ),
+
 
         ]);
     ctc=Scrollbar(

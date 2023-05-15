@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fsfsfsf/Utils.dart';
-import 'package:fsfsfsf/WordWdget.dart';
+import 'package:fsfsfsf/WordWidget.dart';
 
 import 'Word.dart';
 

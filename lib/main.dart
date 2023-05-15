@@ -11,7 +11,7 @@ import  'package:flutter/services.dart';
 import 'package:flutter/services.dart' show rootBundle;
 
 import 'Word.dart';
-import 'WordWdget.dart';
+import 'WordWidget.dart';
 
 Future<String> loadAsset({required String path}) async {
   var a = await rootBundle.loadString(path);
@@ -24,13 +24,10 @@ void main() async{
     File f= File(dir);
     if(f.existsSync()){
       await Word.readStateFromFile();
-      await Word.inialize();
-      SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
-      runApp(  MyApp());
     }
-    else {
-      runApp(ChooseWzFile());
-    }
+    await Word.inialize();
+    SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
+    runApp(  MyApp());
 
   });
 
