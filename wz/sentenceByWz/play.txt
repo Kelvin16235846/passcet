@@ -1,1 +1,0 @@
-{"eg":"1. I love to play chess with my friends on weekends.\n2. We decided to play volleyball at the beach this afternoon.\n3. Let's play a game of cards after dinner tonight.","eng":"play"}

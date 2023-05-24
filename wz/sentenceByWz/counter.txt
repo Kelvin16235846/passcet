@@ -1,1 +1,0 @@
-{"eg":"1. The counter on the dashboard displayed the number of kilometers traveled.\n2. The cashier used the counter to keep track of the number of customers served.\n3. The scientist relied on the Geiger counter to measure the level of radiation in the environment.","eng":"counter"}

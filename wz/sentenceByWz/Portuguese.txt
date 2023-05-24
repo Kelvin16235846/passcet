@@ -1,1 +1,0 @@
-{"eg":"1. Eu adoro comer churrasco brasileiro. (I love to eat Brazilian barbecue.)\n2. Vamos dançar samba na festa de aniversário. (Let's dance samba at the birthday party.)\n3. O Rio de Janeiro é uma cidade linda e famosa pelas suas praias. (Rio de Janeiro is a beautiful city famous for its beaches.)","eng":"Portuguese"}

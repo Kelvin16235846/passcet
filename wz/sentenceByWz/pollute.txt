@@ -1,1 +1,0 @@
-{"eg":"1. The factory's waste disposal practices were so poor that they would consistently pollute the nearby river.\n2. The tourists' littering of plastic bottles and food wrappers is starting to pollute the once-pristine beach.\n3. Cars with old, inefficient engines can pollute the air with high levels of harmful emissions.","eng":"pollute"}

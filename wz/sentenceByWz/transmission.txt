@@ -1,1 +1,0 @@
-{"eg":"1. I am currently downloading a large file using Transmission.\n2. Transmission's user-friendly interface makes it easy to manage my torrent downloads.\n3. I appreciate Transmission's ability to prioritize certain files or folders during a torrent download.","eng":"transmission"}

@@ -1,1 +1,0 @@
-{"eg":"1. I watched a tutorial on YouTube to learn how to play the guitar.\n2. My sister spent hours on YouTube watching cute animal videos.\n3. I subscribed to a YouTube channel that teaches cooking recipes.","eng":"tube"}

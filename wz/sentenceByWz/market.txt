@@ -1,1 +1,0 @@
-{"eg":"1. I usually buy my groceries at this market because they have the freshest produce.\n2. The market was bustling with people buying souvenirs and local delicacies.\n3. The stock market has experienced a lot of volatility lately due to global economic uncertainty.","eng":"market"}

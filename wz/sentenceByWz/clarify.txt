@@ -1,1 +1,0 @@
-{"eg":"1. Can you please clarify your instructions for completing this assignment?\n2. To avoid any confusion, could you clarify which meeting we are supposed to attend tomorrow?\n3. I'm not sure I understand what you're saying, could you clarify your point?","eng":"clarify"}

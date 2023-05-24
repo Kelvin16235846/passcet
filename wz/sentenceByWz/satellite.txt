@@ -1,1 +1,0 @@
-{"eg":"1. The satellite accurately measured the ocean's temperature from hundreds of miles above the Earth's surface.\n2. The satellite's high-resolution images allowed scientists to map the terrain of the remote island.\n3. The communication satellite facilitated real-time exchange of data and information between the polar research stations.","eng":"satellite"}

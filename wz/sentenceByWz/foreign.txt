@@ -1,1 +1,0 @@
-{"eg":"1. My favorite food is foreign cuisine, especially Thai and Indian.\n2. The company hired a foreign expert to help with their international expansion plans.\n3. The government has implemented stricter policies for foreign workers entering the country.","eng":"foreign"}

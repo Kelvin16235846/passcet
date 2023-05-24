@@ -1,1 +1,0 @@
-{"eg":"1. The committee is responsible for reviewing all proposals and making final decisions.\n2. Each member of the committee brings unique skills and perspectives to the table.\n3. The committee meets once a month to discuss updates, progress, and upcoming events.","eng":"committee"}

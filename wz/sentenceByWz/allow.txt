@@ -1,1 +1,0 @@
-{"eg":"1. My parents allow me to stay out late on weekends.\n2. The teacher doesn't allow electronic devices in the classroom.\n3. The rules of the gym don't allow outside shoes on the exercise mat.","eng":"allow"}

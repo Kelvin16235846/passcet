@@ -1,1 +1,0 @@
-{"eg":"1. The quality of the soil greatly affects the growth of plants.\n2. The layers of different soils in this area indicate a history of geological changes.\n3. Soil erosion can have disastrous effects on agriculture and the environment.","eng":"soil"}

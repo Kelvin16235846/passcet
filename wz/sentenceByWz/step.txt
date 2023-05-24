@@ -1,1 +1,0 @@
-{"eg":"1. Firstly, we need to gather all the necessary materials for the experiment.\n2. Secondly, we will carefully follow the instructions provided to ensure accurate results.\n3. Finally, we will analyze the data collected to draw meaningful conclusions.","eng":"step"}

@@ -1,1 +1,0 @@
-{"eg":"1. Our company uses a fleet of modern trucks to transport goods across the country.\n2. The airline has a diverse fleet of planes that can accommodate varying travel needs.\n3. The yacht club maintains a luxurious fleet of boats available for members to use for leisure activities.","eng":"fleet"}

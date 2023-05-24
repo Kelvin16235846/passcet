@@ -1,1 +1,0 @@
-{"eg":"1. \"Scientists make breakthrough in cancer research with new drug therapy\"\n2. \"Record-breaking heatwave causes chaos across the country\"\n3. \"World leaders convene for urgent climate change summit in Paris\"","eng":"headline"}

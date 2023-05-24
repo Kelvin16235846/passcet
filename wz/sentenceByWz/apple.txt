@@ -1,1 +1,0 @@
-{"eg":"1. I prefer using Apple products over other brands.\n2. The new Apple iPhone has incredible features and a sleek design.\n3. I always carry my Apple MacBook with me to work on projects.","eng":"apple"}

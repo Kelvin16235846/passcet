@@ -1,1 +1,0 @@
-{"eg":"1. The cubic volume of this room is too small for a comfortable living space.\n2. The sculptor created a magnificent masterpiece out of a single cubic block of marble.\n3. The cubic equation proved to be too complex for the students to solve.","eng":"cubic"}

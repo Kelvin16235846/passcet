@@ -1,1 +1,0 @@
-{"eg":"1. The detection of a suspicious package at the airport caused a temporary evacuation.\n2. The early detection of cancer greatly increases the chances of successful treatment.\n3. The new security measures include advanced facial recognition detection technology.","eng":"detection"}

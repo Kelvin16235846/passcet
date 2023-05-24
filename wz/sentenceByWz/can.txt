@@ -1,1 +1,0 @@
-{"eg":"1. I can speak Chinese fluently.\n2. She can play the guitar very well.\n3. They can't wait to go on vacation next week.","eng":"can"}

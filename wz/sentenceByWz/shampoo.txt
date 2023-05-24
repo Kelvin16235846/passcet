@@ -1,1 +1,0 @@
-{"eg":"1. I need to buy a new bottle of shampoo because I'm almost out.\n2. The shampoo I used this morning left my hair feeling dry and brittle.\n3. My favorite shampoo has a lovely scent of lavender and chamomile.","eng":"shampoo"}

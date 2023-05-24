@@ -1,1 +1,0 @@
-{"eg":"1. The cat chased the mouse around the house.\n2. She sang her favorite song in front of the audience.\n3. The sun set over the horizon, painting the sky with hues of orange and pink.","eng":"scratch"}

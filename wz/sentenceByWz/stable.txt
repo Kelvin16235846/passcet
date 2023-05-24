@@ -1,1 +1,0 @@
-{"eg":"1. The stock market has been quite stable in recent months, with little fluctuation in prices.\n2. Despite the unstable political climate, the economy remained relatively stable and continued to grow.\n3. The medication helps to keep her blood pressure stable, preventing any sudden spikes or drops.","eng":"stable"}

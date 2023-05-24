@@ -1,1 +1,0 @@
-{"eg":"1. The use of auto-pilot technology has revolutionized the aviation industry.\n2. With the rise of electric vehicles, many auto manufacturers are now focusing on developing sustainable cars.\n3. My car has an auto-lock feature which makes me feel more secure when I leave it parked in public areas.","eng":"auto"}

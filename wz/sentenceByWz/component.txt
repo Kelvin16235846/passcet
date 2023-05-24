@@ -1,1 +1,0 @@
-{"eg":"1. The new mobile phone has a powerful processor as its key component.\n2. The car's engine, transmission, and suspension system are all important components for smooth driving.\n3. In a computer, the motherboard is the central component that connects all the other components together.","eng":"component"}

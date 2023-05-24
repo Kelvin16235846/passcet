@@ -1,1 +1,0 @@
-{"eg":"1. It is important to determine the root cause of the problem before trying to solve it.\n2. The scientists conducted experiments to determine the chemical composition of the substance.\n3. The jury took several days to determine the verdict in the high-profile court case.","eng":"determine"}

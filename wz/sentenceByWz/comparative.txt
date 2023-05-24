@@ -1,1 +1,0 @@
-{"eg":"1. The weather in Singapore is hotter than it is in Japan.\n2. Barry's grades have improved significantly this semester compared to last semester.\n3. Running is more beneficial for your health than sitting on the couch all day.","eng":"comparative"}

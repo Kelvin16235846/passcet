@@ -1,1 +1,0 @@
-{"eg":"1. I have a meeting scheduled for Tuesday morning.\n2. On Tuesday evenings, I like to attend yoga classes.\n3. Tuesday is typically a busy day for me at work.","eng":"Tuesday"}

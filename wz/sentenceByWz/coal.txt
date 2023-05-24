@@ -1,1 +1,0 @@
-{"eg":"1. The coal-fired power plant produced a significant amount of electricity for the surrounding region.\n2. The miner used a pickaxe to extract the coal from the depths of the earth.\n3. Burning coal creates harmful emissions that contribute to air pollution and climate change.","eng":"coal"}

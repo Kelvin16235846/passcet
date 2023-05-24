@@ -1,1 +1,0 @@
-{"eg":"1. The price of gasoline has increased by 10% in the past month.\n2. I'm willing to pay a higher price for quality products.\n3. The seller lowered the price of the product to attract more customers.","eng":"price"}

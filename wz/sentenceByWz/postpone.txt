@@ -1,1 +1,0 @@
-{"eg":"1. We had to postpone the meeting until next week due to a scheduling conflict.\n2. The concert was postponed due to inclement weather conditions.\n3. Can we postpone our dinner plans to next Friday instead?","eng":"postpone"}

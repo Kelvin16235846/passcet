@@ -1,1 +1,0 @@
-{"eg":"1. My favorite color is __underline__ blue.\n2. I need to __underline__ highlight the important parts of the text.\n3. The teacher asked us to __underline__ the key terms in the reading assignment.","eng":"underline"}

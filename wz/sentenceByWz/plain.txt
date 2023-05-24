@@ -1,1 +1,0 @@
-{"eg":"1. The sun sets in the west.\n2. Dogs love to play fetch.\n3. She wears a red dress to the party.","eng":"plain"}

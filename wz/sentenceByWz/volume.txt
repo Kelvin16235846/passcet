@@ -1,1 +1,0 @@
-{"eg":"1. I turned up the volume on my phone to listen to my favorite song.\n2. The volume of noise from the construction site next door is unbearable.\n3. We need to adjust the volume of the TV so that we can hear the dialogue more clearly.","eng":"volume"}

@@ -1,1 +1,0 @@
-{"eg":"1. John is dependent on his daily dose of caffeine to function properly.\n2. The growth of the company is dependent on the success of its new product launch.\n3. Sarah's mood is often dependent on the weather outside.","eng":"dependent"}

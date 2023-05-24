@@ -1,1 +1,0 @@
-{"eg":"1. The doctor prescribed a course of antibiotics for my infection.\n2. The nutritionist prescribed a diet plan to help me manage my diabetes.\n3. The therapist prescribed regular exercise and mindfulness practices to help with my anxiety.","eng":"prescribe"}

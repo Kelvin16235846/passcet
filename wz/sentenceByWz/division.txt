@@ -1,1 +1,0 @@
-{"eg":"1. The company's profits have been divided among the shareholders according to their percentage of ownership.\n2. We need to divide the volunteers into teams based on their skill sets.\n3. The mathematical problem required us to divide a large number by a smaller one.","eng":"division"}

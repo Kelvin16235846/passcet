@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:fsfsfsf/Utils.dart';
 import 'package:fsfsfsf/WordWidget.dart';
 
-import 'Word.dart';
+import 'Model.dart';
 
 class WordListPage extends StatefulWidget {
   const WordListPage({super.key,required this.wzs});
@@ -14,7 +14,7 @@ class WordListPage extends StatefulWidget {
   State<StatefulWidget> createState() {
    return WordListPageState();
   }
-  final List<Word> wzs;
+  final List<Model> wzs;
 }
 class WordListPageState extends State<WordListPage>{
   bool _showMean=false;
@@ -48,7 +48,7 @@ class WordListPageState extends State<WordListPage>{
              ,Padding(padding:EdgeInsets.only(left: 5))
              ,ElevatedButton(onPressed: (){
                setState(() {
-                  Word.flush();
+                  Model.flush();
                   resetListShowMeans();
                });
              }, child: const Text("重置")
@@ -109,7 +109,7 @@ class WordListPageState extends State<WordListPage>{
      )
      );
   }
-  List<Word> get wzs{
+  List<Model> get wzs{
     return widget.wzs;
   }
   @override

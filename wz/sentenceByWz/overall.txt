@@ -1,1 +1,0 @@
-{"eg":"1. Overall, the company's financial performance has been consistently strong over the past few years.\n2. The overall quality of the product was very good, though there were a few minor defects.\n3. Overall, I was very impressed with the level of customer service I received from this company.","eng":"overall"}

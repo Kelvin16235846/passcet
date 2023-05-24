@@ -1,1 +1,0 @@
-{"eg":"1. I urge you to reconsider your decision before it's too late.\n2. The doctor urged the patient to quit smoking to improve their health.\n3. We urge all citizens to remain vigilant during these uncertain times.","eng":"urge"}

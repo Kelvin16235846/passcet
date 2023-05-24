@@ -1,1 +1,0 @@
-{"eg":"1. The car was stolen last night.\n2. The cake was baked by my mom.\n3. The report will be submitted by the end of the month.","eng":"passive"}

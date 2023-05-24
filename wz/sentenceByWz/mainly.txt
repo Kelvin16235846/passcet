@@ -1,1 +1,0 @@
-{"eg":"1. Mainly, I prefer to eat vegetables over meat.\n2. The concert was mainly attended by young adults.\n3. His job mainly involves managing the company's finances.","eng":"mainly"}

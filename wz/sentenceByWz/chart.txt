@@ -1,1 +1,0 @@
-{"eg":"1. This chart shows the sales figures for each quarter of the year.\n2. According to this chart, the majority of the population in this country speaks Spanish.\n3. This chart illustrates the percentage of renewable energy sources used globally.","eng":"chart"}

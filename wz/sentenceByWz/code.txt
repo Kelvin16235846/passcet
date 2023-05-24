@@ -1,1 +1,0 @@
-{"eg":"1. The quick brown fox jumps over the lazy dog.\n2. Time is a created thing. To say \"I don't have time\" is like saying, \"I don't want to.\"\n3. Education is the passport to the future, for tomorrow belongs to those who prepare for it today.","eng":"code"}

@@ -1,1 +1,0 @@
-{"eg":"1. The architecture of the building incorporated various geometric shapes and patterns.\n2. The student's understanding of geometry greatly improved after taking a course on Euclidean geometry.\n3. The artist used a complex arrangement of geometric forms to create a stunning abstract piece of artwork.","eng":"geometry"}

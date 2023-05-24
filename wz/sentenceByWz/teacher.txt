@@ -1,1 +1,0 @@
-{"eg":"1. I am a teacher who is passionate about inspiring young minds.\n2. The teacher helped the student to understand a difficult concept.\n3. As a teacher, it is important to foster a positive learning environment.","eng":"teacher"}

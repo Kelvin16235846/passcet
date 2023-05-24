@@ -1,1 +1,0 @@
-{"eg":"1. I need to use a hammer to fix this loose nail in the wall.\n2. The carpenter hammered the wooden planks together to make a sturdy frame.\n3. She accidentally hit her finger with the hammer while trying to put up the picture frame.","eng":"hammer"}

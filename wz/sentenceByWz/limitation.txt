@@ -1,1 +1,0 @@
-{"eg":"1. The limitation of this study is that it only focused on participants from one cultural group.\n2. One limitation of renewable energy sources is that they often depend on weather conditions.\n3. The limitations of the available technology made it difficult to accurately measure the results of the experiment.","eng":"limitation"}

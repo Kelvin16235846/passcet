@@ -1,1 +1,0 @@
-{"eg":"1. The project required a considerable amount of funding before it could be executed.\n2. Despite a considerable delay, the team managed to complete the task on time.\n3. The new restaurant has received considerable praise from food critics and customers alike.","eng":"considerable"}

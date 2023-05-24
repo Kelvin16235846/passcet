@@ -1,1 +1,0 @@
-{"eg":"1. The runner sprinted down the track, her sneakers pounding against the pavement.\n2. He ran through the park, feeling the cool breeze in his face and the sun warming his skin.\n3. The marathon runner pushed herself to the limit, determined to cross the finish line no matter what.","eng":"runner"}

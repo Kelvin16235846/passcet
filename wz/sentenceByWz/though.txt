@@ -1,1 +1,0 @@
-{"eg":"1. Though he was tired, he persisted in finishing the project.\n2. She is a tough negotiator, though she always maintains a professional demeanor.\n3. Though it was cold outside, the hot chocolate kept me warm.","eng":"though"}

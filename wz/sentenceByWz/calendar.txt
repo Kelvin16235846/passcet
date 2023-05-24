@@ -1,1 +1,0 @@
-{"eg":"1. According to my calendar, tomorrow is the first day of summer vacation.\n2. I always mark important events in my calendar so I don't forget them.\n3. She checked her calendar to see if she was available on that day.","eng":"calendar"}

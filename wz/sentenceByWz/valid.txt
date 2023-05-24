@@ -1,1 +1,0 @@
-{"eg":"1. The validity of your argument is undermined by the lack of supporting evidence.\n2. To ensure the validity of his conclusions, the researcher used a rigorous methodology.\n3. The validity of my passport has expired and I need to renew it before my next trip abroad.","eng":"valid"}

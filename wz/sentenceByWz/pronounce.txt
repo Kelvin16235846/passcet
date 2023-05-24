@@ -1,1 +1,0 @@
-{"eg":"1. Can you please pronounce the name of this street for me?\n2. It's important to pronounce words clearly when speaking in public.\n3. I find it difficult to pronounce certain words in French.","eng":"pronounce"}

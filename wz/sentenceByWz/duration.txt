@@ -1,1 +1,0 @@
-{"eg":"1. The duration of the flight from New York to London is approximately 6 hours.\n2. The duration of the meeting was much longer than expected, lasting nearly 3 hours.\n3. I was only able to exercise for a short duration this morning due to my busy schedule.","eng":"duration"}

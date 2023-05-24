@@ -1,1 +1,0 @@
-{"eg":"1. The weather forecast warned of heavy rain; nevertheless, we decided to go on our picnic.\n2. The concert tickets were expensive; nevertheless, we decided to splurge and buy them.\n3. Sarah had a busy day at work; nevertheless, she still made time to go for a run.","eng":"nevertheless"}

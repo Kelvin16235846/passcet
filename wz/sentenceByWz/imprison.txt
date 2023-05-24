@@ -1,1 +1,0 @@
-{"eg":"1. The judge decided to imprison the convicted criminal for a maximum of ten years.\n2. The authoritarian government tends to imprison political dissidents without a fair trial.\n3. The warden of the prison promised to provide better living conditions for the inmates who were unfairly imprisoned.","eng":"imprison"}

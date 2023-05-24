@@ -1,1 +1,0 @@
-{"eg":"1. I always start my day with a cup of tea.\n2. Would you like some tea to go with your scone?\n3. There's nothing more comforting than a hot mug of tea on a cold day.","eng":"tea"}

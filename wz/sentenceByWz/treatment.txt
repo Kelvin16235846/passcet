@@ -1,1 +1,0 @@
-{"eg":"1. The new drug is expected to provide a highly effective treatment for the disease.\n2. He received intensive treatment for his injuries, including surgery and physical therapy.\n3. The psychologist recommended cognitive behavioral therapy as a treatment for her anxiety.","eng":"treatment"}

@@ -1,1 +1,0 @@
-{"eg":"1. The plane made a bumpy landing on the runway.\n2. The spacecraft's successful landing on Mars was a monumental achievement for the scientific community.\n3. The pilot had to abort the landing due to adverse weather conditions.","eng":"landing"}

@@ -1,1 +1,0 @@
-{"eg":"1. I need to track my expense so I know where my money is going each month.\n2. My boss approved my expense report for the business trip I took last week.\n3. I'm trying to cut down on my expense by finding cheaper alternatives for my daily purchases.","eng":"expense"}

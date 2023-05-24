@@ -1,1 +1,0 @@
-{"eg":"1. The severe storm caused extensive damage to the coastal town.\n2. The patient's condition was severe and required immediate medical attention.\n3. The company faced severe consequences for violating environmental regulations.","eng":"severe"}

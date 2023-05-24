@@ -1,1 +1,0 @@
-{"eg":"1. The teacher's positive feedback greatly affected the student's confidence and motivation.\n2. The sudden loss of her cat affected her mood and she became melancholy.\n3. The new airport construction will negatively affect the local environment and wildlife habitats.","eng":"affect"}

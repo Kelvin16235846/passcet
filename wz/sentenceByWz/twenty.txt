@@ -1,1 +1,0 @@
-{"eg":"1. It cost me twenty dollars to buy that shirt.\n2. I can count to twenty in Spanish.\n3. I have twenty new messages in my inbox.","eng":"twenty"}

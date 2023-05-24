@@ -1,1 +1,0 @@
-{"eg":"1. The temperature outside is currently 23.5 degrees Celsius.2. The weight of the object is precisely 15.2 kilograms.3. His height is measured at 6 feet and 2.5 inches.","eng":"double"}

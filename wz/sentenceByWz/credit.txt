@@ -1,1 +1,0 @@
-{"eg":"1. I have good credit, so I was able to secure a low-interest loan for my new car.\n2. Despite her excellent credit score, Jane was denied a credit card due to lack of income.\n3. Jack's poor credit history made it difficult for him to qualify for a mortgage.","eng":"credit"}

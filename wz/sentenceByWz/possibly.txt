@@ -1,1 +1,0 @@
-{"eg":"1. It's possibly going to rain later today.\n2. I can't possibly finish this project by myself.\n3. There's possibly a better way of solving this problem.","eng":"possibly"}

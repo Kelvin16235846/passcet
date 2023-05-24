@@ -1,1 +1,0 @@
-{"eg":"1. Can you schedule a meeting with the team next week to discuss the upcoming project?\n2. I'm sorry, but I didn't quite catch what you said. Could you please repeat it?\n3. Let's try to come up with some creative solutions to this problem during our brainstorming session today.","eng":"oral"}

@@ -1,1 +1,0 @@
-{"eg":"1. The need for change arose due to a lack of productivity within the organization.\n2. An unexpected issue arose during the construction process, causing a delay in the timeline.\n3. A feeling of frustration arose among the team members when their input was not taken into consideration.","eng":"arise"}

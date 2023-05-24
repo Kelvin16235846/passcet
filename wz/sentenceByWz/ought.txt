@@ -1,1 +1,0 @@
-{"eg":"1. You ought to apologize for your rude behavior.\n2. He ought to have studied harder for the exam.\n3. We ought to be more considerate of other people's feelings.","eng":"ought"}

@@ -1,1 +1,0 @@
-{"eg":"1. The teacher will distribute the homework assignments to the students tomorrow.\n2. The company decided to distribute their profits equally among all employees.\n3. The charity organization plans to distribute food and blankets to the homeless in the local community.","eng":"distribute"}

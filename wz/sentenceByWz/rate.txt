@@ -1,1 +1,0 @@
-{"eg":"1. The rate of inflation has increased significantly over the past year.\n2. The interest rate on my savings account is quite low.\n3. The exchange rate between the US dollar and euro fluctuates frequently.","eng":"rate"}

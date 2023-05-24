@@ -1,1 +1,0 @@
-{"eg":"1. She carefully made her selection from the array of colorful dresses in the boutique.\n2. The process of hiring was long as they had to go through a rigorous selection procedure to filter out the best candidate.\n3. After spending an hour in the bookstore, she finally made her selection of three books to buy.","eng":"selection"}

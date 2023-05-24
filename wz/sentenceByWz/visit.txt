@@ -1,1 +1,0 @@
-{"eg":"1. I plan to visit my grandparents this weekend.\n2. Next summer, I am hoping to visit some countries in Europe.\n3. The museum is open for visitors, so you can come and visit anytime.","eng":"visit"}

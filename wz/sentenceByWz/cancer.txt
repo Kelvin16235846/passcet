@@ -1,1 +1,0 @@
-{"eg":"1. Cancer is a serious disease that affects millions of people every year.\n2. Early detection and treatment can greatly improve the chances of survival for those with cancer.\n3. Cancer research continues to make progress in understanding the disease and developing new treatments.","eng":"cancer"}

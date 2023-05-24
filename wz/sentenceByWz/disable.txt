@@ -1,1 +1,0 @@
-{"eg":"1. I had to disable my email account due to a security breach.\n2. The software update caused my phone to disable certain features.\n3. The company disabled access to the building after hours to increase security measures.","eng":"disable"}

@@ -1,1 +1,0 @@
-{"eg":"1. The employees' performance at the company has significantly improved since the introduction of the new training program.\n2. The athlete's consistent high-performance throughout the season led to her being named the team's MVP.\n3. The theater critic praised the actor's outstanding performance in the leading role of the play.","eng":"performance"}

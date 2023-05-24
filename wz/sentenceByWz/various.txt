@@ -1,1 +1,0 @@
-{"eg":"1. The department store offers various clothing options to cater to different fashion preferences.\n2. The museum showcases various art styles from different time periods.\n3. The restaurant menu features various cuisines from around the world.","eng":"various"}

@@ -1,1 +1,0 @@
-{"eg":"1. The ambulance raced down the street with its sirens blaring, rushing to save a life.\n2. She was rushed to the hospital in an ambulance after suffering a heart attack.\n3. The ambulance crew worked quickly to stabilize the patient's condition en route to the ER.","eng":"ambulance"}

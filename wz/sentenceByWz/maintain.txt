@@ -1,1 +1,0 @@
-{"eg":"1. I need to maintain a healthy diet in order to feel my best.\n2. It is important to maintain regular exercise in order to stay physically fit.\n3. The maintenance of my car is essential for ensuring its longevity and optimal performance.","eng":"maintain"}

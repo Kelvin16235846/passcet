@@ -1,1 +1,0 @@
-{"eg":"1. Maria forgot to set her alarm clock, consequently, she overslept and was late for work.\n2. The car had not been serviced in months, and consequently, it broke down on the highway.\n3. Tom didn't study for his exam, and consequently, he failed the test.","eng":"consequently"}

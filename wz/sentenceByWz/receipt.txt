@@ -1,1 +1,0 @@
-{"eg":"1. Could you please give me a receipt for the purchase of this item?\n2. I always make sure to keep my receipts in case I need to return something.\n3. The store clerk forgot to give me a receipt, so I had to go back and ask for one.","eng":"receipt"}

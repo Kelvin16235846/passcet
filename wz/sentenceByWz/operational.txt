@@ -1,1 +1,0 @@
-{"eg":"1. The operational efficiency of the company has improved significantly over the last quarter.\n2. The success of the project was largely due to the effective operational planning and execution.\n3. The military unit underwent extensive operational training in preparation for their mission.","eng":"operational"}

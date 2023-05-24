@@ -1,1 +1,0 @@
-{"eg":"1. The plane is set to depart in five minutes, so please make your way to the boarding gate now.\n2. The train was delayed and ended up departing an hour later than scheduled.\n3. The company has decided to delay the project's departure until next month.","eng":"depart"}

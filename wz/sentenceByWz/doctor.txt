@@ -1,1 +1,0 @@
-{"eg":"1. The doctor prescribed some medication for my headache.\n2. I went to see the doctor because I've been feeling unwell for several days.\n3. The doctor told me to get some rest and drink plenty of fluids to help me recover from the flu.","eng":"doctor"}

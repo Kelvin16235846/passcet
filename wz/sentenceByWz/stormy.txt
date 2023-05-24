@@ -1,1 +1,0 @@
-{"eg":"1. The stormy sea waves crashed against the rocks, creating a thunderous sound.\n2. The dark, stormy clouds loomed overhead, threatening to unleash their fury at any moment.\n3. Despite the stormy weather, the determined hiker continued his trek up the rugged mountain trail.","eng":"stormy"}

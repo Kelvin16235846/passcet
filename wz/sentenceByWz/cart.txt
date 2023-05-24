@@ -1,1 +1,0 @@
-{"eg":"1. The online store uses a cart feature to enable customers to add items to their virtual basket.\n2. John filled his shopping cart with groceries at the supermarket.\n3. The e-commerce website has a convenient cart system for users to review and finalize their purchases before checking out.","eng":"cart"}

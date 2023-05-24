@@ -1,1 +1,0 @@
-{"eg":"1. Even though it was raining heavily outside, they still decided to go for a walk.\n2. She was surprised to hear that even the CEO of the company was attending the meeting.\n3. Even though he had practiced for hours, he still made a mistake during the performance.","eng":"even"}

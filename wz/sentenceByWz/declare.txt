@@ -1,1 +1,0 @@
-{"eg":"1. I declare that I have never been to London before.\n2. The company will declare bankruptcy if they do not meet their financial goals.\n3. The president of the country made a statement declaring a state of emergency due to the natural disaster.","eng":"declare"}

@@ -1,1 +1,0 @@
-{"eg":"1. I always bring a jacket with me, lest I get cold.\n2. She double-checked all her calculations, lest she make a mistake.\n3. He spoke quietly, lest he wake up the baby.","eng":"lest"}

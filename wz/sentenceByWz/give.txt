@@ -1,1 +1,0 @@
-{"eg":"1. I will give you a present for your birthday.\n2. Can you give me some advice on which college to choose?\n3. My sister gave me her old book collection.","eng":"give"}

@@ -1,1 +1,0 @@
-{"eg":"1. It's going to be a rainy day today, so don't forget to bring your umbrella.\n2. Despite the rainy weather, the outdoor wedding ceremony was still beautiful.\n3. The sound of the rain tapping against the window was soothing and peaceful.","eng":"rainy"}

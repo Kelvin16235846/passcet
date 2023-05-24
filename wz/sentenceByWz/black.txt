@@ -1,1 +1,0 @@
-{"eg":"1. The black cat crossed the road in front of the car.\n2. The sky turned black just before the storm hit.\n3. She wore a black dress to the funeral as a sign of mourning.","eng":"black"}

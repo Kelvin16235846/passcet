@@ -1,37 +1,21 @@
-import 'dart:developer';
 import 'package:flutter/material.dart' ;
-import 'package:fsfsfsf/ChooseWzFile.dart';
-import 'dart:math' as math;
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
-import 'package:auto_size_text/auto_size_text.dart';
-import 'package:simple_gesture_detector/simple_gesture_detector.dart';
 import 'dart:async';
 import  'package:flutter/services.dart';
 import 'package:flutter/services.dart' show rootBundle;
 
-import 'Word.dart';
+import 'Model.dart';
 import 'WordWidget.dart';
 
 Future<String> loadAsset({required String path}) async {
   var a = await rootBundle.loadString(path);
   return a;
 }
-void main() async{
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  await Future(()async{
-    String dir="${(await  getApplicationDocumentsDirectory()).path}/${Word.cfgPath}";
-    File f= File(dir);
-    if(f.existsSync()){
-      await Word.readStateFromFile();
-    }
-    await Word.inialize();
     SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
-    runApp(  MyApp());
-
-  });
-
-
+    runApp( const MyApp() );
 }
 
 class MyApp extends StatelessWidget {
@@ -60,6 +44,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+
   @override
   Widget build(BuildContext context) {
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
@@ -68,7 +53,8 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   void initState()  {
     super.initState();
-    Word.flush();
+    Model.inialize();
+    Model.flush();
   }
 }
 

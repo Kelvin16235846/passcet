@@ -1,1 +1,0 @@
-{"eg":"1. He was out of town for the weekend.\n2. The movie was sold out before we arrived.\n3. She felt left out of the conversation.","eng":"out"}

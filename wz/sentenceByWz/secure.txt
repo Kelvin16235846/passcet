@@ -1,1 +1,0 @@
-{"eg":"1. The secure connection ensured that our online transactions were safe and protected from hacking attempts.\n2. The company invested heavily in secure technology to safeguard their customers’ sensitive data.\n3. I feel secure knowing that my home has a robust security system installed.","eng":"secure"}

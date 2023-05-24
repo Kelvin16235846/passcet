@@ -1,1 +1,0 @@
-{"eg":"1. Can you assist me with carrying these heavy boxes to the car?\n2. The company hired a financial advisor to assist with budget planning.\n3. The nurse is always willing to assist patients with their medical needs.","eng":"assist"}

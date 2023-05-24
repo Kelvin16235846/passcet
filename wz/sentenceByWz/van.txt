@@ -1,1 +1,0 @@
-{"eg":"1. I'm planning to buy a van for my business to transport goods.\n2. We rented a van to go on a road trip with our friends.\n3. The delivery company used a van to deliver the package to our doorstep.","eng":"van"}

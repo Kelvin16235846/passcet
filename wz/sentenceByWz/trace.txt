@@ -1,1 +1,0 @@
-{"eg":"1. The detective traced the suspect's footsteps to the edge of the forest.\n2. The archaeologist carefully traced the ancient artifact's intricate markings.\n3. The virus outbreak was traced back to a contaminated batch of food.","eng":"trace"}

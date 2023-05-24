@@ -1,1 +1,0 @@
-{"eg":"1. She fell asleep during the boring lecture.\n2. I was so tired that I fell asleep on the train.\n3. The baby finally fell asleep after being rocked in the cradle.","eng":"asleep"}

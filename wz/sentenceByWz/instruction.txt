@@ -1,1 +1,0 @@
-{"eg":"1. To make the recipe, first preheat the oven to 350 degrees Fahrenheit.\n2. Follow these instructions carefully in order to assemble the furniture correctly.\n3. The teacher provided clear instructions for completing the assignment.","eng":"instruction"}

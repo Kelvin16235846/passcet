@@ -1,1 +1,0 @@
-{"eg":"1. It is required that all employees attend the safety training program before starting work.\n2. The job description clearly states that a minimum of 5 years of experience is required for this position.\n3. In order to graduate, it is required that all students pass the final exam with a minimum score of 70%.","eng":"require"}

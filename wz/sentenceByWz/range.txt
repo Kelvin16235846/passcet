@@ -1,1 +1,0 @@
-{"eg":"1. I will be available to work on this project at any time within the range of Monday to Friday.\n2. The temperature in the city has been consistently within the range of 20-25 degrees Celsius for the past week.\n3. Our company offers a wide range of products, from electronics to household items.","eng":"range"}

@@ -1,1 +1,0 @@
-{"eg":"1. Eleven is the age when children start to become more independent.\n2. Eleven students scored above 90% in the math test.\n3. The clock struck eleven and it was time for everyone to leave the party.","eng":"eleven"}

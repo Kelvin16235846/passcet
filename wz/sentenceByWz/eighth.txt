@@ -1,1 +1,0 @@
-{"eg":"1. The eighth day of the week does not exist in our calendar.\n2. She finished in eighth place in the race.\n3. This is my eighth attempt to solve this puzzle.","eng":"eighth"}

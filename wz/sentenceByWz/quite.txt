@@ -1,1 +1,0 @@
-{"eg":"1. The team played quite well in the first half of the game, but they struggled in the second half.\n2. That is quite a difficult task to accomplish in such a short amount of time.\n3. The restaurant we went to last night was quite expensive, but the food was excellent.","eng":"quite"}

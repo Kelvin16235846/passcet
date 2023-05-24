@@ -1,1 +1,0 @@
-{"eg":"1. I love skiing on the slopes of the Swiss Alps.\n2. Skiing down the mountain at sunset was a breathtaking experience.\n3. My dad and I used to go skiing together every winter.","eng":"ski"}

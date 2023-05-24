@@ -1,1 +1,0 @@
-{"eg":"1. The organism's ability to adapt to its environment is crucial for its survival.\n2. The intricate interdependence of various organisms in an ecosystem is a fascinating field of study.\n3. Genetic mutations can alter the behavior and characteristics of an organism.","eng":"organism"}

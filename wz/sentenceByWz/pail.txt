@@ -1,1 +1,0 @@
-{"eg":"1. I filled up the pail with water from the well.\n2. The little girl carried the pail of apples carefully to her mother.\n3. The farmer used the pail to collect fresh milk from the cows every morning.","eng":"pail"}

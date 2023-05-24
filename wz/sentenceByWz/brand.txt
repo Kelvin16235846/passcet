@@ -1,1 +1,0 @@
-{"eg":"1. Nike is a well-known brand that produces high-quality athletic gear.\n2. Coca-Cola is a globally recognized brand of soda that has been around for over a century.\n3. Apple is a brand that's synonymous with innovation and cutting-edge technology.","eng":"brand"}

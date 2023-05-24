@@ -1,1 +1,0 @@
-{"eg":"1. All animals are equal, but some animals are more equal than others.\n2. In a fair society, everyone is treated as equal.\n3. Equality is essential for social justice and human rights.","eng":"equal"}

@@ -1,1 +1,0 @@
-{"eg":"1. I fell to the ground after tripping over a rock.\n2. The ground was soft and muddy after the rain.\n3. The athlete leapt into the air before touching back down on solid ground.","eng":"ground"}

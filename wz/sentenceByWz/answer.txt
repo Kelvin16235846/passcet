@@ -1,1 +1,0 @@
-{"eg":"1. The answer to the question is quite simple.\n2. I do not know the answer to your inquiry at this time.\n3. Can you please give me an answer to the proposal?","eng":"answer"}

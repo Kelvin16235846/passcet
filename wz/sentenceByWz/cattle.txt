@@ -1,1 +1,0 @@
-{"eg":"1. The cattle were grazing peacefully in the meadow.\n2. The cowboy rounded up the cattle and drove them towards the ranch.\n3. The farmer had a large herd of cattle on his farm.","eng":"cattle"}

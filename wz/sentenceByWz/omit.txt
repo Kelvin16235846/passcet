@@ -1,1 +1,0 @@
-{"eg":"1. I accidentally omitted his name from the guest list.\n2. She omitted important details from her report.\n3. The recipe seemed incomplete, as it omitted a key ingredient.","eng":"omit"}

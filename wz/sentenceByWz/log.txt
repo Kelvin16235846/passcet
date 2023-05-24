@@ -1,1 +1,0 @@
-{"eg":"1. The log of their journey was meticulously kept by the captain.\n2. The hikers used a log book to record their progress on the trail.\n3. Without a log to guide them, the forestry team struggled to find their way through the dense forest.","eng":"log"}

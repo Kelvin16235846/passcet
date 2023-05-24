@@ -1,1 +1,0 @@
-{"eg":"1. I downloaded the latest movie using torrent.\n2. She shared her music album through a torrent site.\n3. The torrent of rain made it difficult to walk on the street.","eng":"torrent"}

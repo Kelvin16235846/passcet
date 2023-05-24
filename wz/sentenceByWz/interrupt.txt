@@ -1,1 +1,0 @@
-{"eg":"1. The loud noise from the construction site interrupted my peaceful afternoon nap.\n2. Can we pause the meeting for a minute? I need to interrupt and ask a quick question.\n3. The sudden phone call interrupted our conversation about the upcoming project.","eng":"interrupt"}

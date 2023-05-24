@@ -1,1 +1,0 @@
-{"eg":"1. The sun was shining brightly on the beach, warming the sand and the sea.\n2. The sun slowly descended below the horizon, casting a golden glow across the sky.\n3. The harsh rays of the sun beat down on the desert, making the landscape shimmer with heat.","eng":"sun"}

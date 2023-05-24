@@ -1,1 +1,0 @@
-{"eg":"1. The planet Earth is home to millions of species of flora and fauna.\n2. Mars is often referred to as the red planet due to its reddish appearance.\n3. Jupiter is the largest planet in our solar system and is known for its massive storms.","eng":"planet"}

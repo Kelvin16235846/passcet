@@ -1,1 +1,0 @@
-{"eg":"1. The reliability of the new software has been thoroughly tested before its launch.\n2. The reliability of the data collected from the survey was questioned due to the small sample size.\n3. The reliability of the car's brakes was a major concern for the manufacturer and was improved in the next model.","eng":"reliability"}

@@ -1,1 +1,0 @@
-{"eg":"1. The majestic lion roamed the grasslands in search of prey.\n2. The cute little bunny hopped around the garden, nibbling on carrots.\n3. The mischievous monkey swung from branch to branch, teasing the other animals in the jungle.","eng":"animal"}

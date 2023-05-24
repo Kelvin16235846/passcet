@@ -1,1 +1,0 @@
-{"eg":"1. The restaurant only serves vegetarian food, so we filtered out all the meat dishes when ordering.\n2. I always filter my search results by date to make sure I'm getting the most up-to-date information.\n3. She uses a water filter to ensure that the water she drinks is free of impurities.","eng":"filter"}

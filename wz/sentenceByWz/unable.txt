@@ -1,1 +1,0 @@
-{"eg":"1. I am unable to attend the meeting tomorrow due to a prior engagement.\n2. The machine was unable to process the large file size and crashed.\n3. Despite multiple attempts, she was still unable to solve the math problem.","eng":"unable"}

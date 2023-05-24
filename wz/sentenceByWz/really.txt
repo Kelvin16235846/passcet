@@ -1,1 +1,0 @@
-{"eg":"1. I'm really tired after working all day long.\n2. He's really good at playing guitar.\n3. She's really excited to go on her first camping trip.","eng":"really"}

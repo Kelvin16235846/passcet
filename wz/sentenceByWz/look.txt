@@ -1,1 +1,0 @@
-{"eg":"1. I am going to look for my lost keys.\n2. He always looks at me with a sad expression on his face.\n3. The sunset looks so beautiful tonight.","eng":"look"}

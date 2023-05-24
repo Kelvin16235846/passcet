@@ -1,1 +1,0 @@
-{"eg":"1. The scientist observed the behavior of the rats in the maze.\n2. The birdwatcher observed the rare species of bird from her binoculars.\n3. The teacher observed the students in the classroom to monitor their progress.","eng":"observer"}

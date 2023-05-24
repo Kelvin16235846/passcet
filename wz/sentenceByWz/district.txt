@@ -1,1 +1,0 @@
-{"eg":"1. The district of Manhattan is one of the most iconic neighborhoods in New York City.\n2. The local council invested in improving the infrastructure of the industrial district to attract new businesses.\n3. The residential district was located on the outskirts of the city, providing a quieter and more peaceful environment for families.","eng":"district"}

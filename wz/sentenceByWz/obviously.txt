@@ -1,1 +1,0 @@
-{"eg":"1. Obviously, the sky is blue during the daytime.\n2. She's obviously upset about something, judging by her facial expression.\n3. The restaurant is obviously closed on Sundays, as stated on their website.","eng":"obviously"}

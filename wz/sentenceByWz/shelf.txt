@@ -1,1 +1,0 @@
-{"eg":"1. I need to organize my books on the shelf by genre.\n2. He carefully placed the vase on the shelf, making sure it was stable.\n3. The children's toys were scattered all over the shelf, making it difficult to find anything.","eng":"shelf"}

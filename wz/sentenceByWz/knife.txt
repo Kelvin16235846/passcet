@@ -1,1 +1,0 @@
-{"eg":"1. I used a sharp knife to slice the vegetables for the salad.\n2. With his trusty knife in hand, the chef skillfully prepared the meal.\n3. She accidentally cut herself while washing the kitchen knife.","eng":"knife"}

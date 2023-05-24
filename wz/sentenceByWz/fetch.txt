@@ -1,1 +1,0 @@
-{"eg":"1. I will fetch my car keys from the kitchen before we leave.\n2. Can you please fetch me a glass of water from the fridge?\n3. The dog loves to play fetch in the park with his favorite ball.","eng":"fetch"}

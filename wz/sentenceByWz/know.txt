@@ -1,1 +1,0 @@
-{"eg":"1. I know how to cook a delicious meal.\n2. Do you know where the nearest coffee shop is located?\n3. She doesn't know the answer to the question.","eng":"know"}

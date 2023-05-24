@@ -1,1 +1,0 @@
-{"eg":"1. The progress we made in the project was satisfactory.\n2. The customer rated our service as satisfactory.\n3. The results of the experiment were deemed satisfactory by the research team.","eng":"satisfactory"}

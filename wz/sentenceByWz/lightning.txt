@@ -1,1 +1,0 @@
-{"eg":"1. The lightning storm illuminated the night sky with its bright flashes and booming thunder.\n2. It was a close call as the lightning struck the tree next to us, sending debris flying in all directions.\n3. The sudden burst of lightning caused a power outage, leaving the entire town in darkness for hours.","eng":"lightning"}

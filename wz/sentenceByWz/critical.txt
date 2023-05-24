@@ -1,1 +1,0 @@
-{"eg":"1. It is critical for all employees to attend the safety training program to prevent accidents.\n2. The pandemic has highlighted the critical need for reliable healthcare systems across the globe.\n3. The success of the project is critical to the company's growth and reputation in the industry.","eng":"critical"}

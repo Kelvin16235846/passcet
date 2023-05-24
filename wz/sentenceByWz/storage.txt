@@ -1,1 +1,0 @@
-{"eg":"1. I need to clear out some space in my storage unit.\n2. The storage area in our office is running low on shelves.\n3. The company invested in a new cloud storage system for all our files.","eng":"storage"}

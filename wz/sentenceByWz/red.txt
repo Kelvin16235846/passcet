@@ -1,1 +1,0 @@
-{"eg":"1. The red rose bloomed beautifully in the garden.\n2. Her red lipstick matched perfectly with her dress.\n3. The stop sign is red, indicating drivers to stop their vehicles.","eng":"red"}

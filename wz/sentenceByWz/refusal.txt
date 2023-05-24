@@ -1,1 +1,0 @@
-{"eg":"1. I'm sorry, but I have to refuse your invitation to the party.\n2. I appreciate the offer, but I must refuse your job opportunity.\n3. Thanks for considering me, but I have to decline your request for a loan.","eng":"refusal"}

@@ -1,1 +1,0 @@
-{"eg":"1. The country is facing an economic crisis due to the ongoing pandemic.\n2. The government's response to the climate crisis has been inadequate.\n3. The sudden death of the company's CEO caused a crisis among its employees and shareholders.","eng":"crisis"}

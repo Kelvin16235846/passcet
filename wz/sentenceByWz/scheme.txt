@@ -1,1 +1,0 @@
-{"eg":"1. \"I love to code in Scheme because it is elegant and powerful.\"\n2. \"Scheme is a highly expressive functional programming language.\"\n3. \"Scheme's syntax may seem unusual at first, but it quickly becomes intuitive and powerful.\"","eng":"scheme"}

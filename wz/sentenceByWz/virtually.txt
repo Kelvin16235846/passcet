@@ -1,1 +1,0 @@
-{"eg":"1. Thanks to technology, we can now conduct business meetings virtually, saving time and resources.\n2. Virtual learning has become increasingly popular due to its accessibility and convenience for students.\n3. Virtual reality allows us to experience things that would be impossible or dangerous in real life.","eng":"virtually"}

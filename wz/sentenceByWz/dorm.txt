@@ -1,1 +1,0 @@
-{"eg":"1. I lived in a cramped dorm during my time at university.\n2. The dormitory was located on the outskirts of town.\n3. The dorm room had a small window that overlooked the courtyard.","eng":"dorm"}

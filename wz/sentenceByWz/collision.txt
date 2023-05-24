@@ -1,1 +1,0 @@
-{"eg":"1. The collision between the two vehicles caused a major pile-up on the highway.\n2. The collision between the soccer players resulted in a penalty kick.\n3. The collision between the asteroid and the planet caused widespread destruction.","eng":"collision"}

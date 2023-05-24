@@ -1,1 +1,0 @@
-{"eg":"1. Common sense suggests that one should not ignore warning signs.\n2. It is common knowledge that regular exercise and a healthy diet are key to maintaining good health.\n3. A common goal among coworkers is to increase productivity and improve teamwork.","eng":"common"}

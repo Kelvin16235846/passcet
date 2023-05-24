@@ -1,1 +1,0 @@
-{"eg":"1. The reaction between hydrochloric acid and magnesium produces hydrogen gas and magnesium chloride.\n2. The periodic table is organized based on the electronic configuration and properties of elements.\n3. Polymerization is a process where monomers combine to form a polymer, through the formation of covalent bonds.","eng":"chemistry"}

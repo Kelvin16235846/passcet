@@ -1,1 +1,0 @@
-{"eg":"1. I want to buy a new laptop for my work.\n2. My dad is planning to buy a new car next month.\n3. She decided to buy a dress for her friend's wedding.","eng":"buy"}

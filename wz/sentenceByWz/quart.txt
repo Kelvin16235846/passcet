@@ -1,1 +1,0 @@
-{"eg":"1. Quart is a powerful and streamlined web framework for Python developers.\n2. With Quart, developers can build highly efficient and scalable web applications.\n3. Quart offers intuitive and easy-to-use APIs, making it an ideal choice for both beginners and experienced developers.","eng":"quart"}

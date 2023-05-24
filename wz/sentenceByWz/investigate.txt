@@ -1,1 +1,0 @@
-{"eg":"1. The police will investigate the crime and gather evidence to find the culprit.\n2. The researchers will investigate the effect of the new medication on patients with the disease.\n3. The company hired a private investigator to investigate the suspicious behavior of the employee.","eng":"investigate"}

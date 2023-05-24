@@ -1,1 +1,0 @@
-{"eg":"1. The voyage across the Atlantic took several weeks.\n2. She embarked on a voyage of self-discovery after the loss of her loved one.\n3. The adventurers set off on a perilous voyage to uncharted waters.","eng":"voyage"}

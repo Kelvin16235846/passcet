@@ -1,1 +1,0 @@
-{"eg":"1. This year has been particularly challenging for everyone.\n2. I graduated from college in the year 2018.\n3. The Chinese zodiac animal for the year 2022 is the Tiger.","eng":"year"}

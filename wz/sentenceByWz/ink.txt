@@ -1,1 +1,0 @@
-{"eg":"1. The ink on the paper is still wet.\n2. I need to refill my fountain pen with ink.\n3. His signature was written in bold black ink.","eng":"ink"}

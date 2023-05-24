@@ -1,1 +1,0 @@
-{"eg":"1. The new machine provides more accurate measurements than the old one.\n2. It is important to have accurate information before making any decisions.\n3. The historian's findings were based on accurate documentation and thorough research.","eng":"accurate"}

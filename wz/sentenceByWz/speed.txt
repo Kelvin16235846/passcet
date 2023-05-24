@@ -1,1 +1,0 @@
-{"eg":"1. The car was moving at such a high speed that it was difficult to keep up with it.\n2. The runner increased his speed in the last stretch of the race and crossed the finish line first.\n3. The rollercoaster reached a top speed of 80 miles per hour, making the ride thrilling and exhilarating for the passengers.","eng":"speed"}

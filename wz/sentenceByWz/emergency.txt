@@ -1,1 +1,0 @@
-{"eg":"1. The hospital was overwhelmed with the sudden influx of patients during the emergency.\n2. The emergency services were quick to respond and arrived on the scene within minutes.\n3. We had to evacuate the building immediately when the fire alarm went off as it was an emergency situation.","eng":"emergency"}

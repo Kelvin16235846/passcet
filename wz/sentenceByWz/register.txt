@@ -1,1 +1,0 @@
-{"eg":"1. I need to register for the conference before the deadline.\n2. To access the online course, you have to register with your email and personal information.\n3. The hotel requires all guests to register at the reception desk upon arrival.","eng":"register"}

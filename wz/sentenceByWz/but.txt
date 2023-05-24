@@ -1,1 +1,0 @@
-{"eg":"1. I want to go to the party, but I have to work late tonight.\n2. She is a talented singer, but her stage fright often holds her back.\n3. The food was delicious, but the service was slow and unorganized.","eng":"but"}

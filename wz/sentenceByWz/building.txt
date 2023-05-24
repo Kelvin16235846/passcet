@@ -1,1 +1,0 @@
-{"eg":"1. The building towering over the city skyline is a symbol of progress and growth.\n2. The historic building was beautifully restored to its original grandeur.\n3. The office building has modern amenities and is designed for maximum efficiency.","eng":"building"}

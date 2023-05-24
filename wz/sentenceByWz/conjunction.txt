@@ -1,1 +1,0 @@
-{"eg":"1. She is not only intelligent, but also witty.\n2. I want to go to the party, but I have to finish my work first.\n3. He likes to play basketball, yet he doesn't watch any basketball games on TV.","eng":"conjunction"}

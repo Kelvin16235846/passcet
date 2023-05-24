@@ -1,1 +1,0 @@
-{"eg":"1. The sky looks grey and gloomy.\n2. She wore a grey coat over a black dress.\n3. The old building had grey walls and a slate roof.","eng":"grey"}

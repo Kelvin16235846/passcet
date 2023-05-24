@@ -1,1 +1,0 @@
-{"eg":"1. I have scheduled a meeting with the client for tomorrow at 2 pm.\n2. The doctor has scheduled my surgery for next month.\n3. The project manager is currently scheduling tasks for the team to complete.","eng":"schedule"}

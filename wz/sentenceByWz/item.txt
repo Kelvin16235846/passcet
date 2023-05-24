@@ -1,1 +1,0 @@
-{"eg":"1. The item on the grocery list that I forgot to buy was milk.\n2. The fashion item that has been trending recently is statement earrings.\n3. The most expensive item on the menu was the steak, but it was well worth the price.","eng":"item"}

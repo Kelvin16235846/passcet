@@ -1,1 +1,0 @@
-{"eg":"1. I will be away from my office for the next week attending a conference.\n2. The children are away at summer camp and won't be back for another two weeks.\n3. We decided to get away from the city and spend the weekend in the mountains.","eng":"away"}

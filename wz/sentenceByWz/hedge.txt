@@ -1,1 +1,0 @@
-{"eg":"1. I decided to hedge my bets and invest in both stocks and bonds.\n2. The company used a hedge to protect themselves against currency fluctuations.\n3. He hedged his answer, refusing to give a definite yes or no.","eng":"hedge"}

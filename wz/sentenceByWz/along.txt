@@ -1,1 +1,0 @@
-{"eg":"1. I like to walk along the beach in the evening.\n2. The river flows along the edge of the forest.\n3. We drove along the scenic route and enjoyed the beautiful view.","eng":"along"}

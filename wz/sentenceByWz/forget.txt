@@ -1,1 +1,0 @@
-{"eg":"1. I'm sorry, I forgot to pick up your phone call earlier.\n2. Don't forget to pack your sunscreen for the beach tomorrow.\n3. It's easy to forget the little things in life that bring us joy.","eng":"forget"}

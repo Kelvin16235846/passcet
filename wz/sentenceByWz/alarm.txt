@@ -1,1 +1,0 @@
-{"eg":"1. I set my alarm for 6 am so that I can wake up early for my morning jog.\n2. The fire alarm went off during the fire drill and everyone evacuated the building.\n3. I forgot to set my alarm last night and ended up oversleeping this morning.","eng":"alarm"}

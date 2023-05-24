@@ -1,1 +1,0 @@
-{"eg":"1. I need to take a nap before I can continue working on this project.\n2. After a long day of running errands, all I want to do is take a nap.\n3. Sometimes I find myself dozing off during afternoon meetings and wishing I could take a quick nap.","eng":"nap"}

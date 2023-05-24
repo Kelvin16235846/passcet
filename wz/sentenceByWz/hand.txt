@@ -1,1 +1,0 @@
-{"eg":"1. I used my hand to write a letter to my friend.\n2. She waved her hand to say goodbye to me.\n3. He caught the ball with one hand and threw it back.","eng":"hand"}

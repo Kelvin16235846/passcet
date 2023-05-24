@@ -1,1 +1,0 @@
-{"eg":"1. The company's debt soared after their risky investments failed to generate expected returns.\n2. Students often rely on debt to fund their education, resulting in years of loan repayments after graduation.\n3. The government's debt has continued to grow due to increased spending on infrastructure projects and social welfare programs.","eng":"debt"}

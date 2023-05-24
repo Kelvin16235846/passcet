@@ -1,1 +1,0 @@
-{"eg":"1. I need to work overtime tonight to finish the project before the deadline.\n2. The employees were asked to work overtime on weekends to meet the increasing demand for products.\n3. The company's policy allows for overtime pay for working beyond regular hours.","eng":"overtime"}

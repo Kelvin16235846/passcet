@@ -1,1 +1,0 @@
-{"eg":"1. Zero is the numerical equivalent of nothing.\n2. I have zero interest in watching that movie again.\n3. The temperature outside is currently at zero degrees Celsius.","eng":"zero"}

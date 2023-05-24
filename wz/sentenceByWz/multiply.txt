@@ -1,1 +1,0 @@
-{"eg":"1. I need to multiply 5 by 7 to get the answer.\n2. If we multiply the recipe by three, we'll have enough for everyone.\n3. The teacher asked the students to multiply two-digit numbers without a calculator.","eng":"multiply"}

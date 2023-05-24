@@ -1,1 +1,0 @@
-{"eg":"1. I love to drink orange juice from a glass.\n2. He accidentally dropped his glass and it shattered into pieces.\n3. The glass windows in the old cathedral were exquisite.","eng":"glass"}

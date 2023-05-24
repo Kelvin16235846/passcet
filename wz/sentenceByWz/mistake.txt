@@ -1,1 +1,0 @@
-{"eg":"1. I made a mistake by wearing a white shirt to the spaghetti dinner.\n2. He apologized for his mistake in not properly proofreading the report.\n3. The teacher pointed out my mistake in solving the math problem.","eng":"mistake"}

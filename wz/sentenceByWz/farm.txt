@@ -1,1 +1,0 @@
-{"eg":"1. The farmer works hard every day on his farm to grow crops.\n2. The cows on the farm produce fresh milk every morning for the dairy.\n3. The children love to visit the farm and see all the animals grazing in the fields.","eng":"farm"}

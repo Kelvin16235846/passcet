@@ -1,1 +1,0 @@
-{"eg":"1. He spent most of his time in his cell, reading books and writing letters to his family.\n2. The inmates were locked in their cells for 23 hours a day, with only one hour of outdoor recreation.\n3. The guard checked each cell before turning off the lights for the night.","eng":"cell"}

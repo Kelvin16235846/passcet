@@ -1,1 +1,0 @@
-{"eg":"1. My birth date is on September 10th.\n2. The birth of her daughter brought great joy to her family.\n3. He was unable to attend the birth of his child due to work commitments.","eng":"birth"}

@@ -1,1 +1,0 @@
-{"eg":"1. I past my driving test on the first attempt.\n2. She past her math exam with flying colors.\n3. They past the finish line in first place.","eng":"past"}

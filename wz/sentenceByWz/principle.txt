@@ -1,1 +1,0 @@
-{"eg":"1. The principle of equality states that all individuals should be treated fairly and without discrimination.\n2. The principle of causality asserts that every event has a cause, which leads to its effect.\n3. The principle of supply and demand governs the market economy, where prices are determined by the interaction between buyers and sellers.","eng":"principle"}

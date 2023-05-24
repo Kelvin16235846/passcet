@@ -1,1 +1,0 @@
-{"eg":"1. I bought a cheap backpack for my camping trip.\n2. The restaurant down the street has the best cheap eats in town.\n3. I'm looking for a cheap flight to Europe for my summer vacation.","eng":"cheap"}

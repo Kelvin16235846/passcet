@@ -1,1 +1,0 @@
-{"eg":"1. The coil in the engine is responsible for sparking the ignition of the fuel.\n2. She carefully wound the coil around the metal rod to create a magnetic field.\n3. The electromagnet operates by energizing the coil with an electrical current.","eng":"coil"}

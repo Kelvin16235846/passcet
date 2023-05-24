@@ -1,1 +1,0 @@
-{"eg":"1. \"As a matter of fact, I did see your message earlier.\"\n2. \"I'm afraid I can't go to the party tonight, as I'm feeling a little unwell.\"\n3. \"Honestly, I feel like I could use a break from work.\"","eng":"particle"}

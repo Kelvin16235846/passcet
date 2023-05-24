@@ -1,1 +1,0 @@
-{"eg":"1. The effect of the earthquake was felt throughout the region.\n2. The medication had a positive effect on her condition.\n3. The sudden change in weather had a negative effect on our plans for the day.","eng":"effect"}

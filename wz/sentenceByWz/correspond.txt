@@ -1,1 +1,0 @@
-{"eg":"1. The colors of the logo should correspond with the overall theme of the brand.\n2. The data in the report correspond with the findings of our research.\n3. The time of the meeting will correspond with the availability of all attendees.","eng":"correspond"}

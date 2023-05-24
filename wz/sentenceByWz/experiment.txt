@@ -1,1 +1,0 @@
-{"eg":"1. The aim of the experiment was to determine the effect of temperature on plant growth.\n2. In conducting the experiment, we used a randomized controlled design to minimize bias.\n3. The results of the experiment provided evidence to support the hypothesis that exercising for 30 minutes a day can improve mental health.","eng":"experiment"}

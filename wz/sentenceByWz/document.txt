@@ -1,1 +1,0 @@
-{"eg":"1. Document the steps taken to complete the project.\n2. The document contains confidential information and should not be shared.\n3. Please sign the document to indicate your agreement with the terms and conditions.","eng":"document"}

@@ -1,1 +1,0 @@
-{"eg":"1. The blast of thunder shook the entire house.\n2. The demolition crew set off a blast to bring down the old building.\n3. The intense heat from the blast furnace could be felt from several feet away.","eng":"blast"}

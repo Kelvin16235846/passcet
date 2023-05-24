@@ -1,1 +1,0 @@
-{"eg":"1. I take the tram to work every day.\n2. The tram was crowded during rush hour.\n3. The tram ride was smooth and comfortable.","eng":"tram"}

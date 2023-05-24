@@ -1,1 +1,0 @@
-{"eg":"1. The congress passed a law to increase funding for education programs.\n2. The speaker of the congress delivered a powerful speech on the need for healthcare reform.\n3. The members of the congress disagreed on the best approach to address climate change.","eng":"congress"}

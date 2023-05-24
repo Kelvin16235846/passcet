@@ -1,1 +1,0 @@
-{"eg":"1. My nationality is Chinese.\n2. She has dual nationality, British and American.\n3. The school has a diverse student body with many different nationalities represented.","eng":"nationality"}

@@ -1,1 +1,0 @@
-{"eg":"1. I am living in a temporary apartment until I find a more permanent residence.\n2. The company hired me on a temporary basis until they decide if they want to keep me permanently.\n3. The bridge had to be closed due to a temporary road closure while maintenance was being performed.","eng":"temporary"}

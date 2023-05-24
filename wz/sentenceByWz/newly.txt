@@ -1,1 +1,0 @@
-{"eg":"1. The newly built hotel is attracting many tourists.\n2. I am newly married, and very happy with my spouse.\n3. The company just hired a newly trained employee to join the team.","eng":"newly"}

@@ -1,1 +1,0 @@
-{"eg":"1. I always remember to lock the door before going to bed.\n2. Do you remember the time we went on that amazing road trip?\n3. It's hard to remember all the names of the students in my class.","eng":"remember"}

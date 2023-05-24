@@ -1,1 +1,0 @@
-{"eg":"1. The company has provisioned for potential losses in the coming quarter.\n2. We need to provision extra resources for the upcoming project.\n3. The budget committee has decided to provision for increased funding in the upcoming fiscal year.","eng":"provision"}

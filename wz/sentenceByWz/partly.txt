@@ -1,1 +1,0 @@
-{"eg":"1. Partly sunny with a chance of showers was the forecast for the day.\n2. She was partly to blame for the misunderstanding between them.\n3. The success of the project was due partly to his hard work and partly to the cooperation of his team.","eng":"partly"}

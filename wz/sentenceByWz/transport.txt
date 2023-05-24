@@ -1,1 +1,0 @@
-{"eg":"1. The transport system in this city is very efficient and reliable.\n2. We need to find a more eco-friendly mode of transport to reduce our carbon footprint.\n3. Due to the heavy snowfall, the transport of goods has been delayed.","eng":"transport"}

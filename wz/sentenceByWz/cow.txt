@@ -1,1 +1,0 @@
-{"eg":"1. The cow was grazing peacefully in the lush green pasture.\n2. The milk from the cow was used to create the delicious cheese.\n3. The farmer walked through the barn and patted each cow on the head.","eng":"cow"}

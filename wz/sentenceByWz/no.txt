@@ -1,1 +1,0 @@
-{"eg":"1. No, I can't lend you any money.\n2. No, I don't agree with that statement.\n3. No, I haven't seen that movie yet.","eng":"no"}

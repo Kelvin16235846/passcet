@@ -1,1 +1,0 @@
-{"eg":"1. Hello, it's nice to finally meet you in person.\n2. Hello! I hope you're doing well today.\n3. Hello, May I speak to John please?","eng":"hello"}

@@ -1,1 +1,0 @@
-{"eg":"1. I have decided to go on a vacation next week.\n2. After much consideration, we have decided to move to a bigger house.\n3. He couldn't decide which movie to watch, so he left it up to his friend to choose.","eng":"decide"}

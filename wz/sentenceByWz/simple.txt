@@ -1,1 +1,0 @@
-{"eg":"1. I like to drink simple black coffee in the morning.\n2. She prefers to wear simple clothes in neutral colors.\n3. His explanation was very clear and simple to understand.","eng":"simple"}

@@ -1,1 +1,0 @@
-{"eg":"1. My apartment is small and cozy, but it has a flat screen TV and a comfortable sofa.\n2. The road was long and flat, with nothing but barren land on either side.\n3. The teacher asked the students to draw a flat diagram of a city, showing all the buildings and roads.","eng":"flat"}

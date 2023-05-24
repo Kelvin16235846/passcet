@@ -1,1 +1,0 @@
-{"eg":"1. The index in the back of the book was helpful in finding specific information.\n2. I always check the stock market index before making any investment decisions.\n3. The search engine displays the search results in descending order of relevance, based on the index of the website.","eng":"index"}

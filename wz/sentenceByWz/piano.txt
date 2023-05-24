@@ -1,1 +1,0 @@
-{"eg":"1. The pianist elegantly played a beautiful melody on the grand piano.\n2. The students sat attentively as their music teacher performed a piece on the piano.\n3. He began to play the piano, his fingers gracefully moving across the keys with ease.","eng":"piano"}

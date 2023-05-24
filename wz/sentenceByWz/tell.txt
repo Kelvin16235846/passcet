@@ -1,1 +1,0 @@
-{"eg":"1. Can you tell me what time the train arrives?\n2. I'm sorry, I cannot tell you that information as it is confidential.\n3. She told him to stop interrupting her while she was working.","eng":"tell"}

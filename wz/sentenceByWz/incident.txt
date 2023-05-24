@@ -1,1 +1,0 @@
-{"eg":"1. The company experienced a security incident that compromised its customer data.\n2. The police were called to the scene of the incident to investigate the altercation.\n3. The airline issued an apology for the incident involving the mistreatment of a passenger.","eng":"incident"}

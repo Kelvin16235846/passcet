@@ -1,10 +1,8 @@
 import 'dart:io';
-
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:fsfsfsf/Word.dart';
-
+import 'Model.dart';
 class ChooseWzFile extends StatefulWidget{
   @override
   State<StatefulWidget> createState() {
@@ -14,7 +12,7 @@ class ChooseWzFile extends StatefulWidget{
 }
 class ChooseWzFileState extends State<ChooseWzFile>{
   void chooseFile(String path){
-  Word.setPathOfWzFile(path);
+  Model.changefWzFile(path);
   Navigator.push(context,MaterialPageRoute(builder: (context){
     return const Scaffold(body: Center(child: Text("请重启程序",style: TextStyle(fontSize: 30),),),);
   }));

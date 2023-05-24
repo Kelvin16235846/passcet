@@ -1,1 +1,0 @@
-{"eg":"1. The temptation to cheat on the exam was strong, but I resisted and studied hard instead.\n2. My diet was going well until the temptation of a slice of cake became too powerful to resist.\n3. He knew he shouldn't gamble, but the temptation of winning big was too much to ignore.","eng":"temptation"}

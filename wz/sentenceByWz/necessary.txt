@@ -1,1 +1,0 @@
-{"eg":"1. It is necessary to wear a helmet while riding a motorcycle.\n2. Regular exercise is necessary for maintaining good health.\n3. It is necessary to study hard in order to pass the exam.","eng":"necessary"}

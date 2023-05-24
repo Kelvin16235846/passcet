@@ -1,1 +1,0 @@
-{"eg":"1. The quick brown fox jumps over the lazy dog.\n2. She sells seashells by the seashore.\n3. I have a dream that one day this nation will rise up and live out the true meaning of its creed.","eng":"terminal"}

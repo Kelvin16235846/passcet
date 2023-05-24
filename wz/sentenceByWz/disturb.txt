@@ -1,1 +1,0 @@
-{"eg":"1. Please do not disturb me while I am working.\n2. The loud music next door is starting to disturb my concentration.\n3. My neighbor's barking dog is constantly disturbing my peace and quiet.","eng":"disturb"}

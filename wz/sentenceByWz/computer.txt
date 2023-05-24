@@ -1,1 +1,0 @@
-{"eg":"1. My computer is running slow, it may be time for an upgrade.\n2. I use my computer every day for work and entertainment.\n3. The computer virus infected my system, causing me to lose important files.","eng":"computer"}

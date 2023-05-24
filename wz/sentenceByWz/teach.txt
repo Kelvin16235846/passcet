@@ -1,1 +1,0 @@
-{"eg":"1. My mother is a teacher and she loves to teach students.\n2. Can you teach me how to bake a cake?\n3. He decided to teach English abroad after finishing his degree.","eng":"teach"}

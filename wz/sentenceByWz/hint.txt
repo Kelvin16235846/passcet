@@ -1,1 +1,0 @@
-{"eg":"1. Hint: The answer to the question can be found in the first paragraph of the article.\n2. Hint: The key to solving the puzzle lies in rearranging the letters.\n3. Hint: To find the hidden treasure, follow the clues marked with an X.","eng":"hint"}

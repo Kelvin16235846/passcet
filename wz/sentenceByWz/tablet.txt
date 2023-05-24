@@ -1,1 +1,0 @@
-{"eg":"1. I use my tablet to read books and watch movies while traveling.\n2. The student took notes on her tablet during the lecture.\n3. He downloaded the latest game on his tablet to play in his free time.","eng":"tablet"}

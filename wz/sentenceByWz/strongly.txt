@@ -1,1 +1,0 @@
-{"eg":"1. I strongly believe that education is the key to a better future.\n2. She strongly objected to the proposal and refused to support it.\n3. The CEO strongly advised the employees to work harder and meet their targets.","eng":"strongly"}

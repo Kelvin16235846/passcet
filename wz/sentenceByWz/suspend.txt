@@ -1,1 +1,0 @@
-{"eg":"1. I have decided to suspend my gym membership until further notice.\n2. Due to the ongoing investigation, the company has decided to suspend the employee in question.\n3. The teacher had to suspend the class for a few minutes while the technical issue was being resolved.","eng":"suspend"}

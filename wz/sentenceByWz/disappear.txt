@@ -1,1 +1,0 @@
-{"eg":"1. The magician made the rabbit disappear with a wave of his wand.\n2. The sun disappeared behind the clouds, casting a shadow over the park.\n3. The missing person had disappeared without a trace, leaving investigators with no leads.","eng":"disappear"}

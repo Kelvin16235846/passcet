@@ -1,1 +1,0 @@
-{"eg":"1. \"Can you please provide me with your name and date of birth for identification purposes?\"\n2. \"Would you like to sign up for our newsletter to receive the latest updates and promotions?\"\n3. \"Could you specify your preference for the type of cuisine you would like to have for dinner?\"","eng":"prompt"}

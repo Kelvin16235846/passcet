@@ -1,1 +1,0 @@
-{"eg":"1. Upon arriving at the airport, I realized I had left my passport at home.\n2. The teacher gave us extra credit upon completing the difficult assignment.\n3. Upon hearing the news, she burst into tears.","eng":"upon"}

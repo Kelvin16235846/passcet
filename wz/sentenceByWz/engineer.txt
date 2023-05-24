@@ -1,1 +1,0 @@
-{"eg":"1. \"As an engineer, I strive to design innovative and efficient solutions to complex problems.\"\n2. \"The engineer meticulously analyzed the data before presenting his findings to the team.\"\n3. \"Becoming an engineer requires a solid understanding of mathematics and science principles.\"","eng":"engineer"}

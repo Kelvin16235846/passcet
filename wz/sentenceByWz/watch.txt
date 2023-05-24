@@ -1,1 +1,0 @@
-{"eg":"1. I like to watch the sunset over the ocean.\n2. He enjoys watching birds fly in the sky.\n3. We often watch movies together on Friday nights.","eng":"watch"}

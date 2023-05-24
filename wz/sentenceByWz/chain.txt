@@ -1,1 +1,0 @@
-{"eg":"1. My mother gave me a gold chain necklace as a birthday gift.\n2. The bike was secured with a heavy chain to prevent theft.\n3. He was the weakest link in the chain of command and needed to be replaced.","eng":"chain"}

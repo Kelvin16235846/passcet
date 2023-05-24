@@ -1,1 +1,0 @@
-{"eg":"1. I need to do laundry today because I am running out of clean clothes.\n2. The laundry detergent that I use is very gentle on my sensitive skin.\n3. I always separate my whites and colors when doing laundry to avoid color bleeding.","eng":"laundry"}

@@ -1,1 +1,0 @@
-{"eg":"1. My teacher gave me an assignment to write an essay about my summer vacation.\n2. John forgot to submit his assignment on time and received a lower grade as a result.\n3. The company's CEO assigned us a challenging project to work on for the next few months.","eng":"assignment"}

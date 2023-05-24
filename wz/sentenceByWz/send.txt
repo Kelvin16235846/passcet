@@ -1,1 +1,0 @@
-{"eg":"1. I will send you the document via email.\n2. Could you please send me the address of the venue?\n3. Don't forget to send your application before the deadline.","eng":"send"}

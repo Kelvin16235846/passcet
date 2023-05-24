@@ -1,1 +1,0 @@
-{"eg":"1. The package should enclose all the necessary documents.\n2. It is important to enclose a self-addressed stamped envelope with your application.\n3. The high walls of the castle enclose a beautiful garden.","eng":"enclose"}

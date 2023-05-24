@@ -1,1 +1,0 @@
-{"eg":"1. Follow the direction of the signs to find the nearest restroom.\n2. The teacher gave us clear direction on how to complete the assignment.\n3. It's important to read the direction manual before operating the new equipment.","eng":"direction"}

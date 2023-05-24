@@ -1,1 +1,0 @@
-{"eg":"1. Most people prefer to drink coffee in the morning.\n2. The most important thing in life is to be happy.\n3. Although most of us fear failure, it is often a necessary step towards success.","eng":"most"}

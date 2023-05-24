@@ -1,1 +1,0 @@
-{"eg":"1. The heavy rainfall caused flooding in the low-lying areas.\n2. Lack of proper maintenance caused the machine to malfunction.\n3. Consuming too much sugar can cause health problems such as diabetes.","eng":"cause"}

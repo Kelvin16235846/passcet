@@ -1,1 +1,0 @@
-{"eg":"1. Six students were selected to participate in the science fair.\n2. The bakery ordered six dozen croissants for the morning rush.\n3. She counted to six and then took a deep breath before speaking.","eng":"six"}

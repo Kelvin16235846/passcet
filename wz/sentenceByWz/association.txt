@@ -1,1 +1,0 @@
-{"eg":"1. The association between smoking and lung cancer is well-documented.\n2. The country club is an exclusive association that only accepts members who meet certain criteria.\n3. The business association is hosting a networking event to help entrepreneurs connect with potential investors.","eng":"association"}

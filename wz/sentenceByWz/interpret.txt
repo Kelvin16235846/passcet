@@ -1,1 +1,0 @@
-{"eg":"1. I interpreted her silence as a sign of disagreement.\n2. The artist's work can be interpreted in many different ways.\n3. We need to carefully interpret the data before making any conclusions.","eng":"interpret"}

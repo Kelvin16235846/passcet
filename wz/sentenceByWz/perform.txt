@@ -1,1 +1,0 @@
-{"eg":"1. The band will perform at the concert tonight.\n2. The magician will perform a new trick at the show.\n3. The athletes will perform their routines in the upcoming competition.","eng":"perform"}

@@ -1,1 +1,0 @@
-{"eg":"1. The soldier marched in formation with his fellow troops.\n2. The wounded soldier was airlifted to a nearby medical facility.\n3. The brave soldier was awarded the Purple Heart for his heroic actions in battle.","eng":"soldier"}

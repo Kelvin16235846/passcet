@@ -1,1 +1,0 @@
-{"eg":"1. I just bought the latest edition of my favorite magazine.\n2. The new edition of the textbook includes updated information and graphics.\n3. My grandfather gifted me a special edition of classic novel for my birthday.","eng":"edition"}

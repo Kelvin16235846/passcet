@@ -1,1 +1,0 @@
-{"eg":"1. The engine of the car roared to life as I turned the key in the ignition.\n2. The airplane's engine hummed loudly as it soared through the clouds.\n3. The boat's engine sputtered and died in the middle of the lake, leaving the passengers stranded.","eng":"engine"}

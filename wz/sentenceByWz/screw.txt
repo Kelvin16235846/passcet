@@ -1,1 +1,0 @@
-{"eg":"1. I need to find my screwdriver so I can tighten this loose screw.\n2. He tried to unscrew the jam jar lid, but it was too tight.\n3. Be careful not to strip the screw as you tighten it too much.","eng":"screw"}

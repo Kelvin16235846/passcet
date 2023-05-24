@@ -1,1 +1,0 @@
-{"eg":"1. The food at that restaurant was terrible, I wouldn't recommend it to anyone.\n2. I had a terrible night's sleep, the bed was so uncomfortable.\n3. The weather yesterday was terrible, it rained non-stop all day.","eng":"terrible"}

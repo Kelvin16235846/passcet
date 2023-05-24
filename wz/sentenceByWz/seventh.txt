@@ -1,1 +1,0 @@
-{"eg":"1. This is my seventh attempt at solving this puzzle.\n2. The seventh day of the week is Sunday.\n3. As a seventh grader, she was already reading at a college level.","eng":"seventh"}

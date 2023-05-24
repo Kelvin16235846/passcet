@@ -1,1 +1,0 @@
-{"eg":"1. The train will come to a halt at the next station.\n2. The construction work had to halt due to the heavy rain.\n3. The government ordered the production of the controversial product to halt immediately.","eng":"halt"}

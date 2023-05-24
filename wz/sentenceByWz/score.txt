@@ -1,1 +1,0 @@
-{"eg":"1. My score on the math test was higher than I expected.\n2. I need to improve my score on the next assignment.\n3. The team's score in the championship game was a record high.","eng":"score"}

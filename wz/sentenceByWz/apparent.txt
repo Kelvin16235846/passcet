@@ -1,1 +1,0 @@
-{"eg":"1. The apparent cause of the car crash was the driver's failure to stop at the red light.\n2. Despite the apparent ease with which he solved the math problem, he had actually been working on it for hours.\n3. Her apparent lack of enthusiasm for the project made it clear that she wasn't fully invested in it.","eng":"apparent"}

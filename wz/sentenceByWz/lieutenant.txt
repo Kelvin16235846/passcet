@@ -1,1 +1,0 @@
-{"eg":"1. The lieutenant was tasked with leading his platoon into battle.\n2. After years of service, the lieutenant was promoted to the rank of captain.\n3. As the lieutenant walked into the briefing room, all eyes turned to him in anticipation.","eng":"lieutenant"}

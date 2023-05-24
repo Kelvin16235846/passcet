@@ -1,1 +1,0 @@
-{"eg":"1. The tender was awarded to the company with the most competitive bid.\n2. The government issued a tender for the construction of a new hospital.\n3. He submitted his bid for the tender, hoping to win the contract.","eng":"tender"}

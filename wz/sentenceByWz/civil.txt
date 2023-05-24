@@ -1,1 +1,0 @@
-{"eg":"1. Civil engineering is a field that involves designing and constructing infrastructure, such as roads, bridges, and buildings.\n2. The principles of civil engineering are based on mathematics, physics, and materials science.\n3. Civil engineers play a critical role in ensuring that the built environment is safe, efficient, and sustainable.","eng":"civil"}

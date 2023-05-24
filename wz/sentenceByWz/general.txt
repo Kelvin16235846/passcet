@@ -1,1 +1,0 @@
-{"eg":"1. General information about the newly launched product can be found on our website.\n2. The general consensus among experts is that climate change is a pressing issue.\n3. As a general rule, we recommend that customers use our product in accordance with the instructions provided.","eng":"general"}

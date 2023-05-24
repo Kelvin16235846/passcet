@@ -1,1 +1,0 @@
-{"eg":"1. Due to limited resources, we have to prioritize which projects we can undertake.\n2. The restaurant has a limited menu, but the dishes are all very high quality.\n3. We need to set a limited budget for the event to ensure we don't overspend.","eng":"limited"}

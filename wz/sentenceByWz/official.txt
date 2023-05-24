@@ -1,1 +1,0 @@
-{"eg":"1. The official announcement regarding the new company policy will be made next week.\n2. I need to speak to the official representative of the organization about our partnership.\n3. The official government website is the best source of information about the upcoming elections.","eng":"official"}

@@ -1,1 +1,0 @@
-{"eg":"1. The passage described the history of the medieval castle with great detail and vividness.\n2. I had to read through the entire passage twice before I could fully understand the complex scientific concepts it contained.\n3. The author's use of metaphors and imagery in the passage created a deeply emotional and impactful reading experience.","eng":"passage"}

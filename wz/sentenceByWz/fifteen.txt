@@ -1,1 +1,0 @@
-{"eg":"1. There are fifteen participants in the competition.\n2. It took me fifteen minutes to drive to work this morning.\n3. She is reading a book with fifteen chapters.","eng":"fifteen"}

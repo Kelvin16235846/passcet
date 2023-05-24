@@ -1,1 +1,0 @@
-{"eg":"1. 今日は天気が良くて、お散歩が気持ち良かったです。(Today, the weather was nice and I enjoyed taking a walk.)\n2. 私の趣味は読書で、特にロマンス小説が好きです。(My hobby is reading, and I especially like romance novels.)\n3. 日本には美味しい食べ物がたくさんあります。私は寿司とラーメンが大好きです。(There are a lot of delicious foods in Japan. I love sushi and ramen.)","eng":"Japanese"}

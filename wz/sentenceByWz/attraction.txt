@@ -1,1 +1,0 @@
-{"eg":"1. The Eiffel Tower is undoubtedly one of the biggest attractions in Paris.\n2. The Grand Canyon is a natural attraction that draws millions of visitors each year.\n3. The Golden Gate Bridge is an iconic attraction of San Francisco.","eng":"attraction"}

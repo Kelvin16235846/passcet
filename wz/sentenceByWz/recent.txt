@@ -1,1 +1,0 @@
-{"eg":"1. Our company has made significant progress in recent years.\n2. In recent days, the weather has been unusually hot.\n3. I haven't heard from my friend in recent weeks.","eng":"recent"}

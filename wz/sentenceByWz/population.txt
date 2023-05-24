@@ -1,1 +1,0 @@
-{"eg":"1. The population of Shanghai is over 24 million.\n2. The population of endangered species is rapidly decreasing.\n3. The population of India is projected to surpass that of China by 2027.","eng":"population"}

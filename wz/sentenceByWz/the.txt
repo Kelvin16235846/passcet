@@ -1,1 +1,0 @@
-{"eg":"1. The sun is shining brightly in the sky.\n2. The teacher asked the students to complete their homework by tomorrow.\n3. The cat sat on the windowsill, watching the birds outside.","eng":"the"}

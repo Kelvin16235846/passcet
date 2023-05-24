@@ -1,1 +1,0 @@
-{"eg":"1. I forgot my phone at home, but finally went back to get it before leaving for work.\n2. I struggled with the math problem for hours, but finally figured out the solution in the end.\n3. She had been trying to quit smoking for years, but finally succeeded after attending a support group.","eng":"finally"}

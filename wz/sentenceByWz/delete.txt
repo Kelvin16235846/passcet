@@ -1,1 +1,0 @@
-{"eg":"1. I need to delete these old files to free up space on my computer.\n2. Can you delete that embarrassing photo of me from your social media account?\n3. The boss decided to delete the entire section from the report because it wasn't relevant.","eng":"delete"}

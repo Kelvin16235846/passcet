@@ -1,1 +1,0 @@
-{"eg":"1. I would like to inform you that our company will be closed for the upcoming holiday season.\n2. Could you please inform me of the latest updates regarding the project?\n3. It is important to inform your doctor if you are experiencing any unusual symptoms.","eng":"inform"}

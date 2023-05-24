@@ -1,1 +1,0 @@
-{"eg":"1. The dark night sky was illuminated by the twinkling stars above.\n2. The path through the forest was obscured by the dense darkness that surrounded it.\n3. The shadows created by the dim light cast a mysterious and eerie atmosphere in the room.","eng":"dark"}

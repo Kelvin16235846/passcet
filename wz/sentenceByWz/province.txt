@@ -1,1 +1,0 @@
-{"eg":"1. Ontario is the most populous province in Canada.\n2. Sichuan province in China is known for its spicy cuisine.\n3. Quebec is the only predominantly French-speaking province in Canada.","eng":"province"}

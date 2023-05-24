@@ -1,1 +1,0 @@
-{"eg":"1. The minimum age requirement for this job is 18 years old.\n2. He only did the minimum amount of work required to pass the class.\n3. We need to set a minimum budget for this project to make sure we have enough funds.","eng":"minimum"}

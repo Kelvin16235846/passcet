@@ -1,1 +1,0 @@
-{"eg":"1. I want to go on vacation to Hawaii.\n2. She wants to buy a new car.\n3. They want to try the new sushi restaurant in town.","eng":"want"}

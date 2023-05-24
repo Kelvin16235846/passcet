@@ -1,1 +1,0 @@
-{"eg":"1. The instance of the employee's tardiness led to his termination.\n2. We will need to create a new instance of the software to address the bugs.\n3. The study cited several instances of successful corporate social responsibility initiatives.","eng":"instance"}

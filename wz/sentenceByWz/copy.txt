@@ -1,1 +1,0 @@
-{"eg":"1. I will copy this document and send it to you via email.\n2. Can you make a copy of the article for me to read later?\n3. The teacher asked us to copy the notes from the blackboard into our notebooks.","eng":"copy"}

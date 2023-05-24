@@ -1,1 +1,0 @@
-{"eg":"1. I need to replace the tyre on my car before the weekend road trip.\n2. The tyre shop recommended a new brand of tyre for my vehicle.\n3. The mechanic told me that my tyre was worn out and needed to be changed as soon as possible.","eng":"tyre"}

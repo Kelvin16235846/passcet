@@ -1,1 +1,0 @@
-{"eg":"1. I tend to avoid spicy food because it upsets my stomach.\n2. John tends to procrastinate until the last minute when it comes to completing assignments.\n3. She tends to underestimate her own abilities, but she's actually very talented.","eng":"tend"}

@@ -1,1 +1,0 @@
-{"eg":"1. Can you adjust the temperature on the thermostat?\n2. I need to adjust my schedule to accommodate this meeting.\n3. The tailor will adjust the hem of your pants to make them the right length.","eng":"adjust"}

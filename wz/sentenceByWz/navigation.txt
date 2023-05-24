@@ -1,1 +1,0 @@
-{"eg":"1. Navigation is essential for a pilot to safely take off and land an airplane.\n2. The navigation system in my car helps me get to my destination without getting lost.\n3. With the help of modern navigation technology, sailors can navigate through rough seas with ease.","eng":"navigation"}

@@ -1,1 +1,0 @@
-{"eg":"1. I need to use my microphone to record my podcast.\n2. The singer's voice sounded amazing through the microphone.\n3. Can you hear me clearly through the microphone?","eng":"microphone"}

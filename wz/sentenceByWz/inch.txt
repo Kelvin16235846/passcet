@@ -1,1 +1,0 @@
-{"eg":"1. The length of this pencil is 6 inches.\n2. The TV screen measures 55 inches diagonally.\n3. The size of the new smartphone is 5.7 inches.","eng":"inch"}

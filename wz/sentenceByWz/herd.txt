@@ -1,1 +1,0 @@
-{"eg":"1. The herd of cows grazed peacefully in the green meadow.\n2. We followed the herd of wildebeest as they migrated across the savannah.\n3. The sound of the herd of elephants trumpeting echoed through the African jungle.","eng":"herd"}

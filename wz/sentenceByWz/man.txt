@@ -1,1 +1,0 @@
-{"eg":"1. Man, can you please pass the salt?\n2. It takes a skilled man to fix a car engine.\n3. Man, I am so tired after that long hike.","eng":"man"}

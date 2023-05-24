@@ -1,1 +1,0 @@
-{"eg":"1. I logged onto Blackboard to access my online course materials.\n2. The instructor posted an announcement on Blackboard regarding the upcoming exam.\n3. I submitted my final assignment on Blackboard before the deadline.","eng":"blackboard"}

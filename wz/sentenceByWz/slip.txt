@@ -1,1 +1,0 @@
-{"eg":"1. I almost slipped on the wet floor.\n2. The prisoner tried to slip out of his handcuffs.\n3. She hurriedly slipped into her dress before the party.","eng":"slip"}

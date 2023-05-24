@@ -1,1 +1,0 @@
-{"eg":"1. The military has deployed additional troops to the conflict zone.\n2. Military training is essential for soldiers to prepare for combat.\n3. The government has allocated a significant amount of funding to strengthen the country's military defense.","eng":"military"}

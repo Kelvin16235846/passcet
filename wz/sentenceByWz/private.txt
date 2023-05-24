@@ -1,1 +1,0 @@
-{"eg":"1. Private information should never be shared without explicit consent.\n2. The CEO's private jet is used for business trips to ensure confidentiality.\n3. The private investigator was hired to dig up information on the suspect's past.","eng":"private"}

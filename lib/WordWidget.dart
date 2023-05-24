@@ -4,13 +4,11 @@ import 'dart:math';
 import 'package:flutter/material.dart' ;
 import 'package:auto_size_text/auto_size_text.dart';
 import  'package:flutter/services.dart';
-import 'package:fsfsfsf/ChooseWzFile.dart';
-import 'package:fsfsfsf/WordListPage.dart';
-import 'package:fsfsfsf/myDropdownButton.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:perfect_volume_control/perfect_volume_control.dart';
-import 'Word.dart';
-import 'package:audioplayers/audioplayers.dart';
+import 'ChooseWzFile.dart';
+import 'Model.dart';
+import 'WordListPage.dart';
+import 'myDropdownButton.dart';
 class WordWidget extends StatefulWidget{
   const WordWidget({super.key});
   @override
@@ -23,7 +21,6 @@ class WordWidget extends StatefulWidget{
 }
 class WordWidgetState extends State<WordWidget> {
   static bool msupOnReset=true;
-  static final player = AudioPlayer();
   static const    String cfgPath="WordWidgetState1.json";
   bool _reviewPattern=false;
   String encodeState(){
@@ -65,6 +62,7 @@ class WordWidgetState extends State<WordWidget> {
 
   //当前显示的单词在MyModel.displayList的索引
   static int curIndexOfWz=0;
+
   @override
   Widget build(BuildContext context) {
     var content=_builderOfPage.builder(context);
@@ -98,27 +96,6 @@ class WordWidgetState extends State<WordWidget> {
   }
 
 
-  static void playAudio({String eng ="_None_",String type ="0"})async{
-     if(eng=="_None_"){
-      eng=Word.displayList[curIndexOfWz].eng;
-      type="${DateTime.now().microsecondsSinceEpoch%2}";
-    }
-
-    await player.stop();
-     Word.fileExistsInAssets("wz/mp3file/${eng.trim()}_$type.mp3").then((a) async {
-        // if(a==null){
-        //   //a=await Word.fileExistsInAssets("wz/__no_audio_hint.mp3");
-        //   return;
-        // }
-        if(a!=null){
-          await player.setSourceBytes(a.buffer.asUint8List());
-          await player.resume();
-        }
-
-     });
-
-
-  }
   void alreadyMastered() {
     if(wzs.length>1) {
       wzs.removeAt(curIndexOfWz);
@@ -133,8 +110,8 @@ class WordWidgetState extends State<WordWidget> {
   static bool divide=false;
   bool _compressPattern=false;
   Widget buildSettingPage() {
-    posCtl.text=Word.pos.toString();
-    ofstCtl.text=Word.ofst.toString();
+    posCtl.text=Model.pos.toString();
+    ofstCtl.text=Model.ofst.toString();
     Widget ctc= ListView(
         children: [
           Padding(padding: EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
@@ -254,10 +231,10 @@ class WordWidgetState extends State<WordWidget> {
             onChanged: (String v){
               int? tn=int.tryParse(v);
               if(tn!=null){
-                int b=Word.ofst+tn;
-                if(b>=0&&b<Word.allOfWord.length&&tn>=0&&tn<Word.allOfWord.length&&b!=tn){
-                  Word.pos=tn;
-                  Word.flush();
+                int b=Model.ofst+tn;
+                if(b>=0&&b<Model.allOfWord.length&&tn>=0&&tn<Model.allOfWord.length&&b!=tn){
+                  Model.pos=tn;
+                  Model.flush();
                 }
               }
 
@@ -277,10 +254,10 @@ class WordWidgetState extends State<WordWidget> {
             onChanged: (String v){
               int? tn=int.tryParse(v);
               if(tn!=null){
-                int testPos=tn+Word.pos;
-                if(testPos>=0&&testPos<Word.allOfWord.length){
-                  Word.ofst=tn;
-                  Word.flush();
+                int testPos=tn+Model.pos;
+                if(testPos>=0&&testPos<Model.allOfWord.length){
+                  Model.ofst=tn;
+                  Model.flush();
                 }
               }
             },
@@ -294,6 +271,7 @@ class WordWidgetState extends State<WordWidget> {
               hintText: "可正可负,绝对值是单词的数量",
 
             ),
+
 
           )
      , Padding(padding:
@@ -311,7 +289,7 @@ class WordWidgetState extends State<WordWidget> {
 
           , Padding(padding:
           const EdgeInsets.only(bottom: 80.0,top: 10,left: 30,right: 30),
-    child:Text("总词数:${Word.allOfWord.length}",
+    child:Text("总词数:${Model.allOfWord.length}",
     style: const TextStyle(
         fontSize: 30,
     ),)
@@ -344,13 +322,13 @@ class WordWidgetState extends State<WordWidget> {
 
   void actionReset()  {
     if(_reviewPattern){
-      Word.flush(p:0,o:Word.pos);
+      Model.flush(p:0,o:Model.pos);
     }
     else {
-      Word.flush();
+      Model.flush();
     }
 
-    if(divide)Word.divideDisplayList();
+    if(divide)Model.divideDisplayList();
     if(msupOnReset){
       messUp();
     }
@@ -358,7 +336,7 @@ class WordWidgetState extends State<WordWidget> {
   }
 
   void nextWordsGroup() {
-    Word.next();
+    Model.next();
     curIndexOfWz=0;
   }
   void nextWz(){
@@ -371,7 +349,7 @@ class WordWidgetState extends State<WordWidget> {
   void messUp() {
     var sd=Random(DateTime.now().millisecondsSinceEpoch);
     for(int i=0;i<100;++i){
-      Word.displayList.shuffle(sd);
+      Model.displayList.shuffle(sd);
     }
     curIndexOfWz=0;
   }
@@ -499,8 +477,8 @@ class WordWidgetState extends State<WordWidget> {
       ));
     }));
   }
-  List<Word> get wzs {return Word.displayList;}
-  Widget buildChinesePage(Word w,BuildContext context) {
+  List<Model> get wzs {return Model.displayList;}
+  Widget buildChinesePage(Model w,BuildContext context) {
     var eng=AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],);
     var pho=AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]);
     var mean=AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [
@@ -538,13 +516,7 @@ class WordWidgetState extends State<WordWidget> {
     return  scf;
   }
   Widget buildSentencePage({str=""}){
-   /* str="abandon"
-    "\n1. The family had to abandon their home due to the impending flood."
-    "\n2. After repeatedly failing to win, the athlete decided to abandon "
-        "their dream of becoming an Olympic champion."
-   " \n3. The company had to abandon their plans for expansion "
-    "due to a lack of funding.";
-    */
+
     if(str==""){
       str=wzs[curIndexOfWz].abouts[0];
     }

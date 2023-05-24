@@ -1,1 +1,0 @@
-{"eg":"1. I have a detailed plan for my trip to Europe next summer.\n2. Sarah has a solid plan for studying for her final exams.\n3. Our company has a strategic plan for expanding into new markets.","eng":"plan"}

@@ -1,1 +1,0 @@
-{"eg":"1. The book on the table is a classic.\n2. His performance in the exam was exceptional.\n3. The sun is setting over the ocean.","eng":"noun"}

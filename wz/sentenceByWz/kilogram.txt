@@ -1,1 +1,0 @@
-{"eg":"1. The weight of the fruit basket is 2 kilograms.\n2. She lost 5 kilograms after starting a new diet and exercise routine.\n3. The maximum luggage allowance for this airline is 30 kilograms.","eng":"kilogram"}

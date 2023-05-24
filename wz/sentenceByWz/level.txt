@@ -1,1 +1,0 @@
-{"eg":"1. She has reached a high level of proficiency in the language.\n2. The company has implemented a new system to better manage their inventory levels.\n3. The athlete is training hard to improve her level of fitness for the upcoming competition.","eng":"level"}

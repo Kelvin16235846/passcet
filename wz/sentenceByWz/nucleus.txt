@@ -1,1 +1,0 @@
-{"eg":"1. The nucleus of an atom contains protons and neutrons.\n2. The nucleus of a cell controls its functions and reproduction.\n3. The nucleus of our galaxy is believed to be a supermassive black hole.","eng":"nucleus"}

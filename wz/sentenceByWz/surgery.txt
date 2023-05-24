@@ -1,1 +1,0 @@
-{"eg":"1. I need surgery to remove the tumor from my liver.\n2. The patient underwent surgery to repair a ruptured spleen.\n3. The athlete is recovering after a successful surgery to repair a torn ACL.","eng":"surgery"}

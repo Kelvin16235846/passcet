@@ -1,1 +1,0 @@
-{"eg":"1. The approximate cost of the project was calculated to be around $500,000.\n2. The doctor gave an approximate time frame for recovery, but said it could vary depending on the individual.\n3. The travel guide provided approximate distances and travel times between various cities in the region.","eng":"approximate"}

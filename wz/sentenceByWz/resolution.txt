@@ -1,1 +1,0 @@
-{"eg":"1. The resolution of the photograph was so high that I could see every detail of the subject's face.\n2. My computer screen has a low resolution, making it difficult to read small text.\n3. The company decided to increase the resolution of their product's display in order to provide a better viewing experience for their customers.","eng":"resolution"}

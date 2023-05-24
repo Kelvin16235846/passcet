@@ -1,1 +1,0 @@
-{"eg":"1. Iron is a useful metal for construction due to its strength and durability.\n2. Iron deficiency can lead to anemia, a condition characterized by fatigue and weakness.\n3. Iron supplements can help restore iron levels in the body and alleviate symptoms of anemia.","eng":"iron"}

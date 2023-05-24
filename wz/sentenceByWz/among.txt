@@ -1,1 +1,0 @@
-{"eg":"1. Among all the candidates, she stood out as the most qualified for the job.\n2. The bookshelves were a chaotic mess, with clothes and papers strewn among the books.\n3. The tension was palpable among the players as they waited for the final score to be announced.","eng":"among"}

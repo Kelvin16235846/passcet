@@ -1,1 +1,0 @@
-{"eg":"1. I need to create a new branch in my project to experiment with some new features.\n2. The development team was able to fix the bug quickly thanks to their use of feature branches.\n3. Can you please switch to the bugfix branch and make the necessary changes to resolve the issue?","eng":"branch"}

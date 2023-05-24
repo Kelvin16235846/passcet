@@ -1,1 +1,0 @@
-{"eg":"1. The box contains a variety of chocolates.\n2. The package must not contain any hazardous materials.\n3. This article contains useful information on how to bake a cake.","eng":"contain"}

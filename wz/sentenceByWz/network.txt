@@ -1,1 +1,0 @@
-{"eg":"1. The company's success is due in part to their extensive business network.\n2. The network outage caused significant disruption to online services.\n3. Karen was able to secure a job offer through her extensive social network.","eng":"network"}

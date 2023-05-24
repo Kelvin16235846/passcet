@@ -1,1 +1,0 @@
-{"eg":"1. Let me explain the problem you're facing so you can understand it better.\n2. I am here to explain the process to you step-by-step, so you don't miss anything important.\n3. Can you explain your reasoning behind your decision so I can better understand where you're coming from?","eng":"explain"}

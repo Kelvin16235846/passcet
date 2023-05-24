@@ -1,1 +1,0 @@
-{"eg":"1. He is able to speak five languages fluently.\n2. With practice and dedication, she was able to improve her guitar playing skills.\n3. The new software is able to detect and remove viruses quickly and efficiently.","eng":"able"}

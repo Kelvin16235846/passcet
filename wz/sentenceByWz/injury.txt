@@ -1,1 +1,0 @@
-{"eg":"1. The football player suffered a serious injury to his knee during the game.\n2. The construction worker was rushed to the hospital with severe injuries after falling from a building.\n3. The car accident resulted in minor injuries for the driver and passengers.","eng":"injury"}

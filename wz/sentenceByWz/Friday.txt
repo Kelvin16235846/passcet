@@ -1,1 +1,0 @@
-{"eg":"1. Friday, can you remind me to buy milk on my way home?\n2. Sorry, I can't schedule that meeting on Friday. I'm already booked.\n3. Friday, what's the weather forecast for this weekend?","eng":"Friday"}

@@ -1,1 +1,0 @@
-{"eg":"1. I have to consider my options before making a decision on the job offer.\n2. Have you considered the possible consequences of your actions?\n3. Let's consider all the factors before deciding on the best course of action.","eng":"consider"}

@@ -1,1 +1,0 @@
-{"eg":"1. Two-thirds of the pizza is mine.\n2. She drank one-eighth of the bottle of water.\n3. He ate a half of the sandwich and saved the other half for later.","eng":"fraction"}

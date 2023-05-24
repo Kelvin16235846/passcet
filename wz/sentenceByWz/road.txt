@@ -1,1 +1,0 @@
-{"eg":"1. The road was lined with trees and flowers.\n2. She drove down the winding road, enjoying the scenic view.\n3. After the storm, crews were working to repair the damaged road.","eng":"road"}

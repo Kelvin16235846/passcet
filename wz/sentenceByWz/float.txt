@@ -1,1 +1,0 @@
-{"eg":"1. The temperature outside is 25.5 degrees Celsius.\n2. He poured \n3.75 liters of water into the container.3. She received a salary increase of 12.5% this year.","eng":"float"}

@@ -1,1 +1,0 @@
-{"eg":"1. I'm sorry, but I have to cancel our dinner plans tonight.\n2. The conference has been cancelled due to unforeseen circumstances.\n3. If you don't cancel your subscription by the 15th, you will be charged for next month's service.","eng":"cancel"}

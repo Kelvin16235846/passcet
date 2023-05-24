@@ -1,1 +1,0 @@
-{"eg":"1. I gave fifty dollars to charity.\n2. She received fifty roses from her admirer.\n3. The temperature outside was fifty degrees Fahrenheit.","eng":"fifty"}

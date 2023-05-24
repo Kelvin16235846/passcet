@@ -1,1 +1,0 @@
-{"eg":"1. The election results were announced late last night, with the incumbent president winning a second term.\n2. The election campaign was marked by heated debates and controversial policies.\n3. The election turnout was lower than expected, with only 50% of eligible voters casting their ballots.","eng":"election"}
