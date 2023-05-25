@@ -1,1 +1,0 @@
-{"eg":"1. I'm sorry, but I can't attend the meeting tomorrow as I have a prior commitment.\n2. Please excuse my tardiness, the traffic was unexpectedly heavy.\n3. Excuse my mistake, I misinterpreted the instructions.","eng":"excuse"}

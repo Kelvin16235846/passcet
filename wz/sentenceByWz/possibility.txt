@@ -1,1 +1,0 @@
-{"eg":"1. There is a possibility that it will rain today.\n2. There is a strong possibility that he will get promoted.\n3. There is a slight possibility that we may miss our flight.","eng":"possibility"}

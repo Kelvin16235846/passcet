@@ -1,1 +1,0 @@
-{"eg":"1. I would like to invite you to my birthday party next month.\n2. Can I invite my friend to join us for dinner tonight?\n3. The company is pleased to invite you to attend our annual conference in Amsterdam.","eng":"invite"}

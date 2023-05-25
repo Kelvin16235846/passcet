@@ -1,1 +1,0 @@
-{"eg":"1. The company decided to employ a new marketing strategy to increase sales.\n2. The restaurant will employ a team of experienced chefs to create new menu items.\n3. We will need to employ more staff to handle the increased workload.","eng":"employ"}

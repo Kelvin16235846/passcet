@@ -1,1 +1,0 @@
-{"eg":"1. The tenant was responsible for paying the monthly rent on time.\n2. The landlord provided the tenant with a lease agreement to sign.\n3. The tenant complained to the landlord about a leaky faucet in the kitchen.","eng":"tenant"}

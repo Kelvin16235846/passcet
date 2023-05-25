@@ -1,1 +1,0 @@
-{"eg":"1. The invention of the wheel revolutionized the way humans transport goods and travel long distances.\n2. James Watt's invention of the steam engine played a pivotal role in powering the Industrial Revolution.\n3. The invention of the internet has drastically changed the way we connect and access information across the globe.","eng":"invention"}

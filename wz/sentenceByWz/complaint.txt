@@ -1,1 +1,0 @@
-{"eg":"1. I have a complaint about the poor service at this restaurant.\n2. She filed a complaint with HR about her unfair treatment at work.\n3. The customer's complaint was ignored by the company for weeks.","eng":"complaint"}

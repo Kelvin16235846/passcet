@@ -1,1 +1,0 @@
-{"eg":"1. The crowd cheered as the team scored the winning goal.\n2. The crowded market was filled with vendors selling fresh produce and handmade crafts.\n3. The concert crowd swayed to the rhythm of the music, their hands raised in the air.","eng":"crowd"}

@@ -1,1 +1,0 @@
-{"eg":"1. The length of the football field is 100 metres.\n2. She ran a distance of 400 metres in the race.\n3. The height of the Eiffel Tower is 324 metres.","eng":"metre"}

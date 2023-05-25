@@ -1,1 +1,0 @@
-{"eg":"1. The rotation of the earth causes day and night.\n2. The rotation of the tires can affect the handling of a vehicle.\n3. The rotation of the wind turbine blades generates electricity.","eng":"rotation"}

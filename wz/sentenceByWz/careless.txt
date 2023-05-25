@@ -1,1 +1,0 @@
-{"eg":"1. She made a careless mistake on her test and got a low grade.\n2. The driver was so careless that he almost hit a pedestrian.\n3. The employee lost his job because of his careless attitude towards company property.","eng":"careless"}

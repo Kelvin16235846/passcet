@@ -1,1 +1,0 @@
-{"eg":"1. I love to dance in the rain.\n2. She enjoys playing the piano in her free time.\n3. They were thrilled to win the championship.","eng":"verb"}

@@ -1,1 +1,0 @@
-{"eg":"1. The Senate is one of the two houses of Congress in the United States.\n2. The Senate has the power to approve or reject presidential nominees for various positions.\n3. The Senate is responsible for reviewing and approving all legislation passed by the House of Representatives.","eng":"senate"}

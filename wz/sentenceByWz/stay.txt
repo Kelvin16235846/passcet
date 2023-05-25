@@ -1,1 +1,0 @@
-{"eg":"1. I will stay here until you come back.\n2. Please, stay a little longer and chat with me.\n3. If you want to stay healthy, you need to exercise regularly.","eng":"stay"}

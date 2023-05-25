@@ -1,1 +1,0 @@
-{"eg":"1. The precise instructions for assembly of the furniture made it easy to complete.\n2. The precise timing of the train's arrival allowed us to catch it on time.\n3. The precise measurements of the ingredients ensured the cake turned out perfectly.","eng":"precise"}

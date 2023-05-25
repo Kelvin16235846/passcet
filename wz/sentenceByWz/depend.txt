@@ -1,1 +1,0 @@
-{"eg":"1. The success of our business largely depends on the satisfaction of our customers.\n2. As a diabetic, I depend on daily insulin injections to control my blood sugar levels.\n3. Our company's ability to innovate and adapt quickly depends on the skill and creativity of our employees.","eng":"depend"}

@@ -1,1 +1,0 @@
-{"eg":"1. The team comprises of skilled and dedicated individuals with a passion for the project.\n2. The program comprises a variety of educational and enrichment activities for students.\n3. The country comprises several islands, each with its own unique culture and history.","eng":"comprise"}

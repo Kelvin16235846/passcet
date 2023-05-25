@@ -1,1 +1,0 @@
-{"eg":"1. The security system is designed to protect the building from unauthorized access.\n2. We need to upgrade our computer system to handle the new software requirements.\n3. The transportation system in this city needs to be improved to reduce traffic congestion.","eng":"system"}

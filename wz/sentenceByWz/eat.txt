@@ -1,1 +1,0 @@
-{"eg":"1. I love to eat pizza on Fridays with my friends.\n2. My cat always begs me to let her eat some of my tuna sandwich.\n3. My mom told me to eat my vegetables if I wanted to grow tall and healthy.","eng":"eat"}

@@ -1,1 +1,0 @@
-{"eg":"1. I love to travel and explore new cultures.\n2. The sun sets beautifully over the ocean.\n3. Learning a new language is always challenging, but very rewarding.","eng":"print"}

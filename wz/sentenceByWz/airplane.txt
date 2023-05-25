@@ -1,1 +1,0 @@
-{"eg":"1. I'm going to fly to Paris next week on an airplane.\n2. The airplane engines roared as we took off into the clear blue sky.\n3. You need to fasten your seatbelt before the airplane takes off.","eng":"airplane"}

@@ -1,1 +1,0 @@
-{"eg":"1. The improvement in his grades is a result of his hard work and dedication.\n2. The new software update has brought a significant improvement in system performance.\n3. The implementation of the new training program has led to a noticeable improvement in staff productivity.","eng":"improvement"}

@@ -1,1 +1,0 @@
-{"eg":"1. After remodeling the house, the interior looked completely different.\n2. I completely forgot about the meeting yesterday.\n3. The storm completely destroyed the small town.","eng":"completely"}

@@ -1,1 +1,0 @@
-{"eg":"1. The laboratory technicians performed a series of tests to identify the chemical composition of the unknown substance.\n2. The lab equipment was calibrated to ensure accurate results for the experiment.\n3. The researchers spent months in the lab conducting experiments and analyzing data before publishing their findings.","eng":"lab"}

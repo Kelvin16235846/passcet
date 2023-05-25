@@ -1,1 +1,0 @@
-{"eg":"1. I ordered a glass of beer at the bar before the concert began.\n2. The bartender at the sports bar recommended their buffalo wings as the best in town.\n3. The rooftop bar offers stunning views of the city skyline.","eng":"bar"}

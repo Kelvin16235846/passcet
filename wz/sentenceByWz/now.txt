@@ -1,1 +1,0 @@
-{"eg":"1. I am now typing on my keyboard.\n2. She is now driving to the store.\n3. They are now eating dinner together.","eng":"now"}

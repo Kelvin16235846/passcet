@@ -1,1 +1,0 @@
-{"eg":"1. The donkey brayed loudly, startling the nearby chickens.\n2. A tired farmer led his donkey through the dusty field.\n3. The donkey lifted its hooves carefully as it navigated the rocky terrain.","eng":"donkey"}

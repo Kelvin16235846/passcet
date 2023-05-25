@@ -1,1 +1,0 @@
-{"eg":"1. I select to wear my red dress today.\n2. Can you help me select a few books for my trip?\n3. The manager will select a candidate for the open position tomorrow.","eng":"select"}

@@ -1,1 +1,0 @@
-{"eg":"1. The compound of hydrogen and oxygen is water.\n2. I need to buy a compound bow for my archery practice.\n3. The scientist identified a new compound in the soil sample collected from the forest.","eng":"compound"}

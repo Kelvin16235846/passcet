@@ -1,1 +1,0 @@
-{"eg":"1. Can you estimate how long it will take to finish this project?\n2. My estimate is that we will need at least $10,000 to complete the renovations.\n3. Based on our research, we estimate that the market value of the property is around $500,000.","eng":"estimate"}

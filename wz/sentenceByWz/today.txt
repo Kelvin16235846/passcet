@@ -1,1 +1,0 @@
-{"eg":"1. Today, I woke up feeling refreshed and ready to take on the day.\n2. Today's weather forecast predicts a high chance of rain in the afternoon.\n3. I have a lot of work to do today, so I need to stay focused and productive.","eng":"today"}

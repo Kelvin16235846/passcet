@@ -1,1 +1,0 @@
-{"eg":"1. I suggest we go out to eat tonight instead of cooking at home.\n2. Can I suggest we start the meeting 10 minutes earlier to give us more time to discuss important issues?\n3. My doctor suggested I start exercising to improve my overall health.","eng":"suggest"}

@@ -1,1 +1,0 @@
-{"eg":"1. The flowers in the vase are dead and need to be thrown away.\n2. Despite our best efforts, the project is dead in the water and will not be completed.\n3. The old battery is dead and needs to be replaced.","eng":"dead"}

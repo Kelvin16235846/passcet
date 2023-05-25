@@ -1,1 +1,0 @@
-{"eg":"1. The picture on the wall is a beautiful landscape of a serene countryside.\n2. He gave me a picture of his family to keep as a memento.\n3. The artist painted a stunning portrait of a young woman that was hung in the art gallery.","eng":"picture"}

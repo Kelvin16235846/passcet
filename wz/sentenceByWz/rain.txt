@@ -1,1 +1,0 @@
-{"eg":"1. The rain pattered softly against the window pane.\n2. I forgot my umbrella and got drenched in the pouring rain.\n3. The forecast called for scattered showers, but instead it rained steadily all day.","eng":"rain"}

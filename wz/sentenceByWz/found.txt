@@ -1,1 +1,0 @@
-{"eg":"1. I found my lost keys under the couch.\n2. She found a new job in the city.\n3. They found an abandoned dog outside their house.","eng":"found"}

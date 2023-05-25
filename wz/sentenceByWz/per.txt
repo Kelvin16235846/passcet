@@ -1,1 +1,0 @@
-{"eg":"1. Per hour, the factory produces 500 units of product.\n2. The cost per person for the concert tickets was $50.\n3. The company's revenue increased by 10% per year over the last five years.","eng":"per"}

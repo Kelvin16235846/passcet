@@ -1,1 +1,0 @@
-{"eg":"1. The book was positioned prominently on the shelf, making it easy to spot.\n2. The athlete positioned herself at the starting line, ready to begin the race.\n3. The company implemented a new marketing strategy to position themselves as a leader in their industry.","eng":"position"}

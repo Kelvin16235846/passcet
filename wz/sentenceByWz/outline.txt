@@ -1,1 +1,0 @@
-{"eg":"1. I. IntroductionA. Background informationB. Thesis statement\n2. I. Body ParagraphA. Main point 11. Supporting evidence2. ExplanationB. Main point 21. Supporting evidence2. Explanation\n3. I. ConclusionA. Restate thesisB. Summarize main pointsC. Final thoughts or recommendations.","eng":"outline"}

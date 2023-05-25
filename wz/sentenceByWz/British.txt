@@ -1,1 +1,0 @@
-{"eg":"1. \"The queue for the bus was extraordinarily long today.\"\n2. \"I prefer having a cuppa in the afternoon to stay awake.\"\n3. \"The weather is always so unpredictable in this country.\"","eng":"British"}

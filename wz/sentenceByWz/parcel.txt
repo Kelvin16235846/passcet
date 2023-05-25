@@ -1,1 +1,0 @@
-{"eg":"1. The parcel contained a valuable antique vase that had been passed down through generations.\n2. The delivery driver scanned the barcode on the parcel to update its tracking information.\n3. I can't wait to receive the parcel with the new books I ordered online.","eng":"parcel"}

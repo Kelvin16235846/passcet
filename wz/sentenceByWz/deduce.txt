@@ -1,1 +1,0 @@
-{"eg":"1. I can deduce from his behavior that he is hiding something from us.\n2. By examining the evidence, we can deduce that the suspect was at the scene of the crime.\n3. I can deduce from her facial expression that she is not happy with the news.","eng":"deduce"}

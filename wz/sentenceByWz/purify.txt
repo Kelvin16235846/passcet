@@ -1,1 +1,0 @@
-{"eg":"1. I need to purify my water before drinking it.\n2. The air pollution is so bad, I wish I could purify the air in my home.\n3. In order to prepare the food safely, I have to purify the vegetables and wash them thoroughly.","eng":"purify"}

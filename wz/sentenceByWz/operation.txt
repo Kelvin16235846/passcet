@@ -1,1 +1,0 @@
-{"eg":"1. The operation was a success and the patient is expected to make a full recovery.\n2. The company's operation in Europe has been profitable since its inception.\n3. Our team is working on streamlining the operation process in order to improve efficiency.","eng":"operation"}

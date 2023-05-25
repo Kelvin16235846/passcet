@@ -1,1 +1,0 @@
-{"eg":"1. I will be there shortly.\n2. Can you tell me your name shortly?\n3. Our meeting will be ending shortly.","eng":"shortly"}

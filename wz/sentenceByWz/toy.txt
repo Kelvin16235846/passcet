@@ -1,1 +1,0 @@
-{"eg":"1. I bought a toy car for my little cousin's birthday.\n2. The toy dinosaur roared as the child pressed the button.\n3. The cat chased after the toy mouse and pounced on it.","eng":"toy"}

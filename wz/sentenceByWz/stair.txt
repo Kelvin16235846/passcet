@@ -1,1 +1,0 @@
-{"eg":"1. I climbed up the stair to reach the top of the hill and enjoyed the beautiful view.\n2. He stumbled down the stair and twisted his ankle badly.\n3. The concert hall had a grand entrance with a wide stair leading up to the main hall.","eng":"stair"}

@@ -1,1 +1,0 @@
-{"eg":"1. The news about the upcoming concert will be broadcast on all major radio stations.\n2. The president's speech will be broadcast live on national television.\n3. The weather alert will be broadcast through the emergency alert system on all cellphones.","eng":"broadcast"}

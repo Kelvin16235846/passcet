@@ -1,1 +1,0 @@
-{"eg":"1. I have a doctor's appointment at 2 p.m. tomorrow.\n2. My boss scheduled an appointment for me with a new client next week.\n3. I need to make an appointment with my hairstylist to get a trim.","eng":"appointment"}

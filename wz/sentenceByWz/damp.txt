@@ -1,1 +1,0 @@
-{"eg":"1. The rain outside has left the ground damp and slippery.\n2. He wiped his sweaty palms on the damp cloth of his shirt.\n3. The damp conditions inside the house led to mildew growing on the walls.","eng":"damp"}

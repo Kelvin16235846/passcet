@@ -1,1 +1,0 @@
-{"eg":"1. I will call my friend to ask if she wants to have lunch with us.\n2. Can you please call the plumber to come fix the leaky faucet?\n3. My boss wants me to call all of our clients and schedule appointments for next week.","eng":"call"}

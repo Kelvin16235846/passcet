@@ -1,1 +1,0 @@
-{"eg":"1. I find this task to be of considerable difficulty due to the complexity of the instructions.\n2. Learning a new language can be challenging, but overcoming the difficulty can be very rewarding.\n3. I had to decrease the difficulty level of the game because it was too hard for most players to complete.","eng":"difficulty"}

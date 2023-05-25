@@ -1,1 +1,0 @@
-{"eg":"1. I prefer using thin slices of cucumber in my salad.\n2. The paper was so thin that I could see through it.\n3. She always wears a thin gold necklace around her neck.","eng":"thin"}

@@ -1,1 +1,0 @@
-{"eg":"1. Spring frameworks simplify the process of building robust and scalable applications.\n2. With the help of Spring, developers can easily manage dependencies and reduce boilerplate code.\n3. Spring's extensive features and integrations enable developers to create advanced and innovative solutions.","eng":"spring"}

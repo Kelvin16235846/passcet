@@ -1,1 +1,0 @@
-{"eg":"1. I always keep a spare umbrella in my car in case of unexpected rain.\n2. Could you spare some time to help me with this project?\n3. I have some spare change, would you like to grab a coffee with me?","eng":"spare"}

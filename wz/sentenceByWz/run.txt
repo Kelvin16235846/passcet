@@ -1,1 +1,0 @@
-{"eg":"1. I need to run to catch the train that leaves in five minutes.\n2. John likes to run in the park every morning to keep himself fit.\n3. The company has recently announced that they are going to run a charity event next month.","eng":"run"}

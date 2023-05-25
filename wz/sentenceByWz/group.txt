@@ -1,1 +1,0 @@
-{"eg":"1. Our company has divided its employees into several work groups to improve productivity and efficiency.\n2. The students were grouped based on their academic performance and assigned different levels of coursework.\n3. The book club meets regularly to discuss a variety of literary genres and to share their perspectives on each group's selected book.","eng":"group"}

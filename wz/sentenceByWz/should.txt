@@ -1,1 +1,0 @@
-{"eg":"1. You should study harder if you want to pass your exams.\n2. She should be more careful when crossing the road to avoid accidents.\n3. We should all do our part to protect the environment for future generations.","eng":"should"}

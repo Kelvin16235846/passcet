@@ -1,1 +1,0 @@
-{"eg":"1. I will meet you at the park at 3 o'clock.\n2. The movie starts at 7 o'clock tonight.\n3. Don't be late for your appointment at 2 o'clock tomorrow.","eng":"oˈclock"}

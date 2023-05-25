@@ -1,1 +1,0 @@
-{"eg":"1. My handwriting might not be the neatest, but at least it's uniquely mine.\n2. I prefer writing things down by hand because I feel more connected to my thoughts.\n3. Reading someone's handwriting can be like deciphering a code, but it adds a personal touch to the message.","eng":"handwriting"}

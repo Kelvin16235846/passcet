@@ -1,1 +1,0 @@
-{"eg":"1. It's unfair that some people have access to better healthcare than others.\n2. The grading system is unfair because some students receive extra credit for being teacher's pets.\n3. It's totally unfair that you get to go on vacation while I have to stay at work.","eng":"unfair"}

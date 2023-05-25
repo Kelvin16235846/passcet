@@ -1,1 +1,0 @@
-{"eg":"1. The mosquito was annoying me so much that I had to kill it.\n2. The surgeon had to perform an emergency surgery to kill the cancer cells.\n3. The soldier had to kill the enemy to protect his country.","eng":"kill"}

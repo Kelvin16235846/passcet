@@ -1,1 +1,0 @@
-{"eg":"1. I await your response to move forward with this project.\n2. The outcome of the trial is still awaited by many anxious citizens.\n3. We are eagerly awaiting the arrival of our new team member.","eng":"await"}

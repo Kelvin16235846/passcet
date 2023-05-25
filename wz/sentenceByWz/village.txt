@@ -1,1 +1,0 @@
-{"eg":"1. I grew up in a small village in the countryside.\n2. The village was surrounded by lush green fields and forests.\n3. Every year, the village holds a traditional festival to celebrate the harvest season.","eng":"village"}

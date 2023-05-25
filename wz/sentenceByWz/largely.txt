@@ -1,1 +1,0 @@
-{"eg":"1. The success of the project was largely due to the hard work and dedication of the team.\n2. The decline in rural population is largely attributed to the lack of job opportunities.\n3. The outcome of the election was largely influenced by the media coverage and political campaigns.","eng":"largely"}

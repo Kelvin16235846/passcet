@@ -1,1 +1,0 @@
-{"eg":"1. I always ensure that I have enough money in my bank account before going on vacation.\n2. The software developer must ensure that the code is properly tested before releasing it to the public.\n3. The company has implemented various safety measures to ensure the well-being of its employees.","eng":"ensure"}

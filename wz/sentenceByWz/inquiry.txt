@@ -1,1 +1,0 @@
-{"eg":"1. I would like to make an inquiry about the availability of your products.\n2. Can you provide me with further information regarding your company's policies? This inquiry may influence my decision to do business with you.\n3. As part of our research, we have a few inquiries that we would like to ask your team to better understand your industry.","eng":"inquiry"}

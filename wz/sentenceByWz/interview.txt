@@ -1,1 +1,0 @@
-{"eg":"1. Can you walk me through your past work experience and how it has prepared you for this role?\n2. How do you handle working under pressure and managing multiple priorities?\n3. Can you tell me about a challenge you faced in your previous role and how you overcame it?","eng":"interview"}

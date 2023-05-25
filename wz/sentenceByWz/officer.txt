@@ -1,1 +1,0 @@
-{"eg":"1. The chief officer of the company is responsible for making important decisions.\n2. The probation officer met with the defendant to discuss their progress and behavior.\n3. The officer in charge of the investigation gathered evidence and interviewed witnesses.","eng":"officer"}

@@ -1,1 +1,0 @@
-{"eg":"1. The technical specifications for this device include a \n2.4 GHz processor and 4 GB of RAM.2. The project was delayed due to technical difficulties with the software development.\n3. The candidate was hired for their strong technical skills in programming and database management.","eng":"technical"}

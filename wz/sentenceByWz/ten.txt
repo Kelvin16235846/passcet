@@ -1,1 +1,0 @@
-{"eg":"1. I have ten fingers on my hands.\n2. My friend gave me ten dollars to buy lunch.\n3. There are ten chapters in the book I'm reading.","eng":"ten"}

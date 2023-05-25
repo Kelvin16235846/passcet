@@ -1,1 +1,0 @@
-{"eg":"1. The explanation for the delay in delivery is that there was a shortage of staff due to illness.\n2. Can you provide an explanation for your absence from the meeting yesterday?\n3. The teacher's explanation of the mathematical formula was clear and concise, making it easier for the students to understand.","eng":"explanation"}

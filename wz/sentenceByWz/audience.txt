@@ -1,1 +1,0 @@
-{"eg":"1. The speaker engaged with the audience by asking thought-provoking questions.\n2. The concert was a success with a sell-out audience cheering throughout the performance.\n3. The politician's speech left the audience feeling hopeful for the future.","eng":"audience"}

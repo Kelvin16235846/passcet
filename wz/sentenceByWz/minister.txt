@@ -1,1 +1,0 @@
-{"eg":"1. The minister announced that the government will be increasing funding for education.\n2. The prime minister appointed John as the new minister of health.\n3. The minister of finance addressed the nation regarding the state of the economy.","eng":"minister"}

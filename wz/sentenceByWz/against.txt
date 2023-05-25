@@ -1,1 +1,0 @@
-{"eg":"1. The football team played against their rivals in a hard-fought match.\n2. The evidence presented in court was strong against the defendant.\n3. The community stood united against the proposed construction of the new highway.","eng":"against"}

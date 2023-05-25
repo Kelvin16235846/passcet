@@ -1,1 +1,0 @@
-{"eg":"1. The salesperson will demonstrate how to use the new product to the customers.\n2. The teacher will demonstrate the proper way to solve the math problem to the students.\n3. The chef will demonstrate how to make the dish step by step to the cooking class.","eng":"demonstrate"}

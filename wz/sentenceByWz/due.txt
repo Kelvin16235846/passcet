@@ -1,1 +1,0 @@
-{"eg":"1. The deadline for submitting the report is due next week.\n2. She was unable to attend the meeting due to a prior commitment.\n3. The delay in delivery was due to unforeseen circumstances.","eng":"due"}

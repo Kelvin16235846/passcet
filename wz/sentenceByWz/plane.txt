@@ -1,1 +1,0 @@
-{"eg":"1. I will travel by plane to New York next week.\n2. The plane flew smoothly through the clouds.\n3. My fear of flying has kept me off planes for years.","eng":"plane"}

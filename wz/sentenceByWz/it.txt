@@ -1,1 +1,0 @@
-{"eg":"1. It is raining heavily outside.\n2. It is important to stay hydrated in hot weather.\n3. It is always great to spend time with family and friends.","eng":"it"}

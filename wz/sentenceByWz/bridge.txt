@@ -1,1 +1,0 @@
-{"eg":"1. The bridge over the river was a majestic sight, towering high above the rushing water.\n2. The old bridge connecting the two towns was in desperate need of repair after years of neglect.\n3. The suspension bridge swayed in the wind as we carefully walked across, admiring the stunning view below.","eng":"bridge"}

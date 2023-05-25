@@ -1,1 +1,0 @@
-{"eg":"1. The house across the street is painted a bright shade of blue.\n2. She decided to sell her house and move to a new city.\n3. The old Victorian house had a beautiful wrap-around porch.","eng":"house"}

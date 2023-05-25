@@ -1,1 +1,0 @@
-{"eg":"1. In my opinion, the best way to learn a language is through immersion in a native-speaking environment.\n2. In my opinion, social media has both positive and negative effects on society.\n3. In my opinion, traveling is one of the most enriching and rewarding experiences one can have in life.","eng":"opinion"}

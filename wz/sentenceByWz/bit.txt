@@ -1,1 +1,0 @@
-{"eg":"1. I flipped a bit and the light turned on.\n2. The computer's binary code is made up of bits.\n3. By changing just one bit in the program, I was able to fix the error.","eng":"bit"}

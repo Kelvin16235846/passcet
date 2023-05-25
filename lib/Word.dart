@@ -52,7 +52,7 @@ class Word{
       }
       return ans;
   }
-  static String path_wzfile="wz/out_1500wzimwztxt_out.txt";
+  static String path_wzfile="wz/out_六百个高频词.txt";
   static void setPathOfWzFile(String wzpath){
     path_wzfile="wz/"+wzpath;
     pos=0;
@@ -106,11 +106,12 @@ class Word{
     //print("sentence_path is $pt");
           fileExistsInAssets(pt).then((val)
     {
-      if(val==null){
+      if(val==null||val.elementSizeInBytes<=10){
         word.abouts=["eg is no exist"];
       }
       else {
         final mp= jsonDecode(utf8.decode(val.buffer.asUint8List()));
+        print('$mp');
         word.abouts=[ "${mp["eg"]}"];
       }
     }

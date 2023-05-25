@@ -1,1 +1,0 @@
-{"eg":"1. What is your favorite color?\n2. Where did you grow up?\n3. How do you like to spend your free time?","eng":"input"}

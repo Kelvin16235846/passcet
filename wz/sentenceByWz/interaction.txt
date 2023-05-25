@@ -1,1 +1,0 @@
-{"eg":"1. \"What do you think of this outfit?\" asked Sarah, as she twirled around in front of the mirror.\n2. \"Excuse me, do you know where the nearest restroom is?\" inquired the lost tourist.\n3. \"Could you please repeat that last point again?\" requested John, as he struggled to keep up with the presentation.","eng":"interaction"}

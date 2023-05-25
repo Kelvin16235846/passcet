@@ -1,1 +1,0 @@
-{"eg":"1. The weather seems to be getting colder as we approach winter.\n2. From the look on his face, it seems like he's had a tough day at work.\n3. She seems like a friendly person from the way she greeted us at the door.","eng":"seem"}

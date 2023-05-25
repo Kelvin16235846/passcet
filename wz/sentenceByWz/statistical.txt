@@ -1,1 +1,0 @@
-{"eg":"1. The statistical analysis of the data reveals a significant correlation between age and income.\n2. The study found a statistical difference between the experimental and control groups in terms of their response rates.\n3. The company relied on statistical forecasting techniques to predict market trends and make informed business decisions.","eng":"statistical"}

@@ -1,1 +1,0 @@
-{"eg":"1. Based on your preferences, I highly recommend the Italian restaurant down the street for their delicious pasta dishes.\n2. If you're looking for a good thriller book to read, I highly recommend \"Gone Girl\" by Gillian Flynn.\n3. For those who enjoy scenic hikes, I highly recommend checking out the trails at the nearby national park.","eng":"recommendation"}

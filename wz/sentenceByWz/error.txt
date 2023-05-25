@@ -1,1 +1,0 @@
-{"eg":"1. There was an error in the calculation and the results were incorrect.\n2. The error message on the computer screen indicated a problem with the software.\n3. The book contains several errors in spelling and grammar.","eng":"error"}

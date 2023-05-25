@@ -1,1 +1,0 @@
-{"eg":"1. I need to install new software on my computer to improve its security.\n2. My brother is planning to install a new sound system in his car for better audio quality.\n3. The construction workers will be arriving tomorrow to install the new windows in our house.","eng":"install"}

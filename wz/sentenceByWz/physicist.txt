@@ -1,1 +1,0 @@
-{"eg":"1. As a physicist, I use mathematical models to understand the fundamental laws of nature.\n2. Physicists have discovered that matter is composed of tiny particles called atoms.\n3. Being a physicist requires a deep curiosity about the workings of the universe and a willingness to constantly question and explore.","eng":"physicist"}

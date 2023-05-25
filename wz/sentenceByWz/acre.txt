@@ -1,1 +1,0 @@
-{"eg":"1. I planted an acre of corn this year.\n2. The farm consists of several acres of fertile land.\n3. The new housing development will cover several acres of previously untouched wilderness.","eng":"acre"}

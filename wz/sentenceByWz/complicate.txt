@@ -1,1 +1,0 @@
-{"eg":"1. The complicate nature of quantum mechanics leaves many scientists struggling to understand its fundamental principles.\n2. The complicate process of genetic engineering requires precise manipulation of DNA sequences.\n3. The complicate social issues surrounding immigration policy have generated heated debates across the political spectrum.","eng":"complicate"}

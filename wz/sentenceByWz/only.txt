@@ -1,1 +1,0 @@
-{"eg":"1. Only the brave are able to face their fears.\n2. The party is for adults only.\n3. I will only accept cash as payment.","eng":"only"}

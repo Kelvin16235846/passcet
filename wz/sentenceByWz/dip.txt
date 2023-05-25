@@ -1,1 +1,0 @@
-{"eg":"1. The image on my mobile phone screen looks smaller than it actually is because of the high pixel density in the dip.\n2. I adjusted the dip settings on my computer monitor to make the colors appear more vibrant.\n3. The dip in the road caused my car to bump and shake as I drove over it.","eng":"dip"}

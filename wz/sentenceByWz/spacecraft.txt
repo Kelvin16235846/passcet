@@ -1,1 +1,0 @@
-{"eg":"1. The spacecraft launched into orbit around Mars, collecting valuable data for scientific research.\n2. Astronauts aboard the spacecraft worked tirelessly to repair a malfunctioning component, ensuring a safe return to Earth.\n3. A unmanned spacecraft traveled through the depths of space, exploring the mysteries of the cosmos.","eng":"spacecraft"}

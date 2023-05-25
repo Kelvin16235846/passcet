@@ -1,1 +1,0 @@
-{"eg":"1. The student is studying hard for their upcoming exams.\n2. The praise from the teacher was a great morale booster for the student.\n3. The student expressed their concerns about the school's curriculum during a meeting with the principal.","eng":"student"}

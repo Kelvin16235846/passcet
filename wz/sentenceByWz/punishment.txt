@@ -1,1 +1,0 @@
-{"eg":"1. The punishment for breaking the rules is a fine of $100.\n2. The teacher gave the student a detention as punishment for not completing homework.\n3. The judge sentenced the criminal to life in prison as punishment for their heinous crime.","eng":"punishment"}

@@ -1,1 +1,0 @@
-{"eg":"1. I limit myself to only one cup of coffee per day.\n2. The speed limit on this road is 50 miles per hour.\n3. My budget is limited so I can't buy everything I want.","eng":"limit"}

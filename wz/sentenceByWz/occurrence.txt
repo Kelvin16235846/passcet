@@ -1,1 +1,0 @@
-{"eg":"1. The occurrence of earthquakes is common in this region.\n2. The occurrence of mental illness is increasing in modern-day society.\n3. The occurrence of accidents can be minimized through careful planning and preparation.","eng":"occurrence"}

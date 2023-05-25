@@ -1,1 +1,0 @@
-{"eg":"1. The scenery of the Grand Canyon is absolutely breathtaking.\n2. I am absolutely certain that I locked the door before leaving.\n3. It is absolutely essential that we finish this project on time.","eng":"absolutely"}

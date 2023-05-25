@@ -1,1 +1,0 @@
-{"eg":"1. Whether we go out or stay in tonight is entirely up to you.\n2. I can't decide whether to buy the blue or the red dress.\n3. Whether you believe me or not, I am telling the truth.","eng":"whether"}

@@ -1,1 +1,0 @@
-{"eg":"1. She is the least happy when she has to work overtime.\n2. The least expensive car in the lot caught his eye.\n3. I felt the least confident in my abilities during the final exam.","eng":"least"}

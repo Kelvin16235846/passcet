@@ -1,1 +1,0 @@
-{"eg":"1. If it rains, we'll stay in; else, we'll go for a hike.\n2. I didn't see her at the party, else I would have said hello.\n3. I'll have the salad, else I'll just have some soup for lunch.","eng":"else"}

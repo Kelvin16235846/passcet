@@ -1,1 +1,0 @@
-{"eg":"1. I am presently reading a book on quantum physics.\n2. Presently, the company is undergoing a significant restructuring.\n3. The temperature outside is presently below freezing.","eng":"presently"}

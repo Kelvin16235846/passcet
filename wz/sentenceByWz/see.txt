@@ -1,1 +1,0 @@
-{"eg":"1. I see a bird flying in the sky.\n2. Can you see the mountains in the distance?\n3. She stopped to see the flowers in the garden.","eng":"see"}

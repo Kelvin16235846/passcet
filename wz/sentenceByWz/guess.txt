@@ -1,1 +1,0 @@
-{"eg":"1. I can only guess which direction we should go in.\n2. Can you guess how old he is?\n3. I have no idea what the answer is, so let's take a guess.","eng":"guess"}

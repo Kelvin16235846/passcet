@@ -1,1 +1,0 @@
-{"eg":"1. There are eight chairs around the dining table.\n2. My daughter turned eight years old last week.\n3. The group presentation will be divided into eight equal parts.","eng":"eight"}

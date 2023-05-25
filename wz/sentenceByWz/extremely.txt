@@ -1,1 +1,0 @@
-{"eg":"1. The weather is extremely hot today, I feel like I'm melting.\n2. Her performance on the stage was extremely impressive, everyone was applauding.\n3. I'm extremely tired after working for 12 hours straight, I need a break.","eng":"extremely"}

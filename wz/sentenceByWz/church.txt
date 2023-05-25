@@ -1,1 +1,0 @@
-{"eg":"1. I attend church service every Sunday.\n2. The church bells ring every hour.\n3. Our town has a beautiful old church with stained glass windows.","eng":"church"}

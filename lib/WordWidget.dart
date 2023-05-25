@@ -415,7 +415,7 @@ class WordWidgetState extends State<WordWidget> {
       })
     };
   }
-  String frontpage="音频播放";
+  String frontpage="英文";
   String backPage="中文释义";
   Widget wrapBaseAction(Widget wgt){
     Widget gst= GestureDetector(child: wgt

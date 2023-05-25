@@ -1,1 +1,0 @@
-{"eg":"1. The heap of books on my desk seems to grow taller every day.\n2. She carefully arranged the heap of laundry into neat piles for folding.\n3. The children had a blast playing in the heap of leaves that had gathered in the backyard.","eng":"heap"}

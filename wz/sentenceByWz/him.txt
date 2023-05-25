@@ -1,1 +1,0 @@
-{"eg":"1. I gave him a piece of advice.\n2. He thanked him for his help.\n3. I saw him walking down the street.","eng":"him"}

@@ -1,1 +1,0 @@
-{"eg":"1. The formula for the surface area of a sphere is 4πr².\n2. To calculate the volume of a rectangular prism, you use the formula length x width x height.\n3. The quadratic formula, x = (-b ± √(b² - 4ac)) / 2a, helps solve equations of the form ax² + bx + c = 0.","eng":"formula"}

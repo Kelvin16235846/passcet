@@ -1,1 +1,0 @@
-{"eg":"1. I need a ton of coffee to get through this day.\n2. We have a ton of laundry to wash before our trip.\n3. He lifted a ton of weight at the gym yesterday.","eng":"ton"}

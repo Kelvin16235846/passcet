@@ -1,1 +1,0 @@
-{"eg":"1. The immediate concern for the company is to reduce costs and increase revenue.\n2. The doctor's order was for the patient to receive immediate medical attention.\n3. The fire alarm went off and immediate evacuation was necessary.","eng":"immediate"}

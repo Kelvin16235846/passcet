@@ -1,1 +1,0 @@
-{"eg":"1. Engineering is a critical tool for solving complex problems and improving society.\n2. Without engineering innovations, many of the modern technologies we take for granted would not exist.\n3. Engineers must balance cost, efficiency, and safety concerns when designing and implementing new systems.","eng":"engineering"}

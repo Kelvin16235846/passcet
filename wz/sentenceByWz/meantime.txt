@@ -1,1 +1,0 @@
-{"eg":"1. I need to finish this report before the meeting starts, meantime please hold all my calls.\n2. Meantime, the project team is working on the prototype development and testing.\n3. Meantime, we can take a break and grab some coffee while the system updates.","eng":"meantime"}

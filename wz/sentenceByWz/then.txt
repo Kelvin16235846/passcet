@@ -1,1 +1,0 @@
-{"eg":"1. If you finish your homework, then you can watch TV.\n2. If it rains tomorrow, then we'll stay inside and play board games.\n3. If you don't hurry, then you'll miss the bus.","eng":"then"}

@@ -1,1 +1,0 @@
-{"eg":"1. I will move the box to the other room.\n2. Please don't move that vase. It's delicate.\n3. The dance instructor told us to move our bodies to the beat of the music.","eng":"move"}

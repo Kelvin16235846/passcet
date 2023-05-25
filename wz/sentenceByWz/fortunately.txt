@@ -1,1 +1,0 @@
-{"eg":"1. Fortunately, I found my lost wallet on the way home.\n2. Fortunately, there were no casualties in the car accident.\n3. Fortunately, the weather cleared up just in time for our outdoor picnic.","eng":"fortunately"}

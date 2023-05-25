@@ -1,1 +1,0 @@
-{"eg":"1. The difference between cats and dogs is their natural behavior.\n2. I can't tell the difference between these two shades of blue.\n3. There's a big difference between studying in a library and studying at home.","eng":"difference"}

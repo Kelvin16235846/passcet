@@ -1,1 +1,0 @@
-{"eg":"1. I need to go to the grocery store to buy some milk and bread.\n2. The grocery delivery service has been a lifesaver during the pandemic.\n3. I prefer to shop at the local grocery instead of the big chain stores.","eng":"grocery"}

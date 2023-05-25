@@ -1,1 +1,0 @@
-{"eg":"1. Despite the heavy rain, I managed to attend the meeting on time.\n2. She always orders the same coffee from the cafe every morning.\n3. By the time we arrived at the airport, our flight had already been delayed.","eng":"grammar"}

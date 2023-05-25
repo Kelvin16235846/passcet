@@ -1,1 +1,0 @@
-{"eg":"1. I need to rush to the airport to catch my flight.\n2. Don't rush through your work, take your time and do it properly.\n3. She felt a rush of excitement when she saw her favorite band perform live.","eng":"rush"}

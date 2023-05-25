@@ -1,1 +1,0 @@
-{"eg":"1. The elevator doors opened with a soft ding, and we stepped inside.\n2. She pressed the button for the top floor and watched the numbers on the elevator display climb steadily higher.\n3. I hate riding in elevators because they make me feel claustrophobic.","eng":"elevator"}

@@ -1,1 +1,0 @@
-{"eg":"1. The fault in the wiring caused the power outage.\n2. It is not your fault that the project didn't succeed.\n3. The car's braking system was faulty and caused an accident.","eng":"fault"}

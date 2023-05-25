@@ -1,1 +1,0 @@
-{"eg":"1. The sun was shining brightly over the green hills, as the birds chirped merrily in the trees above.\n2. The sound of the waves crashing against the shore could be heard from miles away, as the salty sea air filled my lungs.\n3. The city lights sparkled like diamonds in the distance, as the night sky enveloped the world in darkness.","eng":"generator"}

@@ -1,1 +1,0 @@
-{"eg":"1. I set my alarm clock to wake me up at 6:00am every morning.\n2. The loud thunderstorm outside was enough to wake me from my deep sleep.\n3. She gently shook me to wake me up from my nap on the couch.","eng":"wake"}

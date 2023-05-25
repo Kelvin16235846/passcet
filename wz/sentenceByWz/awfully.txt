@@ -1,1 +1,0 @@
-{"eg":"1. The weather today is awfully hot, I wish I had brought my sunscreen.\n2. I feel awfully tired after staying up late to finish my project.\n3. The service at that restaurant was awfully slow, we waited over an hour for our food.","eng":"awfully"}

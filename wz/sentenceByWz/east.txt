@@ -1,1 +1,0 @@
-{"eg":"1. I live on the east side of the city, close to the waterfront.\n2. The sun rises in the east and sets in the west.\n3. Our company has expanded to the east coast and opened a new office in New York.","eng":"east"}

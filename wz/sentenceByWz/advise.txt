@@ -1,1 +1,0 @@
-{"eg":"1. I would advise you to study harder if you want to pass your exams.\n2. Can you advise me on the best way to save money for a trip?\n3. My doctor advised me to eat more fruits and vegetables for a healthier lifestyle.","eng":"advise"}

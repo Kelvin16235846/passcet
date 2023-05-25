@@ -1,1 +1,0 @@
-{"eg":"1. Neither of us likes to eat sushi.\n2. Neither team scored any goals during the first half.\n3. Neither of the candidates had the necessary qualifications for the job.","eng":"neither"}

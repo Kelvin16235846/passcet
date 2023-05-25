@@ -1,1 +1,0 @@
-{"eg":"1. I receive a yearly bonus from my employer based on my performance.\n2. The company's revenue has steadily increased on a yearly basis.\n3. We take a yearly family vacation to the beach.","eng":"yearly"}

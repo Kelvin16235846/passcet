@@ -1,1 +1,0 @@
-{"eg":"1. I need to calculate my tax before filing my annual income tax return.\n2. The government increases tax rates to fund public services and infrastructure development.\n3. Tax evasion is a serious crime that can result in fines and imprisonment.","eng":"tax"}

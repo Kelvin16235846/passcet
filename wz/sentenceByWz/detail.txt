@@ -1,1 +1,0 @@
-{"eg":"1. The artist spent hours adding intricate details to the painting, resulting in a stunning masterpiece.\n2. The detective carefully examined every detail of the crime scene in order to solve the case.\n3. The architect included intricate details in the design of the building, giving it a unique and beautiful appearance.","eng":"detail"}

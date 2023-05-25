@@ -1,1 +1,0 @@
-{"eg":"1. The small kitten curled up on the cushion.\n2. I prefer to order a small coffee to avoid wastage.\n3. He has a small garden but it is full of beautiful flowers.","eng":"small"}

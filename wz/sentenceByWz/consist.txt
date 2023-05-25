@@ -1,1 +1,0 @@
-{"eg":"1. The success of our project will consist of strong teamwork and excellent planning.\n2. The menu for the party will consist of various appetizers, entrees, and desserts.\n3. The novel consists of a complex plot filled with unexpected twists and turns.","eng":"consist"}

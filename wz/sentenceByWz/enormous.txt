@@ -1,1 +1,0 @@
-{"eg":"1. The elephant was enormous compared to the tiny mouse scurrying by.\n2. The crowd at the concert was enormous, with thousands of people filling the stadium.\n3. The task of cleaning up the mess after the party seemed enormous, but we rolled up our sleeves and got to work.","eng":"enormous"}

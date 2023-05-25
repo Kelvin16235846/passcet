@@ -1,1 +1,0 @@
-{"eg":"1. Dear John, thank you for your thoughtful letter.\n2. I am writing this letter to express my sincere apologies for my mistake.\n3. Your letter has inspired me to think more deeply about my future plans.","eng":"letter"}

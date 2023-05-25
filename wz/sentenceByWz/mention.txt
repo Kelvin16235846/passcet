@@ -1,1 +1,0 @@
-{"eg":"1. @SophieSmith, have you seen the new movie that just came out?\n2. Thanks for the recommendation, @JohnDoe, I'll have to check out that book.\n3. @JaneDoe, could you send me that report by the end of the day?","eng":"mention"}

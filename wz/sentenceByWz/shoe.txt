@@ -1,1 +1,0 @@
-{"eg":"1. I need to buy a new pair of shoes for running.\n2. She has a collection of over 50 pairs of shoes in her closet.\n3. He kicked off his shoes and relaxed on the couch after a long day at work.","eng":"shoe"}

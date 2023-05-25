@@ -1,1 +1,0 @@
-{"eg":"1. After analyzing all the data, I can conclude that our experiment was successful.\n2. Based on the evidence presented, I must conclude that the defendant is guilty.\n3. To conclude our meeting, let's summarize the main points we've discussed today.","eng":"conclude"}

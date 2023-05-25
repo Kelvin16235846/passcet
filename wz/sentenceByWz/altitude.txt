@@ -1,1 +1,0 @@
-{"eg":"1. Our airplane achieved an altitude of 35,000 feet during the flight to New York.\n2. The climbers reached the summit, which had an altitude of over 8,000 meters.\n3. The satellite orbits the Earth at an altitude of approximately 400 kilometers.","eng":"altitude"}

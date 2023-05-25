@@ -1,1 +1,0 @@
-{"eg":"1. The light from the full moon illuminated the dark forest.\n2. Alice switched on the lamp, filling the room with a soft, warm light.\n3. The lighthouse guided the ships safely to shore through the stormy night.","eng":"light"}

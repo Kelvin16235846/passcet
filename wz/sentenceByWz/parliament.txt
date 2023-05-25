@@ -1,1 +1,0 @@
-{"eg":"1. The parliament voted unanimously to pass the new legislation.\n2. The opposition party staged a walkout during the parliamentary debate.\n3. The prime minister addressed the parliament during the state of the union address.","eng":"parliament"}

@@ -1,1 +1,0 @@
-{"eg":"1. The horse galloped across the field, kicking up dust behind it.\n2. She rode her horse through the woods, enjoying the scent of pine and fresh air.\n3. We watched the majestic horse trot gracefully around the ring, its mane and tail flowing in the breeze.","eng":"horse"}

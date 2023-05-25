@@ -1,1 +1,0 @@
-{"eg":"1. The security system is able to detect any unauthorized access to the building.\n2. The teacher was able to detect plagiarism in the student's paper using plagiarism-checking software.\n3. The smoke detector immediately detected the presence of smoke in the kitchen and triggered the alarm.","eng":"detect"}

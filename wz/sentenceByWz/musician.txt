@@ -1,1 +1,0 @@
-{"eg":"1. The musician played a beautiful melody on his guitar, captivating the audience.\n2. She aspired to be a famous musician and spent many hours practicing her instrument.\n3. The musician's latest album received acclaim from both fans and critics alike.","eng":"musician"}

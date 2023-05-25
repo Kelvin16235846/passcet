@@ -1,1 +1,0 @@
-{"eg":"1. I did badly on my math test and now I have to retake it.\n2. The restaurant's food reheated badly and tasted awful.\n3. Sarah argued so badly with her friend that they haven't spoken in months.","eng":"badly"}

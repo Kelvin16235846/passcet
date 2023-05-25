@@ -1,1 +1,0 @@
-{"eg":"1. The employee received recognition for his years of dedicated service to the company.\n2. The artist's work was finally given the recognition it deserved after years of being overlooked.\n3. The athlete's exceptional performance on the field earned him recognition as one of the best in the league.","eng":"recognition"}

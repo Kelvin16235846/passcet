@@ -1,1 +1,0 @@
-{"eg":"1. \"Hey, what are your plans for the weekend?\" \"Not sure yet, but I was thinking about going hiking.\"\n2. \"Have you seen the new movie that came out?\" \"No, not yet. Is it any good?\"\n3. \"What kind of music do you like?\" \"I listen to a bit of everything, but my favorite genre is indie rock.\"","eng":"conversation"}

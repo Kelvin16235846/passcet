@@ -1,1 +1,0 @@
-{"eg":"1. The temperature outside is quite hot, make sure to stay hydrated.\n2. I love to swim in the ocean when the water temperature is just right.\n3. The oven needs to be preheated to the right temperature before we can bake the cake.","eng":"temperature"}

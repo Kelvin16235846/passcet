@@ -1,1 +1,0 @@
-{"eg":"1. Climbing up the hill is a challenging task, but the view from the top is worth it.\n2. The hillside is covered in lush greenery, and the sound of the river flowing is calming.\n3. As we drove up the steep hill, the car began to struggle, but we eventually reached the lookout point.","eng":"hill"}

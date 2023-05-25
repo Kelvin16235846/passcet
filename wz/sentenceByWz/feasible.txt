@@ -1,1 +1,0 @@
-{"eg":"1. It is not feasible to complete the project within the given time frame.\n2. The proposed solution to the problem is feasible and worth considering.\n3. We need to come up with a feasible plan to reduce our company's carbon footprint.","eng":"feasible"}

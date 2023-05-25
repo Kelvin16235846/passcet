@@ -1,1 +1,0 @@
-{"eg":"1. The bird can fly effortlessly through the air.\n2. I wish I could fly like a superhero.\n3. The paper airplane flew out of the window and into the sky.","eng":"fly"}

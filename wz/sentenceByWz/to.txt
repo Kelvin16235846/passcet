@@ -1,1 +1,0 @@
-{"eg":"1. I'm going to the gym later today.\n2. She wants to visit Europe next summer.\n3. They have decided to adopt a dog from the animal shelter.","eng":"to"}

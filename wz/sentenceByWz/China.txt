@@ -1,1 +1,0 @@
-{"eg":"1. China is a populous country located in eastern Asia.\n2. The Great Wall of China is one of the Seven Wonders of the World.\n3. Chinese cuisine is famous for its flavourful dishes and diverse cooking styles.","eng":"China"}

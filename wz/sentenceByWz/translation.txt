@@ -1,1 +1,0 @@
-{"eg":"1. 我们的狗是一只黄色的拉布拉多犬。Our dog is a yellow Labrador Retriever.\n2. 我喜欢早上喝咖啡来帮助我保持清醒。I like to have coffee in the morning to help me stay alert.\n3. 这个城市的景色非常美丽，你应该来一次看看。The scenery of this city is incredibly beautiful, you should come and see for yourself.","eng":"translation"}

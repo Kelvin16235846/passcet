@@ -1,1 +1,0 @@
-{"eg":"1. She ran so fast that she reached the finish line first.\n2. He typed so fast that his fingers couldn't keep up with his thoughts.\n3. The car accelerated so fast that she was pushed back into her seat.","eng":"fast"}

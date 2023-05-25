@@ -1,1 +1,0 @@
-{"eg":"1. I store all my data in Realm, it's fast and efficient.\n2. With Realm, I can easily save and retrieve objects in my app.\n3. The great thing about Realm is its ability to handle complex relationships between objects.","eng":"realm"}

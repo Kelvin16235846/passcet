@@ -1,1 +1,0 @@
-{"eg":"1. There exist many ways to approach this problem.\n2. Do you believe that extraterrestrial life exists?\n3. It is rumored that a secret underground tunnel exists beneath the city.","eng":"exist"}

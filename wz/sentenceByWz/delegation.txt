@@ -1,1 +1,0 @@
-{"eg":"1. Instead of handling every task yourself, delegate some of the work to your team members.\n2. The manager delegated the responsibility of organizing the company picnic to a group of volunteers.\n3. She decided to delegate the decision-making process to her colleagues to ensure a fair and democratic outcome.","eng":"delegation"}

@@ -1,1 +1,0 @@
-{"eg":"1. I opened the window to let in some fresh air.\n2. The sound of the wind outside my window lulled me to sleep.\n3. She leaned out the window to wave goodbye to her friends.","eng":"window"}

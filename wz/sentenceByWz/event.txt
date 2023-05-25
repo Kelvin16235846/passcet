@@ -1,1 +1,0 @@
-{"eg":"1. I am attending a charity event tonight to help raise money for children in need.\n2. The company is organizing a team-building event next weekend to improve employee morale.\n3. The concert event featuring popular bands from around the world drew a huge crowd of music enthusiasts.","eng":"event"}

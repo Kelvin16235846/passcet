@@ -1,1 +1,0 @@
-{"eg":"1. The butcher is skilled at cutting meat, but he knows nothing about cooking it.\n2. The butcher had a long day at work, but he still managed to smile and greet his customers warmly.\n3. The butcher was impressed by the size of the pig, but he knew he had a lot of work ahead to prepare it for sale.","eng":"butcher"}

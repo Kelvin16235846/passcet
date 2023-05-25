@@ -1,1 +1,0 @@
-{"eg":"1. The Earth's axis is tilted at an angle of 23.4 degrees relative to its path around the sun.2. The axis of rotation is an imaginary line around which a body rotates.3. The axis of evil is a term used to describe countries that are perceived to pose a threat to world peace and security.","eng":"axis"}

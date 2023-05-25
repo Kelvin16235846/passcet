@@ -1,1 +1,0 @@
-{"eg":"1. The microcomputer is becoming increasingly popular for everyday use.\n2. With its compact size and advanced processing power, the microcomputer is revolutionizing the technology industry.\n3. Many modern appliances and devices, such as smartphones and smart home systems, are powered by microcomputers.","eng":"microcomputer"}

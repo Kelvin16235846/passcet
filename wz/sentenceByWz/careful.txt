@@ -1,1 +1,0 @@
-{"eg":"1. She was careful not to step on the fragile glass vase on the floor.\n2. The tourist guide gave careful instructions to the group before they embarked on the dangerous hike.\n3. The scientist was careful to record all of the data accurately in his research notebook.","eng":"careful"}

@@ -1,1 +1,0 @@
-{"eg":"1. The dog chased the ball across the park.\n2. The chef cooked a delicious meal for the guests.\n3. The teacher taught the students the importance of reading.","eng":"active"}

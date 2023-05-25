@@ -1,1 +1,0 @@
-{"eg":"1. The doctor took my temperature with a thermometer and found that I had a slight fever.\n2. It's important to use a reliable thermometer to monitor the temperature of cooked food to avoid foodborne illnesses.\n3. The nurse checked the temperature of the baby's bath water with a thermometer to make sure it wasn't too hot.","eng":"thermometer"}

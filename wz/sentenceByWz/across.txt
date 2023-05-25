@@ -1,1 +1,0 @@
-{"eg":"1. I saw a rabbit dart across the road while I was driving home.\n2. The sun broke through the clouds and cast a warm glow across the meadow.\n3. We hiked across the mountain range and admired the breathtaking view from the summit.","eng":"across"}

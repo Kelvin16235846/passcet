@@ -1,1 +1,0 @@
-{"eg":"1. Tom received a generous pension after working for the company for 30 years.\n2. Many retirees depend on their pensions to cover their living expenses.\n3. The government plans to reform the pension system to ensure its long-term sustainability.","eng":"pension"}

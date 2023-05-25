@@ -1,1 +1,0 @@
-{"eg":"1. The coordinates of the buried treasure were carefully marked on the map.\n2. She used the coordinates to pinpoint the exact location of the crash site.\n3. The coordinates of the star system were essential in plotting the spaceship's course.","eng":"coordinate"}

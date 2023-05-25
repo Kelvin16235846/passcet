@@ -1,1 +1,0 @@
-{"eg":"1. The technology industry is rapidly changing and advancing every day.\n2. I need to rapidly finish this project before the deadline.\n3. The train rapidly came to a sudden stop, causing everyone to jolt forward.","eng":"rapidly"}

@@ -1,1 +1,0 @@
-{"eg":"1. The lawyer worked hard to defend his client's innocence in the court of law.\n2. The goalkeeper made an excellent save to defend the goal and prevent the opposing team from scoring.\n3. The soldier bravely fought to defend his country and protect the freedoms of its citizens.","eng":"defend"}

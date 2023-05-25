@@ -1,1 +1,0 @@
-{"eg":"1. The regulation requires all employees to complete safety training before entering the workplace.\n2. The company's new regulation prohibits the use of personal electronic devices during work hours.\n3. The government is considering implementing stricter regulation on the use of pesticides in agriculture.","eng":"regulation"}

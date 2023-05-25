@@ -1,1 +1,0 @@
-{"eg":"1. I counted the number of pages in the book and found there were 250.\n2. She counted the money in her wallet and realized she had enough to buy the concert ticket.\n3. We need to count the number of chairs in the room to make sure there are enough for everyone.","eng":"count"}

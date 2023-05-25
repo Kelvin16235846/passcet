@@ -1,1 +1,0 @@
-{"eg":"1. Economic indicators show that the country is experiencing steady growth.\n2. The government introduced new economic policies to boost job creation.\n3. The pandemic had a significant impact on the global economic landscape.","eng":"economic"}

@@ -1,1 +1,0 @@
-{"eg":"1. The acceleration of the car was so strong that I felt like I was being pushed back into my seat.\n2. The athlete's acceleration out of the starting blocks was impressive and he quickly took the lead in the race.\n3. The airplane's acceleration down the runway was necessary to gain enough speed to take off into the air.","eng":"acceleration"}

@@ -1,1 +1,0 @@
-{"eg":"1. The manufacturer of this car is renowned for its high-quality and innovative engineering.\n2. The clothing manufacturer received several awards for its sustainable and ethical business practices.\n3. The electronics manufacturer is facing increasing competition from overseas companies.","eng":"manufacturer"}

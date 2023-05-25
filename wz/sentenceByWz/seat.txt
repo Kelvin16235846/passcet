@@ -1,1 +1,0 @@
-{"eg":"1. Please take a seat and make yourself comfortable.\n2. The only available seat was in the very back of the theater.\n3. I can't believe I left my wallet on the seat of the bus!","eng":"seat"}

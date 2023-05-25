@@ -1,1 +1,0 @@
-{"eg":"1. The detectives found new evidence at the crime scene that helped them solve the case.\n2. The medical reports provided compelling evidence to support the doctor's diagnosis.\n3. There is overwhelming evidence to suggest that climate change is caused by human activities.","eng":"evidence"}

@@ -1,1 +1,0 @@
-{"eg":"1. I will finish my project by tomorrow, so I can relax and enjoy the weekend.\n2. My friend promised to teach me how to play chess next month, and I am looking forward to it.\n3. I have already booked a flight for my summer vacation in Italy, and I cannot wait to explore the beautiful beaches and try authentic Italian cuisine.","eng":"future"}

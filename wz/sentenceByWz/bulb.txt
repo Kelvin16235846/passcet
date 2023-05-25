@@ -1,1 +1,0 @@
-{"eg":"1. The bulb in the lamp flickered for a moment before casting a warm glow across the room.\n2. I replaced the burnt out bulb in the ceiling fixture with a new LED light bulb.\n3. The inventor's breakthrough came when they figured out how to make a longer-lasting, energy-efficient bulb.","eng":"bulb"}

@@ -1,1 +1,0 @@
-{"eg":"1. The professor started the lecture by introducing the topic and its relevance to current research.\n2. Despite technical difficulties, the guest speaker managed to deliver a compelling lecture on the future of artificial intelligence.\n3. Taking notes during the lecture allowed students to review and reinforce the material later on.","eng":"lecture"}

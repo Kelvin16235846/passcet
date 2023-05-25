@@ -1,1 +1,0 @@
-{"eg":"1. The ax lay abandoned on the ground, its rusted blade dulled by neglect.\n2. He swung the ax with all his might, determined to split the stubborn log in two.\n3. She watched as the executioner raised his ax, ready to deliver the fatal blow.","eng":"ax"}

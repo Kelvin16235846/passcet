@@ -1,1 +1,0 @@
-{"eg":"1. I need to search through my emails to find that important document.\n2. My mom always tells me to search for the best deals before making a purchase.\n3. I like to search for new recipes to try out in my free time.","eng":"search"}

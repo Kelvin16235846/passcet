@@ -1,1 +1,0 @@
-{"eg":"1. I always dock my boat at the marina when I go out on the lake.\n2. The cruise ship will dock at the port tomorrow morning.\n3. He forgot to dock his bike and it got stolen from the street corner.","eng":"dock"}

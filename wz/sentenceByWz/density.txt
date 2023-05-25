@@ -1,1 +1,0 @@
-{"eg":"1. The density of the stone was so high that it sank to the bottom of the river.\n2. The population density of the city has increased significantly over the past decade.\n3. The foam had a low density, making it buoyant on the surface of the water.","eng":"density"}

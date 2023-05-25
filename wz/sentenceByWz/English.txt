@@ -1,1 +1,0 @@
-{"eg":"1. I am excited to attend the concert tomorrow.\n2. She is a talented musician and singer.\n3. He enjoys playing soccer with his friends on the weekends.","eng":"English"}

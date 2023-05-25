@@ -1,1 +1,0 @@
-{"eg":"1. \"I need to change my schedule for next week.\"\n2. \"Can you give me some change for the vending machine?\"\n3. \"It's time to change your attitude towards your co-workers.\"","eng":"change"}

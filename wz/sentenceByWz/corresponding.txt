@@ -1,1 +1,0 @@
-{"eg":"1. The corresponding image was found in the folder labeled \"June 2021\".\n2. Could you please show me the corresponding page in the textbook?\n3. Each item in the list has its corresponding description in the manual.","eng":"corresponding"}

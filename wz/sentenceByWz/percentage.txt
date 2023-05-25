@@ -1,1 +1,0 @@
-{"eg":"1. The percentage of students who passed the exam increased by 10% this year.\n2. The company's profits rose by a significant percentage due to their successful marketing campaign.\n3. The percentage of people who support this new policy is quite low, according to recent polls.","eng":"percentage"}

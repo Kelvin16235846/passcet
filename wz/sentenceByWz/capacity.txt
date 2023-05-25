@@ -1,1 +1,0 @@
-{"eg":"1. The capacity of the room could only accommodate 100 people.\n2. The company had to increase its production capacity to meet the high demand from customers.\n3. The battery's capacity had deteriorated over time and was no longer able to hold a charge for very long.","eng":"capacity"}

@@ -1,1 +1,0 @@
-{"eg":"1. It is probable that it will rain later, so we should bring umbrellas.\n2. The bank's probable solution to the economic crisis is to cut interest rates.\n3. It is probable that the company will meet its sales targets this year due to increased market demand.","eng":"probable"}

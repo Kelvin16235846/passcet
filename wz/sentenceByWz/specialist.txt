@@ -1,1 +1,0 @@
-{"eg":"1. The patient was referred to a heart specialist for further evaluation.\n2. The company hired a marketing specialist to help with their advertising campaign.\n3. My friend is a specialist in ancient history and can tell you all about the Roman Empire.","eng":"specialist"}

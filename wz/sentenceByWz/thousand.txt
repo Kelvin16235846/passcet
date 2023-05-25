@@ -1,1 +1,0 @@
-{"eg":"1. I have a thousand books in my personal library.\n2. She spent a thousand dollars on a new laptop.\n3. It's estimated that there are a thousand different species of birds in this forest.","eng":"thousand"}

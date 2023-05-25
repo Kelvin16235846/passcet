@@ -1,1 +1,0 @@
-{"eg":"1. The doctor cleaned and dressed my wound after I fell off my bike.\n2. The soldier was given first aid for his wounds sustained in the battle.\n3. She winced in pain as the nurse changed the bandage on her open wound.","eng":"wound"}

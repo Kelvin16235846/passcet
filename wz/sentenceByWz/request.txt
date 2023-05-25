@@ -1,1 +1,0 @@
-{"eg":"1. Can you please send me the latest report via email using the request form?\n2. We kindly request that all guests refrain from smoking on the premises.\n3. In order to proceed with your request, we require additional information about your account.","eng":"request"}

@@ -1,1 +1,0 @@
-{"eg":"1. \"The construction worker toiled all day in the scorching heat.\"\n2. \"The factory owner hired several new workers to keep up with demand.\"\n3. \"The social worker dedicated her life to helping underprivileged communities.\"","eng":"worker"}

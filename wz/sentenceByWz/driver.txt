@@ -1,1 +1,0 @@
-{"eg":"1. The driver of the car was speeding down the highway.\n2. The bus driver navigated through the busy city streets with ease.\n3. The truck driver delivered the cargo safely to its destination.","eng":"driver"}

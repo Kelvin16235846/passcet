@@ -1,1 +1,0 @@
-{"eg":"1. The scientist was able to reproduce the experiment results in his lab.\n2. It was a challenge for the artist to reproduce the intricate details of the landscape in his painting.\n3. The software developer had to reproduce the bug in order to fix it.","eng":"reproduce"}

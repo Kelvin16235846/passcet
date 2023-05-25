@@ -1,1 +1,0 @@
-{"eg":"1. Could you please turn off the lights before you leave?\n2. Could you help me carry this heavy box up the stairs?\n3. Could you explain the instructions to me one more time?","eng":"could"}

@@ -1,1 +1,0 @@
-{"eg":"1. The doctor prescribed a high dose of antibiotics to fight the infection.\n2. I accidentally took a double dose of my medication this morning.\n3. The recommended dose of vitamin C for adults is 75-90 milligrams per day.","eng":"dose"}

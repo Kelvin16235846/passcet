@@ -1,1 +1,0 @@
-{"eg":"1. I set an interval of 10 minutes for my morning exercise routine.\n2. The teacher assigned an interval of one week for completing the project.\n3. The medication should be taken at regular intervals throughout the day.","eng":"interval"}

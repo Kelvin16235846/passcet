@@ -1,1 +1,0 @@
-{"eg":"1. The probability of winning the lottery jackpot is extremely low, but people still play in the hope of hitting it big.\n2. There is a high probability of rain tomorrow, so I'm planning to carry an umbrella with me.\n3. The probability of getting a red card in a deck of playing cards is 50%, as there are 26 red cards out of a total of 52 cards.","eng":"probability"}

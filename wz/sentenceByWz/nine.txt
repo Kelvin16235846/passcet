@@ -1,1 +1,0 @@
-{"eg":"1. I counted to ten and then added nine more to make nineteen.\n2. Nine out of ten people surveyed agreed that the new product was a game-changer.\n3. The cat had nine lives, but it still avoided dangerous situations whenever it could.","eng":"nine"}

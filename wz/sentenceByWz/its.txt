@@ -1,1 +1,0 @@
-{"eg":"1. The company has invested heavily in IT infrastructure to improve its efficiency.\n2. The restaurant is known for its delicious food and friendly service.\n3. The country's economy has been affected by its high levels of debt.","eng":"its"}

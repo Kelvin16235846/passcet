@@ -1,1 +1,0 @@
-{"eg":"1. I wrote a rough draft of my essay last night and will revise it tomorrow.\n2. The company presented a draft proposal for a new project to the board of directors.\n3. Before sending the email, she always double-checks the draft for any errors or typos.","eng":"draft"}

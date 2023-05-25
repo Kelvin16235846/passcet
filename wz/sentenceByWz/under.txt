@@ -1,1 +1,0 @@
-{"eg":"1. The treasure chest was hidden under the tree.\n2. The submarine was sailing under the surface of the ocean.\n3. The puppy found a bone buried under the sand.","eng":"under"}

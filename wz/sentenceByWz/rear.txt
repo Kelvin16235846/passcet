@@ -1,1 +1,0 @@
-{"eg":"1. The rear of the car was badly damaged in the accident.\n2. The rear view mirror helped the driver navigate through traffic.\n3. The soldiers gathered at the rear of the camp for a briefing.","eng":"rear"}

@@ -1,1 +1,0 @@
-{"eg":"1. Unfortunately, the concert was cancelled due to bad weather.\n2. Unfortunately, I forgot my keys and couldn't get into my apartment.\n3. Unfortunately, I missed the deadline for submitting my assignment.","eng":"unfortunately"}

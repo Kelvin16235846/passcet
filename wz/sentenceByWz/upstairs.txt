@@ -1,1 +1,0 @@
-{"eg":"1. I heard a noise upstairs, so I went to investigate.\n2. The upstairs bathroom needs to be renovated.\n3. The upstairs balcony offers a stunning view of the city.","eng":"upstairs"}

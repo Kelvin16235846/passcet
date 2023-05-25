@@ -1,1 +1,0 @@
-{"eg":"1. I prefer tea than coffee.\n2. My brother is taller than me.\n3. Dogs are more loyal than cats.","eng":"than"}

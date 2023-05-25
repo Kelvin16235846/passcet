@@ -1,1 +1,0 @@
-{"eg":"1. Commander, we need you to lead the troops into battle.\n2. The commander's orders were to retreat to higher ground.\n3. The crew eagerly awaited instructions from their courageous commander.","eng":"commander"}

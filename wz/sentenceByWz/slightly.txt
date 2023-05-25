@@ -1,1 +1,0 @@
-{"eg":"1. The weather today is slightly cooler than yesterday.\n2. She was slightly hesitant to accept the job offer.\n3. He adjusted the volume slightly to make the music less loud.","eng":"slightly"}

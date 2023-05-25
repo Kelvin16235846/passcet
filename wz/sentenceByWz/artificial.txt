@@ -1,1 +1,0 @@
-{"eg":"1. The company is investing heavily in artificial intelligence to improve their products.\n2. The artist used artificial light to create a unique and mesmerizing exhibition.\n3. The athlete's success is partly due to the support of artificial limbs.","eng":"artificial"}

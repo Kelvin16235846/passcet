@@ -1,1 +1,0 @@
-{"eg":"1. I need to remind myself to start working on that project tomorrow.\n2. Can you remind me to pick up some milk on the way home from work?\n3. Don't forget to remind your sister about the family dinner tonight.","eng":"remind"}

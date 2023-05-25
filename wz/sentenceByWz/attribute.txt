@@ -1,1 +1,0 @@
-{"eg":"1. The color attribute of the product can be customized to match your branding.\n2. Adding the required attribute to the HTML code ensures that the form is submitted with all the necessary information.\n3. The data-toggle attribute can be used to create dropdown menus in Bootstrap framework.","eng":"attribute"}

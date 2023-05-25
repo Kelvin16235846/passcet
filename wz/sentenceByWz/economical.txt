@@ -1,1 +1,0 @@
-{"eg":"1. We chose to cook at home instead of ordering takeout because it is more economical.\n2. The company invested in energy-efficient technologies to make their operations more economical.\n3. Buying a used car can be more economical than buying a brand new one.","eng":"economical"}

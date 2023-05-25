@@ -1,1 +1,0 @@
-{"eg":"1. I have to attend a meeting at 10am tomorrow.\n2. She always attends church on Sundays.\n3. He promised to attend his friend's birthday party next week.","eng":"attend"}

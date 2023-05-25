@@ -1,1 +1,0 @@
-{"eg":"1. My speciality is baking delicious cakes and pastries.\n2. Due to her speciality in computer programming, she was offered a high-paying job.\n3. The restaurant's speciality dish is their famous seafood paella.","eng":"speciality"}

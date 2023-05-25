@@ -1,1 +1,0 @@
-{"eg":"1. Her absence from school was concerning to her teachers.\n2. The absence of evidence does not necessarily mean the absence of a problem.\n3. His long absence made her realize how much she missed him.","eng":"absence"}

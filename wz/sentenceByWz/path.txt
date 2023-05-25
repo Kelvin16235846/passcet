@@ -1,1 +1,0 @@
-{"eg":"1. The path through the forest was narrow and winding, but it led us to a beautiful hidden waterfall.\n2. I prefer taking the coastal path during my morning run because of the stunning ocean views.\n3. The path to success is never easy, but persistence and hard work will get you there.","eng":"path"}

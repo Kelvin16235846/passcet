@@ -1,1 +1,0 @@
-{"eg":"1. The laser in the surgery room quickly cut through the tissue with precision.\n2. The scientist used a laser to measure the distance between the moon and earth.\n3. The laser pointer helped the presenter highlight important points during the meeting.","eng":"laser"}

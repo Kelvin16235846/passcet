@@ -1,1 +1,0 @@
-{"eg":"1. I will meet you at the coffee shop.\n2. I am studying for my exam with the help of flashcards.\n3. She is allergic to nuts, so she cannot eat anything with them.","eng":"preposition"}

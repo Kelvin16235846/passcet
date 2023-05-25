@@ -1,1 +1,0 @@
-{"eg":"1. My intention is to complete this task by the end of the day.\n2. Her intention was to surprise her friend with a homemade cake.\n3. The company's intention is to expand globally in the next five years.","eng":"intention"}

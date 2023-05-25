@@ -1,1 +1,0 @@
-{"eg":"1. I can hear the sound of birds chirping outside my window.\n2. Did you hear what the teacher just said?\n3. I couldn't hear you over the loud music in the background.","eng":"hear"}

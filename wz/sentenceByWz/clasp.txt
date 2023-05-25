@@ -1,1 +1,0 @@
-{"eg":"1. I have been learning to play the guitar for six months, and I am starting to get the hang of it.\n2. The new restaurant in town serves delicious Italian food, and the ambiance is charming.\n3. Despite the heavy rain, the athletes persisted in their training and managed to achieve their goals.","eng":"clasp"}

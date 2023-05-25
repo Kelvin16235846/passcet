@@ -1,1 +1,0 @@
-{"eg":"1. The company is undergoing rapid development to expand into new markets.\n2. Our team is busy with the development of a new mobile app.\n3. The development of artificial intelligence is revolutionizing many industries.","eng":"development"}

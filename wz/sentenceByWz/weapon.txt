@@ -1,1 +1,0 @@
-{"eg":"1. The soldier grabbed his weapon and charged towards the enemy lines.\n2. The detective carefully examined the murder weapon for any clues.\n3. The government has strict regulations on the licensing and ownership of weapons.","eng":"weapon"}

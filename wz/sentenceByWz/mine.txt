@@ -1,1 +1,0 @@
-{"eg":"1. I need to mine for coal to power the furnace.\n2. The miners used pickaxes and shovels to mine for gold in the mountains.\n3. The company plans to mine for rare minerals in the deep sea.","eng":"mine"}

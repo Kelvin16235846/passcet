@@ -1,1 +1,0 @@
-{"eg":"1. The company released a patch to fix the security vulnerability in their software.\n2. I applied the patch to my jeans to cover up the tear in the knee.\n3. The football team's quarterback received a patch on his jersey for being named the player of the game.","eng":"patch"}

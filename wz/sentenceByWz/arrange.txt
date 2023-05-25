@@ -1,1 +1,0 @@
-{"eg":"1. I need to arrange a meeting with my colleagues next week.\n2. Can we arrange for a taxi to pick us up from the airport?\n3. We should arrange our schedule to allow for some relaxation time.","eng":"arrange"}

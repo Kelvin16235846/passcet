@@ -1,1 +1,0 @@
-{"eg":"1. We will have a meeting tomorrow to discuss the plans for the upcoming project.\n2. The meeting minutes from the last session will be reviewed before we proceed with today's meeting.\n3. It was a productive meeting where we were able to finalize the details for the new marketing campaign.","eng":"meeting"}

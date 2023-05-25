@@ -1,1 +1,0 @@
-{"eg":"1. The employee was rewarded for her outstanding performance in the company.\n2. The new employee is still learning the ropes, but is eager to contribute.\n3. The CEO acknowledged the employees' hard work during the difficult period.","eng":"employee"}

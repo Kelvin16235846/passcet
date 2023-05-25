@@ -1,1 +1,0 @@
-{"eg":"1. I wrote a cheque for the rent payment this month.\n2. The customer handed me a cheque to pay for their purchase.\n3. I received a cheque from my employer for my salary.","eng":"cheque"}

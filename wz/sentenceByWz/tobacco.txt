@@ -1,1 +1,0 @@
-{"eg":"1. Tobacco use is a leading cause of preventable death worldwide.\n2. Many countries have implemented strict laws and regulations to curtail tobacco use.\n3. Despite the well-known health risks, some people still choose to use tobacco products.","eng":"tobacco"}

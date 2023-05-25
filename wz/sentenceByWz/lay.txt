@@ -1,1 +1,0 @@
-{"eg":"1. I'm going to lay the book on the table.\n2. She lay back in the chair and closed her eyes.\n3. The workers will lay the bricks in a straight line to build the wall.","eng":"lay"}

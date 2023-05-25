@@ -1,1 +1,0 @@
-{"eg":"1. I need your permission to access your private files.\n2. The principal has granted permission for the students to have a school dance.\n3. Could you please ask for permission from your supervisor before making any changes to the project?","eng":"permission"}

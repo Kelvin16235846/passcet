@@ -1,1 +1,0 @@
-{"eg":"1. He was a former president of the company.\n2. She is a former Olympic champion in gymnastics.\n3. The house, formerly owned by a celebrity, is now available for rent.","eng":"former"}

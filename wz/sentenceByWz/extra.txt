@@ -1,1 +1,0 @@
-{"eg":"1. Despite the rain, John decided to go for an extra-long run this morning.\n2. The teacher handed out extra homework assignments to the top-performing students.\n3. The airline offered extra legroom for an additional fee on their flights.","eng":"extra"}

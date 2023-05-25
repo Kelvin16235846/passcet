@@ -1,1 +1,0 @@
-{"eg":"1. I need to make a telephone call to my friend in Australia.\n2. Can you please give me your telephone number so I can contact you later?\n3. She picked up the telephone and heard her mother's voice on the other line.","eng":"telephone"}

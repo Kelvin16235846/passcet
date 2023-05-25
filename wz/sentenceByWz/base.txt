@@ -1,1 +1,0 @@
-{"eg":"1. The base of the pyramid was strong enough to support its weight.\n2. The soldiers defended their base from enemy attacks.\n3. The chemist added acid to neutralize the base.","eng":"base"}

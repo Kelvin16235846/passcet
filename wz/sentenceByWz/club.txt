@@ -1,1 +1,0 @@
-{"eg":"1. I am a member of the local fitness club and attend weekly group classes.\n2. The book club meets every month to discuss the latest bestsellers.\n3. He was ecstatic when he received an invitation to join the exclusive country club.","eng":"club"}

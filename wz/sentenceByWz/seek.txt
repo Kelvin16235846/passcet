@@ -1,1 +1,0 @@
-{"eg":"1. I am currently seeking a new job opportunity.\n2. He went to seek advice from his mentor before making a decision.\n3. The detective decided to seek out new clues in the case.","eng":"seek"}

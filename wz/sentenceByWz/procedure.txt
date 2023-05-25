@@ -1,1 +1,0 @@
-{"eg":"1. The procedure for installing the software is straightforward and easy to follow.\n2. Before starting the medical procedure, the doctor explained the possible risks and benefits to the patient.\n3. This procedure has been used successfully in numerous studies and is considered a reliable method for collecting data.","eng":"procedure"}

@@ -1,1 +1,0 @@
-{"eg":"1. As a teacher, it is my responsibility to ensure that my students receive a quality education.\n2. In my role as a manager, I must ensure that my team is meeting their targets and goals.\n3. As an athlete, discipline and perseverance are key attributes to achieving success in my sport.","eng":"role"}

@@ -1,1 +1,0 @@
-{"eg":"1. The cat sat on the mat and licked its paws.\n2. The math problem was challenging, but with practice I solved it.\n3. He bought a new hat and wore it to the party.","eng":"mat"}

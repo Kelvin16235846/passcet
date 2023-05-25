@@ -1,1 +1,0 @@
-{"eg":"1. Somebody left their umbrella behind at the restaurant.\n2. I need somebody to help me move this heavy furniture.\n3. Somebody called the police about the loud noise coming from the party next door.","eng":"somebody"}

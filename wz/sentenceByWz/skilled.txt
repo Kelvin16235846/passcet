@@ -1,1 +1,0 @@
-{"eg":"1. She is a skilled musician who can play multiple instruments.\n2. He is a skilled chef who can whip up a delicious meal in no time.\n3. The workers on this project are all skilled professionals with years of experience.","eng":"skilled"}

@@ -1,1 +1,0 @@
-{"eg":"1. I made a great deal on this car.\n2. We need to deal with this issue as soon as possible.\n3. He's a shrewd negotiator and always gets a good deal.","eng":"deal"}
