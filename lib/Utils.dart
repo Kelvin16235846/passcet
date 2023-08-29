@@ -19,7 +19,7 @@ class Utils{
     }
 
     await player.stop();
-    fileExistsInAssets("wz/mp3file/${eng.trim()}_$type.mp3").then((a) async {
+    fileExistsInAssets("wz/wzmp3/${eng.trim()}_1.mp3").then((a) async {
       if(a==null){
         a=await fileExistsInAssets("wz/__no_audio_hint.mp3");
       }

@@ -74,9 +74,8 @@ flutter:
   assets:
     - wz/
     - wz/ColorWall-qdrgxd.jpg
-#    - wz/c4_ECP.txt
-    - wz/mp3file/
-    - wz/sentenceByWz/
+    - wz/wzmp3/
+    - wz/__no_audio_hint.mp3
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

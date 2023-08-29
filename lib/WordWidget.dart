@@ -98,25 +98,23 @@ class WordWidgetState extends State<WordWidget> {
   }
 
 
-  static void playAudio({String eng ="_None_",String type ="0"})async{
+  static void playAudio({String eng ="_None_",String type ="1"})async{ 
      if(eng=="_None_"){
       eng=Word.displayList[curIndexOfWz].eng;
       type="${DateTime.now().microsecondsSinceEpoch%2}";
     }
 
     await player.stop();
-     Word.fileExistsInAssets("wz/mp3file/${eng.trim()}_$type.mp3").then((a) async {
-        // if(a==null){
-        //   //a=await Word.fileExistsInAssets("wz/__no_audio_hint.mp3");
-        //   return;
-        // }
-        if(a!=null){
-          await player.setSourceBytes(a.buffer.asUint8List());
-          await player.resume();
+     Word.fileExistsInAssets("wz/wzmp3/${eng.trim()}_1.mp3").then((a) async {
+        if(a==null){
+          a=await Word.fileExistsInAssets("wz/__no_audio_hint.mp3");
         }
+          await player.setSourceBytes(a!.buffer.asUint8List());
+          await player.resume();
+
+
 
      });
-
 
   }
   void alreadyMastered() {
@@ -410,9 +408,16 @@ class WordWidgetState extends State<WordWidget> {
       ,"例句":Builder(builder: (context){
         return  buildSentencePage();
       })
+      ,"例句_ENG":Builder(builder: (context){
+        return  buildSentenceENGPage();
+      })
+      ,"例句_CHI":Builder(builder: (context){
+        return  buildSentenceENG_CHIPage();
+      })
       ,"音频播放":Builder(builder: (context){
         return  buildAudioPage(tag: "${DateTime.now().microsecond%100}");
-      })
+      }
+      )
     };
   }
   String frontpage="英文";
@@ -546,7 +551,7 @@ class WordWidgetState extends State<WordWidget> {
     "due to a lack of funding.";
     */
     if(str==""){
-      str=wzs[curIndexOfWz].abouts[0];
+      str=wzs[curIndexOfWz].eg_ori;
     }
 
     Widget wgt=Center(child:
@@ -564,6 +569,63 @@ class WordWidgetState extends State<WordWidget> {
       ),
       body: Padding(padding: const EdgeInsets.fromLTRB(10, 0, 10, 10),
       child:wgt ,) ,);
+  }
+  Widget buildSentenceENG_CHIPage({str=""}){
+    /* str="abandon"
+    "\n1. The family had to abandon their home due to the impending flood."
+    "\n2. After repeatedly failing to win, the athlete decided to abandon "
+        "their dream of becoming an Olympic champion."
+   " \n3. The company had to abandon their plans for expansion "
+    "due to a lack of funding.";
+    */
+    if(str==""){
+      str=wzs[curIndexOfWz].eg_chi;
+    }
+
+    Widget wgt=Center(child:
+    AutoSizeText(str
+      ,presetFontSizes:const [
+        180,170,160,150,140,
+        130,120,110,100,90,80,70,60,50,40,25,16,12],
+    ),
+    );
+    return Scaffold(
+      appBar: AppBar(title:Text(wzs[curIndexOfWz].eng,
+        style: TextStyle(fontSize: 30,color: Colors.black),)
+          ,centerTitle: true
+          , backgroundColor:Colors.white
+      ),
+      body: Padding(padding: const EdgeInsets.fromLTRB(10, 0, 10, 10),
+        child:wgt ,) ,);
+  }
+
+  Widget buildSentenceENGPage({str=""}){
+    /* str="abandon"
+    "\n1. The family had to abandon their home due to the impending flood."
+    "\n2. After repeatedly failing to win, the athlete decided to abandon "
+        "their dream of becoming an Olympic champion."
+   " \n3. The company had to abandon their plans for expansion "
+    "due to a lack of funding.";
+    */
+    if(str==""){
+      str=wzs[curIndexOfWz].eg_eng;
+    }
+
+    Widget wgt=Center(child:
+    AutoSizeText(str
+      ,presetFontSizes:const [
+        180,170,160,150,140,
+        130,120,110,100,90,80,70,60,50,40,25,16,12],
+    ),
+    );
+    return Scaffold(
+      appBar: AppBar(title:Text(wzs[curIndexOfWz].eng,
+        style: TextStyle(fontSize: 30,color: Colors.black),)
+          ,centerTitle: true
+          , backgroundColor:Colors.white
+      ),
+      body: Padding(padding: const EdgeInsets.fromLTRB(10, 0, 10, 10),
+        child:wgt ,) ,);
   }
 
   Widget buildAudioPage({String tag=""}) {

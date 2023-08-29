@@ -13,6 +13,9 @@ class Word{
 
   late String eng;
   late String phonics;
+  late String  eg_eng;
+  late String  eg_chi;
+  late String  eg_ori;
   late List<String> abouts;
   Word({this.eng="ENGLISH",this.phonics="phonics",this.mean=const ["中文意思"],  this.abouts=const  []});
   static List<Word> displayList=[];
@@ -52,7 +55,7 @@ class Word{
       }
       return ans;
   }
-  static String path_wzfile="wz/out_六百个高频词.txt";
+  static String path_wzfile="wz/out_1500wzimwztxt_out.txt";
   static void setPathOfWzFile(String wzpath){
     path_wzfile="wz/"+wzpath;
     pos=0;
@@ -82,6 +85,10 @@ class Word{
          String phonics="";
          if(mp.containsKey("phonics"))phonics=mp["phonics"];
          Word w=Word(eng: mp["english"],phonics: phonics,mean:[mp["chinese"]] );
+         if(mp.containsKey("eg_eng")) w.eg_eng=mp["eg_eng"];
+         if(mp.containsKey("eg_chi"))w.eg_chi=mp["eg_chi"];
+         if(mp.containsKey("eg_ori"))w.eg_ori=mp["eg_ori"];
+
          allOfWord.add(w);
          addSentence(w);
       }
@@ -102,20 +109,7 @@ class Word{
   }
 
   static void addSentence(Word word) {
-    var pt="wz/sentenceByWz/${word.eng}.txt";
-    //print("sentence_path is $pt");
-          fileExistsInAssets(pt).then((val)
-    {
-      if(val==null||val.elementSizeInBytes<=10){
-        word.abouts=["eg is no exist"];
-      }
-      else {
-        final mp= jsonDecode(utf8.decode(val.buffer.asUint8List()));
-        print('$mp');
-        word.abouts=[ "${mp["eg"]}"];
-      }
-    }
-    );
+     
   }
 
   static String encodeState(){
