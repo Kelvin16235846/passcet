@@ -294,7 +294,7 @@ class WordWidgetState extends State<WordWidget> {
             ),
 
           )
-     , Padding(padding:
+   /*  , Padding(padding:
       const EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
             child: ElevatedButton(onPressed: (){
               Navigator.push(context, MaterialPageRoute(builder: (context){
@@ -306,7 +306,7 @@ class WordWidgetState extends State<WordWidget> {
                 fontSize: 20,
               ),),),
           )
-
+*/
           , Padding(padding:
           const EdgeInsets.only(bottom: 80.0,top: 10,left: 30,right: 30),
     child:Text("总词数:${Word.allOfWord.length}",
