@@ -26,6 +26,7 @@ class WordWidgetState extends State<WordWidget> {
   static final player = AudioPlayer();
   static const    String cfgPath="WordWidgetState1.json";
   bool _reviewPattern=false;
+  int sleepMinutes=5;
   String encodeState(){
     Map<String,dynamic> stateMap={
       "msupOnReset":msupOnReset,
@@ -36,6 +37,7 @@ class WordWidgetState extends State<WordWidget> {
       "divide":divide,
       "_compressPattern":_compressPattern,
       "_playAudioAfterNewCard":_playAudioAfterNewCard,
+      "sleepMinutes":sleepMinutes
     };
     return jsonEncode(stateMap);
   }
@@ -49,6 +51,7 @@ class WordWidgetState extends State<WordWidget> {
     if(mp.containsKey("frontpage"))frontpage=mp["frontpage"];
     if(mp.containsKey("_playAudioAfterNewCard"))_playAudioAfterNewCard=mp["_playAudioAfterNewCard"];
    if(mp.containsKey("_compressPattern"))_compressPattern=mp["_compressPattern"];
+    if(mp.containsKey("sleepMinutes"))_compressPattern=mp["sleepMinutes"];
   }
   void saveStateToFile()async{
     Future(()async{
@@ -119,6 +122,7 @@ class WordWidgetState extends State<WordWidget> {
   }
   void alreadyMastered() {
     if(wzs.length>1) {
+      Word.makeSleep(wzs[curIndexOfWz].id, Duration(minutes: sleepMinutes));
       wzs.removeAt(curIndexOfWz);
     }
     if(curIndexOfWz>=wzs.length) {
@@ -127,6 +131,7 @@ class WordWidgetState extends State<WordWidget> {
   }
   FocusNode f=FocusNode();
   TextEditingController posCtl=TextEditingController();
+  TextEditingController sleepCtl=TextEditingController();
   TextEditingController ofstCtl=TextEditingController();
   static bool divide=false;
   bool _compressPattern=false;
@@ -247,7 +252,30 @@ class WordWidgetState extends State<WordWidget> {
               });
               saveStateToFile();
             })],),
+          TextField(
+            onChanged: (String v){
+              int? tn=int.tryParse(v);
+              if(tn!=null){
+                 if(tn>0){
+                   sleepMinutes=tn;
+                   saveStateToFile();
+                   return;
+                 }
+              }
+              sleepCtl.text=sleepMinutes.toString();
 
+            },
+            keyboardType: TextInputType.number,
+            maxLength: 9,
+            textAlign: TextAlign.center,
+            autofocus:false,
+            controller:sleepCtl ,
+            decoration: const InputDecoration(
+                labelStyle: TextStyle(fontSize: 25),
+                labelText: "掌握后休眠",
+                hintText: "分钟数"
+            ),
+          ),
           TextField(
             onChanged: (String v){
               int? tn=int.tryParse(v);

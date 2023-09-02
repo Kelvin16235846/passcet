@@ -16,6 +16,7 @@ class Word{
   late String  eg_eng;
   late String  eg_chi;
   late String  eg_ori;
+  late String id;
   late List<String> abouts;
   Word({this.eng="ENGLISH",this.phonics="phonics",this.mean=const ["中文意思"],  this.abouts=const  []});
   static List<Word> displayList=[];
@@ -71,6 +72,28 @@ class Word{
 
     return true;
   }
+  static Future<bool> isAlive(String id)async{
+    String docPath=(await getApplicationDocumentsDirectory()).path;
+    var f=File("$docPath/$id");
+    if(f.existsSync()){
+      DateTime dt= DateTime.parse(f.readAsStringSync().trim());
+      if(dt.isAfter(DateTime.now())){
+        return false;
+      }
+    }
+    return true;
+  }
+  static void makeSleep(String id,Duration duration)async{
+    String docPath=(await getApplicationDocumentsDirectory()).path;
+    var f=File("$docPath/$id");
+    if(!f.existsSync()){
+      f.createSync(recursive: true);
+    }
+    DateTime now=DateTime.now();
+    now=now.add(duration);
+    f.writeAsStringSync(now.toIso8601String(),flush: true);
+
+  }
   static void readJsonWzFile(String path_res)async{
     // 从资源文件中读取
     ByteData data = await rootBundle.load(path_res);
@@ -78,16 +101,19 @@ class Word{
     // 使用Utf8Decoder和LineSplitter逐行读取
     Stream<String> lines = utf8.decoder.bind(Stream.fromIterable(
         bytes.map((e) => [e]))).transform(const LineSplitter());
+
     try {
       // 处理每一行
       await for (String line in lines) {
          Map mp= jsonDecode(line);
          String phonics="";
+
          if(mp.containsKey("phonics"))phonics=mp["phonics"];
          Word w=Word(eng: mp["english"],phonics: phonics,mean:[mp["chinese"]] );
          if(mp.containsKey("eg_eng")) w.eg_eng=mp["eg_eng"];
          if(mp.containsKey("eg_chi"))w.eg_chi=mp["eg_chi"];
          if(mp.containsKey("eg_ori"))w.eg_ori=mp["eg_ori"];
+         w.id=mp["id"];
 
          allOfWord.add(w);
          addSentence(w);
@@ -164,7 +190,7 @@ class Word{
 
   }
   static String  cfgPath="cfg0.txt";
-  static void   flush({int p=-1,int o=-1}){
+  static void   flush({int p=-1,int o=-1})async{
     if(p==-1){
       p=Word.pos;
       o=Word.ofst;
@@ -178,7 +204,13 @@ class Word{
     }
     if(a>=0&& a<b&&b<=allOfWord.length) {
       displayList.clear();
-      displayList.addAll(allOfWord.sublist(a,b));
+      for(var v in allOfWord.sublist(a,b)){
+        if(await isAlive(v.id)){
+          displayList.add(v);
+        }
+      }
+
+
       Future(()async{
         saveStateToFile();
       });
