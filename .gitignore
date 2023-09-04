@@ -1,4 +1,9 @@
 # Miscellaneous
+.idea/
+windows/
+ios/
+macos/
+
 *.class
 *.log
 *.pyc
