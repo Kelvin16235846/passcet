@@ -1,6 +1,6 @@
 {
-    "name": "wordcardprogram",
-    "short_name": "wordcardprogram",
+    "name": "wordapp",
+    "short_name": "wordapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

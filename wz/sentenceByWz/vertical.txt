@@ -1,0 +1,3 @@
+The flagpole is vertical.
+Draw a vertical line in the middle of the page.
+The data is organized into horizontal and vertical categories.

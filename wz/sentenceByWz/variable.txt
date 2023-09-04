@@ -1,0 +1,2 @@
+In programming, a variable is a container for storing data.
+The weather is very variable this time of year.

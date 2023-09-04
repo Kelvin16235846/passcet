@@ -1,0 +1,2 @@
+The maximum speed limit on this road is 60 km_h.
+The maximum capacity of this room is 100 people.

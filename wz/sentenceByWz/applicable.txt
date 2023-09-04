@@ -1,0 +1,1 @@
+This rule is only applicable to employees who have worked for more than a year.
