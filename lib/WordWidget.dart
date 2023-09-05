@@ -11,14 +11,64 @@ import 'package:path_provider/path_provider.dart';
 import 'package:perfect_volume_control/perfect_volume_control.dart';
 import 'Word.dart';
 import 'package:audioplayers/audioplayers.dart';
+import 'package:http/http.dart' as http;
 class WordWidget extends StatefulWidget{
   const WordWidget({super.key});
   @override
-  State<StatefulWidget> createState() {
-    // TODO: implement createState
-    return WordWidgetState();
+  State<StatefulWidget> createState()=>WordWidgetState();
+
+}
+typedef RequestCallBack=void Function(dynamic rsp);
+class Req{
+  static void post(String url,Map<String,dynamic> body,[RequestCallBack? callBack] )async{
+    final response = await http.post(
+      Uri.parse(url),
+      headers: <String, String>{
+        'Content-Type': 'application/json; charset=UTF-8',
+      },
+      body: jsonEncode(body),
+    );
+    if(response.statusCode==200){
+      callBack?.call(jsonDecode(response.body));
+    }
+
   }
 
+  static void get(String url,[RequestCallBack? callBack ])async{
+    final response = await http.get(
+      Uri.parse(url)
+    );
+    if(response.statusCode==200){
+      callBack?.call(jsonDecode(response.body));
+    }
+  }
+  static Future<dynamic> postSync(String url,Map<String,dynamic> body)async{
+    final response = await http.post(
+      Uri.parse(url),
+      headers: <String, String>{
+        'Content-Type': 'application/json; charset=UTF-8',
+      },
+      body: jsonEncode(body),
+    );
+    if(response.statusCode==200){
+      return (jsonDecode(response.body));
+    }
+    else {
+      return null;
+    }
+  }
+
+  static Future<dynamic> getSync(String url)async{
+    final response = await http.get(
+        Uri.parse(url)
+    );
+    if(response.statusCode==200){
+      return (jsonDecode(response.body));
+    }
+    else {
+      return null;
+    }
+  }
 
 }
 class WordWidgetState extends State<WordWidget> {
@@ -27,7 +77,8 @@ class WordWidgetState extends State<WordWidget> {
   static const    String cfgPath="WordWidgetState1.json";
   bool _reviewPattern=false;
   int sleepMinutes=5;
-  String encodeState(){
+  String PUSH_SETTING="pushset";
+  Map<String,dynamic>  encodeState(){
     Map<String,dynamic> stateMap={
       "msupOnReset":msupOnReset,
       "_showRemainWzCnt":_showRemainWzCnt,
@@ -39,10 +90,10 @@ class WordWidgetState extends State<WordWidget> {
       "_playAudioAfterNewCard":_playAudioAfterNewCard,
       "sleepMinutes":sleepMinutes
     };
-    return jsonEncode(stateMap);
+
+    return  (stateMap);
   }
-  void decodeStateJson(String jsonstr){
-    Map<String,dynamic> mp=jsonDecode(jsonstr);
+  void decodeStateJson(Map  mp){
     msupOnReset=mp["msupOnReset"];
     divide=mp["divide"];
     if (mp.containsKey("_showRemainWzCnt"))_showRemainWzCnt=mp["_showRemainWzCnt"];
@@ -51,17 +102,11 @@ class WordWidgetState extends State<WordWidget> {
     if(mp.containsKey("frontpage"))frontpage=mp["frontpage"];
     if(mp.containsKey("_playAudioAfterNewCard"))_playAudioAfterNewCard=mp["_playAudioAfterNewCard"];
    if(mp.containsKey("_compressPattern"))_compressPattern=mp["_compressPattern"];
-    if(mp.containsKey("sleepMinutes"))_compressPattern=mp["sleepMinutes"];
+    if(mp.containsKey("sleepMinutes"))sleepMinutes=mp["sleepMinutes"];
   }
+  String saveStateToFile_u="";
   void saveStateToFile()async{
-    Future(()async{
-      String dir="${(await  getApplicationDocumentsDirectory()).path}/$cfgPath";
-      File f= File(dir);
-      RandomAccessFile fl= await f.open(mode: FileMode.write);
-      fl.writeStringSync(encodeState());
-      fl.closeSync();
-
-    });
+    Req.post(saveStateToFile_u, encodeState());
   }
   bool _showRemainWzCnt=true;
 
@@ -90,7 +135,8 @@ class WordWidgetState extends State<WordWidget> {
   }
   late Builder _builderOfPage;
 
-  void entrySettingPage() {
+  void entrySettingPage()async {
+    await readStateFromFile();
     SystemChrome.setPreferredOrientations([
       DeviceOrientation.portraitUp,
       DeviceOrientation.portraitDown,
@@ -102,27 +148,13 @@ class WordWidgetState extends State<WordWidget> {
 
 
   static void playAudio({String eng ="_None_",String type ="1"})async{ 
-     if(eng=="_None_"){
-      eng=Word.displayList[curIndexOfWz].eng;
-      type="${DateTime.now().microsecondsSinceEpoch%2}";
-    }
-
-    await player.stop();
-     Word.fileExistsInAssets("wz/wzmp3/${eng.trim()}_1.mp3").then((a) async {
-        if(a==null){
-          a=await Word.fileExistsInAssets("wz/__no_audio_hint.mp3");
-        }
-          await player.setSourceBytes(a!.buffer.asUint8List());
-          await player.resume();
-
-
-
-     });
 
   }
+  String alreadyMastered_u="alreadyMastered?";
   void alreadyMastered() {
     if(wzs.length>1) {
-      Word.makeSleep(wzs[curIndexOfWz].id, Duration(minutes: sleepMinutes));
+      alreadyMastered_u="$alreadyMastered_u?id=${wzs[curIndexOfWz].id}";
+      Req.get(alreadyMastered_u);
       wzs.removeAt(curIndexOfWz);
     }
     if(curIndexOfWz>=wzs.length) {
@@ -366,25 +398,20 @@ class WordWidgetState extends State<WordWidget> {
     ]);
     showFrontPage();
   }
-
-
-  void actionReset()  {
-    if(_reviewPattern){
-      Word.flush(p:0,o:Word.pos);
-    }
-    else {
-      Word.flush();
-    }
-
-    if(divide)Word.divideDisplayList();
-    if(msupOnReset){
-      messUp();
-    }
-    curIndexOfWz=0;
+String flush_u="flush";
+ Future<void> flush()async{
+   parseWdsAnsThenLoad(await Req.getSync(flush_u));
+   curIndexOfWz=0;
+ }
+  Future<void> actionReset() async{
+     await flush();
   }
+  void parseWdsAnsThenLoad(List<Map> mp){
 
-  void nextWordsGroup() {
-    Word.next();
+  }
+String nextWordsGroup_u="nextWordsGroup";
+  void nextWordsGroup()async {
+    parseWdsAnsThenLoad(await Req.getSync(nextWordsGroup_u));
     curIndexOfWz=0;
   }
   void nextWz(){
@@ -408,22 +435,15 @@ class WordWidgetState extends State<WordWidget> {
   }
   void inialize()async{
     await readStateFromFile() ;
-    actionReset();
+   await  actionReset();
     iniCardTypes();
     showFrontPage();
   }
 
+  String readStateFromFile_u="readStateFromFile";
   Future<void> readStateFromFile()async{
-    await Future(()async {
-      String dir = "${(await getApplicationDocumentsDirectory())
-          .path}/$cfgPath";
-      File f = File(dir);
-      if (f.existsSync()) {
-        var dts = f.readAsStringSync();
+        var dts =await Req.getSync(readStateFromFile_u);
         decodeStateJson(dts);
-      }
-    });
-
   }
   Map<String,Builder> cardTypes={};
   void iniCardTypes(){
@@ -626,7 +646,6 @@ class WordWidgetState extends State<WordWidget> {
       body: Padding(padding: const EdgeInsets.fromLTRB(10, 0, 10, 10),
         child:wgt ,) ,);
   }
-
   Widget buildSentenceENGPage({str=""}){
     /* str="abandon"
     "\n1. The family had to abandon their home due to the impending flood."
@@ -655,7 +674,6 @@ class WordWidgetState extends State<WordWidget> {
       body: Padding(padding: const EdgeInsets.fromLTRB(10, 0, 10, 10),
         child:wgt ,) ,);
   }
-
   Widget buildAudioPage({String tag=""}) {
     var bt= ElevatedButton(
         onPressed: (){

@@ -10,7 +10,9 @@ import 'main.dart';
 
 class Word{
   late List<String> mean;
-
+  static Word fromMap(Map map){
+    return Word();
+  }
   late String eng;
   late String phonics;
   late String  eg_eng;
