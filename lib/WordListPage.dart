@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:fsfsfsf/Utils.dart';
 import 'package:fsfsfsf/WordWidget.dart';
 
-import 'Word.dart';
 
 class WordListPage extends StatefulWidget {
   const WordListPage({super.key,required this.wzs});
@@ -48,7 +47,7 @@ class WordListPageState extends State<WordListPage>{
              ,Padding(padding:EdgeInsets.only(left: 5))
              ,ElevatedButton(onPressed: (){
                setState(() {
-                  Word.flush();
+
                   resetListShowMeans();
                });
              }, child: const Text("重置")
@@ -74,7 +73,7 @@ class WordListPageState extends State<WordListPage>{
                crossAxisAlignment: CrossAxisAlignment.center,
                children: [Text(wzs[index].eng
                  ,style: TextStyle(fontSize: 30),)
-                 ,Text(wzs[index].mean[0]
+                 ,Text(wzs[index].chinese
                      ,style: TextStyle(fontSize: 30))
                ],
              );

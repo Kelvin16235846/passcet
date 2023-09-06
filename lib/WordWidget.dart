@@ -1,28 +1,46 @@
 import 'dart:convert';
-import 'dart:io';
 import 'dart:math';
 import 'package:flutter/material.dart' ;
 import 'package:auto_size_text/auto_size_text.dart';
 import  'package:flutter/services.dart';
-import 'package:fsfsfsf/ChooseWzFile.dart';
 import 'package:fsfsfsf/WordListPage.dart';
 import 'package:fsfsfsf/myDropdownButton.dart';
-import 'package:path_provider/path_provider.dart';
-import 'package:perfect_volume_control/perfect_volume_control.dart';
-import 'Word.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:http/http.dart' as http;
+
+class Word{
+  static Word fromMap(Map map){
+    Word w=Word();
+    if(map.containsKey("eng"))w.eng=map["eng"];
+    if(map.containsKey("phonics"))w.phonics=map["phonics"];
+    if(map.containsKey("eg_eng"))w.eg_eng=map["eg_eng"];
+    if(map.containsKey("eg_chi"))w.eg_chi=map["eg_chi"];
+    if(map.containsKey("eg_ori"))w.eg_ori=map["eg_ori"];
+    if(map.containsKey("chinese"))w.chinese=map["chinese"];
+    if(map.containsKey("id"))w.id=map["id"];
+    return w;
+  }
+  late String eng;
+  late String phonics;
+  late String  eg_eng;
+  late String  eg_chi;
+  late String  eg_ori;
+  late String chinese;
+  late String id;
+
+
+}
 class WordWidget extends StatefulWidget{
   const WordWidget({super.key});
   @override
   State<StatefulWidget> createState()=>WordWidgetState();
-
 }
 typedef RequestCallBack=void Function(dynamic rsp);
 class Req{
+  static String BaseURL="http://10.102.120.47:8066/";
   static void post(String url,Map<String,dynamic> body,[RequestCallBack? callBack] )async{
     final response = await http.post(
-      Uri.parse(url),
+      Uri.parse(BaseURL+url),
       headers: <String, String>{
         'Content-Type': 'application/json; charset=UTF-8',
       },
@@ -32,11 +50,12 @@ class Req{
       callBack?.call(jsonDecode(response.body));
     }
 
+
   }
 
   static void get(String url,[RequestCallBack? callBack ])async{
     final response = await http.get(
-      Uri.parse(url)
+      Uri.parse(BaseURL+url)
     );
     if(response.statusCode==200){
       callBack?.call(jsonDecode(response.body));
@@ -44,7 +63,7 @@ class Req{
   }
   static Future<dynamic> postSync(String url,Map<String,dynamic> body)async{
     final response = await http.post(
-      Uri.parse(url),
+      Uri.parse(BaseURL+url),
       headers: <String, String>{
         'Content-Type': 'application/json; charset=UTF-8',
       },
@@ -60,7 +79,7 @@ class Req{
 
   static Future<dynamic> getSync(String url)async{
     final response = await http.get(
-        Uri.parse(url)
+        Uri.parse(BaseURL+url)
     );
     if(response.statusCode==200){
       return (jsonDecode(response.body));
@@ -72,47 +91,44 @@ class Req{
 
 }
 class WordWidgetState extends State<WordWidget> {
-  static bool msupOnReset=true;
-  static final player = AudioPlayer();
-  static const    String cfgPath="WordWidgetState1.json";
+
+  List<Word>   wzs=[];
+
+
   bool _reviewPattern=false;
   int sleepMinutes=5;
-  String PUSH_SETTING="pushset";
+  bool _showRemainWzCnt=true;
+  int pos=0;
+  int ofst=5;
+  bool _playAudioAfterNewCard=true;
+
+
+  int curIndexOfWz=0;
   Map<String,dynamic>  encodeState(){
     Map<String,dynamic> stateMap={
-      "msupOnReset":msupOnReset,
       "_showRemainWzCnt":_showRemainWzCnt,
       "_reviewPattern":_reviewPattern,
       "backPage":backPage,
       "frontpage":frontpage,
-      "divide":divide,
-      "_compressPattern":_compressPattern,
       "_playAudioAfterNewCard":_playAudioAfterNewCard,
       "sleepMinutes":sleepMinutes
     };
 
-    return  (stateMap);
+    return  stateMap;
   }
   void decodeStateJson(Map  mp){
-    msupOnReset=mp["msupOnReset"];
-    divide=mp["divide"];
     if (mp.containsKey("_showRemainWzCnt"))_showRemainWzCnt=mp["_showRemainWzCnt"];
     if(mp.containsKey("_reviewPattern"))_reviewPattern=mp["_reviewPattern"];
     if(mp.containsKey("backPage"))backPage=mp["backPage"];
     if(mp.containsKey("frontpage"))frontpage=mp["frontpage"];
     if(mp.containsKey("_playAudioAfterNewCard"))_playAudioAfterNewCard=mp["_playAudioAfterNewCard"];
-   if(mp.containsKey("_compressPattern"))_compressPattern=mp["_compressPattern"];
     if(mp.containsKey("sleepMinutes"))sleepMinutes=mp["sleepMinutes"];
   }
-  String saveStateToFile_u="";
+  String saveStateToFile_u="saveStateToFile_u";
   void saveStateToFile()async{
     Req.post(saveStateToFile_u, encodeState());
   }
-  bool _showRemainWzCnt=true;
-
-
-  //当前显示的单词在MyModel.displayList的索引
-  static int curIndexOfWz=0;
+  static final player = AudioPlayer();
   @override
   Widget build(BuildContext context) {
     var content=_builderOfPage.builder(context);
@@ -165,11 +181,9 @@ class WordWidgetState extends State<WordWidget> {
   TextEditingController posCtl=TextEditingController();
   TextEditingController sleepCtl=TextEditingController();
   TextEditingController ofstCtl=TextEditingController();
-  static bool divide=false;
-  bool _compressPattern=false;
   Widget buildSettingPage() {
-    posCtl.text=Word.pos.toString();
-    ofstCtl.text=Word.ofst.toString();
+    posCtl.text=pos.toString();
+    ofstCtl.text=ofst.toString();
     Widget ctc= ListView(
         children: [
           Padding(padding: EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
@@ -216,22 +230,6 @@ class WordWidgetState extends State<WordWidget> {
           ),
 
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
-            children: [const Text("重置后打乱顺序"), Switch(value: msupOnReset, onChanged: (v){
-              setState(() {
-                msupOnReset=v!;
-              });
-              saveStateToFile();
-            })],),
-          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
-            children: [const Text("重置后拆分意思"), Switch(value: divide, onChanged: (v){
-              setState(() {
-                divide=v!;
-              });
-
-              saveStateToFile();
-            })],),
-
-          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("正面: ")
               ,MyDropdownButton(value: frontpage, items: cardTypes.entries.map<DropdownMenuItem<String>>((e){
                 return DropdownMenuItem<String>(
@@ -258,14 +256,6 @@ class WordWidgetState extends State<WordWidget> {
               setState(() {
                 _reviewPattern=v;
                 actionReset();
-              });
-
-              saveStateToFile();
-            })],),
-          Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
-            children: [const Text("复杂操作模式"), Switch(value: _compressPattern, onChanged: (v){
-              setState(() {
-                _compressPattern=v;
               });
 
               saveStateToFile();
@@ -312,11 +302,11 @@ class WordWidgetState extends State<WordWidget> {
             onChanged: (String v){
               int? tn=int.tryParse(v);
               if(tn!=null){
-                int b=Word.ofst+tn;
-                if(b>=0&&b<Word.allOfWord.length&&tn>=0&&tn<Word.allOfWord.length&&b!=tn){
+                int b=ofst+tn;
+               /* if(b>=0&&b<Word.allOfWord.length&&tn>=0&&tn<Word.allOfWord.length&&b!=tn){
                   Word.pos=tn;
                   Word.flush();
-                }
+                }*/
               }
 
             },
@@ -335,11 +325,11 @@ class WordWidgetState extends State<WordWidget> {
             onChanged: (String v){
               int? tn=int.tryParse(v);
               if(tn!=null){
-                int testPos=tn+Word.pos;
+              /*  int testPos=tn+Word.pos;
                 if(testPos>=0&&testPos<Word.allOfWord.length){
                   Word.ofst=tn;
                   Word.flush();
-                }
+                }*/
               }
             },
             maxLength: 4,
@@ -369,7 +359,7 @@ class WordWidgetState extends State<WordWidget> {
 */
           , Padding(padding:
           const EdgeInsets.only(bottom: 80.0,top: 10,left: 30,right: 30),
-    child:Text("总词数:${Word.allOfWord.length}",
+    child:Text("总词数:9",
     style: const TextStyle(
         fontSize: 30,
     ),)
@@ -389,8 +379,6 @@ class WordWidgetState extends State<WordWidget> {
       onPressed: (){exitSettingPage();},),),
       body: ctc,) ,onDoubleTap: (){exitSettingPage();},) ;
   }
-  bool _playAudioAfterNewCard=true;
-
   void exitSettingPage() {
     SystemChrome.setPreferredOrientations([
       DeviceOrientation.landscapeLeft,
@@ -402,12 +390,18 @@ String flush_u="flush";
  Future<void> flush()async{
    parseWdsAnsThenLoad(await Req.getSync(flush_u));
    curIndexOfWz=0;
+   setState(() {
+
+   });
  }
   Future<void> actionReset() async{
      await flush();
   }
   void parseWdsAnsThenLoad(List<Map> mp){
-
+    wzs.clear();
+   mp.forEach((element) {
+      wzs.add(Word.fromMap(element));
+   });
   }
 String nextWordsGroup_u="nextWordsGroup";
   void nextWordsGroup()async {
@@ -420,18 +414,17 @@ String nextWordsGroup_u="nextWordsGroup";
   void prevWz(){
     curIndexOfWz=(curIndexOfWz-1+wzs.length)%wzs.length;
   }
-
   void messUp() {
     var sd=Random(DateTime.now().millisecondsSinceEpoch);
     for(int i=0;i<100;++i){
-      Word.displayList.shuffle(sd);
+      wzs.shuffle(sd);
     }
     curIndexOfWz=0;
   }
   @override
   void initState() {
-    inialize();
     super.initState();
+    inialize();
   }
   void inialize()async{
     await readStateFromFile() ;
@@ -439,7 +432,6 @@ String nextWordsGroup_u="nextWordsGroup";
     iniCardTypes();
     showFrontPage();
   }
-
   String readStateFromFile_u="readStateFromFile";
   Future<void> readStateFromFile()async{
         var dts =await Req.getSync(readStateFromFile_u);
@@ -484,15 +476,10 @@ String nextWordsGroup_u="nextWordsGroup";
           showFrontPage();
         }
         ,onLongPress: (){
-      if(_compressPattern){
-        playAudio();
-      }
-      else {
+
         alreadyMastered();
         if(_playAudioAfterNewCard)playAudio();
         showFrontPage();
-      }
-
       }
         ,onDoubleTap: (){
           entrySettingPage();
@@ -507,10 +494,6 @@ String nextWordsGroup_u="nextWordsGroup";
             child:cardTypes[frontpage]?.build(context)
             ,onTap: (){showBackPage();}
               , onHorizontalDragEnd: (details){
-              if(!_compressPattern){
-                showBackPage();
-              }
-              else {
                 if (details.velocity.pixelsPerSecond.dx < 0) {
                   wzs.add(wzs[curIndexOfWz]);
                   nextWz();
@@ -520,8 +503,6 @@ String nextWordsGroup_u="nextWordsGroup";
                 }
                 if(_playAudioAfterNewCard)playAudio();
                 showFrontPage();
-              }
-
           }
           )
       ) ;
@@ -533,10 +514,7 @@ String nextWordsGroup_u="nextWordsGroup";
         child: cardTypes[backPage]?.build(context)
         ,onTap: (){showFrontPage();}
           , onHorizontalDragEnd: (details){
-        if(!_compressPattern){
-          showFrontPage();
-        }
-        else {
+
           if (details.velocity.pixelsPerSecond.dx < 0) {
             wzs.add(wzs[curIndexOfWz]);
             nextWz();
@@ -546,17 +524,14 @@ String nextWordsGroup_u="nextWordsGroup";
           }
           if(_playAudioAfterNewCard)playAudio();
           showFrontPage();
-        }
-
       }
       ));
     }));
   }
-  List<Word> get wzs {return Word.displayList;}
   Widget buildChinesePage(Word w,BuildContext context) {
     var eng=AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],);
     var pho=AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]);
-    var mean=AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [
+    var mean=AutoSizeText(w.eg_chi,maxLines:1,presetFontSizes: const [
       180,170,160,150,140,
       130,120,110,100,90,80,70,60,50,40,25,16,12]);
 
@@ -578,7 +553,6 @@ String nextWordsGroup_u="nextWordsGroup";
       _builderOfPage=builder;
     });
   }
-
   Widget buildEnglishPage(String eng,BuildContext context) {
     var content= Center(
       child: AutoSizeText(eng ,
@@ -591,13 +565,6 @@ String nextWordsGroup_u="nextWordsGroup";
     return  scf;
   }
   Widget buildSentencePage({str=""}){
-   /* str="abandon"
-    "\n1. The family had to abandon their home due to the impending flood."
-    "\n2. After repeatedly failing to win, the athlete decided to abandon "
-        "their dream of becoming an Olympic champion."
-   " \n3. The company had to abandon their plans for expansion "
-    "due to a lack of funding.";
-    */
     if(str==""){
       str=wzs[curIndexOfWz].eg_ori;
     }
@@ -619,13 +586,6 @@ String nextWordsGroup_u="nextWordsGroup";
       child:wgt ,) ,);
   }
   Widget buildSentenceENG_CHIPage({str=""}){
-    /* str="abandon"
-    "\n1. The family had to abandon their home due to the impending flood."
-    "\n2. After repeatedly failing to win, the athlete decided to abandon "
-        "their dream of becoming an Olympic champion."
-   " \n3. The company had to abandon their plans for expansion "
-    "due to a lack of funding.";
-    */
     if(str==""){
       str=wzs[curIndexOfWz].eg_chi;
     }
@@ -647,13 +607,6 @@ String nextWordsGroup_u="nextWordsGroup";
         child:wgt ,) ,);
   }
   Widget buildSentenceENGPage({str=""}){
-    /* str="abandon"
-    "\n1. The family had to abandon their home due to the impending flood."
-    "\n2. After repeatedly failing to win, the athlete decided to abandon "
-        "their dream of becoming an Olympic champion."
-   " \n3. The company had to abandon their plans for expansion "
-    "due to a lack of funding.";
-    */
     if(str==""){
       str=wzs[curIndexOfWz].eg_eng;
     }
