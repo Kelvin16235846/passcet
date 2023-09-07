@@ -5,15 +5,17 @@ import 'package:flutter/material.dart';
 import 'package:fsfsfsf/Utils.dart';
 import 'package:fsfsfsf/WordWidget.dart';
 
+import 'Word.dart';
 
 class WordListPage extends StatefulWidget {
-  const WordListPage({super.key,required this.wzs});
+  const WordListPage({super.key,required this.wzs,required this.wstate});
 
   @override
   State<StatefulWidget> createState() {
    return WordListPageState();
   }
   final List<Word> wzs;
+  final WordWidgetState wstate;
 }
 class WordListPageState extends State<WordListPage>{
   bool _showMean=false;
@@ -47,7 +49,7 @@ class WordListPageState extends State<WordListPage>{
              ,Padding(padding:EdgeInsets.only(left: 5))
              ,ElevatedButton(onPressed: (){
                setState(() {
-
+                  Word.flush();
                   resetListShowMeans();
                });
              }, child: const Text("重置")
@@ -63,7 +65,7 @@ class WordListPageState extends State<WordListPage>{
            var content= Column(
              mainAxisAlignment: MainAxisAlignment.center,
              crossAxisAlignment: CrossAxisAlignment.center,
-             children: [Text(wzs[index].eng
+             children: [Text(wzs[index].english
            ,style: TextStyle(fontSize: 30),)
            ],
            );
@@ -71,7 +73,7 @@ class WordListPageState extends State<WordListPage>{
              content= Column(
                mainAxisAlignment: MainAxisAlignment.center,
                crossAxisAlignment: CrossAxisAlignment.center,
-               children: [Text(wzs[index].eng
+               children: [Text(wzs[index].english
                  ,style: TextStyle(fontSize: 30),)
                  ,Text(wzs[index].chinese
                      ,style: TextStyle(fontSize: 30))
@@ -88,14 +90,14 @@ class WordListPageState extends State<WordListPage>{
                });
              },
                onLongPress: (){
-                Utils.playAudio(eng: wzs[index].eng);
+                Utils.playAudio(eng: wzs[index].english);
                },
                child:content ,
              )
              ,onHorizontalDragEnd: (details){
                if(wzs.length>1){
                  setState(() {
-                   wzs.removeAt(index);
+                   widget.wstate.alreadyMastered_index(index);
                    _listShowMeans.removeAt(index);
                  });
                }
