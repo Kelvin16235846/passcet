@@ -19,7 +19,6 @@ class WordWidget extends StatefulWidget{
     return WordWidgetState();
   }
 
-
 }
 class WordWidgetState extends State<WordWidget> {
   static bool msupOnReset=true;
@@ -51,7 +50,7 @@ class WordWidgetState extends State<WordWidget> {
     if(mp.containsKey("frontpage"))frontpage=mp["frontpage"];
     if(mp.containsKey("_playAudioAfterNewCard"))_playAudioAfterNewCard=mp["_playAudioAfterNewCard"];
    if(mp.containsKey("_compressPattern"))_compressPattern=mp["_compressPattern"];
-    if(mp.containsKey("sleepMinutes"))_compressPattern=mp["sleepMinutes"];
+    if(mp.containsKey("sleepMinutes"))sleepMinutes=mp["sleepMinutes"];
   }
   void saveStateToFile()async{
     Future(()async{
@@ -103,7 +102,7 @@ class WordWidgetState extends State<WordWidget> {
 
   static void playAudio({String eng ="_None_",String type ="1"})async{ 
      if(eng=="_None_"){
-      eng=Word.displayList[curIndexOfWz].eng;
+      eng=Word.displayList[curIndexOfWz].english;
       type="${DateTime.now().microsecondsSinceEpoch%2}";
     }
 
@@ -115,8 +114,6 @@ class WordWidgetState extends State<WordWidget> {
           await player.setSourceBytes(a!.buffer.asUint8List());
           await player.resume();
 
-
-
      });
 
   }
@@ -124,6 +121,15 @@ class WordWidgetState extends State<WordWidget> {
     if(wzs.length>1) {
       Word.makeSleep(wzs[curIndexOfWz].id, Duration(minutes: sleepMinutes));
       wzs.removeAt(curIndexOfWz);
+    }
+    if(curIndexOfWz>=wzs.length) {
+      curIndexOfWz=0;
+    }
+  }
+  void alreadyMastered_index(int  index) {
+    if(wzs.length>1) {
+      Word.makeSleep(wzs[index].id, Duration(minutes: sleepMinutes));
+      wzs.removeAt(index);
     }
     if(curIndexOfWz>=wzs.length) {
       curIndexOfWz=0;
@@ -138,6 +144,7 @@ class WordWidgetState extends State<WordWidget> {
   Widget buildSettingPage() {
     posCtl.text=Word.pos.toString();
     ofstCtl.text=Word.ofst.toString();
+    sleepCtl.text=sleepMinutes.toString();
     Widget ctc= ListView(
         children: [
           Padding(padding: EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
@@ -170,7 +177,7 @@ class WordWidgetState extends State<WordWidget> {
             child:
             ElevatedButton(onPressed: (){
               Navigator.push(context,MaterialPageRoute(builder: (ct){
-                return WordListPage(wzs: wzs);
+                return WordListPage(wzs: wzs,wstate: this,);
               })).then((value){
                 setState(() {
                   nextWz();
@@ -182,7 +189,17 @@ class WordWidgetState extends State<WordWidget> {
             )
             ,
           ),
+          Padding(padding:  EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
+            child:
+            ElevatedButton(onPressed: (){
 
+                 Word.flush(activate: true);
+                exitSettingPage();
+            }, child:const AutoSizeText("激活睡眠词汇"
+              ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),
+            )
+            ,
+          ),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("重置后打乱顺序"), Switch(value: msupOnReset, onChanged: (v){
               setState(() {
@@ -198,6 +215,7 @@ class WordWidgetState extends State<WordWidget> {
 
               saveStateToFile();
             })],),
+
 
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("正面: ")
@@ -262,7 +280,7 @@ class WordWidgetState extends State<WordWidget> {
                    return;
                  }
               }
-              sleepCtl.text=sleepMinutes.toString();
+
 
             },
             keyboardType: TextInputType.number,
@@ -272,7 +290,7 @@ class WordWidgetState extends State<WordWidget> {
             controller:sleepCtl ,
             decoration: const InputDecoration(
                 labelStyle: TextStyle(fontSize: 25),
-                labelText: "掌握后休眠",
+                labelText: "掌握后休眠(分钟）",
                 hintText: "分钟数"
             ),
           ),
@@ -376,7 +394,7 @@ class WordWidgetState extends State<WordWidget> {
       Word.flush();
     }
 
-    if(divide)Word.divideDisplayList();
+
     if(msupOnReset){
       messUp();
     }
@@ -403,11 +421,11 @@ class WordWidgetState extends State<WordWidget> {
   }
   @override
   void initState() {
-    inialize();
     super.initState();
+    inialize();
   }
-  void inialize()async{
-    await readStateFromFile() ;
+  void inialize() {
+     readStateFromFile() ;
     actionReset();
     iniCardTypes();
     showFrontPage();
@@ -428,7 +446,7 @@ class WordWidgetState extends State<WordWidget> {
   Map<String,Builder> cardTypes={};
   void iniCardTypes(){
     cardTypes={"英文":Builder(builder: (context){
-      return buildEnglishPage(wzs[curIndexOfWz].eng, context);
+      return buildEnglishPage(wzs[curIndexOfWz].english, context);
     })
       ,"中文释义":Builder(builder: (context){
         return  buildChinesePage(wzs[curIndexOfWz],  context);
@@ -534,9 +552,9 @@ class WordWidgetState extends State<WordWidget> {
   }
   List<Word> get wzs {return Word.displayList;}
   Widget buildChinesePage(Word w,BuildContext context) {
-    var eng=AutoSizeText(w.eng , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],);
+    var eng=AutoSizeText(w.english , maxLines:1,presetFontSizes: const [ 100,80,60,50,25,16,12],);
     var pho=AutoSizeText(w.phonics,maxLines:1,presetFontSizes: const [25,16,12]);
-    var mean=AutoSizeText(w.mean[0],maxLines:1,presetFontSizes: const [
+    var mean=AutoSizeText(w.chinese,maxLines:1,presetFontSizes: const [
       180,170,160,150,140,
       130,120,110,100,90,80,70,60,50,40,25,16,12]);
 
@@ -571,13 +589,7 @@ class WordWidgetState extends State<WordWidget> {
     return  scf;
   }
   Widget buildSentencePage({str=""}){
-   /* str="abandon"
-    "\n1. The family had to abandon their home due to the impending flood."
-    "\n2. After repeatedly failing to win, the athlete decided to abandon "
-        "their dream of becoming an Olympic champion."
-   " \n3. The company had to abandon their plans for expansion "
-    "due to a lack of funding.";
-    */
+
     if(str==""){
       str=wzs[curIndexOfWz].eg_ori;
     }
@@ -590,7 +602,7 @@ class WordWidgetState extends State<WordWidget> {
     ),
     );
     return Scaffold(
-      appBar: AppBar(title:Text(wzs[curIndexOfWz].eng,
+      appBar: AppBar(title:Text(wzs[curIndexOfWz].english,
       style: TextStyle(fontSize: 30,color: Colors.black),)
       ,centerTitle: true
         , backgroundColor:Colors.white
@@ -599,13 +611,7 @@ class WordWidgetState extends State<WordWidget> {
       child:wgt ,) ,);
   }
   Widget buildSentenceENG_CHIPage({str=""}){
-    /* str="abandon"
-    "\n1. The family had to abandon their home due to the impending flood."
-    "\n2. After repeatedly failing to win, the athlete decided to abandon "
-        "their dream of becoming an Olympic champion."
-   " \n3. The company had to abandon their plans for expansion "
-    "due to a lack of funding.";
-    */
+
     if(str==""){
       str=wzs[curIndexOfWz].eg_chi;
     }
@@ -618,7 +624,7 @@ class WordWidgetState extends State<WordWidget> {
     ),
     );
     return Scaffold(
-      appBar: AppBar(title:Text(wzs[curIndexOfWz].eng,
+      appBar: AppBar(title:Text(wzs[curIndexOfWz].english,
         style: TextStyle(fontSize: 30,color: Colors.black),)
           ,centerTitle: true
           , backgroundColor:Colors.white
@@ -628,13 +634,7 @@ class WordWidgetState extends State<WordWidget> {
   }
 
   Widget buildSentenceENGPage({str=""}){
-    /* str="abandon"
-    "\n1. The family had to abandon their home due to the impending flood."
-    "\n2. After repeatedly failing to win, the athlete decided to abandon "
-        "their dream of becoming an Olympic champion."
-   " \n3. The company had to abandon their plans for expansion "
-    "due to a lack of funding.";
-    */
+
     if(str==""){
       str=wzs[curIndexOfWz].eg_eng;
     }
@@ -647,7 +647,7 @@ class WordWidgetState extends State<WordWidget> {
     ),
     );
     return Scaffold(
-      appBar: AppBar(title:Text(wzs[curIndexOfWz].eng,
+      appBar: AppBar(title:Text(wzs[curIndexOfWz].english,
         style: TextStyle(fontSize: 30,color: Colors.black),)
           ,centerTitle: true
           , backgroundColor:Colors.white

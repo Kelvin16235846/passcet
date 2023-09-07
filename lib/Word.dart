@@ -6,85 +6,61 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
 
-import 'main.dart';
-
+Map<String,dynamic > glb={};
+String path_wzfile="wz/out_1500wzimwztxt_out.txt";
+String docPath="null";
 class Word{
-  late List<String> mean;
-
-  late String eng;
-  late String phonics;
-  late String  eg_eng;
-  late String  eg_chi;
-  late String  eg_ori;
-  late String id;
-  late List<String> abouts;
-  Word({this.eng="ENGLISH",this.phonics="phonics",this.mean=const ["中文意思"],  this.abouts=const  []});
+  late String chinese="";
+  late String english="";
+  late String phonics="";
+  late String  eg_eng="";
+  late String  eg_chi="";
+  late String  eg_ori="";
+  late String id="";
+  static Word fromMap(Map mp){
+    Word w=Word();
+    if(mp.containsKey("eg_eng")) w.eg_eng=mp["eg_eng"] as  String;
+    if(mp.containsKey("eg_chi"))w.eg_chi=mp["eg_chi"]as  String;
+    if(mp.containsKey("eg_ori"))w.eg_ori=mp["eg_ori"]as  String;
+    if(mp.containsKey("english"))w.english=mp["english"]as  String;
+    if(mp.containsKey("phonics"))w.phonics= mp["phonics"]  as  String;
+    if(mp.containsKey("chinese"))w.chinese=mp["chinese"]as  String;
+    if(mp.containsKey("id"))w.id=mp["id"] as  String;
+    return w;
+  }
+  Map  toMap(){
+    Map  mp={};
+    Word w= this;
+    mp["eg_eng"] =w.eg_eng;
+    mp["eg_chi"] =w.eg_chi;
+    mp["eg_ori"] =w.eg_ori;
+    mp["english"] =w.english;
+    mp["phonics"] =w.phonics;
+    mp["chinese"] =w.chinese;
+    mp["id"] =w.id;
+    return mp;
+  }
   static List<Word> displayList=[];
   static List<Word> allOfWord=[];
   static int pos=0;
   static int ofst=20;
-  static Future<ByteData?> fileExistsInAssets(String filePath) async {
-    try {
-      ByteData data = await rootBundle.load(filePath);
-      return (data.lengthInBytes != 0)? data:null;
-    } catch (e) {
-      return null;
-    }
-  }
-  static   final List<double> _settingFontSize=[/*50,100,90,80,70,60,50,20,*/16,10];
-  static List<double> get fontSizeOfSetting{return Word._settingFontSize;}
-  static void makeDeviceLandscapeScreen(){
-    //SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);
-  }
-  Word coloneMyself(){
-    return Word( eng:this.eng, phonics:this.phonics, mean:this.mean,abouts:this.abouts);
-  }
-  List<Word> divideMeans( ){
-
-    List<Word> ans=[];
-    var mean=this.mean[0];
-    var mns=<String>[];
-      var listA=mean.split(RegExp(";|；"));
-      listA=listA.map((e) => e.trim()).toList();
-      for(var v in listA){
-        mns.addAll(v.split(RegExp("( )+")));
-      }
-      for(var m in mns){
-        var n=this.coloneMyself();
-        n.mean= <String>[m];
-        ans.add(n);
-      }
-      return ans;
-  }
-  static String path_wzfile="wz/out_1500wzimwztxt_out.txt";
-  static void setPathOfWzFile(String wzpath){
-    path_wzfile="wz/"+wzpath;
-    pos=0;
-    ofst=20;
-    saveStateToFile();
-  }
-  static Future<bool> inialize()async{
 
 
-    //await readFWzFile();
-    //log("文件加载完成${allOfWord?.length}");
-    readJsonWzFile(path_wzfile);
+  static String wordbook="json_1500";
 
-    return true;
-  }
-  static Future<bool> isAlive(String id)async{
-    String docPath=(await getApplicationDocumentsDirectory()).path;
+  static bool isAlive(String id) {
+
     var f=File("$docPath/$id");
     if(f.existsSync()){
       DateTime dt= DateTime.parse(f.readAsStringSync().trim());
-      if(dt.isAfter(DateTime.now())){
-        return false;
-      }
+      var now=DateTime.now();
+      bool isal=dt.isBefore(now);
+      return isal;
     }
     return true;
   }
-  static void makeSleep(String id,Duration duration)async{
-    String docPath=(await getApplicationDocumentsDirectory()).path;
+  static void makeSleep(String id,Duration duration) {
+
     var f=File("$docPath/$id");
     if(!f.existsSync()){
       f.createSync(recursive: true);
@@ -94,55 +70,84 @@ class Word{
     f.writeAsStringSync(now.toIso8601String(),flush: true);
 
   }
-  static void readJsonWzFile(String path_res)async{
+  static void makeAlive(String id) {
+    Duration duration=Duration(minutes: 100);
+    var f=File("$docPath/$id");
+    if(!f.existsSync()){
+      f.createSync(recursive: true);
+    }
+
+    DateTime dt=DateTime.now();
+    dt=dt.subtract(duration);
+    DateTime now=DateTime.now();
+    bool rs=dt.isBefore(now);
+    f.writeAsStringSync(dt.toIso8601String(),flush: true);
+
+
+  }
+  static void mvResourceToDocmentPath(List<Word> wds,String fileName){
+
+    String jsonString = jsonEncode(wds.map((word) {
+      return word.toMap();
+    }
+
+    ).toList()
+    );
+    String docPath=glb["docPath"]+"/$fileName";
+    File f=File(docPath);
+    f.createSync();
+    f.writeAsStringSync(jsonString);
+
+  }
+  static Future<ByteData?> fileExistsInAssets(String filePath) async {
+    try {
+      ByteData data = await rootBundle.load(filePath);
+      return (data.lengthInBytes != 0)? data:null;
+    } catch (e) {
+      return null;
+    }
+  }
+  static void loadAllWord(){
+    File f=File(docPath+"/"+wordbook);
+    List<dynamic> decodedList =jsonDecode(f.readAsStringSync());
+    List<Word> wds = decodedList.map((item) => Word.fromMap(item)).toList();
+    allOfWord.clear();
+    allOfWord.addAll(wds);
+  }
+  static Future<List<Word>> readJsonWzFile(String path_res)async{
     // 从资源文件中读取
     ByteData data = await rootBundle.load(path_res);
     List<int> bytes = data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
     // 使用Utf8Decoder和LineSplitter逐行读取
     Stream<String> lines = utf8.decoder.bind(Stream.fromIterable(
         bytes.map((e) => [e]))).transform(const LineSplitter());
-
+    List<Word> ans=[];
     try {
       // 处理每一行
       await for (String line in lines) {
          Map mp= jsonDecode(line);
-         String phonics="";
+         Word w=Word();
 
-         if(mp.containsKey("phonics"))phonics=mp["phonics"];
-         Word w=Word(eng: mp["english"],phonics: phonics,mean:[mp["chinese"]] );
-         if(mp.containsKey("eg_eng")) w.eg_eng=mp["eg_eng"];
-         if(mp.containsKey("eg_chi"))w.eg_chi=mp["eg_chi"];
-         if(mp.containsKey("eg_ori"))w.eg_ori=mp["eg_ori"];
-         w.id=mp["id"];
+         w=Word.fromMap(mp);
+         ans.add(w);
 
-         allOfWord.add(w);
-         addSentence(w);
       }
+      return  ans;
+
     } catch (e) {
       print('Error: $e');
     }
+    return  ans;
+
 
   }
 
-  static Future<void> readFWzFile() async {
-     String s=await loadAsset(path:"wz/c4_ECP.txt");
-    var lst= s.split("\r\n");
-    for(int i=0;i+2<lst.length;i+=3){
-      allOfWord.add(Word(eng:lst[i+0].trim(),phonics: lst[i+2].trim() ,mean: [lst[i+1].trim()]));
-        addSentence(allOfWord[allOfWord.length-1]);
-    }
-
-  }
-
-  static void addSentence(Word word) {
-     
-  }
 
   static String encodeState(){
     Map<String,dynamic> stateMap={
       "pos":pos,
       "ofst":ofst,
-      "path_wzfile":path_wzfile,
+      "wordbook":wordbook,
     };
     return jsonEncode(stateMap);
   }
@@ -150,47 +155,26 @@ class Word{
     Map<String,dynamic> mp=jsonDecode(jsonstr);
     ofst=mp["ofst"];
     pos=mp["pos"];
-    path_wzfile=mp["path_wzfile"];
+    wordbook=mp["wordbook"];
      }
-  static void saveStateToFile()async{
-    Future(()async{
-      String dir="${(await  getApplicationDocumentsDirectory()).path}/$cfgPath";
+  static void saveStateToFile() {
+      String dir="${glb["docPath"]}/$cfgPath";
       File f= File(dir);
-      RandomAccessFile fl= await f.open(mode: FileMode.write);
-      fl.writeStringSync(encodeState());
-      fl.closeSync();
-
-    });
+      f.writeAsStringSync(encodeState());
   }
 
-  static Future<void> readStateFromFile()async{
-    await Future(()async {
-      String dir = "${(await getApplicationDocumentsDirectory())
-          .path}/$cfgPath";
+  static void readStateFromFile() {
+      String dir = "${glb["docPath"]}/$cfgPath";
       File f = File(dir);
-      if (f.existsSync()) {
-        var dts = f.readAsStringSync();
-        decodeStateJson(dts);
-      }
-    });
-
+      var dts = f.readAsStringSync();
+      decodeStateJson(dts);
   }
   static void next(){
     pos+=ofst;
     flush(p:pos, o:ofst);
   }
-  static void divideDisplayList(){
-
-    List<Word> ans=[];
-    for(var m in displayList){
-      ans.addAll(m.divideMeans());
-    }
-    displayList.clear();
-    displayList.addAll(ans);
-
-  }
   static String  cfgPath="cfg0.txt";
-  static void   flush({int p=-1,int o=-1})async{
+  static void   flush({int p=-1,int o=-1,bool activate=false}) {
     if(p==-1){
       p=Word.pos;
       o=Word.ofst;
@@ -205,15 +189,20 @@ class Word{
     if(a>=0&& a<b&&b<=allOfWord.length) {
       displayList.clear();
       for(var v in allOfWord.sublist(a,b)){
-        if(await isAlive(v.id)){
-          displayList.add(v);
+        if(activate){
+          Word.makeAlive(v.id);
         }
+        if(Word.isAlive(v.id)){
+          displayList.add(v) ;
+        }
+        else {
+          print("${v.english} is in sleep");
+        }
+
+
       }
-
-
-      Future(()async{
         saveStateToFile();
-      });
+
     }
 
 

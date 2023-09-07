@@ -14,7 +14,7 @@ class ChooseWzFile extends StatefulWidget{
 }
 class ChooseWzFileState extends State<ChooseWzFile>{
   void chooseFile(String path){
-  Word.setPathOfWzFile(path);
+
   Navigator.push(context,MaterialPageRoute(builder: (context){
     return const Scaffold(body: Center(child: Text("请重启程序",style: TextStyle(fontSize: 30),),),);
   }));
