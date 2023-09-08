@@ -119,7 +119,7 @@ class WordWidgetState extends State<WordWidget> {
   }
   void alreadyMastered() {
     if(wzs.length>1) {
-      Word.makeSleep(wzs[curIndexOfWz].id, Duration(minutes: sleepMinutes));
+      Word.makeSleep(wzs[curIndexOfWz].id, Duration(hours: sleepMinutes));
       wzs.removeAt(curIndexOfWz);
     }
     if(curIndexOfWz>=wzs.length) {
@@ -128,7 +128,7 @@ class WordWidgetState extends State<WordWidget> {
   }
   void alreadyMastered_index(int  index) {
     if(wzs.length>1) {
-      Word.makeSleep(wzs[index].id, Duration(minutes: sleepMinutes));
+      Word.makeSleep(wzs[index].id, Duration(hours: sleepMinutes));
       wzs.removeAt(index);
     }
     if(curIndexOfWz>=wzs.length) {
@@ -193,9 +193,20 @@ class WordWidgetState extends State<WordWidget> {
             child:
             ElevatedButton(onPressed: (){
 
+               Word.flushExtend();
+              exitSettingPage();
+            }, child:const AutoSizeText("生词填充"
+              ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),
+            )
+            ,
+          ),
+          Padding(padding:  EdgeInsets.only(bottom: 10.0,top: 10,left: 30,right: 30),
+            child:
+            ElevatedButton(onPressed: (){
+
                  Word.flush(activate: true);
                 exitSettingPage();
-            }, child:const AutoSizeText("激活睡眠词汇"
+            }, child:const AutoSizeText("激活全部"
               ,presetFontSizes: [50,100,90,80,70,60,50,20,16,10],),
             )
             ,
@@ -274,7 +285,7 @@ class WordWidgetState extends State<WordWidget> {
             onChanged: (String v){
               int? tn=int.tryParse(v);
               if(tn!=null){
-                 if(tn>0){
+                 if(tn>=0){
                    sleepMinutes=tn;
                    saveStateToFile();
                    return;
@@ -290,8 +301,8 @@ class WordWidgetState extends State<WordWidget> {
             controller:sleepCtl ,
             decoration: const InputDecoration(
                 labelStyle: TextStyle(fontSize: 25),
-                labelText: "掌握后休眠(分钟）",
-                hintText: "分钟数"
+                labelText: "掌握后休眠(小时）",
+                hintText: "小时"
             ),
           ),
           TextField(

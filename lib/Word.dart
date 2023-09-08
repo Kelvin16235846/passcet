@@ -174,6 +174,37 @@ class Word{
     flush(p:pos, o:ofst);
   }
   static String  cfgPath="cfg0.txt";
+  static void   flushExtend({int p=-1,int o=-1}) {
+    if(p==-1){
+      p=Word.pos;
+      o=Word.ofst;
+    }
+    int a=p;
+    int b=p+o;
+    if(a>b){
+      int t=a;
+      a=b;
+      b=t;
+    }
+    if(a>=0&& a<b&&b<=allOfWord.length) {
+
+      int cnt=b-a-displayList.length;
+      List<Word> ans=[];
+      while(cnt>0&&b<allOfWord.length){
+        Word v=allOfWord[b];
+        if(Word.isAlive(v.id)){
+          ans.add(v) ;
+          cnt-=1;
+        }
+        b+=1;
+      }
+      displayList.addAll(ans);
+      saveStateToFile();
+
+    }
+
+
+  }
   static void   flush({int p=-1,int o=-1,bool activate=false}) {
     if(p==-1){
       p=Word.pos;
