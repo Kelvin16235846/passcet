@@ -6,7 +6,38 @@ import 'package:fsfsfsf/Utils.dart';
 import 'package:fsfsfsf/WordWidget.dart';
 
 import 'Word.dart';
+class PageHead extends StatefulWidget{
+  String f="";
+  String b="";
+  PageHead({ required this.f,required this.b});
+  @override
+  State<StatefulWidget> createState() {
+    return PageHeadState();
+  }
 
+}
+class PageHeadState extends State<PageHead>{
+  bool isf=true;
+  @override
+  Widget build(BuildContext context) {
+    // TODO: implement build
+    return  ElevatedButton
+      (style: ButtonStyle(
+      backgroundColor: MaterialStateProperty.all<Color>(Colors.transparent),
+      //shadowColor: MaterialStateProperty.all<Color>(Colors.transparent), // Optional: Remove shadow
+      foregroundColor: MaterialStateProperty.all<Color>(Colors.black), // Optional: Text color
+    ),
+      onPressed: () {
+      setState(() {
+         isf=!isf;
+      });
+
+    },
+      child: Text(isf?widget.f:widget.b,
+        style: TextStyle(fontSize: 30,color: Colors.black),),);
+  }
+
+}
 class WordListPage extends StatefulWidget {
   const WordListPage({super.key,required this.wzs,required this.wstate});
 

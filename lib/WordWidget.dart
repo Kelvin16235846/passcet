@@ -603,8 +603,8 @@ class WordWidgetState extends State<WordWidget> {
 
     if(str==""){
       str=wzs[curIndexOfWz].eg_ori;
-    }
 
+    }
     Widget wgt=Center(child:
      AutoSizeText(str
       ,presetFontSizes:const [
@@ -613,8 +613,7 @@ class WordWidgetState extends State<WordWidget> {
     ),
     );
     return Scaffold(
-      appBar: AppBar(title:Text(wzs[curIndexOfWz].english,
-      style: TextStyle(fontSize: 30,color: Colors.black),)
+      appBar: AppBar(title: PageHead(f: wzs[curIndexOfWz].english,b:wzs[curIndexOfWz].chinese ,)
       ,centerTitle: true
         , backgroundColor:Colors.white
       ),
