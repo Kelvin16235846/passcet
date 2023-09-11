@@ -74,7 +74,6 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - wz/
-    - wz/ColorWall-qdrgxd.jpg
     - wz/wzmp3/
     - wz/__no_audio_hint.mp3
 

@@ -197,7 +197,7 @@ class Word{
           cnt-=1;
         }
         b+=1;
-      }
+      } 
       displayList.addAll(ans);
       saveStateToFile();
 
@@ -222,7 +222,7 @@ class Word{
       for(var v in allOfWord.sublist(a,b)){
         if(activate){
           Word.makeAlive(v.id);
-        }
+        }  
         if(Word.isAlive(v.id)){
           displayList.add(v) ;
         }
@@ -231,6 +231,9 @@ class Word{
         }
 
 
+      }
+      if( displayList.isEmpty){
+        flushExtend();
       }
         saveStateToFile();
 
