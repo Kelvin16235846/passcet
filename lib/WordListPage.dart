@@ -33,6 +33,9 @@ class PageHeadState extends State<PageHead>{
       });
 
     },
+      onLongPress: (){
+        Utils.playAudio(eng: widget.f);
+      },
       child: Text(isf?widget.f:widget.b,
         style: TextStyle(fontSize: 30,color: Colors.black),),);
   }
