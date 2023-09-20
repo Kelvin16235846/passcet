@@ -9,6 +9,7 @@ import 'package:fsfsfsf/WordListPage.dart';
 import 'package:fsfsfsf/myDropdownButton.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:perfect_volume_control/perfect_volume_control.dart';
+import 'Utils.dart';
 import 'Word.dart';
 import 'package:audioplayers/audioplayers.dart';
 class WordWidget extends StatefulWidget{
@@ -25,7 +26,8 @@ class WordWidgetState extends State<WordWidget> {
   static final player = AudioPlayer();
   static const    String cfgPath="WordWidgetState1.json";
   bool _reviewPattern=false;
-  int sleepMinutes=5;
+  static bool playInstanceInteadWz=true;
+  int sleepMinutes=1;
   String encodeState(){
     Map<String,dynamic> stateMap={
       "msupOnReset":msupOnReset,
@@ -36,7 +38,8 @@ class WordWidgetState extends State<WordWidget> {
       "divide":divide,
       "_compressPattern":_compressPattern,
       "_playAudioAfterNewCard":_playAudioAfterNewCard,
-      "sleepMinutes":sleepMinutes
+      "sleepMinutes":sleepMinutes,
+      "playInstanceInteadWz":playInstanceInteadWz
     };
     return jsonEncode(stateMap);
   }
@@ -51,6 +54,7 @@ class WordWidgetState extends State<WordWidget> {
     if(mp.containsKey("_playAudioAfterNewCard"))_playAudioAfterNewCard=mp["_playAudioAfterNewCard"];
    if(mp.containsKey("_compressPattern"))_compressPattern=mp["_compressPattern"];
     if(mp.containsKey("sleepMinutes"))sleepMinutes=mp["sleepMinutes"];
+    if(mp.containsKey("playInstanceInteadWz"))playInstanceInteadWz=mp["playInstanceInteadWz"];
   }
   void saveStateToFile()async{
     Future(()async{
@@ -100,7 +104,11 @@ class WordWidgetState extends State<WordWidget> {
   }
 
 
-  static void playAudio({String eng ="_None_",String type ="1"})async{ 
+  static void playAudio({String eng ="_None_",String type ="1"})async{
+     if(playInstanceInteadWz){
+          await Utils.playInstanceVoice(Word.displayList[curIndexOfWz].id);
+          return;
+     }
      if(eng=="_None_"){
       eng=Word.displayList[curIndexOfWz].english;
       type="${DateTime.now().microsecondsSinceEpoch%2}";
@@ -260,13 +268,21 @@ class WordWidgetState extends State<WordWidget> {
               saveStateToFile();
             })],),
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
+            children: [const Text("播放例句"), Switch(value: playInstanceInteadWz, onChanged: (v){
+              setState(() {
+                playInstanceInteadWz=v;
+              });
+
+              saveStateToFile();
+            })],),
+         /* Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("复杂操作模式"), Switch(value: _compressPattern, onChanged: (v){
               setState(() {
                 _compressPattern=v;
               });
 
               saveStateToFile();
-            })],),
+            })],),*/
           Row(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center,
             children: [const Text("显示新卡片后播放音频"), Switch(value: _playAudioAfterNewCard, onChanged: (v){
               setState(() {
@@ -475,6 +491,10 @@ class WordWidgetState extends State<WordWidget> {
         return  buildAudioPage(tag: "${DateTime.now().microsecond%100}");
       }
       )
+      ,"例句播放":Builder(builder: (context){
+        return  buildInstanceAudioPage();
+      }
+      )
     };
   }
   String frontpage="英文";
@@ -482,6 +502,7 @@ class WordWidgetState extends State<WordWidget> {
   Widget wrapBaseAction(Widget wgt){
     Widget gst= GestureDetector(child: wgt
         , onVerticalDragEnd: (details) {
+
           if (details.velocity.pixelsPerSecond.dy > 0) {
             // 向下滑动
             prevWz();
@@ -490,6 +511,7 @@ class WordWidgetState extends State<WordWidget> {
           }
 
           if(_playAudioAfterNewCard)playAudio();
+
           showFrontPage();
         }
         ,onLongPress: (){
@@ -509,6 +531,7 @@ class WordWidgetState extends State<WordWidget> {
         ,onScaleEnd: (ScaleEndDetails details){
 
       },
+
         );
 
     return gst;
@@ -671,14 +694,29 @@ class WordWidgetState extends State<WordWidget> {
   }
 
   Widget buildAudioPage({String tag=""}) {
+    tag="play";
     var bt= ElevatedButton(
         onPressed: (){
           playAudio();
-        }, child:   AutoSizeText( "play $tag",
+        }, child:   AutoSizeText( tag,
       maxLines:1,presetFontSizes: const [
         180,170,160,150,140,130,120,110,100,80,60,50,25,18,12],)
     );
     return Scaffold(body:Center(child: Container(width:200*2 ,height: 50*3, child: bt,) ,),);
   }
 
+  Widget buildInstanceAudioPage({String tag=""}) {
+    tag="play";
+    if(playInstanceInteadWz){
+      tag=wzs[curIndexOfWz].eg_eng;
+    }
+    var bt= ElevatedButton(
+        onPressed: (){
+          playAudio();
+        }, child:   AutoSizeText( tag,
+      maxLines:1,presetFontSizes: const [
+        180,170,160,150,140,130,120,110,100,80,60,50,40,30,20,25,18,12],)
+    );
+    return Scaffold(body:Center(child: Container(width:200*2 ,height: 50*3, child: bt,) ,),);
+  }
 }

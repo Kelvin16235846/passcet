@@ -2,6 +2,9 @@ import 'dart:typed_data';
 
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/services.dart';
+import 'package:fsfsfsf/WordWidget.dart';
+
+import 'Word.dart';
 
 class Utils{
   static final player = AudioPlayer();
@@ -17,8 +20,29 @@ class Utils{
       return null;
     }
   }
+  static Future<void> playInstanceVoice(String wordId)async{
 
+    await player.stop();
+    String mp3Path="wz/eg_voices/"+wordId+".mp3";
+    fileExistsInAssets(mp3Path).then((a) async {
+      if(a==null){
+        a=await fileExistsInAssets("wz/__no_audio_hint.mp3");
+      }
+      if(a!=null){
+        await player.setSourceBytes(a.buffer.asUint8List());
+        await player.resume();
+      }
+    });
+
+
+
+
+  }
   static void playAudio({required String eng ,String type ="__None__"})async{
+    if(WordWidgetState.playInstanceInteadWz){
+      await Utils.playInstanceVoice(Word.displayList[WordWidgetState.curIndexOfWz].id);
+      return;
+    }
     if(type=="__None__"){
       type="${DateTime.now().microsecondsSinceEpoch%2}";
     }
@@ -34,6 +58,7 @@ class Utils{
       }
 
     });
+
 
 
   }
