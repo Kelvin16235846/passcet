@@ -505,7 +505,11 @@ class WordWidgetState extends State<WordWidget> {
       }
         ,onDoubleTap: (){
           entrySettingPage();
-        });
+        }
+        ,onScaleEnd: (ScaleEndDetails details){
+
+      },
+        );
 
     return gst;
   }

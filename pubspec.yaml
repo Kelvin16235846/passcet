@@ -76,6 +76,7 @@ flutter:
     - wz/
     - wz/wzmp3/
     - wz/__no_audio_hint.mp3
+    - wz/eg_voices/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

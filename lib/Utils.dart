@@ -5,6 +5,10 @@ import 'package:flutter/services.dart';
 
 class Utils{
   static final player = AudioPlayer();
+  static const String ONLY_EG='ONLY_PLAY_INSTANCE_VOICE';
+  static const String ONLY_WZ='ONLY_PLAY_WZ_VOICE';
+  static const String WZ_THEN_INSTANCE='PLAY_WZ_BEFOR_INSTANCE';
+  static const String INSTANCE_THEN_WZ='PLAY_INSATNCE_THEN_WZ';
   static Future<ByteData?> fileExistsInAssets(String filePath) async {
     try {
       ByteData data = await rootBundle.load(filePath);
@@ -13,6 +17,7 @@ class Utils{
       return null;
     }
   }
+
   static void playAudio({required String eng ,String type ="__None__"})async{
     if(type=="__None__"){
       type="${DateTime.now().microsecondsSinceEpoch%2}";
